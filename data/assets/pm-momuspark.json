@@ -1,0 +1,3270 @@
+[
+  {
+    "id": "momuspark-001",
+    "name": "Bench_01_Art",
+    "project_id": "pm-momuspark",
+    "description": "3D model from momuspark collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Bench_01_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.150Z",
+    "updated_at": "2026-02-09T18:22:04.150Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Bench_01_Art_thumbnail.png",
+    "metadata": {
+      "number": "001",
+      "github_path": "projects/MomusPark/Bench_01_Art.glb",
+      "file_size": 878104,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Nature Park"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Park Furniture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Bench"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Seating"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Park"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Naturalistic"
+        }
+      ]
+    }
+  },
+  {
+    "id": "momuspark-002",
+    "name": "Brick_Step_01_Art",
+    "project_id": "pm-momuspark",
+    "description": "3D model from momuspark collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Brick_Step_01_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.150Z",
+    "updated_at": "2026-02-09T18:22:04.150Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Brick_Step_01_Art_thumbnail.png",
+    "metadata": {
+      "number": "002",
+      "github_path": "projects/MomusPark/Brick_Step_01_Art.glb",
+      "file_size": 776040,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Nature Park"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Terrain"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Steps"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Navigation"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Naturalistic"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Brick"
+        }
+      ]
+    }
+  },
+  {
+    "id": "momuspark-003",
+    "name": "Bush_01_Art",
+    "project_id": "pm-momuspark",
+    "description": "3D model from momuspark collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Bush_01_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.150Z",
+    "updated_at": "2026-02-09T18:22:04.150Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Bush_01_Art_thumbnail.png",
+    "metadata": {
+      "number": "003",
+      "github_path": "projects/MomusPark/Bush_01_Art.glb",
+      "file_size": 950736,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Nature Park"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Bush"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Scenery"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Outdoor"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Naturalistic"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Organic"
+        }
+      ]
+    }
+  },
+  {
+    "id": "momuspark-004",
+    "name": "Bush_02_Art",
+    "project_id": "pm-momuspark",
+    "description": "3D model from momuspark collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Bush_02_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.150Z",
+    "updated_at": "2026-02-09T18:22:04.150Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Bush_02_Art_thumbnail.png",
+    "metadata": {
+      "number": "004",
+      "github_path": "projects/MomusPark/Bush_02_Art.glb",
+      "file_size": 955988,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Nature Park"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Bush"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Scenery"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Outdoor"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Naturalistic"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Organic"
+        }
+      ]
+    }
+  },
+  {
+    "id": "momuspark-005",
+    "name": "Bush_03_art",
+    "project_id": "pm-momuspark",
+    "description": "3D model from momuspark collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Bush_03_art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.150Z",
+    "updated_at": "2026-02-09T18:22:04.150Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Bush_03_art_thumbnail.png",
+    "metadata": {
+      "number": "005",
+      "github_path": "projects/MomusPark/Bush_03_art.glb",
+      "file_size": 1323492,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Nature Park"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Bush"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Scenery"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Outdoor"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Naturalistic"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Organic"
+        }
+      ]
+    }
+  },
+  {
+    "id": "momuspark-006",
+    "name": "Butterfly",
+    "project_id": "pm-momuspark",
+    "description": "3D model from momuspark collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Butterfly.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.150Z",
+    "updated_at": "2026-02-09T18:22:04.150Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Butterfly_thumbnail.png",
+    "metadata": {
+      "number": "006",
+      "github_path": "projects/MomusPark/Butterfly.glb",
+      "file_size": 283356,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Nature Park"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Wildlife"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Butterfly"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Ambient Life"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Outdoor"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Naturalistic"
+        },
+        {
+          "trait_type": "Size",
+          "value": "Small"
+        }
+      ]
+    }
+  },
+  {
+    "id": "momuspark-007",
+    "name": "DeerArmature",
+    "project_id": "pm-momuspark",
+    "description": "3D model from momuspark collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/DeerArmature.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.150Z",
+    "updated_at": "2026-02-09T18:22:04.150Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/DeerArmature_thumbnail.png",
+    "metadata": {
+      "number": "007",
+      "github_path": "projects/MomusPark/DeerArmature.glb",
+      "file_size": 975864,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Nature Park"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Wildlife"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Deer"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Ambient Life"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Outdoor"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Naturalistic"
+        }
+      ]
+    }
+  },
+  {
+    "id": "momuspark-008",
+    "name": "Fence_01_Art",
+    "project_id": "pm-momuspark",
+    "description": "3D model from momuspark collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Fence_01_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.150Z",
+    "updated_at": "2026-02-09T18:22:04.150Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Fence_01_Art_thumbnail.png",
+    "metadata": {
+      "number": "008",
+      "github_path": "projects/MomusPark/Fence_01_Art.glb",
+      "file_size": 788692,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Nature Park"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Park Furniture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Fence"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Boundary"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Park"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Naturalistic"
+        }
+      ]
+    }
+  },
+  {
+    "id": "momuspark-009",
+    "name": "Fence_01_Post_Art",
+    "project_id": "pm-momuspark",
+    "description": "3D model from momuspark collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Fence_01_Post_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.150Z",
+    "updated_at": "2026-02-09T18:22:04.150Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Fence_01_Post_Art_thumbnail.png",
+    "metadata": {
+      "number": "009",
+      "github_path": "projects/MomusPark/Fence_01_Post_Art.glb",
+      "file_size": 1072020,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Nature Park"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Park Furniture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Fence Post"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Boundary"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Park"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Naturalistic"
+        }
+      ]
+    }
+  },
+  {
+    "id": "momuspark-010",
+    "name": "Floating_Island_01_Art",
+    "project_id": "pm-momuspark",
+    "description": "3D model from momuspark collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Floating_Island_01_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.150Z",
+    "updated_at": "2026-02-09T18:22:04.150Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Floating_Island_01_Art_thumbnail.png",
+    "metadata": {
+      "number": "010",
+      "github_path": "projects/MomusPark/Floating_Island_01_Art.glb",
+      "file_size": 1216972,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Fantasy"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Terrain"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Floating Island"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Fantasy Element"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Fantasy"
+        },
+        {
+          "trait_type": "Size",
+          "value": "Large"
+        }
+      ]
+    }
+  },
+  {
+    "id": "momuspark-011",
+    "name": "Floating_Island_02_Art",
+    "project_id": "pm-momuspark",
+    "description": "3D model from momuspark collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Floating_Island_02_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.150Z",
+    "updated_at": "2026-02-09T18:22:04.150Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Floating_Island_02_Art_thumbnail.png",
+    "metadata": {
+      "number": "011",
+      "github_path": "projects/MomusPark/Floating_Island_02_Art.glb",
+      "file_size": 1227976,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Fantasy"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Terrain"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Floating Island"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Fantasy Element"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Fantasy"
+        },
+        {
+          "trait_type": "Size",
+          "value": "Large"
+        }
+      ]
+    }
+  },
+  {
+    "id": "momuspark-012",
+    "name": "Floating_Island_3_Art",
+    "project_id": "pm-momuspark",
+    "description": "3D model from momuspark collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Floating_Island_3_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.150Z",
+    "updated_at": "2026-02-09T18:22:04.150Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Floating_Island_3_Art_thumbnail.png",
+    "metadata": {
+      "number": "012",
+      "github_path": "projects/MomusPark/Floating_Island_3_Art.glb",
+      "file_size": 1235008,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Fantasy"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Terrain"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Floating Island"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Fantasy Element"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Fantasy"
+        },
+        {
+          "trait_type": "Size",
+          "value": "Large"
+        }
+      ]
+    }
+  },
+  {
+    "id": "momuspark-013",
+    "name": "Floating_Island_4_Art",
+    "project_id": "pm-momuspark",
+    "description": "3D model from momuspark collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Floating_Island_4_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.150Z",
+    "updated_at": "2026-02-09T18:22:04.150Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Floating_Island_4_Art_thumbnail.png",
+    "metadata": {
+      "number": "013",
+      "github_path": "projects/MomusPark/Floating_Island_4_Art.glb",
+      "file_size": 530528,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Fantasy"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Terrain"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Floating Island"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Fantasy Element"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Fantasy"
+        },
+        {
+          "trait_type": "Size",
+          "value": "Large"
+        }
+      ]
+    }
+  },
+  {
+    "id": "momuspark-014",
+    "name": "Flower_01_a",
+    "project_id": "pm-momuspark",
+    "description": "3D model from momuspark collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Flower_01_a.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.150Z",
+    "updated_at": "2026-02-09T18:22:04.150Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Flower_01_a_thumbnail.png",
+    "metadata": {
+      "number": "014",
+      "github_path": "projects/MomusPark/Flower_01_a.glb",
+      "file_size": 401200,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Nature Park"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Flower"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Scenery"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Outdoor"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Naturalistic"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Organic"
+        },
+        {
+          "trait_type": "Size",
+          "value": "Small"
+        }
+      ]
+    }
+  },
+  {
+    "id": "momuspark-015",
+    "name": "Flower_01_b",
+    "project_id": "pm-momuspark",
+    "description": "3D model from momuspark collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Flower_01_b.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.150Z",
+    "updated_at": "2026-02-09T18:22:04.150Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Flower_01_b_thumbnail.png",
+    "metadata": {
+      "number": "015",
+      "github_path": "projects/MomusPark/Flower_01_b.glb",
+      "file_size": 404184,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Nature Park"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Flower"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Scenery"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Outdoor"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Naturalistic"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Organic"
+        },
+        {
+          "trait_type": "Size",
+          "value": "Small"
+        }
+      ]
+    }
+  },
+  {
+    "id": "momuspark-016",
+    "name": "Flower_02_a_Art",
+    "project_id": "pm-momuspark",
+    "description": "3D model from momuspark collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Flower_02_a_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.150Z",
+    "updated_at": "2026-02-09T18:22:04.150Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Flower_02_a_Art_thumbnail.png",
+    "metadata": {
+      "number": "016",
+      "github_path": "projects/MomusPark/Flower_02_a_Art.glb",
+      "file_size": 513264,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Nature Park"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Flower"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Scenery"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Outdoor"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Naturalistic"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Organic"
+        },
+        {
+          "trait_type": "Size",
+          "value": "Small"
+        }
+      ]
+    }
+  },
+  {
+    "id": "momuspark-017",
+    "name": "Flower_02_b_Art",
+    "project_id": "pm-momuspark",
+    "description": "3D model from momuspark collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Flower_02_b_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.150Z",
+    "updated_at": "2026-02-09T18:22:04.150Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Flower_02_b_Art_thumbnail.png",
+    "metadata": {
+      "number": "017",
+      "github_path": "projects/MomusPark/Flower_02_b_Art.glb",
+      "file_size": 508340,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Nature Park"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Flower"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Scenery"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Outdoor"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Naturalistic"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Organic"
+        },
+        {
+          "trait_type": "Size",
+          "value": "Small"
+        }
+      ]
+    }
+  },
+  {
+    "id": "momuspark-018",
+    "name": "Flower_03_a",
+    "project_id": "pm-momuspark",
+    "description": "3D model from momuspark collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Flower_03_a.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.150Z",
+    "updated_at": "2026-02-09T18:22:04.150Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Flower_03_a_thumbnail.png",
+    "metadata": {
+      "number": "018",
+      "github_path": "projects/MomusPark/Flower_03_a.glb",
+      "file_size": 408764,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Nature Park"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Flower"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Scenery"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Outdoor"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Naturalistic"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Organic"
+        },
+        {
+          "trait_type": "Size",
+          "value": "Small"
+        }
+      ]
+    }
+  },
+  {
+    "id": "momuspark-019",
+    "name": "Flower_03_b",
+    "project_id": "pm-momuspark",
+    "description": "3D model from momuspark collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Flower_03_b.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.150Z",
+    "updated_at": "2026-02-09T18:22:04.150Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Flower_03_b_thumbnail.png",
+    "metadata": {
+      "number": "019",
+      "github_path": "projects/MomusPark/Flower_03_b.glb",
+      "file_size": 416840,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Nature Park"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Flower"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Scenery"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Outdoor"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Naturalistic"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Organic"
+        },
+        {
+          "trait_type": "Size",
+          "value": "Small"
+        }
+      ]
+    }
+  },
+  {
+    "id": "momuspark-020",
+    "name": "Grass_01_a",
+    "project_id": "pm-momuspark",
+    "description": "3D model from momuspark collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Grass_01_a.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.150Z",
+    "updated_at": "2026-02-09T18:22:04.150Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Grass_01_a_thumbnail.png",
+    "metadata": {
+      "number": "020",
+      "github_path": "projects/MomusPark/Grass_01_a.glb",
+      "file_size": 192568,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Nature Park"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Grass"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Scenery"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Outdoor"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Naturalistic"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Organic"
+        },
+        {
+          "trait_type": "Size",
+          "value": "Small"
+        }
+      ]
+    }
+  },
+  {
+    "id": "momuspark-021",
+    "name": "Grass_01_b",
+    "project_id": "pm-momuspark",
+    "description": "3D model from momuspark collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Grass_01_b.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.150Z",
+    "updated_at": "2026-02-09T18:22:04.150Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Grass_01_b_thumbnail.png",
+    "metadata": {
+      "number": "021",
+      "github_path": "projects/MomusPark/Grass_01_b.glb",
+      "file_size": 192568,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Nature Park"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Grass"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Scenery"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Outdoor"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Naturalistic"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Organic"
+        },
+        {
+          "trait_type": "Size",
+          "value": "Small"
+        }
+      ]
+    }
+  },
+  {
+    "id": "momuspark-022",
+    "name": "LAND_Floor",
+    "project_id": "pm-momuspark",
+    "description": "3D model from momuspark collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/LAND_Floor.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.151Z",
+    "updated_at": "2026-02-09T18:22:04.151Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/LAND_Floor_thumbnail.png",
+    "metadata": {
+      "number": "022",
+      "github_path": "projects/MomusPark/LAND_Floor.glb",
+      "file_size": 741636,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Nature Park"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Terrain"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Ground"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Naturalistic"
+        }
+      ]
+    }
+  },
+  {
+    "id": "momuspark-023",
+    "name": "Log_01_Art",
+    "project_id": "pm-momuspark",
+    "description": "3D model from momuspark collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Log_01_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.151Z",
+    "updated_at": "2026-02-09T18:22:04.151Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Log_01_Art_thumbnail.png",
+    "metadata": {
+      "number": "023",
+      "github_path": "projects/MomusPark/Log_01_Art.glb",
+      "file_size": 928640,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Nature Park"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Log"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Outdoor"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Naturalistic"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Wood"
+        }
+      ]
+    }
+  },
+  {
+    "id": "momuspark-024",
+    "name": "MOMUS_Logo_Top",
+    "project_id": "pm-momuspark",
+    "description": "3D model from momuspark collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/MOMUS_Logo_Top.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.151Z",
+    "updated_at": "2026-02-09T18:22:04.151Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/MOMUS_Logo_Top_thumbnail.png",
+    "metadata": {
+      "number": "024",
+      "github_path": "projects/MomusPark/MOMUS_Logo_Top.glb",
+      "file_size": 48480,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Nature Park"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Log"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Outdoor"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Naturalistic"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Wood"
+        }
+      ]
+    }
+  },
+  {
+    "id": "momuspark-025",
+    "name": "Momus_collection_sign_01",
+    "project_id": "pm-momuspark",
+    "description": "3D model from momuspark collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Momus_collection_sign_01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.151Z",
+    "updated_at": "2026-02-09T18:22:04.151Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Momus_collection_sign_01_thumbnail.png",
+    "metadata": {
+      "number": "025",
+      "github_path": "projects/MomusPark/Momus_collection_sign_01.glb",
+      "file_size": 44324,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Nature Park"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Special"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Sign"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Wayfinding"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Naturalistic"
+        }
+      ]
+    }
+  },
+  {
+    "id": "momuspark-026",
+    "name": "MountainLion",
+    "project_id": "pm-momuspark",
+    "description": "3D model from momuspark collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/MountainLion.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.151Z",
+    "updated_at": "2026-02-09T18:22:04.151Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/MountainLion_thumbnail.png",
+    "metadata": {
+      "number": "026",
+      "github_path": "projects/MomusPark/MountainLion.glb",
+      "file_size": 1083468,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Nature Park"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Wildlife"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Mountain Lion"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Ambient Life"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Outdoor"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Naturalistic"
+        }
+      ]
+    }
+  },
+  {
+    "id": "momuspark-027",
+    "name": "Mushroom_01_Art",
+    "project_id": "pm-momuspark",
+    "description": "3D model from momuspark collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Mushroom_01_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.151Z",
+    "updated_at": "2026-02-09T18:22:04.151Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Mushroom_01_Art_thumbnail.png",
+    "metadata": {
+      "number": "027",
+      "github_path": "projects/MomusPark/Mushroom_01_Art.glb",
+      "file_size": 1092936,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Nature Park"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Mushroom"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Scenery"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Outdoor"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Naturalistic"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Organic"
+        },
+        {
+          "trait_type": "Size",
+          "value": "Small"
+        }
+      ]
+    }
+  },
+  {
+    "id": "momuspark-028",
+    "name": "Mushroom_02_Art",
+    "project_id": "pm-momuspark",
+    "description": "3D model from momuspark collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Mushroom_02_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.151Z",
+    "updated_at": "2026-02-09T18:22:04.151Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Mushroom_02_Art_thumbnail.png",
+    "metadata": {
+      "number": "028",
+      "github_path": "projects/MomusPark/Mushroom_02_Art.glb",
+      "file_size": 1092864,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Nature Park"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Mushroom"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Scenery"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Outdoor"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Naturalistic"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Organic"
+        },
+        {
+          "trait_type": "Size",
+          "value": "Small"
+        }
+      ]
+    }
+  },
+  {
+    "id": "momuspark-029",
+    "name": "Owl",
+    "project_id": "pm-momuspark",
+    "description": "3D model from momuspark collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Owl.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.151Z",
+    "updated_at": "2026-02-09T18:22:04.151Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Owl_thumbnail.png",
+    "metadata": {
+      "number": "029",
+      "github_path": "projects/MomusPark/Owl.glb",
+      "file_size": 925624,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Nature Park"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Wildlife"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Owl"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Ambient Life"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Outdoor"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Naturalistic"
+        }
+      ]
+    }
+  },
+  {
+    "id": "momuspark-030",
+    "name": "Path_01_Art",
+    "project_id": "pm-momuspark",
+    "description": "3D model from momuspark collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Path_01_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.151Z",
+    "updated_at": "2026-02-09T18:22:04.151Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Path_01_Art_thumbnail.png",
+    "metadata": {
+      "number": "030",
+      "github_path": "projects/MomusPark/Path_01_Art.glb",
+      "file_size": 590652,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Nature Park"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Park Furniture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Path"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Navigation"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Park"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Naturalistic"
+        }
+      ]
+    }
+  },
+  {
+    "id": "momuspark-031",
+    "name": "Path_02_Art",
+    "project_id": "pm-momuspark",
+    "description": "3D model from momuspark collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Path_02_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.151Z",
+    "updated_at": "2026-02-09T18:22:04.151Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Path_02_Art_thumbnail.png",
+    "metadata": {
+      "number": "031",
+      "github_path": "projects/MomusPark/Path_02_Art.glb",
+      "file_size": 592292,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Nature Park"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Park Furniture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Path"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Navigation"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Park"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Naturalistic"
+        }
+      ]
+    }
+  },
+  {
+    "id": "momuspark-032",
+    "name": "Path_03_Art",
+    "project_id": "pm-momuspark",
+    "description": "3D model from momuspark collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Path_03_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.151Z",
+    "updated_at": "2026-02-09T18:22:04.151Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Path_03_Art_thumbnail.png",
+    "metadata": {
+      "number": "032",
+      "github_path": "projects/MomusPark/Path_03_Art.glb",
+      "file_size": 993816,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Nature Park"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Park Furniture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Path"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Navigation"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Park"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Naturalistic"
+        }
+      ]
+    }
+  },
+  {
+    "id": "momuspark-033",
+    "name": "Path_04_Art",
+    "project_id": "pm-momuspark",
+    "description": "3D model from momuspark collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Path_04_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.151Z",
+    "updated_at": "2026-02-09T18:22:04.151Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Path_04_Art_thumbnail.png",
+    "metadata": {
+      "number": "033",
+      "github_path": "projects/MomusPark/Path_04_Art.glb",
+      "file_size": 590648,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Nature Park"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Park Furniture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Path"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Navigation"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Park"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Naturalistic"
+        }
+      ]
+    }
+  },
+  {
+    "id": "momuspark-034",
+    "name": "PigArmature",
+    "project_id": "pm-momuspark",
+    "description": "3D model from momuspark collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/PigArmature.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.151Z",
+    "updated_at": "2026-02-09T18:22:04.151Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/PigArmature_thumbnail.png",
+    "metadata": {
+      "number": "034",
+      "github_path": "projects/MomusPark/PigArmature.glb",
+      "file_size": 992216,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Nature Park"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Wildlife"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Pig"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Ambient Life"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Outdoor"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Naturalistic"
+        }
+      ]
+    }
+  },
+  {
+    "id": "momuspark-035",
+    "name": "Rock_01_Art",
+    "project_id": "pm-momuspark",
+    "description": "3D model from momuspark collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Rock_01_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.151Z",
+    "updated_at": "2026-02-09T18:22:04.151Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Rock_01_Art_thumbnail.png",
+    "metadata": {
+      "number": "035",
+      "github_path": "projects/MomusPark/Rock_01_Art.glb",
+      "file_size": 860588,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Nature Park"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Terrain"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Rock"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Naturalistic"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Stone"
+        }
+      ]
+    }
+  },
+  {
+    "id": "momuspark-036",
+    "name": "Rock_02_Art",
+    "project_id": "pm-momuspark",
+    "description": "3D model from momuspark collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Rock_02_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.151Z",
+    "updated_at": "2026-02-09T18:22:04.151Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Rock_02_Art_thumbnail.png",
+    "metadata": {
+      "number": "036",
+      "github_path": "projects/MomusPark/Rock_02_Art.glb",
+      "file_size": 314892,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Nature Park"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Terrain"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Rock"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Naturalistic"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Stone"
+        }
+      ]
+    }
+  },
+  {
+    "id": "momuspark-037",
+    "name": "Rock_03_Art",
+    "project_id": "pm-momuspark",
+    "description": "3D model from momuspark collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Rock_03_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.151Z",
+    "updated_at": "2026-02-09T18:22:04.151Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Rock_03_Art_thumbnail.png",
+    "metadata": {
+      "number": "037",
+      "github_path": "projects/MomusPark/Rock_03_Art.glb",
+      "file_size": 732260,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Nature Park"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Terrain"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Rock"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Naturalistic"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Stone"
+        }
+      ]
+    }
+  },
+  {
+    "id": "momuspark-038",
+    "name": "Rock_04_Art",
+    "project_id": "pm-momuspark",
+    "description": "3D model from momuspark collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Rock_04_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.151Z",
+    "updated_at": "2026-02-09T18:22:04.151Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Rock_04_Art_thumbnail.png",
+    "metadata": {
+      "number": "038",
+      "github_path": "projects/MomusPark/Rock_04_Art.glb",
+      "file_size": 320600,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Nature Park"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Terrain"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Rock"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Naturalistic"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Stone"
+        }
+      ]
+    }
+  },
+  {
+    "id": "momuspark-039",
+    "name": "Rock_05_Art",
+    "project_id": "pm-momuspark",
+    "description": "3D model from momuspark collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Rock_05_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.151Z",
+    "updated_at": "2026-02-09T18:22:04.151Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Rock_05_Art_thumbnail.png",
+    "metadata": {
+      "number": "039",
+      "github_path": "projects/MomusPark/Rock_05_Art.glb",
+      "file_size": 454088,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Nature Park"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Terrain"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Rock"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Naturalistic"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Stone"
+        }
+      ]
+    }
+  },
+  {
+    "id": "momuspark-040",
+    "name": "Root_01_Art",
+    "project_id": "pm-momuspark",
+    "description": "3D model from momuspark collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Root_01_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.151Z",
+    "updated_at": "2026-02-09T18:22:04.151Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Root_01_Art_thumbnail.png",
+    "metadata": {
+      "number": "040",
+      "github_path": "projects/MomusPark/Root_01_Art.glb",
+      "file_size": 463136,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Nature Park"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Root"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Outdoor"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Naturalistic"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Organic"
+        }
+      ]
+    }
+  },
+  {
+    "id": "momuspark-041",
+    "name": "Root_02_Art",
+    "project_id": "pm-momuspark",
+    "description": "3D model from momuspark collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Root_02_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.151Z",
+    "updated_at": "2026-02-09T18:22:04.151Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Root_02_Art_thumbnail.png",
+    "metadata": {
+      "number": "041",
+      "github_path": "projects/MomusPark/Root_02_Art.glb",
+      "file_size": 459948,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Nature Park"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Root"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Outdoor"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Naturalistic"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Organic"
+        }
+      ]
+    }
+  },
+  {
+    "id": "momuspark-042",
+    "name": "Shelter_Art",
+    "project_id": "pm-momuspark",
+    "description": "3D model from momuspark collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Shelter_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.151Z",
+    "updated_at": "2026-02-09T18:22:04.151Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Shelter_Art_thumbnail.png",
+    "metadata": {
+      "number": "042",
+      "github_path": "projects/MomusPark/Shelter_Art.glb",
+      "file_size": 1614256,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Nature Park"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Park Furniture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Shelter"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Seating"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Park"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Naturalistic"
+        },
+        {
+          "trait_type": "Size",
+          "value": "Medium"
+        }
+      ]
+    }
+  },
+  {
+    "id": "momuspark-043",
+    "name": "Signal_01_Art",
+    "project_id": "pm-momuspark",
+    "description": "3D model from momuspark collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Signal_01_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.151Z",
+    "updated_at": "2026-02-09T18:22:04.151Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Signal_01_Art_thumbnail.png",
+    "metadata": {
+      "number": "043",
+      "github_path": "projects/MomusPark/Signal_01_Art.glb",
+      "file_size": 1667588,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Nature Park"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Park Furniture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Signal"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Wayfinding"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Park"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Naturalistic"
+        }
+      ]
+    }
+  },
+  {
+    "id": "momuspark-044",
+    "name": "Signal_02_Art",
+    "project_id": "pm-momuspark",
+    "description": "3D model from momuspark collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Signal_02_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.151Z",
+    "updated_at": "2026-02-09T18:22:04.151Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Signal_02_Art_thumbnail.png",
+    "metadata": {
+      "number": "044",
+      "github_path": "projects/MomusPark/Signal_02_Art.glb",
+      "file_size": 942724,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Nature Park"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Park Furniture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Signal"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Wayfinding"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Park"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Naturalistic"
+        }
+      ]
+    }
+  },
+  {
+    "id": "momuspark-045",
+    "name": "Skydoor_Art",
+    "project_id": "pm-momuspark",
+    "description": "3D model from momuspark collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Skydoor_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.151Z",
+    "updated_at": "2026-02-09T18:22:04.151Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Skydoor_Art_thumbnail.png",
+    "metadata": {
+      "number": "045",
+      "github_path": "projects/MomusPark/Skydoor_Art.glb",
+      "file_size": 1700336,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Fantasy"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Special"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Portal"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Fantasy Element"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Fantasy"
+        },
+        {
+          "trait_type": "Size",
+          "value": "Large"
+        }
+      ]
+    }
+  },
+  {
+    "id": "momuspark-046",
+    "name": "Statue_greek_01_Art",
+    "project_id": "pm-momuspark",
+    "description": "3D model from momuspark collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Statue_greek_01_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.151Z",
+    "updated_at": "2026-02-09T18:22:04.151Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Statue_greek_01_Art_thumbnail.png",
+    "metadata": {
+      "number": "046",
+      "github_path": "projects/MomusPark/Statue_greek_01_Art.glb",
+      "file_size": 493744,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Greek/Roman"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Statue"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Historical Site"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Classical"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Stone"
+        },
+        {
+          "trait_type": "Size",
+          "value": "Medium"
+        }
+      ]
+    }
+  },
+  {
+    "id": "momuspark-047",
+    "name": "Statue_greek_02_Art",
+    "project_id": "pm-momuspark",
+    "description": "3D model from momuspark collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Statue_greek_02_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.151Z",
+    "updated_at": "2026-02-09T18:22:04.151Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Statue_greek_02_Art_thumbnail.png",
+    "metadata": {
+      "number": "047",
+      "github_path": "projects/MomusPark/Statue_greek_02_Art.glb",
+      "file_size": 518392,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Greek/Roman"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Statue"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Historical Site"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Classical"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Stone"
+        },
+        {
+          "trait_type": "Size",
+          "value": "Medium"
+        }
+      ]
+    }
+  },
+  {
+    "id": "momuspark-048",
+    "name": "Str_Amphitheater_01_Art",
+    "project_id": "pm-momuspark",
+    "description": "3D model from momuspark collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Str_Amphitheater_01_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.151Z",
+    "updated_at": "2026-02-09T18:22:04.151Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Str_Amphitheater_01_Art_thumbnail.png",
+    "metadata": {
+      "number": "048",
+      "github_path": "projects/MomusPark/Str_Amphitheater_01_Art.glb",
+      "file_size": 1005724,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Greek/Roman"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Amphitheater"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Historical Site"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Classical"
+        },
+        {
+          "trait_type": "Size",
+          "value": "Large"
+        }
+      ]
+    }
+  },
+  {
+    "id": "momuspark-049",
+    "name": "Str_Column_04_Art",
+    "project_id": "pm-momuspark",
+    "description": "3D model from momuspark collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Str_Column_04_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.151Z",
+    "updated_at": "2026-02-09T18:22:04.151Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Str_Column_04_Art_thumbnail.png",
+    "metadata": {
+      "number": "049",
+      "github_path": "projects/MomusPark/Str_Column_04_Art.glb",
+      "file_size": 999692,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Greek/Roman"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Column"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Historical Site"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Classical"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Stone"
+        },
+        {
+          "trait_type": "Size",
+          "value": "Medium"
+        }
+      ]
+    }
+  },
+  {
+    "id": "momuspark-050",
+    "name": "Str_Fountain_01_Art",
+    "project_id": "pm-momuspark",
+    "description": "3D model from momuspark collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Str_Fountain_01_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.151Z",
+    "updated_at": "2026-02-09T18:22:04.151Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Str_Fountain_01_Art_thumbnail.png",
+    "metadata": {
+      "number": "050",
+      "github_path": "projects/MomusPark/Str_Fountain_01_Art.glb",
+      "file_size": 1229500,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Greek/Roman"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Fountain"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Historical Site"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Naturalistic"
+        },
+        {
+          "trait_type": "Size",
+          "value": "Medium"
+        }
+      ]
+    }
+  },
+  {
+    "id": "momuspark-051",
+    "name": "Str_Ruins_01_Art",
+    "project_id": "pm-momuspark",
+    "description": "3D model from momuspark collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Str_Ruins_01_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.152Z",
+    "updated_at": "2026-02-09T18:22:04.152Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Str_Ruins_01_Art_thumbnail.png",
+    "metadata": {
+      "number": "051",
+      "github_path": "projects/MomusPark/Str_Ruins_01_Art.glb",
+      "file_size": 331148,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Greek/Roman"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Ruins"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Historical Site"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Classical"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Stone"
+        }
+      ]
+    }
+  },
+  {
+    "id": "momuspark-052",
+    "name": "Str_Ruins_02_Art",
+    "project_id": "pm-momuspark",
+    "description": "3D model from momuspark collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Str_Ruins_02_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.152Z",
+    "updated_at": "2026-02-09T18:22:04.152Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Str_Ruins_02_Art_thumbnail.png",
+    "metadata": {
+      "number": "052",
+      "github_path": "projects/MomusPark/Str_Ruins_02_Art.glb",
+      "file_size": 553748,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Greek/Roman"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Ruins"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Historical Site"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Classical"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Stone"
+        }
+      ]
+    }
+  },
+  {
+    "id": "momuspark-053",
+    "name": "Str_Ruins_03_Art",
+    "project_id": "pm-momuspark",
+    "description": "3D model from momuspark collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Str_Ruins_03_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.152Z",
+    "updated_at": "2026-02-09T18:22:04.152Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Str_Ruins_03_Art_thumbnail.png",
+    "metadata": {
+      "number": "053",
+      "github_path": "projects/MomusPark/Str_Ruins_03_Art.glb",
+      "file_size": 477712,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Greek/Roman"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Ruins"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Historical Site"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Classical"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Stone"
+        }
+      ]
+    }
+  },
+  {
+    "id": "momuspark-054",
+    "name": "Str_Ruins_05_Art",
+    "project_id": "pm-momuspark",
+    "description": "3D model from momuspark collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Str_Ruins_05_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.152Z",
+    "updated_at": "2026-02-09T18:22:04.152Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Str_Ruins_05_Art_thumbnail.png",
+    "metadata": {
+      "number": "054",
+      "github_path": "projects/MomusPark/Str_Ruins_05_Art.glb",
+      "file_size": 997840,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Greek/Roman"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Ruins"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Historical Site"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Classical"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Stone"
+        }
+      ]
+    }
+  },
+  {
+    "id": "momuspark-055",
+    "name": "Terrain_Amount_01_Art",
+    "project_id": "pm-momuspark",
+    "description": "3D model from momuspark collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Terrain_Amount_01_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.152Z",
+    "updated_at": "2026-02-09T18:22:04.152Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Terrain_Amount_01_Art_thumbnail.png",
+    "metadata": {
+      "number": "055",
+      "github_path": "projects/MomusPark/Terrain_Amount_01_Art.glb",
+      "file_size": 1513900,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Nature Park"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Terrain"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Terrain"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Naturalistic"
+        },
+        {
+          "trait_type": "Size",
+          "value": "Large"
+        }
+      ]
+    }
+  },
+  {
+    "id": "momuspark-056",
+    "name": "Terrain_Amount_02_Art",
+    "project_id": "pm-momuspark",
+    "description": "3D model from momuspark collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Terrain_Amount_02_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.152Z",
+    "updated_at": "2026-02-09T18:22:04.152Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Terrain_Amount_02_Art_thumbnail.png",
+    "metadata": {
+      "number": "056",
+      "github_path": "projects/MomusPark/Terrain_Amount_02_Art.glb",
+      "file_size": 1516568,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Nature Park"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Terrain"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Terrain"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Naturalistic"
+        },
+        {
+          "trait_type": "Size",
+          "value": "Large"
+        }
+      ]
+    }
+  },
+  {
+    "id": "momuspark-057",
+    "name": "Tree_01_Art",
+    "project_id": "pm-momuspark",
+    "description": "3D model from momuspark collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Tree_01_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.152Z",
+    "updated_at": "2026-02-09T18:22:04.152Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Tree_01_Art_thumbnail.png",
+    "metadata": {
+      "number": "057",
+      "github_path": "projects/MomusPark/Tree_01_Art.glb",
+      "file_size": 1015560,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Nature Park"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Tree"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Scenery"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Outdoor"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Naturalistic"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Wood"
+        },
+        {
+          "trait_type": "Size",
+          "value": "Medium"
+        }
+      ]
+    }
+  },
+  {
+    "id": "momuspark-058",
+    "name": "Tree_02_Art",
+    "project_id": "pm-momuspark",
+    "description": "3D model from momuspark collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Tree_02_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.152Z",
+    "updated_at": "2026-02-09T18:22:04.152Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Tree_02_Art_thumbnail.png",
+    "metadata": {
+      "number": "058",
+      "github_path": "projects/MomusPark/Tree_02_Art.glb",
+      "file_size": 1016476,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Nature Park"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Tree"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Scenery"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Outdoor"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Naturalistic"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Wood"
+        },
+        {
+          "trait_type": "Size",
+          "value": "Medium"
+        }
+      ]
+    }
+  },
+  {
+    "id": "momuspark-059",
+    "name": "Tree_03_Art",
+    "project_id": "pm-momuspark",
+    "description": "3D model from momuspark collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Tree_03_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.152Z",
+    "updated_at": "2026-02-09T18:22:04.152Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Tree_03_Art_thumbnail.png",
+    "metadata": {
+      "number": "059",
+      "github_path": "projects/MomusPark/Tree_03_Art.glb",
+      "file_size": 1406776,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Nature Park"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Tree"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Scenery"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Outdoor"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Naturalistic"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Wood"
+        },
+        {
+          "trait_type": "Size",
+          "value": "Medium"
+        }
+      ]
+    }
+  },
+  {
+    "id": "momuspark-060",
+    "name": "Tree_04_Art",
+    "project_id": "pm-momuspark",
+    "description": "3D model from momuspark collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Tree_04_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.152Z",
+    "updated_at": "2026-02-09T18:22:04.152Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Tree_04_Art_thumbnail.png",
+    "metadata": {
+      "number": "060",
+      "github_path": "projects/MomusPark/Tree_04_Art.glb",
+      "file_size": 1404148,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Nature Park"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Tree"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Scenery"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Outdoor"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Naturalistic"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Wood"
+        },
+        {
+          "trait_type": "Size",
+          "value": "Medium"
+        }
+      ]
+    }
+  },
+  {
+    "id": "momuspark-061",
+    "name": "Tree_Trunk_01_Art",
+    "project_id": "pm-momuspark",
+    "description": "3D model from momuspark collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Tree_Trunk_01_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.152Z",
+    "updated_at": "2026-02-09T18:22:04.152Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Tree_Trunk_01_Art_thumbnail.png",
+    "metadata": {
+      "number": "061",
+      "github_path": "projects/MomusPark/Tree_Trunk_01_Art.glb",
+      "file_size": 1230128,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Nature Park"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Tree Trunk"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Scenery"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Outdoor"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Naturalistic"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Wood"
+        },
+        {
+          "trait_type": "Size",
+          "value": "Medium"
+        }
+      ]
+    }
+  },
+  {
+    "id": "momuspark-062",
+    "name": "Water_FX_2_Art",
+    "project_id": "pm-momuspark",
+    "description": "3D model from momuspark collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Water_FX_2_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.152Z",
+    "updated_at": "2026-02-09T18:22:04.152Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Water_FX_2_Art_thumbnail.png",
+    "metadata": {
+      "number": "062",
+      "github_path": "projects/MomusPark/Water_FX_2_Art.glb",
+      "file_size": 600456,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Nature Park"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Water Feature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Water Effect"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Water"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Naturalistic"
+        }
+      ]
+    }
+  },
+  {
+    "id": "momuspark-063",
+    "name": "Water_Fall_01_Art.001",
+    "project_id": "pm-momuspark",
+    "description": "3D model from momuspark collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Water_Fall_01_Art.001.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.152Z",
+    "updated_at": "2026-02-09T18:22:04.152Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Water_Fall_01_Art.001_thumbnail.png",
+    "metadata": {
+      "number": "063",
+      "github_path": "projects/MomusPark/Water_Fall_01_Art.001.glb",
+      "file_size": 590984,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Nature Park"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Water Feature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Waterfall"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Water"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Naturalistic"
+        }
+      ]
+    }
+  },
+  {
+    "id": "momuspark-064",
+    "name": "Water_Fall_01_Art",
+    "project_id": "pm-momuspark",
+    "description": "3D model from momuspark collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Water_Fall_01_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.152Z",
+    "updated_at": "2026-02-09T18:22:04.152Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Water_Fall_01_Art_thumbnail.png",
+    "metadata": {
+      "number": "064",
+      "github_path": "projects/MomusPark/Water_Fall_01_Art.glb",
+      "file_size": 590956,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Nature Park"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Water Feature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Waterfall"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Water"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Naturalistic"
+        }
+      ]
+    }
+  },
+  {
+    "id": "momuspark-065",
+    "name": "Water_Fall_02_Art",
+    "project_id": "pm-momuspark",
+    "description": "3D model from momuspark collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Water_Fall_02_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.152Z",
+    "updated_at": "2026-02-09T18:22:04.152Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Water_Fall_02_Art_thumbnail.png",
+    "metadata": {
+      "number": "065",
+      "github_path": "projects/MomusPark/Water_Fall_02_Art.glb",
+      "file_size": 590956,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Nature Park"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Water Feature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Waterfall"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Water"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Naturalistic"
+        }
+      ]
+    }
+  },
+  {
+    "id": "momuspark-066",
+    "name": "Water_Pond_01_Art",
+    "project_id": "pm-momuspark",
+    "description": "3D model from momuspark collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Water_Pond_01_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.152Z",
+    "updated_at": "2026-02-09T18:22:04.152Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Water_Pond_01_Art_thumbnail.png",
+    "metadata": {
+      "number": "066",
+      "github_path": "projects/MomusPark/Water_Pond_01_Art.glb",
+      "file_size": 590592,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Nature Park"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Water Feature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Pond"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Water"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Naturalistic"
+        }
+      ]
+    }
+  },
+  {
+    "id": "momuspark-067",
+    "name": "Water_plane_Art",
+    "project_id": "pm-momuspark",
+    "description": "3D model from momuspark collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Water_plane_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.152Z",
+    "updated_at": "2026-02-09T18:22:04.152Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/Water_plane_Art_thumbnail.png",
+    "metadata": {
+      "number": "067",
+      "github_path": "projects/MomusPark/Water_plane_Art.glb",
+      "file_size": 590332,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Nature Park"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Water Feature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Water Plane"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Water"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Naturalistic"
+        }
+      ]
+    }
+  },
+  {
+    "id": "momuspark-068",
+    "name": "eyes_haunted_01_Art",
+    "project_id": "pm-momuspark",
+    "description": "3D model from momuspark collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/eyes_haunted_01_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.152Z",
+    "updated_at": "2026-02-09T18:22:04.152Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/eyes_haunted_01_Art_thumbnail.png",
+    "metadata": {
+      "number": "068",
+      "github_path": "projects/MomusPark/eyes_haunted_01_Art.glb",
+      "file_size": 42440,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Nature Park"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Interactive"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Haunted Eyes"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Atmospheric"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Haunted"
+        },
+        {
+          "trait_type": "Size",
+          "value": "Small"
+        }
+      ]
+    }
+  },
+  {
+    "id": "momuspark-069",
+    "name": "eyes_haunted_02_Art",
+    "project_id": "pm-momuspark",
+    "description": "3D model from momuspark collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/eyes_haunted_02_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.152Z",
+    "updated_at": "2026-02-09T18:22:04.152Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/eyes_haunted_02_Art_thumbnail.png",
+    "metadata": {
+      "number": "069",
+      "github_path": "projects/MomusPark/eyes_haunted_02_Art.glb",
+      "file_size": 42440,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Nature Park"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Interactive"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Haunted Eyes"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Atmospheric"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Haunted"
+        },
+        {
+          "trait_type": "Size",
+          "value": "Small"
+        }
+      ]
+    }
+  },
+  {
+    "id": "momuspark-070",
+    "name": "eyes_haunted_03_Art",
+    "project_id": "pm-momuspark",
+    "description": "3D model from momuspark collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/eyes_haunted_03_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.152Z",
+    "updated_at": "2026-02-09T18:22:04.152Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/eyes_haunted_03_Art_thumbnail.png",
+    "metadata": {
+      "number": "070",
+      "github_path": "projects/MomusPark/eyes_haunted_03_Art.glb",
+      "file_size": 42440,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Nature Park"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Interactive"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Haunted Eyes"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Atmospheric"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Haunted"
+        },
+        {
+          "trait_type": "Size",
+          "value": "Small"
+        }
+      ]
+    }
+  },
+  {
+    "id": "momuspark-071",
+    "name": "eyes_haunted_04_Art",
+    "project_id": "pm-momuspark",
+    "description": "3D model from momuspark collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/eyes_haunted_04_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.152Z",
+    "updated_at": "2026-02-09T18:22:04.152Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/eyes_haunted_04_Art_thumbnail.png",
+    "metadata": {
+      "number": "071",
+      "github_path": "projects/MomusPark/eyes_haunted_04_Art.glb",
+      "file_size": 42440,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Nature Park"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Interactive"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Haunted Eyes"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Atmospheric"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Haunted"
+        },
+        {
+          "trait_type": "Size",
+          "value": "Small"
+        }
+      ]
+    }
+  },
+  {
+    "id": "momuspark-072",
+    "name": "eyes_haunted_05_Art",
+    "project_id": "pm-momuspark",
+    "description": "3D model from momuspark collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/eyes_haunted_05_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.152Z",
+    "updated_at": "2026-02-09T18:22:04.152Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/MomusPark/eyes_haunted_05_Art_thumbnail.png",
+    "metadata": {
+      "number": "072",
+      "github_path": "projects/MomusPark/eyes_haunted_05_Art.glb",
+      "file_size": 42604,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Nature Park"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Interactive"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Haunted Eyes"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Atmospheric"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Haunted"
+        },
+        {
+          "trait_type": "Size",
+          "value": "Small"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,602 @@
+[
+  {
+    "id": "aero-system-001",
+    "name": "Aero_Airship_01",
+    "project_id": "pm-aero-system",
+    "description": "3D model from aero-system collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/aero-system/Aero_Airship_01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.027Z",
+    "updated_at": "2026-02-09T18:22:05.027Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/aero-system/Aero_Airship_01_thumbnail.png",
+    "metadata": {
+      "number": "001",
+      "github_path": "projects/aero-system/Aero_Airship_01.glb",
+      "file_size": 450768,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Sci-Fi"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Vehicle"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Airship"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Transportation"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Aerial"
+        }
+      ]
+    }
+  },
+  {
+    "id": "aero-system-002",
+    "name": "Aero_Door_01",
+    "project_id": "pm-aero-system",
+    "description": "3D model from aero-system collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/aero-system/Aero_Door_01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.027Z",
+    "updated_at": "2026-02-09T18:22:05.027Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/aero-system/Aero_Door_01_thumbnail.png",
+    "metadata": {
+      "number": "002",
+      "github_path": "projects/aero-system/Aero_Door_01.glb",
+      "file_size": 96584,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Sci-Fi"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Door"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Access"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Station"
+        }
+      ]
+    }
+  },
+  {
+    "id": "aero-system-003",
+    "name": "Aero_Ground_Hexagon_Art",
+    "project_id": "pm-aero-system",
+    "description": "3D model from aero-system collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/aero-system/Aero_Ground_Hexagon_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.027Z",
+    "updated_at": "2026-02-09T18:22:05.027Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/aero-system/Aero_Ground_Hexagon_Art_thumbnail.png",
+    "metadata": {
+      "number": "003",
+      "github_path": "projects/aero-system/Aero_Ground_Hexagon_Art.glb",
+      "file_size": 10176,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Sci-Fi"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Infrastructure"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Platform"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Landing Pad"
+        },
+        {
+          "trait_type": "Shape",
+          "value": "Hexagon"
+        }
+      ]
+    }
+  },
+  {
+    "id": "aero-system-004",
+    "name": "Aero_Ground_Hexagons_01_Art",
+    "project_id": "pm-aero-system",
+    "description": "3D model from aero-system collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/aero-system/Aero_Ground_Hexagons_01_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.027Z",
+    "updated_at": "2026-02-09T18:22:05.027Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/aero-system/Aero_Ground_Hexagons_01_Art_thumbnail.png",
+    "metadata": {
+      "number": "004",
+      "github_path": "projects/aero-system/Aero_Ground_Hexagons_01_Art.glb",
+      "file_size": 113324,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Sci-Fi"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Infrastructure"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Platform"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Landing Pad"
+        },
+        {
+          "trait_type": "Shape",
+          "value": "Hexagon"
+        }
+      ]
+    }
+  },
+  {
+    "id": "aero-system-005",
+    "name": "Aero_Ground_Hexagons_02_Art",
+    "project_id": "pm-aero-system",
+    "description": "3D model from aero-system collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/aero-system/Aero_Ground_Hexagons_02_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.027Z",
+    "updated_at": "2026-02-09T18:22:05.027Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/aero-system/Aero_Ground_Hexagons_02_Art_thumbnail.png",
+    "metadata": {
+      "number": "005",
+      "github_path": "projects/aero-system/Aero_Ground_Hexagons_02_Art.glb",
+      "file_size": 129496,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Sci-Fi"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Infrastructure"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Platform"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Landing Pad"
+        },
+        {
+          "trait_type": "Shape",
+          "value": "Hexagon"
+        }
+      ]
+    }
+  },
+  {
+    "id": "aero-system-006",
+    "name": "Aero_Lampost_01",
+    "project_id": "pm-aero-system",
+    "description": "3D model from aero-system collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/aero-system/Aero_Lampost_01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.027Z",
+    "updated_at": "2026-02-09T18:22:05.027Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/aero-system/Aero_Lampost_01_thumbnail.png",
+    "metadata": {
+      "number": "006",
+      "github_path": "projects/aero-system/Aero_Lampost_01.glb",
+      "file_size": 105260,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Sci-Fi"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Infrastructure"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Lamppost"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Lighting"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Outdoor"
+        }
+      ]
+    }
+  },
+  {
+    "id": "aero-system-007",
+    "name": "Aero_Station_01_Art",
+    "project_id": "pm-aero-system",
+    "description": "3D model from aero-system collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/aero-system/Aero_Station_01_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.027Z",
+    "updated_at": "2026-02-09T18:22:05.027Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/aero-system/Aero_Station_01_Art_thumbnail.png",
+    "metadata": {
+      "number": "007",
+      "github_path": "projects/aero-system/Aero_Station_01_Art.glb",
+      "file_size": 860784,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Sci-Fi"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Station"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Hub"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Aerial"
+        }
+      ]
+    }
+  },
+  {
+    "id": "aero-system-008",
+    "name": "Aero_Station_Mini_Platform_Art",
+    "project_id": "pm-aero-system",
+    "description": "3D model from aero-system collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/aero-system/Aero_Station_Mini_Platform_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.027Z",
+    "updated_at": "2026-02-09T18:22:05.027Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/aero-system/Aero_Station_Mini_Platform_Art_thumbnail.png",
+    "metadata": {
+      "number": "008",
+      "github_path": "projects/aero-system/Aero_Station_Mini_Platform_Art.glb",
+      "file_size": 86612,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Sci-Fi"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Platform"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Station"
+        },
+        {
+          "trait_type": "Size",
+          "value": "Mini"
+        }
+      ]
+    }
+  },
+  {
+    "id": "aero-system-009",
+    "name": "Aero_Station_PinkRing_Art",
+    "project_id": "pm-aero-system",
+    "description": "3D model from aero-system collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/aero-system/Aero_Station_PinkRing_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.027Z",
+    "updated_at": "2026-02-09T18:22:05.027Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/aero-system/Aero_Station_PinkRing_Art_thumbnail.png",
+    "metadata": {
+      "number": "009",
+      "github_path": "projects/aero-system/Aero_Station_PinkRing_Art.glb",
+      "file_size": 520168,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Sci-Fi"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Station"
+        },
+        {
+          "trait_type": "Color",
+          "value": "Pink"
+        },
+        {
+          "trait_type": "Shape",
+          "value": "Ring"
+        }
+      ]
+    }
+  },
+  {
+    "id": "aero-system-010",
+    "name": "Aero_Station_Ring_Art",
+    "project_id": "pm-aero-system",
+    "description": "3D model from aero-system collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/aero-system/Aero_Station_Ring_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.027Z",
+    "updated_at": "2026-02-09T18:22:05.027Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/aero-system/Aero_Station_Ring_Art_thumbnail.png",
+    "metadata": {
+      "number": "010",
+      "github_path": "projects/aero-system/Aero_Station_Ring_Art.glb",
+      "file_size": 533488,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Sci-Fi"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Station"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Aerial"
+        },
+        {
+          "trait_type": "Shape",
+          "value": "Ring"
+        }
+      ]
+    }
+  },
+  {
+    "id": "aero-system-011",
+    "name": "Aero_Station_YellowRing_Art",
+    "project_id": "pm-aero-system",
+    "description": "3D model from aero-system collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/aero-system/Aero_Station_YellowRing_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.027Z",
+    "updated_at": "2026-02-09T18:22:05.027Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/aero-system/Aero_Station_YellowRing_Art_thumbnail.png",
+    "metadata": {
+      "number": "011",
+      "github_path": "projects/aero-system/Aero_Station_YellowRing_Art.glb",
+      "file_size": 518028,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Sci-Fi"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Station"
+        },
+        {
+          "trait_type": "Color",
+          "value": "Yellow"
+        },
+        {
+          "trait_type": "Shape",
+          "value": "Ring"
+        }
+      ]
+    }
+  },
+  {
+    "id": "aero-system-012",
+    "name": "Floating_Island_01_Art",
+    "project_id": "pm-aero-system",
+    "description": "3D model from aero-system collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/aero-system/Floating_Island_01_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.027Z",
+    "updated_at": "2026-02-09T18:22:05.027Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/aero-system/Floating_Island_01_Art_thumbnail.png",
+    "metadata": {
+      "number": "012",
+      "github_path": "projects/aero-system/Floating_Island_01_Art.glb",
+      "file_size": 488024,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Sci-Fi"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Island"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Aerial"
+        },
+        {
+          "trait_type": "Feature",
+          "value": "Floating"
+        }
+      ]
+    }
+  },
+  {
+    "id": "aero-system-013",
+    "name": "Path_01_Art",
+    "project_id": "pm-aero-system",
+    "description": "3D model from aero-system collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/aero-system/Path_01_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.027Z",
+    "updated_at": "2026-02-09T18:22:05.027Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/aero-system/Path_01_Art_thumbnail.png",
+    "metadata": {
+      "number": "013",
+      "github_path": "projects/aero-system/Path_01_Art.glb",
+      "file_size": 1666560,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Sci-Fi"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Infrastructure"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Path"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Navigation"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Outdoor"
+        }
+      ]
+    }
+  },
+  {
+    "id": "aero-system-014",
+    "name": "Terrain_Art",
+    "project_id": "pm-aero-system",
+    "description": "3D model from aero-system collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/aero-system/Terrain_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.027Z",
+    "updated_at": "2026-02-09T18:22:05.027Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/aero-system/Terrain_Art_thumbnail.png",
+    "metadata": {
+      "number": "014",
+      "github_path": "projects/aero-system/Terrain_Art.glb",
+      "file_size": 461480,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Sci-Fi"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Environment"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Terrain"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Ground"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Landscape"
+        }
+      ]
+    }
+  },
+  {
+    "id": "aero-system-015",
+    "name": "Tree_01_Art",
+    "project_id": "pm-aero-system",
+    "description": "3D model from aero-system collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/aero-system/Tree_01_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.027Z",
+    "updated_at": "2026-02-09T18:22:05.027Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/aero-system/Tree_01_Art_thumbnail.png",
+    "metadata": {
+      "number": "015",
+      "github_path": "projects/aero-system/Tree_01_Art.glb",
+      "file_size": 1188440,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Sci-Fi"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Tree"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Outdoor"
+        }
+      ]
+    }
+  }
+]

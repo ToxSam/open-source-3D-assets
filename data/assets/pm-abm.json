@@ -1,0 +1,2046 @@
+[
+  {
+    "id": "abm-001",
+    "name": "Altar01_Art",
+    "project_id": "pm-abm",
+    "description": "3D model from abm collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/abm/Altar01_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.616Z",
+    "updated_at": "2026-02-09T18:22:04.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/abm/Altar01_Art_thumbnail.png",
+    "metadata": {
+      "number": "001",
+      "github_path": "projects/abm/Altar01_Art.glb",
+      "file_size": 455660,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Religious"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Altar"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Spiritual"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Decorative"
+        }
+      ]
+    }
+  },
+  {
+    "id": "abm-002",
+    "name": "BranchFlowers01_Art",
+    "project_id": "pm-abm",
+    "description": "3D model from abm collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/abm/BranchFlowers01_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.616Z",
+    "updated_at": "2026-02-09T18:22:04.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/abm/BranchFlowers01_Art_thumbnail.png",
+    "metadata": {
+      "number": "002",
+      "github_path": "projects/abm/BranchFlowers01_Art.glb",
+      "file_size": 602916,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Botanical"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Organic"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Flowers"
+        }
+      ]
+    }
+  },
+  {
+    "id": "abm-003",
+    "name": "CALogo01_Art",
+    "project_id": "pm-abm",
+    "description": "3D model from abm collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/abm/CALogo01_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.616Z",
+    "updated_at": "2026-02-09T18:22:04.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/abm/CALogo01_Art_thumbnail.png",
+    "metadata": {
+      "number": "003",
+      "github_path": "projects/abm/CALogo01_Art.glb",
+      "file_size": 656592,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Branding"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Logo"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Identity"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Corporate"
+        }
+      ]
+    }
+  },
+  {
+    "id": "abm-004",
+    "name": "Dome01_Art",
+    "project_id": "pm-abm",
+    "description": "3D model from abm collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/abm/Dome01_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.616Z",
+    "updated_at": "2026-02-09T18:22:04.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/abm/Dome01_Art_thumbnail.png",
+    "metadata": {
+      "number": "004",
+      "github_path": "projects/abm/Dome01_Art.glb",
+      "file_size": 670888,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Structure"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Building"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Futuristic"
+        },
+        {
+          "trait_type": "Shape",
+          "value": "Dome"
+        }
+      ]
+    }
+  },
+  {
+    "id": "abm-005",
+    "name": "Dome02_Art",
+    "project_id": "pm-abm",
+    "description": "3D model from abm collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/abm/Dome02_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.616Z",
+    "updated_at": "2026-02-09T18:22:04.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/abm/Dome02_Art_thumbnail.png",
+    "metadata": {
+      "number": "005",
+      "github_path": "projects/abm/Dome02_Art.glb",
+      "file_size": 626816,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Structure"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Building"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Futuristic"
+        },
+        {
+          "trait_type": "Shape",
+          "value": "Dome"
+        }
+      ]
+    }
+  },
+  {
+    "id": "abm-006",
+    "name": "Dome03_Art",
+    "project_id": "pm-abm",
+    "description": "3D model from abm collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/abm/Dome03_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.616Z",
+    "updated_at": "2026-02-09T18:22:04.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/abm/Dome03_Art_thumbnail.png",
+    "metadata": {
+      "number": "006",
+      "github_path": "projects/abm/Dome03_Art.glb",
+      "file_size": 676812,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Structure"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Building"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Futuristic"
+        },
+        {
+          "trait_type": "Shape",
+          "value": "Dome"
+        }
+      ]
+    }
+  },
+  {
+    "id": "abm-007",
+    "name": "Dome04_Art",
+    "project_id": "pm-abm",
+    "description": "3D model from abm collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/abm/Dome04_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.616Z",
+    "updated_at": "2026-02-09T18:22:04.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/abm/Dome04_Art_thumbnail.png",
+    "metadata": {
+      "number": "007",
+      "github_path": "projects/abm/Dome04_Art.glb",
+      "file_size": 652444,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Structure"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Building"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Futuristic"
+        },
+        {
+          "trait_type": "Shape",
+          "value": "Dome"
+        }
+      ]
+    }
+  },
+  {
+    "id": "abm-008",
+    "name": "DomeExtra01_Art",
+    "project_id": "pm-abm",
+    "description": "3D model from abm collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/abm/DomeExtra01_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.616Z",
+    "updated_at": "2026-02-09T18:22:04.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/abm/DomeExtra01_Art_thumbnail.png",
+    "metadata": {
+      "number": "008",
+      "github_path": "projects/abm/DomeExtra01_Art.glb",
+      "file_size": 621636,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Structure"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Building"
+        },
+        {
+          "trait_type": "Shape",
+          "value": "Dome"
+        },
+        {
+          "trait_type": "Variant",
+          "value": "Extra"
+        }
+      ]
+    }
+  },
+  {
+    "id": "abm-009",
+    "name": "ElevatorTeleport01_Art",
+    "project_id": "pm-abm",
+    "description": "3D model from abm collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/abm/ElevatorTeleport01_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.616Z",
+    "updated_at": "2026-02-09T18:22:04.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/abm/ElevatorTeleport01_Art_thumbnail.png",
+    "metadata": {
+      "number": "009",
+      "github_path": "projects/abm/ElevatorTeleport01_Art.glb",
+      "file_size": 785012,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Transportation"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Teleporter"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Interactive"
+        },
+        {
+          "trait_type": "Style",
+          "value": "SciFi"
+        }
+      ]
+    }
+  },
+  {
+    "id": "abm-010",
+    "name": "EntranceDoor01_Art",
+    "project_id": "pm-abm",
+    "description": "3D model from abm collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/abm/EntranceDoor01_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.616Z",
+    "updated_at": "2026-02-09T18:22:04.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/abm/EntranceDoor01_Art_thumbnail.png",
+    "metadata": {
+      "number": "010",
+      "github_path": "projects/abm/EntranceDoor01_Art.glb",
+      "file_size": 215836,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Door"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Entrance"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Portal"
+        }
+      ]
+    }
+  },
+  {
+    "id": "abm-011",
+    "name": "EntranceDoor02_Art",
+    "project_id": "pm-abm",
+    "description": "3D model from abm collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/abm/EntranceDoor02_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.616Z",
+    "updated_at": "2026-02-09T18:22:04.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/abm/EntranceDoor02_Art_thumbnail.png",
+    "metadata": {
+      "number": "011",
+      "github_path": "projects/abm/EntranceDoor02_Art.glb",
+      "file_size": 206684,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Door"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Entrance"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Portal"
+        }
+      ]
+    }
+  },
+  {
+    "id": "abm-012",
+    "name": "FloorPanel01_Art",
+    "project_id": "pm-abm",
+    "description": "3D model from abm collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/abm/FloorPanel01_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.616Z",
+    "updated_at": "2026-02-09T18:22:04.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/abm/FloorPanel01_Art_thumbnail.png",
+    "metadata": {
+      "number": "012",
+      "github_path": "projects/abm/FloorPanel01_Art.glb",
+      "file_size": 271224,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Floor"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Surface"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Panel"
+        }
+      ]
+    }
+  },
+  {
+    "id": "abm-013",
+    "name": "FloorPanel02_Art",
+    "project_id": "pm-abm",
+    "description": "3D model from abm collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/abm/FloorPanel02_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.616Z",
+    "updated_at": "2026-02-09T18:22:04.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/abm/FloorPanel02_Art_thumbnail.png",
+    "metadata": {
+      "number": "013",
+      "github_path": "projects/abm/FloorPanel02_Art.glb",
+      "file_size": 271228,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Floor"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Surface"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Panel"
+        }
+      ]
+    }
+  },
+  {
+    "id": "abm-014",
+    "name": "FloorPanel03_Art",
+    "project_id": "pm-abm",
+    "description": "3D model from abm collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/abm/FloorPanel03_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.616Z",
+    "updated_at": "2026-02-09T18:22:04.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/abm/FloorPanel03_Art_thumbnail.png",
+    "metadata": {
+      "number": "014",
+      "github_path": "projects/abm/FloorPanel03_Art.glb",
+      "file_size": 271228,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Floor"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Surface"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Panel"
+        }
+      ]
+    }
+  },
+  {
+    "id": "abm-015",
+    "name": "FloorPanel04_Art",
+    "project_id": "pm-abm",
+    "description": "3D model from abm collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/abm/FloorPanel04_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.616Z",
+    "updated_at": "2026-02-09T18:22:04.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/abm/FloorPanel04_Art_thumbnail.png",
+    "metadata": {
+      "number": "015",
+      "github_path": "projects/abm/FloorPanel04_Art.glb",
+      "file_size": 271228,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Floor"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Surface"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Panel"
+        }
+      ]
+    }
+  },
+  {
+    "id": "abm-016",
+    "name": "FloorPanel05_Art",
+    "project_id": "pm-abm",
+    "description": "3D model from abm collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/abm/FloorPanel05_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.616Z",
+    "updated_at": "2026-02-09T18:22:04.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/abm/FloorPanel05_Art_thumbnail.png",
+    "metadata": {
+      "number": "016",
+      "github_path": "projects/abm/FloorPanel05_Art.glb",
+      "file_size": 271228,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Floor"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Surface"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Panel"
+        }
+      ]
+    }
+  },
+  {
+    "id": "abm-017",
+    "name": "Gong01_Art",
+    "project_id": "pm-abm",
+    "description": "3D model from abm collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/abm/Gong01_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.616Z",
+    "updated_at": "2026-02-09T18:22:04.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/abm/Gong01_Art_thumbnail.png",
+    "metadata": {
+      "number": "017",
+      "github_path": "projects/abm/Gong01_Art.glb",
+      "file_size": 295952,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Musical"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Instrument"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Sound"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Asian"
+        }
+      ]
+    }
+  },
+  {
+    "id": "abm-018",
+    "name": "HexagonLargeVIP01_Art",
+    "project_id": "pm-abm",
+    "description": "3D model from abm collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/abm/HexagonLargeVIP01_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.616Z",
+    "updated_at": "2026-02-09T18:22:04.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/abm/HexagonLargeVIP01_Art_thumbnail.png",
+    "metadata": {
+      "number": "018",
+      "github_path": "projects/abm/HexagonLargeVIP01_Art.glb",
+      "file_size": 1261828,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Platform"
+        },
+        {
+          "trait_type": "Size",
+          "value": "Large"
+        },
+        {
+          "trait_type": "Shape",
+          "value": "Hexagon"
+        },
+        {
+          "trait_type": "Access",
+          "value": "VIP"
+        }
+      ]
+    }
+  },
+  {
+    "id": "abm-019",
+    "name": "HexagonLargeVIP02_Art",
+    "project_id": "pm-abm",
+    "description": "3D model from abm collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/abm/HexagonLargeVIP02_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.616Z",
+    "updated_at": "2026-02-09T18:22:04.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/abm/HexagonLargeVIP02_Art_thumbnail.png",
+    "metadata": {
+      "number": "019",
+      "github_path": "projects/abm/HexagonLargeVIP02_Art.glb",
+      "file_size": 1241132,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Platform"
+        },
+        {
+          "trait_type": "Size",
+          "value": "Large"
+        },
+        {
+          "trait_type": "Shape",
+          "value": "Hexagon"
+        },
+        {
+          "trait_type": "Access",
+          "value": "VIP"
+        }
+      ]
+    }
+  },
+  {
+    "id": "abm-020",
+    "name": "HexagonLargeVIP03_Art",
+    "project_id": "pm-abm",
+    "description": "3D model from abm collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/abm/HexagonLargeVIP03_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.616Z",
+    "updated_at": "2026-02-09T18:22:04.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/abm/HexagonLargeVIP03_Art_thumbnail.png",
+    "metadata": {
+      "number": "020",
+      "github_path": "projects/abm/HexagonLargeVIP03_Art.glb",
+      "file_size": 1256560,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Platform"
+        },
+        {
+          "trait_type": "Size",
+          "value": "Large"
+        },
+        {
+          "trait_type": "Shape",
+          "value": "Hexagon"
+        },
+        {
+          "trait_type": "Access",
+          "value": "VIP"
+        }
+      ]
+    }
+  },
+  {
+    "id": "abm-021",
+    "name": "HexagonLargeVIP04_Art",
+    "project_id": "pm-abm",
+    "description": "3D model from abm collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/abm/HexagonLargeVIP04_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.616Z",
+    "updated_at": "2026-02-09T18:22:04.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/abm/HexagonLargeVIP04_Art_thumbnail.png",
+    "metadata": {
+      "number": "021",
+      "github_path": "projects/abm/HexagonLargeVIP04_Art.glb",
+      "file_size": 751536,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Platform"
+        },
+        {
+          "trait_type": "Size",
+          "value": "Large"
+        },
+        {
+          "trait_type": "Shape",
+          "value": "Hexagon"
+        },
+        {
+          "trait_type": "Access",
+          "value": "VIP"
+        }
+      ]
+    }
+  },
+  {
+    "id": "abm-022",
+    "name": "HexagonPlatformLarge01_Art",
+    "project_id": "pm-abm",
+    "description": "3D model from abm collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/abm/HexagonPlatformLarge01_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.616Z",
+    "updated_at": "2026-02-09T18:22:04.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/abm/HexagonPlatformLarge01_Art_thumbnail.png",
+    "metadata": {
+      "number": "022",
+      "github_path": "projects/abm/HexagonPlatformLarge01_Art.glb",
+      "file_size": 1004376,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Platform"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Structure"
+        },
+        {
+          "trait_type": "Size",
+          "value": "Large"
+        },
+        {
+          "trait_type": "Shape",
+          "value": "Hexagon"
+        }
+      ]
+    }
+  },
+  {
+    "id": "abm-023",
+    "name": "HexagonPlatformMedium01_Art",
+    "project_id": "pm-abm",
+    "description": "3D model from abm collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/abm/HexagonPlatformMedium01_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.616Z",
+    "updated_at": "2026-02-09T18:22:04.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/abm/HexagonPlatformMedium01_Art_thumbnail.png",
+    "metadata": {
+      "number": "023",
+      "github_path": "projects/abm/HexagonPlatformMedium01_Art.glb",
+      "file_size": 811308,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Platform"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Structure"
+        },
+        {
+          "trait_type": "Size",
+          "value": "Medium"
+        },
+        {
+          "trait_type": "Shape",
+          "value": "Hexagon"
+        }
+      ]
+    }
+  },
+  {
+    "id": "abm-024",
+    "name": "HexagonPlatformRamp01_Art",
+    "project_id": "pm-abm",
+    "description": "3D model from abm collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/abm/HexagonPlatformRamp01_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.616Z",
+    "updated_at": "2026-02-09T18:22:04.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/abm/HexagonPlatformRamp01_Art_thumbnail.png",
+    "metadata": {
+      "number": "024",
+      "github_path": "projects/abm/HexagonPlatformRamp01_Art.glb",
+      "file_size": 264504,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Platform"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Ramp"
+        },
+        {
+          "trait_type": "Shape",
+          "value": "Hexagon"
+        }
+      ]
+    }
+  },
+  {
+    "id": "abm-025",
+    "name": "HexagonPlatformSmall01_Art",
+    "project_id": "pm-abm",
+    "description": "3D model from abm collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/abm/HexagonPlatformSmall01_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.616Z",
+    "updated_at": "2026-02-09T18:22:04.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/abm/HexagonPlatformSmall01_Art_thumbnail.png",
+    "metadata": {
+      "number": "025",
+      "github_path": "projects/abm/HexagonPlatformSmall01_Art.glb",
+      "file_size": 596056,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Platform"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Structure"
+        },
+        {
+          "trait_type": "Size",
+          "value": "Small"
+        },
+        {
+          "trait_type": "Shape",
+          "value": "Hexagon"
+        }
+      ]
+    }
+  },
+  {
+    "id": "abm-026",
+    "name": "HoloBush01_Art",
+    "project_id": "pm-abm",
+    "description": "3D model from abm collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/abm/HoloBush01_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.616Z",
+    "updated_at": "2026-02-09T18:22:04.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/abm/HoloBush01_Art_thumbnail.png",
+    "metadata": {
+      "number": "026",
+      "github_path": "projects/abm/HoloBush01_Art.glb",
+      "file_size": 66348,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Plant"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Holographic"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Bush"
+        }
+      ]
+    }
+  },
+  {
+    "id": "abm-027",
+    "name": "HoloBush02_Art",
+    "project_id": "pm-abm",
+    "description": "3D model from abm collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/abm/HoloBush02_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.616Z",
+    "updated_at": "2026-02-09T18:22:04.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/abm/HoloBush02_Art_thumbnail.png",
+    "metadata": {
+      "number": "027",
+      "github_path": "projects/abm/HoloBush02_Art.glb",
+      "file_size": 66352,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Plant"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Holographic"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Bush"
+        }
+      ]
+    }
+  },
+  {
+    "id": "abm-028",
+    "name": "HoloBush03_Art",
+    "project_id": "pm-abm",
+    "description": "3D model from abm collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/abm/HoloBush03_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.616Z",
+    "updated_at": "2026-02-09T18:22:04.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/abm/HoloBush03_Art_thumbnail.png",
+    "metadata": {
+      "number": "028",
+      "github_path": "projects/abm/HoloBush03_Art.glb",
+      "file_size": 66352,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Plant"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Holographic"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Bush"
+        }
+      ]
+    }
+  },
+  {
+    "id": "abm-029",
+    "name": "HoloPot01_Art",
+    "project_id": "pm-abm",
+    "description": "3D model from abm collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/abm/HoloPot01_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.616Z",
+    "updated_at": "2026-02-09T18:22:04.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/abm/HoloPot01_Art_thumbnail.png",
+    "metadata": {
+      "number": "029",
+      "github_path": "projects/abm/HoloPot01_Art.glb",
+      "file_size": 279252,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Container"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Planter"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Holographic"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Pot"
+        }
+      ]
+    }
+  },
+  {
+    "id": "abm-030",
+    "name": "HoloTree01",
+    "project_id": "pm-abm",
+    "description": "3D model from abm collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/abm/HoloTree01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.616Z",
+    "updated_at": "2026-02-09T18:22:04.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/abm/HoloTree01_thumbnail.png",
+    "metadata": {
+      "number": "030",
+      "github_path": "projects/abm/HoloTree01.glb",
+      "file_size": 439724,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Plant"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Environment"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Holographic"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Tree"
+        }
+      ]
+    }
+  },
+  {
+    "id": "abm-031",
+    "name": "HoloTree01_Art",
+    "project_id": "pm-abm",
+    "description": "3D model from abm collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/abm/HoloTree01_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.616Z",
+    "updated_at": "2026-02-09T18:22:04.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/abm/HoloTree01_Art_thumbnail.png",
+    "metadata": {
+      "number": "031",
+      "github_path": "projects/abm/HoloTree01_Art.glb",
+      "file_size": 333136,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Plant"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Environment"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Holographic"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Tree"
+        }
+      ]
+    }
+  },
+  {
+    "id": "abm-032",
+    "name": "InfoPanel01_Art",
+    "project_id": "pm-abm",
+    "description": "3D model from abm collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/abm/InfoPanel01_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.616Z",
+    "updated_at": "2026-02-09T18:22:04.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/abm/InfoPanel01_Art_thumbnail.png",
+    "metadata": {
+      "number": "032",
+      "github_path": "projects/abm/InfoPanel01_Art.glb",
+      "file_size": 621308,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Interactive"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Display"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Information"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Panel"
+        }
+      ]
+    }
+  },
+  {
+    "id": "abm-033",
+    "name": "InfoPanel02_Art",
+    "project_id": "pm-abm",
+    "description": "3D model from abm collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/abm/InfoPanel02_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.616Z",
+    "updated_at": "2026-02-09T18:22:04.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/abm/InfoPanel02_Art_thumbnail.png",
+    "metadata": {
+      "number": "033",
+      "github_path": "projects/abm/InfoPanel02_Art.glb",
+      "file_size": 263228,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Interactive"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Display"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Information"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Panel"
+        }
+      ]
+    }
+  },
+  {
+    "id": "abm-034",
+    "name": "MomusLogo01_Art",
+    "project_id": "pm-abm",
+    "description": "3D model from abm collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/abm/MomusLogo01_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.616Z",
+    "updated_at": "2026-02-09T18:22:04.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/abm/MomusLogo01_Art_thumbnail.png",
+    "metadata": {
+      "number": "034",
+      "github_path": "projects/abm/MomusLogo01_Art.glb",
+      "file_size": 20156,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Branding"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Logo"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Identity"
+        },
+        {
+          "trait_type": "Brand",
+          "value": "Momus"
+        }
+      ]
+    }
+  },
+  {
+    "id": "abm-035",
+    "name": "PMLogo01_Art",
+    "project_id": "pm-abm",
+    "description": "3D model from abm collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/abm/PMLogo01_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.616Z",
+    "updated_at": "2026-02-09T18:22:04.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/abm/PMLogo01_Art_thumbnail.png",
+    "metadata": {
+      "number": "035",
+      "github_path": "projects/abm/PMLogo01_Art.glb",
+      "file_size": 86060,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Branding"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Logo"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Identity"
+        },
+        {
+          "trait_type": "Brand",
+          "value": "PM"
+        }
+      ]
+    }
+  },
+  {
+    "id": "abm-036",
+    "name": "Petals01_Art",
+    "project_id": "pm-abm",
+    "description": "3D model from abm collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/abm/Petals01_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.616Z",
+    "updated_at": "2026-02-09T18:22:04.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/abm/Petals01_Art_thumbnail.png",
+    "metadata": {
+      "number": "036",
+      "github_path": "projects/abm/Petals01_Art.glb",
+      "file_size": 252980,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Botanical"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Organic"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Petals"
+        }
+      ]
+    }
+  },
+  {
+    "id": "abm-037",
+    "name": "Petals02_Art",
+    "project_id": "pm-abm",
+    "description": "3D model from abm collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/abm/Petals02_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.616Z",
+    "updated_at": "2026-02-09T18:22:04.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/abm/Petals02_Art_thumbnail.png",
+    "metadata": {
+      "number": "037",
+      "github_path": "projects/abm/Petals02_Art.glb",
+      "file_size": 253016,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Botanical"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Organic"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Petals"
+        }
+      ]
+    }
+  },
+  {
+    "id": "abm-038",
+    "name": "Platform01_Art",
+    "project_id": "pm-abm",
+    "description": "3D model from abm collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/abm/Platform01_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.616Z",
+    "updated_at": "2026-02-09T18:22:04.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/abm/Platform01_Art_thumbnail.png",
+    "metadata": {
+      "number": "038",
+      "github_path": "projects/abm/Platform01_Art.glb",
+      "file_size": 895452,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Platform"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Structure"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Stage"
+        }
+      ]
+    }
+  },
+  {
+    "id": "abm-039",
+    "name": "PlatformBarrier01_Art",
+    "project_id": "pm-abm",
+    "description": "3D model from abm collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/abm/PlatformBarrier01_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.616Z",
+    "updated_at": "2026-02-09T18:22:04.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/abm/PlatformBarrier01_Art_thumbnail.png",
+    "metadata": {
+      "number": "039",
+      "github_path": "projects/abm/PlatformBarrier01_Art.glb",
+      "file_size": 346964,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Barrier"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Safety"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Railing"
+        }
+      ]
+    }
+  },
+  {
+    "id": "abm-040",
+    "name": "PlatformHolder01_Art",
+    "project_id": "pm-abm",
+    "description": "3D model from abm collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/abm/PlatformHolder01_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.616Z",
+    "updated_at": "2026-02-09T18:22:04.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/abm/PlatformHolder01_Art_thumbnail.png",
+    "metadata": {
+      "number": "040",
+      "github_path": "projects/abm/PlatformHolder01_Art.glb",
+      "file_size": 274680,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Support"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Structure"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Holder"
+        }
+      ]
+    }
+  },
+  {
+    "id": "abm-041",
+    "name": "Sakura01_Art",
+    "project_id": "pm-abm",
+    "description": "3D model from abm collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/abm/Sakura01_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.616Z",
+    "updated_at": "2026-02-09T18:22:04.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/abm/Sakura01_Art_thumbnail.png",
+    "metadata": {
+      "number": "041",
+      "github_path": "projects/abm/Sakura01_Art.glb",
+      "file_size": 872860,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Tree"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Cherry Blossom"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Japanese"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Sakura"
+        }
+      ]
+    }
+  },
+  {
+    "id": "abm-042",
+    "name": "SignbookBoard01_Art",
+    "project_id": "pm-abm",
+    "description": "3D model from abm collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/abm/SignbookBoard01_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.616Z",
+    "updated_at": "2026-02-09T18:22:04.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/abm/SignbookBoard01_Art_thumbnail.png",
+    "metadata": {
+      "number": "042",
+      "github_path": "projects/abm/SignbookBoard01_Art.glb",
+      "file_size": 271168,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Interactive"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Display"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Guestbook"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Board"
+        }
+      ]
+    }
+  },
+  {
+    "id": "abm-043",
+    "name": "SignbookButton01_Art",
+    "project_id": "pm-abm",
+    "description": "3D model from abm collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/abm/SignbookButton01_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.616Z",
+    "updated_at": "2026-02-09T18:22:04.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/abm/SignbookButton01_Art_thumbnail.png",
+    "metadata": {
+      "number": "043",
+      "github_path": "projects/abm/SignbookButton01_Art.glb",
+      "file_size": 306440,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Interactive"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Button"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Guestbook"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Control"
+        }
+      ]
+    }
+  },
+  {
+    "id": "abm-044",
+    "name": "Teleporter01_Art",
+    "project_id": "pm-abm",
+    "description": "3D model from abm collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/abm/Teleporter01_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.616Z",
+    "updated_at": "2026-02-09T18:22:04.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/abm/Teleporter01_Art_thumbnail.png",
+    "metadata": {
+      "number": "044",
+      "github_path": "projects/abm/Teleporter01_Art.glb",
+      "file_size": 253020,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Transportation"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Teleporter"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Interactive"
+        },
+        {
+          "trait_type": "Style",
+          "value": "SciFi"
+        }
+      ]
+    }
+  },
+  {
+    "id": "abm-045",
+    "name": "Teleporter02_Art",
+    "project_id": "pm-abm",
+    "description": "3D model from abm collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/abm/Teleporter02_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.616Z",
+    "updated_at": "2026-02-09T18:22:04.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/abm/Teleporter02_Art_thumbnail.png",
+    "metadata": {
+      "number": "045",
+      "github_path": "projects/abm/Teleporter02_Art.glb",
+      "file_size": 611104,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Transportation"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Teleporter"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Interactive"
+        },
+        {
+          "trait_type": "Style",
+          "value": "SciFi"
+        }
+      ]
+    }
+  },
+  {
+    "id": "abm-046",
+    "name": "TeleporterVIP01_Art",
+    "project_id": "pm-abm",
+    "description": "3D model from abm collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/abm/TeleporterVIP01_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.616Z",
+    "updated_at": "2026-02-09T18:22:04.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/abm/TeleporterVIP01_Art_thumbnail.png",
+    "metadata": {
+      "number": "046",
+      "github_path": "projects/abm/TeleporterVIP01_Art.glb",
+      "file_size": 638960,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Transportation"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Teleporter"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Interactive"
+        },
+        {
+          "trait_type": "Style",
+          "value": "SciFi"
+        },
+        {
+          "trait_type": "Access",
+          "value": "VIP"
+        }
+      ]
+    }
+  },
+  {
+    "id": "abm-047",
+    "name": "Terrain01_Art",
+    "project_id": "pm-abm",
+    "description": "3D model from abm collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/abm/Terrain01_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.616Z",
+    "updated_at": "2026-02-09T18:22:04.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/abm/Terrain01_Art_thumbnail.png",
+    "metadata": {
+      "number": "047",
+      "github_path": "projects/abm/Terrain01_Art.glb",
+      "file_size": 264232,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Environment"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Terrain"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Ground"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Landscape"
+        }
+      ]
+    }
+  },
+  {
+    "id": "abm-048",
+    "name": "TerrainPath01_Art",
+    "project_id": "pm-abm",
+    "description": "3D model from abm collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/abm/TerrainPath01_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.616Z",
+    "updated_at": "2026-02-09T18:22:04.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/abm/TerrainPath01_Art_thumbnail.png",
+    "metadata": {
+      "number": "048",
+      "github_path": "projects/abm/TerrainPath01_Art.glb",
+      "file_size": 538748,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Environment"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Path"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Navigation"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Walkway"
+        }
+      ]
+    }
+  },
+  {
+    "id": "abm-049",
+    "name": "TerrainWalls01_Art",
+    "project_id": "pm-abm",
+    "description": "3D model from abm collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/abm/TerrainWalls01_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.616Z",
+    "updated_at": "2026-02-09T18:22:04.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/abm/TerrainWalls01_Art_thumbnail.png",
+    "metadata": {
+      "number": "049",
+      "github_path": "projects/abm/TerrainWalls01_Art.glb",
+      "file_size": 525752,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Environment"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Walls"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Structure"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Boundary"
+        }
+      ]
+    }
+  },
+  {
+    "id": "abm-050",
+    "name": "Tree01_Art",
+    "project_id": "pm-abm",
+    "description": "3D model from abm collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/abm/Tree01_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.616Z",
+    "updated_at": "2026-02-09T18:22:04.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/abm/Tree01_Art_thumbnail.png",
+    "metadata": {
+      "number": "050",
+      "github_path": "projects/abm/Tree01_Art.glb",
+      "file_size": 1719596,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Plant"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Environment"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Organic"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Tree"
+        }
+      ]
+    }
+  },
+  {
+    "id": "abm-051",
+    "name": "VIPBridge01_Art",
+    "project_id": "pm-abm",
+    "description": "3D model from abm collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/abm/VIPBridge01_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.616Z",
+    "updated_at": "2026-02-09T18:22:04.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/abm/VIPBridge01_Art_thumbnail.png",
+    "metadata": {
+      "number": "051",
+      "github_path": "projects/abm/VIPBridge01_Art.glb",
+      "file_size": 371416,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Bridge"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Walkway"
+        },
+        {
+          "trait_type": "Access",
+          "value": "VIP"
+        }
+      ]
+    }
+  },
+  {
+    "id": "abm-052",
+    "name": "VIPWall01_Art",
+    "project_id": "pm-abm",
+    "description": "3D model from abm collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/abm/VIPWall01_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.616Z",
+    "updated_at": "2026-02-09T18:22:04.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/abm/VIPWall01_Art_thumbnail.png",
+    "metadata": {
+      "number": "052",
+      "github_path": "projects/abm/VIPWall01_Art.glb",
+      "file_size": 377076,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Wall"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Structure"
+        },
+        {
+          "trait_type": "Access",
+          "value": "VIP"
+        }
+      ]
+    }
+  },
+  {
+    "id": "abm-053",
+    "name": "VIP_Domes_Outline",
+    "project_id": "pm-abm",
+    "description": "3D model from abm collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/abm/VIP_Domes_Outline.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.616Z",
+    "updated_at": "2026-02-09T18:22:04.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/abm/VIP_Domes_Outline_thumbnail.png",
+    "metadata": {
+      "number": "053",
+      "github_path": "projects/abm/VIP_Domes_Outline.glb",
+      "file_size": 605548,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Outline"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Blueprint"
+        },
+        {
+          "trait_type": "Shape",
+          "value": "Dome"
+        },
+        {
+          "trait_type": "Access",
+          "value": "VIP"
+        }
+      ]
+    }
+  },
+  {
+    "id": "abm-054",
+    "name": "VipBarrier01_Art",
+    "project_id": "pm-abm",
+    "description": "3D model from abm collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/abm/VipBarrier01_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:04.616Z",
+    "updated_at": "2026-02-09T18:22:04.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/abm/VipBarrier01_Art_thumbnail.png",
+    "metadata": {
+      "number": "054",
+      "github_path": "projects/abm/VipBarrier01_Art.glb",
+      "file_size": 357488,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Barrier"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Protection"
+        },
+        {
+          "trait_type": "Access",
+          "value": "VIP"
+        }
+      ]
+    }
+  }
+]

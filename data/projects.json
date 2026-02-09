@@ -1,0 +1,50 @@
+[
+  {
+    "id": "example-original",
+    "name": "Example Original Collection",
+    "creator_id": "placeholder",
+    "description": "Placeholder: original 3D assets (e.g. self-published, permanent storage).",
+    "is_public": true,
+    "license": "CC0",
+    "source_type": "original",
+    "storage_type": "arweave",
+    "created_at": "2025-02-04T00:00:00.000Z",
+    "updated_at": "2025-02-04T00:00:00.000Z",
+    "asset_data_file": "assets/example-original.json"
+  },
+  {
+    "id": "example-nft-single",
+    "name": "Example NFT Single Network",
+    "creator_id": "placeholder",
+    "description": "Placeholder: NFT collection on a single network.",
+    "is_public": true,
+    "license": "CC0",
+    "source_type": "nft",
+    "source_network": "base",
+    "source_contract": "0x0000000000000000000000000000000000000000",
+    "storage_type": "ipfs",
+    "opensea_url": "https://opensea.io/collection/example",
+    "created_at": "2025-02-04T00:00:00.000Z",
+    "updated_at": "2025-02-04T00:00:00.000Z",
+    "asset_data_file": "assets/example-nft-single.json"
+  },
+  {
+    "id": "example-nft-multi",
+    "name": "Example NFT Multi Network",
+    "creator_id": "placeholder",
+    "description": "Placeholder: NFT collection across multiple networks/contracts.",
+    "is_public": true,
+    "license": "CC-BY",
+    "source_type": "nft",
+    "source_network": ["ethereum", "base"],
+    "source_contract": [
+      "0x0000000000000000000000000000000000000001",
+      "0x0000000000000000000000000000000000000002"
+    ],
+    "storage_type": ["ipfs", "arweave"],
+    "opensea_url": "https://opensea.io/placeholder",
+    "created_at": "2025-02-04T00:00:00.000Z",
+    "updated_at": "2025-02-04T00:00:00.000Z",
+    "asset_data_file": "assets/example-nft-multi.json"
+  }
+]

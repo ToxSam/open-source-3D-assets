@@ -1,0 +1,2690 @@
+[
+  {
+    "id": "ca-world-001",
+    "name": "AvatarBust_01",
+    "project_id": "pm-ca-world",
+    "description": "3D model from ca-world collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/AvatarBust_01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.535Z",
+    "updated_at": "2026-02-09T18:22:06.535Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/AvatarBust_01_thumbnail.png",
+    "metadata": {
+      "number": "001",
+      "github_path": "projects/ca-world/AvatarBust_01.glb",
+      "file_size": 11120,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "CryptoAvatars"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Bust"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Gallery"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Avatar"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ca-world-002",
+    "name": "Bench_01",
+    "project_id": "pm-ca-world",
+    "description": "3D model from ca-world collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Bench_01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.535Z",
+    "updated_at": "2026-02-09T18:22:06.535Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Bench_01_thumbnail.png",
+    "metadata": {
+      "number": "002",
+      "github_path": "projects/ca-world/Bench_01.glb",
+      "file_size": 1548176,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Furniture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Bench"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Seating"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Outdoor"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ca-world-003",
+    "name": "Bench_02",
+    "project_id": "pm-ca-world",
+    "description": "3D model from ca-world collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Bench_02.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.535Z",
+    "updated_at": "2026-02-09T18:22:06.535Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Bench_02_thumbnail.png",
+    "metadata": {
+      "number": "003",
+      "github_path": "projects/ca-world/Bench_02.glb",
+      "file_size": 412948,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Furniture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Bench"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Seating"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Outdoor"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ca-world-004",
+    "name": "Bench_03",
+    "project_id": "pm-ca-world",
+    "description": "3D model from ca-world collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Bench_03.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.535Z",
+    "updated_at": "2026-02-09T18:22:06.535Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Bench_03_thumbnail.png",
+    "metadata": {
+      "number": "004",
+      "github_path": "projects/ca-world/Bench_03.glb",
+      "file_size": 413208,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Furniture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Bench"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Seating"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Outdoor"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ca-world-005",
+    "name": "Bin_01",
+    "project_id": "pm-ca-world",
+    "description": "3D model from ca-world collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Bin_01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.535Z",
+    "updated_at": "2026-02-09T18:22:06.535Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Bin_01_thumbnail.png",
+    "metadata": {
+      "number": "005",
+      "github_path": "projects/ca-world/Bin_01.glb",
+      "file_size": 421556,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Urban Furniture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Trash Bin"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Waste Disposal"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Public Space"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ca-world-006",
+    "name": "CAIO_Whale_01",
+    "project_id": "pm-ca-world",
+    "description": "3D model from ca-world collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/CAIO_Whale_01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.535Z",
+    "updated_at": "2026-02-09T18:22:06.535Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/CAIO_Whale_01_thumbnail.png",
+    "metadata": {
+      "number": "006",
+      "github_path": "projects/ca-world/CAIO_Whale_01.glb",
+      "file_size": 414884,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "CryptoAvatars"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Mascot"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Whale"
+        },
+        {
+          "trait_type": "Brand",
+          "value": "CAIO"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ca-world-007",
+    "name": "Carpet_01",
+    "project_id": "pm-ca-world",
+    "description": "3D model from ca-world collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Carpet_01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.535Z",
+    "updated_at": "2026-02-09T18:22:06.535Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Carpet_01_thumbnail.png",
+    "metadata": {
+      "number": "007",
+      "github_path": "projects/ca-world/Carpet_01.glb",
+      "file_size": 3609964,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Carpet"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Floor Covering"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Interior"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ca-world-008",
+    "name": "Carpet_02",
+    "project_id": "pm-ca-world",
+    "description": "3D model from ca-world collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Carpet_02.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.535Z",
+    "updated_at": "2026-02-09T18:22:06.535Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Carpet_02_thumbnail.png",
+    "metadata": {
+      "number": "008",
+      "github_path": "projects/ca-world/Carpet_02.glb",
+      "file_size": 657836,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Carpet"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Floor Covering"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Interior"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ca-world-009",
+    "name": "Carpet_03",
+    "project_id": "pm-ca-world",
+    "description": "3D model from ca-world collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Carpet_03.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.535Z",
+    "updated_at": "2026-02-09T18:22:06.535Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Carpet_03_thumbnail.png",
+    "metadata": {
+      "number": "009",
+      "github_path": "projects/ca-world/Carpet_03.glb",
+      "file_size": 2388220,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Carpet"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Floor Covering"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Interior"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ca-world-010",
+    "name": "Column_01",
+    "project_id": "pm-ca-world",
+    "description": "3D model from ca-world collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Column_01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.535Z",
+    "updated_at": "2026-02-09T18:22:06.535Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Column_01_thumbnail.png",
+    "metadata": {
+      "number": "010",
+      "github_path": "projects/ca-world/Column_01.glb",
+      "file_size": 489040,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Column"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Structural"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Interior"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Classical"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ca-world-011",
+    "name": "Column_Base_01",
+    "project_id": "pm-ca-world",
+    "description": "3D model from ca-world collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Column_Base_01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.535Z",
+    "updated_at": "2026-02-09T18:22:06.535Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Column_Base_01_thumbnail.png",
+    "metadata": {
+      "number": "011",
+      "github_path": "projects/ca-world/Column_Base_01.glb",
+      "file_size": 492216,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Column Base"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Structural"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Classical"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Foundation"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ca-world-012",
+    "name": "Column_Base_02",
+    "project_id": "pm-ca-world",
+    "description": "3D model from ca-world collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Column_Base_02.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.535Z",
+    "updated_at": "2026-02-09T18:22:06.535Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Column_Base_02_thumbnail.png",
+    "metadata": {
+      "number": "012",
+      "github_path": "projects/ca-world/Column_Base_02.glb",
+      "file_size": 483568,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Column Base"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Structural"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Classical"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Foundation"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ca-world-013",
+    "name": "CryptoAvatar_Logo_2D",
+    "project_id": "pm-ca-world",
+    "description": "3D model from ca-world collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/CryptoAvatar_Logo_2D.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.535Z",
+    "updated_at": "2026-02-09T18:22:06.535Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/CryptoAvatar_Logo_2D_thumbnail.png",
+    "metadata": {
+      "number": "013",
+      "github_path": "projects/ca-world/CryptoAvatar_Logo_2D.glb",
+      "file_size": 727684,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "CryptoAvatars"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Branding"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Logo"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Signage"
+        },
+        {
+          "trait_type": "Format",
+          "value": "2D"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ca-world-014",
+    "name": "CryptoAvatar_Logo_2D_low",
+    "project_id": "pm-ca-world",
+    "description": "3D model from ca-world collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/CryptoAvatar_Logo_2D_low.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.535Z",
+    "updated_at": "2026-02-09T18:22:06.535Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/CryptoAvatar_Logo_2D_low_thumbnail.png",
+    "metadata": {
+      "number": "014",
+      "github_path": "projects/ca-world/CryptoAvatar_Logo_2D_low.glb",
+      "file_size": 680796,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "CryptoAvatars"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Branding"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Logo"
+        },
+        {
+          "trait_type": "Format",
+          "value": "2D"
+        },
+        {
+          "trait_type": "Quality",
+          "value": "Low Poly"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ca-world-015",
+    "name": "Curtain_01",
+    "project_id": "pm-ca-world",
+    "description": "3D model from ca-world collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Curtain_01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.535Z",
+    "updated_at": "2026-02-09T18:22:06.535Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Curtain_01_thumbnail.png",
+    "metadata": {
+      "number": "015",
+      "github_path": "projects/ca-world/Curtain_01.glb",
+      "file_size": 511072,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Curtain"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Window Treatment"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Interior"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Fabric"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ca-world-016",
+    "name": "Curtain_02",
+    "project_id": "pm-ca-world",
+    "description": "3D model from ca-world collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Curtain_02.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.535Z",
+    "updated_at": "2026-02-09T18:22:06.535Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Curtain_02_thumbnail.png",
+    "metadata": {
+      "number": "016",
+      "github_path": "projects/ca-world/Curtain_02.glb",
+      "file_size": 511068,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Curtain"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Window Treatment"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Interior"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Fabric"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ca-world-017",
+    "name": "Curtain_Bar_01",
+    "project_id": "pm-ca-world",
+    "description": "3D model from ca-world collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Curtain_Bar_01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.535Z",
+    "updated_at": "2026-02-09T18:22:06.535Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Curtain_Bar_01_thumbnail.png",
+    "metadata": {
+      "number": "017",
+      "github_path": "projects/ca-world/Curtain_Bar_01.glb",
+      "file_size": 1991920,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Furniture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Curtain Rod"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Support"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Interior"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Metal"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ca-world-018",
+    "name": "Decor_01_Greek",
+    "project_id": "pm-ca-world",
+    "description": "3D model from ca-world collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Decor_01_Greek.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.535Z",
+    "updated_at": "2026-02-09T18:22:06.535Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Decor_01_Greek_thumbnail.png",
+    "metadata": {
+      "number": "018",
+      "github_path": "projects/ca-world/Decor_01_Greek.glb",
+      "file_size": 6993200,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Ornament"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Architectural Detail"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Classical"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Greek"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ca-world-019",
+    "name": "Decor_02_Greek",
+    "project_id": "pm-ca-world",
+    "description": "3D model from ca-world collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Decor_02_Greek.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.535Z",
+    "updated_at": "2026-02-09T18:22:06.535Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Decor_02_Greek_thumbnail.png",
+    "metadata": {
+      "number": "019",
+      "github_path": "projects/ca-world/Decor_02_Greek.glb",
+      "file_size": 6991064,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Ornament"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Architectural Detail"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Classical"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Greek"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ca-world-020",
+    "name": "Door_01",
+    "project_id": "pm-ca-world",
+    "description": "3D model from ca-world collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Door_01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.535Z",
+    "updated_at": "2026-02-09T18:22:06.535Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Door_01_thumbnail.png",
+    "metadata": {
+      "number": "020",
+      "github_path": "projects/ca-world/Door_01.glb",
+      "file_size": 2007348,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Door"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Entry"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Interior"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Wood"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ca-world-021",
+    "name": "Door_02",
+    "project_id": "pm-ca-world",
+    "description": "3D model from ca-world collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Door_02.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.535Z",
+    "updated_at": "2026-02-09T18:22:06.535Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Door_02_thumbnail.png",
+    "metadata": {
+      "number": "021",
+      "github_path": "projects/ca-world/Door_02.glb",
+      "file_size": 2007436,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Door"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Entry"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Interior"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Wood"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ca-world-022",
+    "name": "Floor_01",
+    "project_id": "pm-ca-world",
+    "description": "3D model from ca-world collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Floor_01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.535Z",
+    "updated_at": "2026-02-09T18:22:06.535Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Floor_01_thumbnail.png",
+    "metadata": {
+      "number": "022",
+      "github_path": "projects/ca-world/Floor_01.glb",
+      "file_size": 2388612,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Floor"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Flooring"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Interior"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Tile"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ca-world-023",
+    "name": "Floor_02",
+    "project_id": "pm-ca-world",
+    "description": "3D model from ca-world collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Floor_02.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.535Z",
+    "updated_at": "2026-02-09T18:22:06.535Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Floor_02_thumbnail.png",
+    "metadata": {
+      "number": "023",
+      "github_path": "projects/ca-world/Floor_02.glb",
+      "file_size": 39788,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Floor"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Flooring"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Interior"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Tile"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ca-world-024",
+    "name": "Head_logo_01",
+    "project_id": "pm-ca-world",
+    "description": "3D model from ca-world collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Head_logo_01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.535Z",
+    "updated_at": "2026-02-09T18:22:06.535Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Head_logo_01_thumbnail.png",
+    "metadata": {
+      "number": "024",
+      "github_path": "projects/ca-world/Head_logo_01.glb",
+      "file_size": 346052,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "CryptoAvatars"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Branding"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Logo"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Head"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ca-world-025",
+    "name": "LAND",
+    "project_id": "pm-ca-world",
+    "description": "3D model from ca-world collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/LAND.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.535Z",
+    "updated_at": "2026-02-09T18:22:06.535Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/LAND_thumbnail.png",
+    "metadata": {
+      "number": "025",
+      "github_path": "projects/ca-world/LAND.glb",
+      "file_size": 1152120,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Environment"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Terrain"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Ground"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Outdoor"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Land"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ca-world-026",
+    "name": "Launch_Building_Coon_Barrier_1",
+    "project_id": "pm-ca-world",
+    "description": "3D model from ca-world collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Launch_Building_Coon_Barrier_1.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.535Z",
+    "updated_at": "2026-02-09T18:22:06.535Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Launch_Building_Coon_Barrier_1_thumbnail.png",
+    "metadata": {
+      "number": "026",
+      "github_path": "projects/ca-world/Launch_Building_Coon_Barrier_1.glb",
+      "file_size": 2295568,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Barrier"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Safety"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Building"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Launch Building"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ca-world-027",
+    "name": "Launch_Building_Coon_Building",
+    "project_id": "pm-ca-world",
+    "description": "3D model from ca-world collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Launch_Building_Coon_Building.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.535Z",
+    "updated_at": "2026-02-09T18:22:06.535Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Launch_Building_Coon_Building_thumbnail.png",
+    "metadata": {
+      "number": "027",
+      "github_path": "projects/ca-world/Launch_Building_Coon_Building.glb",
+      "file_size": 11102776,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Building"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Structure"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Launch Site"
+        },
+        {
+          "trait_type": "Size",
+          "value": "Large"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ca-world-028",
+    "name": "Launch_Building_Coon_Exterior_Joint1.001",
+    "project_id": "pm-ca-world",
+    "description": "3D model from ca-world collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Launch_Building_Coon_Exterior_Joint1.001.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.535Z",
+    "updated_at": "2026-02-09T18:22:06.535Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Launch_Building_Coon_Exterior_Joint1.001_thumbnail.png",
+    "metadata": {
+      "number": "028",
+      "github_path": "projects/ca-world/Launch_Building_Coon_Exterior_Joint1.001.glb",
+      "file_size": 2492416,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Joint"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Connection"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Exterior"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Building Component"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ca-world-029",
+    "name": "Launch_Building_Coon_Stairs",
+    "project_id": "pm-ca-world",
+    "description": "3D model from ca-world collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Launch_Building_Coon_Stairs.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.535Z",
+    "updated_at": "2026-02-09T18:22:06.535Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Launch_Building_Coon_Stairs_thumbnail.png",
+    "metadata": {
+      "number": "029",
+      "github_path": "projects/ca-world/Launch_Building_Coon_Stairs.glb",
+      "file_size": 13410856,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Stairs"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Circulation"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Building"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Launch Building"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ca-world-030",
+    "name": "Launch_Building_Exterior_Roof",
+    "project_id": "pm-ca-world",
+    "description": "3D model from ca-world collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Launch_Building_Exterior_Roof.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.535Z",
+    "updated_at": "2026-02-09T18:22:06.535Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Launch_Building_Exterior_Roof_thumbnail.png",
+    "metadata": {
+      "number": "030",
+      "github_path": "projects/ca-world/Launch_Building_Exterior_Roof.glb",
+      "file_size": 5253168,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Roof"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Cover"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Exterior"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Launch Building"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ca-world-031",
+    "name": "Light_Floor_01",
+    "project_id": "pm-ca-world",
+    "description": "3D model from ca-world collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Light_Floor_01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.535Z",
+    "updated_at": "2026-02-09T18:22:06.535Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Light_Floor_01_thumbnail.png",
+    "metadata": {
+      "number": "031",
+      "github_path": "projects/ca-world/Light_Floor_01.glb",
+      "file_size": 2660104,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Lighting"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Floor Light"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Illumination"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Interior"
+        },
+        {
+          "trait_type": "Placement",
+          "value": "Floor"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ca-world-032",
+    "name": "Light_Hall_01",
+    "project_id": "pm-ca-world",
+    "description": "3D model from ca-world collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Light_Hall_01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.535Z",
+    "updated_at": "2026-02-09T18:22:06.535Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Light_Hall_01_thumbnail.png",
+    "metadata": {
+      "number": "032",
+      "github_path": "projects/ca-world/Light_Hall_01.glb",
+      "file_size": 494944,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Lighting"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Hall Light"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Illumination"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Interior"
+        },
+        {
+          "trait_type": "Placement",
+          "value": "Hall"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ca-world-033",
+    "name": "Light_Rail_01",
+    "project_id": "pm-ca-world",
+    "description": "3D model from ca-world collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Light_Rail_01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.535Z",
+    "updated_at": "2026-02-09T18:22:06.535Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Light_Rail_01_thumbnail.png",
+    "metadata": {
+      "number": "033",
+      "github_path": "projects/ca-world/Light_Rail_01.glb",
+      "file_size": 1997348,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Lighting"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Rail Light"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Illumination"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Interior"
+        },
+        {
+          "trait_type": "Placement",
+          "value": "Rail"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ca-world-034",
+    "name": "Light_Rail_01_AdOn_01",
+    "project_id": "pm-ca-world",
+    "description": "3D model from ca-world collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Light_Rail_01_AdOn_01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.535Z",
+    "updated_at": "2026-02-09T18:22:06.535Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Light_Rail_01_AdOn_01_thumbnail.png",
+    "metadata": {
+      "number": "034",
+      "github_path": "projects/ca-world/Light_Rail_01_AdOn_01.glb",
+      "file_size": 1993660,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Lighting"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Rail Light Add-On"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Illumination"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Interior"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Extension"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ca-world-035",
+    "name": "Light_Stair_01",
+    "project_id": "pm-ca-world",
+    "description": "3D model from ca-world collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Light_Stair_01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.535Z",
+    "updated_at": "2026-02-09T18:22:06.535Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Light_Stair_01_thumbnail.png",
+    "metadata": {
+      "number": "035",
+      "github_path": "projects/ca-world/Light_Stair_01.glb",
+      "file_size": 1993444,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Lighting"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Stair Light"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Illumination"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Interior"
+        },
+        {
+          "trait_type": "Placement",
+          "value": "Stairs"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ca-world-036",
+    "name": "Light_Streetlight_01",
+    "project_id": "pm-ca-world",
+    "description": "3D model from ca-world collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Light_Streetlight_01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.535Z",
+    "updated_at": "2026-02-09T18:22:06.535Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Light_Streetlight_01_thumbnail.png",
+    "metadata": {
+      "number": "036",
+      "github_path": "projects/ca-world/Light_Streetlight_01.glb",
+      "file_size": 2665244,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Lighting"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Street Light"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Illumination"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Outdoor"
+        },
+        {
+          "trait_type": "Placement",
+          "value": "Street"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ca-world-037",
+    "name": "Links_Frames_Big_CryptoAvatars",
+    "project_id": "pm-ca-world",
+    "description": "3D model from ca-world collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Links_Frames_Big_CryptoAvatars.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.535Z",
+    "updated_at": "2026-02-09T18:22:06.535Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Links_Frames_Big_CryptoAvatars_thumbnail.png",
+    "metadata": {
+      "number": "037",
+      "github_path": "projects/ca-world/Links_Frames_Big_CryptoAvatars.glb",
+      "file_size": 618520,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "CryptoAvatars"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Branding"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Frame"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Link Display"
+        },
+        {
+          "trait_type": "Size",
+          "value": "Large"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ca-world-038",
+    "name": "Links_Frames_Big_PolygonalMind",
+    "project_id": "pm-ca-world",
+    "description": "3D model from ca-world collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Links_Frames_Big_PolygonalMind.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.535Z",
+    "updated_at": "2026-02-09T18:22:06.535Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Links_Frames_Big_PolygonalMind_thumbnail.png",
+    "metadata": {
+      "number": "038",
+      "github_path": "projects/ca-world/Links_Frames_Big_PolygonalMind.glb",
+      "file_size": 618524,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "PolygonalMind"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Branding"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Frame"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Link Display"
+        },
+        {
+          "trait_type": "Size",
+          "value": "Large"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ca-world-039",
+    "name": "PolygonalPlush_01",
+    "project_id": "pm-ca-world",
+    "description": "3D model from ca-world collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/PolygonalPlush_01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.535Z",
+    "updated_at": "2026-02-09T18:22:06.535Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/PolygonalPlush_01_thumbnail.png",
+    "metadata": {
+      "number": "039",
+      "github_path": "projects/ca-world/PolygonalPlush_01.glb",
+      "file_size": 13829068,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "PolygonalMind"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Plush Toy"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Collectible"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Soft"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ca-world-040",
+    "name": "Pot_01",
+    "project_id": "pm-ca-world",
+    "description": "3D model from ca-world collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Pot_01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.535Z",
+    "updated_at": "2026-02-09T18:22:06.535Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Pot_01_thumbnail.png",
+    "metadata": {
+      "number": "040",
+      "github_path": "projects/ca-world/Pot_01.glb",
+      "file_size": 611556,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Plant Pot"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Planter"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Interior"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Ceramic"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ca-world-041",
+    "name": "Pot_02",
+    "project_id": "pm-ca-world",
+    "description": "3D model from ca-world collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Pot_02.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.535Z",
+    "updated_at": "2026-02-09T18:22:06.535Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Pot_02_thumbnail.png",
+    "metadata": {
+      "number": "041",
+      "github_path": "projects/ca-world/Pot_02.glb",
+      "file_size": 614136,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Plant Pot"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Planter"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Interior"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Ceramic"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ca-world-042",
+    "name": "Railing_01",
+    "project_id": "pm-ca-world",
+    "description": "3D model from ca-world collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Railing_01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.535Z",
+    "updated_at": "2026-02-09T18:22:06.535Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Railing_01_thumbnail.png",
+    "metadata": {
+      "number": "042",
+      "github_path": "projects/ca-world/Railing_01.glb",
+      "file_size": 1288196,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Railing"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Safety"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Interior"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Metal"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ca-world-043",
+    "name": "Railing_02",
+    "project_id": "pm-ca-world",
+    "description": "3D model from ca-world collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Railing_02.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.535Z",
+    "updated_at": "2026-02-09T18:22:06.535Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Railing_02_thumbnail.png",
+    "metadata": {
+      "number": "043",
+      "github_path": "projects/ca-world/Railing_02.glb",
+      "file_size": 2399400,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Railing"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Safety"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Interior"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Metal"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ca-world-044",
+    "name": "Rock_01",
+    "project_id": "pm-ca-world",
+    "description": "3D model from ca-world collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Rock_01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.535Z",
+    "updated_at": "2026-02-09T18:22:06.535Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Rock_01_thumbnail.png",
+    "metadata": {
+      "number": "044",
+      "github_path": "projects/ca-world/Rock_01.glb",
+      "file_size": 626136,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Rock"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Outdoor"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Stone"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ca-world-045",
+    "name": "Rock_02",
+    "project_id": "pm-ca-world",
+    "description": "3D model from ca-world collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Rock_02.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.535Z",
+    "updated_at": "2026-02-09T18:22:06.535Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Rock_02_thumbnail.png",
+    "metadata": {
+      "number": "045",
+      "github_path": "projects/ca-world/Rock_02.glb",
+      "file_size": 626600,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Rock"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Outdoor"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Stone"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ca-world-046",
+    "name": "Rock_03",
+    "project_id": "pm-ca-world",
+    "description": "3D model from ca-world collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Rock_03.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.535Z",
+    "updated_at": "2026-02-09T18:22:06.535Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Rock_03_thumbnail.png",
+    "metadata": {
+      "number": "046",
+      "github_path": "projects/ca-world/Rock_03.glb",
+      "file_size": 626604,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Rock"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Outdoor"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Stone"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ca-world-047",
+    "name": "Shelf_01_a",
+    "project_id": "pm-ca-world",
+    "description": "3D model from ca-world collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Shelf_01_a.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.535Z",
+    "updated_at": "2026-02-09T18:22:06.535Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Shelf_01_a_thumbnail.png",
+    "metadata": {
+      "number": "047",
+      "github_path": "projects/ca-world/Shelf_01_a.glb",
+      "file_size": 490256,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Furniture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Shelf"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Storage"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Interior"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Wood"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ca-world-048",
+    "name": "Shelf_02_a",
+    "project_id": "pm-ca-world",
+    "description": "3D model from ca-world collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Shelf_02_a.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.535Z",
+    "updated_at": "2026-02-09T18:22:06.535Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Shelf_02_a_thumbnail.png",
+    "metadata": {
+      "number": "048",
+      "github_path": "projects/ca-world/Shelf_02_a.glb",
+      "file_size": 491800,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Furniture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Shelf"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Storage"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Interior"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Wood"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ca-world-049",
+    "name": "Shelf_03_a",
+    "project_id": "pm-ca-world",
+    "description": "3D model from ca-world collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Shelf_03_a.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.535Z",
+    "updated_at": "2026-02-09T18:22:06.535Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Shelf_03_a_thumbnail.png",
+    "metadata": {
+      "number": "049",
+      "github_path": "projects/ca-world/Shelf_03_a.glb",
+      "file_size": 488144,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Furniture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Shelf"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Storage"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Interior"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Wood"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ca-world-050",
+    "name": "Shelf_04_a",
+    "project_id": "pm-ca-world",
+    "description": "3D model from ca-world collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Shelf_04_a.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.535Z",
+    "updated_at": "2026-02-09T18:22:06.535Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Shelf_04_a_thumbnail.png",
+    "metadata": {
+      "number": "050",
+      "github_path": "projects/ca-world/Shelf_04_a.glb",
+      "file_size": 488172,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Furniture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Shelf"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Storage"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Interior"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Wood"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ca-world-051",
+    "name": "Shelf_05_a",
+    "project_id": "pm-ca-world",
+    "description": "3D model from ca-world collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Shelf_05_a.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.535Z",
+    "updated_at": "2026-02-09T18:22:06.535Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Shelf_05_a_thumbnail.png",
+    "metadata": {
+      "number": "051",
+      "github_path": "projects/ca-world/Shelf_05_a.glb",
+      "file_size": 487632,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Furniture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Shelf"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Storage"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Interior"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Wood"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ca-world-052",
+    "name": "Shelf_06_a",
+    "project_id": "pm-ca-world",
+    "description": "3D model from ca-world collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Shelf_06_a.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.535Z",
+    "updated_at": "2026-02-09T18:22:06.535Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Shelf_06_a_thumbnail.png",
+    "metadata": {
+      "number": "052",
+      "github_path": "projects/ca-world/Shelf_06_a.glb",
+      "file_size": 489204,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Furniture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Shelf"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Storage"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Interior"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Wood"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ca-world-053",
+    "name": "Sign_07_Exit",
+    "project_id": "pm-ca-world",
+    "description": "3D model from ca-world collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Sign_07_Exit.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.535Z",
+    "updated_at": "2026-02-09T18:22:06.535Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Sign_07_Exit_thumbnail.png",
+    "metadata": {
+      "number": "053",
+      "github_path": "projects/ca-world/Sign_07_Exit.glb",
+      "file_size": 7956,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Signage"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Exit Sign"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Wayfinding"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Interior"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ca-world-054",
+    "name": "Sign_book.001",
+    "project_id": "pm-ca-world",
+    "description": "3D model from ca-world collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Sign_book.001.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.535Z",
+    "updated_at": "2026-02-09T18:22:06.535Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Sign_book.001_thumbnail.png",
+    "metadata": {
+      "number": "054",
+      "github_path": "projects/ca-world/Sign_book.001.glb",
+      "file_size": 534960,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Signage"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Book Sign"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Information"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Interior"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Book"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ca-world-055",
+    "name": "Stairs_02",
+    "project_id": "pm-ca-world",
+    "description": "3D model from ca-world collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Stairs_02.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.535Z",
+    "updated_at": "2026-02-09T18:22:06.535Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Stairs_02_thumbnail.png",
+    "metadata": {
+      "number": "055",
+      "github_path": "projects/ca-world/Stairs_02.glb",
+      "file_size": 5771208,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Stairs"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Circulation"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Interior"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Stone"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ca-world-056",
+    "name": "Stairs_Hall_01_Fountain_Water",
+    "project_id": "pm-ca-world",
+    "description": "3D model from ca-world collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Stairs_Hall_01_Fountain_Water.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.535Z",
+    "updated_at": "2026-02-09T18:22:06.535Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Stairs_Hall_01_Fountain_Water_thumbnail.png",
+    "metadata": {
+      "number": "056",
+      "github_path": "projects/ca-world/Stairs_Hall_01_Fountain_Water.glb",
+      "file_size": 5700424,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Fountain"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Water Feature"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Hall"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Water"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ca-world-057",
+    "name": "Step_01",
+    "project_id": "pm-ca-world",
+    "description": "3D model from ca-world collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Step_01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.535Z",
+    "updated_at": "2026-02-09T18:22:06.535Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Step_01_thumbnail.png",
+    "metadata": {
+      "number": "057",
+      "github_path": "projects/ca-world/Step_01.glb",
+      "file_size": 623088,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Step"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Circulation"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Interior"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Stone"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ca-world-058",
+    "name": "Step_01_Corner",
+    "project_id": "pm-ca-world",
+    "description": "3D model from ca-world collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Step_01_Corner.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.535Z",
+    "updated_at": "2026-02-09T18:22:06.535Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Step_01_Corner_thumbnail.png",
+    "metadata": {
+      "number": "058",
+      "github_path": "projects/ca-world/Step_01_Corner.glb",
+      "file_size": 626276,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Step Corner"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Circulation"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Interior"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Stone"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ca-world-059",
+    "name": "Step_02",
+    "project_id": "pm-ca-world",
+    "description": "3D model from ca-world collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Step_02.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.535Z",
+    "updated_at": "2026-02-09T18:22:06.535Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Step_02_thumbnail.png",
+    "metadata": {
+      "number": "059",
+      "github_path": "projects/ca-world/Step_02.glb",
+      "file_size": 623116,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Step"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Circulation"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Interior"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Stone"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ca-world-060",
+    "name": "Stool_01",
+    "project_id": "pm-ca-world",
+    "description": "3D model from ca-world collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Stool_01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.535Z",
+    "updated_at": "2026-02-09T18:22:06.535Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Stool_01_thumbnail.png",
+    "metadata": {
+      "number": "060",
+      "github_path": "projects/ca-world/Stool_01.glb",
+      "file_size": 409036,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Furniture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Stool"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Seating"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Interior"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Wood"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ca-world-061",
+    "name": "Wall_01",
+    "project_id": "pm-ca-world",
+    "description": "3D model from ca-world collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Wall_01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.535Z",
+    "updated_at": "2026-02-09T18:22:06.535Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Wall_01_thumbnail.png",
+    "metadata": {
+      "number": "061",
+      "github_path": "projects/ca-world/Wall_01.glb",
+      "file_size": 942496,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Wall"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Structural"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Interior"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Stone"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ca-world-062",
+    "name": "Wall_01_Corner",
+    "project_id": "pm-ca-world",
+    "description": "3D model from ca-world collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Wall_01_Corner.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.535Z",
+    "updated_at": "2026-02-09T18:22:06.535Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Wall_01_Corner_thumbnail.png",
+    "metadata": {
+      "number": "062",
+      "github_path": "projects/ca-world/Wall_01_Corner.glb",
+      "file_size": 1271640,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Wall Corner"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Structural"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Interior"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Stone"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ca-world-063",
+    "name": "Wall_01_Door",
+    "project_id": "pm-ca-world",
+    "description": "3D model from ca-world collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Wall_01_Door.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.535Z",
+    "updated_at": "2026-02-09T18:22:06.535Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Wall_01_Door_thumbnail.png",
+    "metadata": {
+      "number": "063",
+      "github_path": "projects/ca-world/Wall_01_Door.glb",
+      "file_size": 1271516,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Wall with Door"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Structural"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Interior"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Door Opening"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ca-world-064",
+    "name": "Wall_01_Window",
+    "project_id": "pm-ca-world",
+    "description": "3D model from ca-world collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Wall_01_Window.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.535Z",
+    "updated_at": "2026-02-09T18:22:06.535Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Wall_01_Window_thumbnail.png",
+    "metadata": {
+      "number": "064",
+      "github_path": "projects/ca-world/Wall_01_Window.glb",
+      "file_size": 1271660,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Wall with Window"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Structural"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Interior"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Window Opening"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ca-world-065",
+    "name": "Wall_02",
+    "project_id": "pm-ca-world",
+    "description": "3D model from ca-world collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Wall_02.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.535Z",
+    "updated_at": "2026-02-09T18:22:06.535Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Wall_02_thumbnail.png",
+    "metadata": {
+      "number": "065",
+      "github_path": "projects/ca-world/Wall_02.glb",
+      "file_size": 1271512,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Wall"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Structural"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Interior"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Stone"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ca-world-066",
+    "name": "Wall_02_Corner",
+    "project_id": "pm-ca-world",
+    "description": "3D model from ca-world collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Wall_02_Corner.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.535Z",
+    "updated_at": "2026-02-09T18:22:06.535Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Wall_02_Corner_thumbnail.png",
+    "metadata": {
+      "number": "066",
+      "github_path": "projects/ca-world/Wall_02_Corner.glb",
+      "file_size": 942640,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Wall Corner"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Structural"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Interior"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Stone"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ca-world-067",
+    "name": "Window_01",
+    "project_id": "pm-ca-world",
+    "description": "3D model from ca-world collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Window_01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.535Z",
+    "updated_at": "2026-02-09T18:22:06.535Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Window_01_thumbnail.png",
+    "metadata": {
+      "number": "067",
+      "github_path": "projects/ca-world/Window_01.glb",
+      "file_size": 1999304,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Window"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Opening"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Interior"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Glass"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ca-world-068",
+    "name": "Window_02",
+    "project_id": "pm-ca-world",
+    "description": "3D model from ca-world collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Window_02.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.535Z",
+    "updated_at": "2026-02-09T18:22:06.535Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/ca-world/Window_02_thumbnail.png",
+    "metadata": {
+      "number": "068",
+      "github_path": "projects/ca-world/Window_02.glb",
+      "file_size": 1999784,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Window"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Opening"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Interior"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Glass"
+        }
+      ]
+    }
+  }
+]

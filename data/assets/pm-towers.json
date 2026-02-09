@@ -1,0 +1,3566 @@
+[
+  {
+    "id": "towers-001",
+    "name": "BlockChain_Bridge_Art",
+    "project_id": "pm-towers",
+    "description": "3D model from towers collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/BlockChain_Bridge_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.541Z",
+    "updated_at": "2026-02-09T18:22:10.541Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/BlockChain_Bridge_Art_thumbnail.png",
+    "metadata": {
+      "number": "001",
+      "github_path": "projects/towers/BlockChain_Bridge_Art.glb",
+      "file_size": 210404,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Blockchain"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Bridge"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Connection"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Futuristic"
+        }
+      ]
+    }
+  },
+  {
+    "id": "towers-002",
+    "name": "BlockChain_Bridge_Fragment_Art",
+    "project_id": "pm-towers",
+    "description": "3D model from towers collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/BlockChain_Bridge_Fragment_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.541Z",
+    "updated_at": "2026-02-09T18:22:10.541Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/BlockChain_Bridge_Fragment_Art_thumbnail.png",
+    "metadata": {
+      "number": "002",
+      "github_path": "projects/towers/BlockChain_Bridge_Fragment_Art.glb",
+      "file_size": 9196,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Blockchain"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Bridge"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Connection"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Futuristic"
+        }
+      ]
+    }
+  },
+  {
+    "id": "towers-003",
+    "name": "BlockChain_CodeBush_Art",
+    "project_id": "pm-towers",
+    "description": "3D model from towers collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/BlockChain_CodeBush_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.541Z",
+    "updated_at": "2026-02-09T18:22:10.541Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/BlockChain_CodeBush_Art_thumbnail.png",
+    "metadata": {
+      "number": "003",
+      "github_path": "projects/towers/BlockChain_CodeBush_Art.glb",
+      "file_size": 211496,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Blockchain"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Tree"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Futuristic"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Flora"
+        }
+      ]
+    }
+  },
+  {
+    "id": "towers-004",
+    "name": "BlockChain_Eth_Art",
+    "project_id": "pm-towers",
+    "description": "3D model from towers collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/BlockChain_Eth_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.541Z",
+    "updated_at": "2026-02-09T18:22:10.541Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/BlockChain_Eth_Art_thumbnail.png",
+    "metadata": {
+      "number": "004",
+      "github_path": "projects/towers/BlockChain_Eth_Art.glb",
+      "file_size": 494232,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Blockchain"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Technology"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Symbol"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Futuristic"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Cryptocurrency"
+        }
+      ]
+    }
+  },
+  {
+    "id": "towers-005",
+    "name": "BlockChain_Floor_Art",
+    "project_id": "pm-towers",
+    "description": "3D model from towers collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/BlockChain_Floor_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.541Z",
+    "updated_at": "2026-02-09T18:22:10.541Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/BlockChain_Floor_Art_thumbnail.png",
+    "metadata": {
+      "number": "005",
+      "github_path": "projects/towers/BlockChain_Floor_Art.glb",
+      "file_size": 750368,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Blockchain"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Walkway"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Navigation"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Futuristic"
+        }
+      ]
+    }
+  },
+  {
+    "id": "towers-006",
+    "name": "BlockChain_Light_Art",
+    "project_id": "pm-towers",
+    "description": "3D model from towers collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/BlockChain_Light_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.541Z",
+    "updated_at": "2026-02-09T18:22:10.541Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/BlockChain_Light_Art_thumbnail.png",
+    "metadata": {
+      "number": "006",
+      "github_path": "projects/towers/BlockChain_Light_Art.glb",
+      "file_size": 626700,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Blockchain"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Lighting"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Light Source"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Illumination"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Futuristic"
+        }
+      ]
+    }
+  },
+  {
+    "id": "towers-007",
+    "name": "BlockChain_Roots_Art",
+    "project_id": "pm-towers",
+    "description": "3D model from towers collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/BlockChain_Roots_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.541Z",
+    "updated_at": "2026-02-09T18:22:10.541Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/BlockChain_Roots_Art_thumbnail.png",
+    "metadata": {
+      "number": "007",
+      "github_path": "projects/towers/BlockChain_Roots_Art.glb",
+      "file_size": 2045688,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Blockchain"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Roots"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Futuristic"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Flora"
+        }
+      ]
+    }
+  },
+  {
+    "id": "towers-008",
+    "name": "BlockChain_Step_Art",
+    "project_id": "pm-towers",
+    "description": "3D model from towers collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/BlockChain_Step_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.541Z",
+    "updated_at": "2026-02-09T18:22:10.541Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/BlockChain_Step_Art_thumbnail.png",
+    "metadata": {
+      "number": "008",
+      "github_path": "projects/towers/BlockChain_Step_Art.glb",
+      "file_size": 54856,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Blockchain"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Walkway"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Navigation"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Futuristic"
+        }
+      ]
+    }
+  },
+  {
+    "id": "towers-009",
+    "name": "BlockChain_Tower_02_Art",
+    "project_id": "pm-towers",
+    "description": "3D model from towers collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/BlockChain_Tower_02_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.541Z",
+    "updated_at": "2026-02-09T18:22:10.541Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/BlockChain_Tower_02_Art_thumbnail.png",
+    "metadata": {
+      "number": "009",
+      "github_path": "projects/towers/BlockChain_Tower_02_Art.glb",
+      "file_size": 6865980,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Blockchain"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Tower"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Futuristic"
+        },
+        {
+          "trait_type": "Size",
+          "value": "Large"
+        }
+      ]
+    }
+  },
+  {
+    "id": "towers-010",
+    "name": "BlockChain_Tower_Art",
+    "project_id": "pm-towers",
+    "description": "3D model from towers collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/BlockChain_Tower_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.541Z",
+    "updated_at": "2026-02-09T18:22:10.541Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/BlockChain_Tower_Art_thumbnail.png",
+    "metadata": {
+      "number": "010",
+      "github_path": "projects/towers/BlockChain_Tower_Art.glb",
+      "file_size": 10048364,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Blockchain"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Tower"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Futuristic"
+        },
+        {
+          "trait_type": "Size",
+          "value": "Large"
+        }
+      ]
+    }
+  },
+  {
+    "id": "towers-011",
+    "name": "Bridge_Nexus_Art",
+    "project_id": "pm-towers",
+    "description": "3D model from towers collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/Bridge_Nexus_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.541Z",
+    "updated_at": "2026-02-09T18:22:10.541Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/Bridge_Nexus_Art_thumbnail.png",
+    "metadata": {
+      "number": "011",
+      "github_path": "projects/towers/Bridge_Nexus_Art.glb",
+      "file_size": 16281364,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Bridge"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Connection"
+        }
+      ]
+    }
+  },
+  {
+    "id": "towers-012",
+    "name": "Colony_Alien_Sign_Art",
+    "project_id": "pm-towers",
+    "description": "3D model from towers collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/Colony_Alien_Sign_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.541Z",
+    "updated_at": "2026-02-09T18:22:10.541Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/Colony_Alien_Sign_Art_thumbnail.png",
+    "metadata": {
+      "number": "012",
+      "github_path": "projects/towers/Colony_Alien_Sign_Art.glb",
+      "file_size": 372824,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Sci-Fi"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Sci-Fi"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Extraterrestrial"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Space Colony"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Alien"
+        }
+      ]
+    }
+  },
+  {
+    "id": "towers-013",
+    "name": "Colony_BridgeSection_Art",
+    "project_id": "pm-towers",
+    "description": "3D model from towers collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/Colony_BridgeSection_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.541Z",
+    "updated_at": "2026-02-09T18:22:10.541Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/Colony_BridgeSection_Art_thumbnail.png",
+    "metadata": {
+      "number": "013",
+      "github_path": "projects/towers/Colony_BridgeSection_Art.glb",
+      "file_size": 437504,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Sci-Fi"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Bridge"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Connection"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Space Colony"
+        }
+      ]
+    }
+  },
+  {
+    "id": "towers-014",
+    "name": "Colony_Bridge_Fragment_Art",
+    "project_id": "pm-towers",
+    "description": "3D model from towers collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/Colony_Bridge_Fragment_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.541Z",
+    "updated_at": "2026-02-09T18:22:10.541Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/Colony_Bridge_Fragment_Art_thumbnail.png",
+    "metadata": {
+      "number": "014",
+      "github_path": "projects/towers/Colony_Bridge_Fragment_Art.glb",
+      "file_size": 375568,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Sci-Fi"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Bridge"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Connection"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Space Colony"
+        }
+      ]
+    }
+  },
+  {
+    "id": "towers-015",
+    "name": "Colony_Egg_Art",
+    "project_id": "pm-towers",
+    "description": "3D model from towers collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/Colony_Egg_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.541Z",
+    "updated_at": "2026-02-09T18:22:10.541Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/Colony_Egg_Art_thumbnail.png",
+    "metadata": {
+      "number": "015",
+      "github_path": "projects/towers/Colony_Egg_Art.glb",
+      "file_size": 27324,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Sci-Fi"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Egg"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Space Colony"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Organic"
+        }
+      ]
+    }
+  },
+  {
+    "id": "towers-016",
+    "name": "Colony_Flower_Art",
+    "project_id": "pm-towers",
+    "description": "3D model from towers collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/Colony_Flower_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.541Z",
+    "updated_at": "2026-02-09T18:22:10.541Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/Colony_Flower_Art_thumbnail.png",
+    "metadata": {
+      "number": "016",
+      "github_path": "projects/towers/Colony_Flower_Art.glb",
+      "file_size": 375800,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Sci-Fi"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Plant"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Space Colony"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Flora"
+        }
+      ]
+    }
+  },
+  {
+    "id": "towers-017",
+    "name": "Colony_MiniPC_Art",
+    "project_id": "pm-towers",
+    "description": "3D model from towers collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/Colony_MiniPC_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.541Z",
+    "updated_at": "2026-02-09T18:22:10.541Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/Colony_MiniPC_Art_thumbnail.png",
+    "metadata": {
+      "number": "017",
+      "github_path": "projects/towers/Colony_MiniPC_Art.glb",
+      "file_size": 416080,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Sci-Fi"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Technology"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Computer"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Interface"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Space Colony"
+        },
+        {
+          "trait_type": "Size",
+          "value": "Small"
+        }
+      ]
+    }
+  },
+  {
+    "id": "towers-018",
+    "name": "Colony_Monolith_02_Art",
+    "project_id": "pm-towers",
+    "description": "3D model from towers collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/Colony_Monolith_02_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.541Z",
+    "updated_at": "2026-02-09T18:22:10.541Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/Colony_Monolith_02_Art_thumbnail.png",
+    "metadata": {
+      "number": "018",
+      "github_path": "projects/towers/Colony_Monolith_02_Art.glb",
+      "file_size": 377092,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Sci-Fi"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Sci-Fi"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Monument"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Space Colony"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Mysterious"
+        }
+      ]
+    }
+  },
+  {
+    "id": "towers-019",
+    "name": "Colony_Monolith_Art",
+    "project_id": "pm-towers",
+    "description": "3D model from towers collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/Colony_Monolith_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.541Z",
+    "updated_at": "2026-02-09T18:22:10.541Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/Colony_Monolith_Art_thumbnail.png",
+    "metadata": {
+      "number": "019",
+      "github_path": "projects/towers/Colony_Monolith_Art.glb",
+      "file_size": 395192,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Sci-Fi"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Sci-Fi"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Monument"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Space Colony"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Mysterious"
+        }
+      ]
+    }
+  },
+  {
+    "id": "towers-020",
+    "name": "Colony_Mushroom_Art",
+    "project_id": "pm-towers",
+    "description": "3D model from towers collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/Colony_Mushroom_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.541Z",
+    "updated_at": "2026-02-09T18:22:10.541Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/Colony_Mushroom_Art_thumbnail.png",
+    "metadata": {
+      "number": "020",
+      "github_path": "projects/towers/Colony_Mushroom_Art.glb",
+      "file_size": 377476,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Sci-Fi"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Plant"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Space Colony"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Flora"
+        }
+      ]
+    }
+  },
+  {
+    "id": "towers-021",
+    "name": "Colony_Planet_02_Art",
+    "project_id": "pm-towers",
+    "description": "3D model from towers collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/Colony_Planet_02_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.541Z",
+    "updated_at": "2026-02-09T18:22:10.541Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/Colony_Planet_02_Art_thumbnail.png",
+    "metadata": {
+      "number": "021",
+      "github_path": "projects/towers/Colony_Planet_02_Art.glb",
+      "file_size": 381276,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Sci-Fi"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Sci-Fi"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Celestial"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Space Colony"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Planet"
+        }
+      ]
+    }
+  },
+  {
+    "id": "towers-022",
+    "name": "Colony_Planet_Art",
+    "project_id": "pm-towers",
+    "description": "3D model from towers collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/Colony_Planet_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.541Z",
+    "updated_at": "2026-02-09T18:22:10.541Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/Colony_Planet_Art_thumbnail.png",
+    "metadata": {
+      "number": "022",
+      "github_path": "projects/towers/Colony_Planet_Art.glb",
+      "file_size": 388952,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Sci-Fi"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Sci-Fi"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Celestial"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Space Colony"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Planet"
+        }
+      ]
+    }
+  },
+  {
+    "id": "towers-023",
+    "name": "Colony_Ring_Art",
+    "project_id": "pm-towers",
+    "description": "3D model from towers collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/Colony_Ring_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.541Z",
+    "updated_at": "2026-02-09T18:22:10.541Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/Colony_Ring_Art_thumbnail.png",
+    "metadata": {
+      "number": "023",
+      "github_path": "projects/towers/Colony_Ring_Art.glb",
+      "file_size": 388140,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Sci-Fi"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Props"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Ring"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Space Colony"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Circular"
+        }
+      ]
+    }
+  },
+  {
+    "id": "towers-024",
+    "name": "Colony_Rocket_Art",
+    "project_id": "pm-towers",
+    "description": "3D model from towers collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/Colony_Rocket_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.541Z",
+    "updated_at": "2026-02-09T18:22:10.541Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/Colony_Rocket_Art_thumbnail.png",
+    "metadata": {
+      "number": "024",
+      "github_path": "projects/towers/Colony_Rocket_Art.glb",
+      "file_size": 391248,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Sci-Fi"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Rock"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Space Colony"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Terrain"
+        }
+      ]
+    }
+  },
+  {
+    "id": "towers-025",
+    "name": "Colony_Shell_Art",
+    "project_id": "pm-towers",
+    "description": "3D model from towers collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/Colony_Shell_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.541Z",
+    "updated_at": "2026-02-09T18:22:10.541Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/Colony_Shell_Art_thumbnail.png",
+    "metadata": {
+      "number": "025",
+      "github_path": "projects/towers/Colony_Shell_Art.glb",
+      "file_size": 372800,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Sci-Fi"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Shell"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Space Colony"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Organic"
+        }
+      ]
+    }
+  },
+  {
+    "id": "towers-026",
+    "name": "Colony_StairsPiece_Art",
+    "project_id": "pm-towers",
+    "description": "3D model from towers collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/Colony_StairsPiece_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.541Z",
+    "updated_at": "2026-02-09T18:22:10.541Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/Colony_StairsPiece_Art_thumbnail.png",
+    "metadata": {
+      "number": "026",
+      "github_path": "projects/towers/Colony_StairsPiece_Art.glb",
+      "file_size": 372204,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Sci-Fi"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Walkway"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Navigation"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Space Colony"
+        }
+      ]
+    }
+  },
+  {
+    "id": "towers-027",
+    "name": "Colony_Step_Art",
+    "project_id": "pm-towers",
+    "description": "3D model from towers collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/Colony_Step_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.541Z",
+    "updated_at": "2026-02-09T18:22:10.541Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/Colony_Step_Art_thumbnail.png",
+    "metadata": {
+      "number": "027",
+      "github_path": "projects/towers/Colony_Step_Art.glb",
+      "file_size": 372196,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Sci-Fi"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Walkway"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Navigation"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Space Colony"
+        }
+      ]
+    }
+  },
+  {
+    "id": "towers-028",
+    "name": "Colony_Tower_Art",
+    "project_id": "pm-towers",
+    "description": "3D model from towers collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/Colony_Tower_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.541Z",
+    "updated_at": "2026-02-09T18:22:10.541Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/Colony_Tower_Art_thumbnail.png",
+    "metadata": {
+      "number": "028",
+      "github_path": "projects/towers/Colony_Tower_Art.glb",
+      "file_size": 4703144,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Sci-Fi"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Tower"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Space Colony"
+        },
+        {
+          "trait_type": "Size",
+          "value": "Large"
+        }
+      ]
+    }
+  },
+  {
+    "id": "towers-029",
+    "name": "Colony_Tower_Bridge_Art",
+    "project_id": "pm-towers",
+    "description": "3D model from towers collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/Colony_Tower_Bridge_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.541Z",
+    "updated_at": "2026-02-09T18:22:10.541Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/Colony_Tower_Bridge_Art_thumbnail.png",
+    "metadata": {
+      "number": "029",
+      "github_path": "projects/towers/Colony_Tower_Bridge_Art.glb",
+      "file_size": 2741020,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Sci-Fi"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Bridge"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Connection"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Space Colony"
+        }
+      ]
+    }
+  },
+  {
+    "id": "towers-030",
+    "name": "Colony_UFO_Art",
+    "project_id": "pm-towers",
+    "description": "3D model from towers collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/Colony_UFO_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.541Z",
+    "updated_at": "2026-02-09T18:22:10.541Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/Colony_UFO_Art_thumbnail.png",
+    "metadata": {
+      "number": "030",
+      "github_path": "projects/towers/Colony_UFO_Art.glb",
+      "file_size": 684052,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Sci-Fi"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Sci-Fi"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Extraterrestrial"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Space Colony"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Alien"
+        }
+      ]
+    }
+  },
+  {
+    "id": "towers-031",
+    "name": "ControlPoint_Art",
+    "project_id": "pm-towers",
+    "description": "3D model from towers collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/ControlPoint_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.541Z",
+    "updated_at": "2026-02-09T18:22:10.541Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/ControlPoint_Art_thumbnail.png",
+    "metadata": {
+      "number": "031",
+      "github_path": "projects/towers/ControlPoint_Art.glb",
+      "file_size": 2379168,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Interactive"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Control Point"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Objective"
+        }
+      ]
+    }
+  },
+  {
+    "id": "towers-032",
+    "name": "Garden_01_Art",
+    "project_id": "pm-towers",
+    "description": "3D model from towers collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/Garden_01_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.541Z",
+    "updated_at": "2026-02-09T18:22:10.541Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/Garden_01_Art_thumbnail.png",
+    "metadata": {
+      "number": "032",
+      "github_path": "projects/towers/Garden_01_Art.glb",
+      "file_size": 1032684,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Environment"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Garden Plot"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Garden"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Flora"
+        }
+      ]
+    }
+  },
+  {
+    "id": "towers-033",
+    "name": "Garden_02_Art",
+    "project_id": "pm-towers",
+    "description": "3D model from towers collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/Garden_02_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.541Z",
+    "updated_at": "2026-02-09T18:22:10.541Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/Garden_02_Art_thumbnail.png",
+    "metadata": {
+      "number": "033",
+      "github_path": "projects/towers/Garden_02_Art.glb",
+      "file_size": 1032164,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Environment"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Garden Plot"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Garden"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Flora"
+        }
+      ]
+    }
+  },
+  {
+    "id": "towers-034",
+    "name": "Garden_03_Art",
+    "project_id": "pm-towers",
+    "description": "3D model from towers collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/Garden_03_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.541Z",
+    "updated_at": "2026-02-09T18:22:10.541Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/Garden_03_Art_thumbnail.png",
+    "metadata": {
+      "number": "034",
+      "github_path": "projects/towers/Garden_03_Art.glb",
+      "file_size": 1033204,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Environment"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Garden Plot"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Garden"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Flora"
+        }
+      ]
+    }
+  },
+  {
+    "id": "towers-035",
+    "name": "Garden_04_Art",
+    "project_id": "pm-towers",
+    "description": "3D model from towers collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/Garden_04_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.541Z",
+    "updated_at": "2026-02-09T18:22:10.541Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/Garden_04_Art_thumbnail.png",
+    "metadata": {
+      "number": "035",
+      "github_path": "projects/towers/Garden_04_Art.glb",
+      "file_size": 1032688,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Environment"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Garden Plot"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Garden"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Flora"
+        }
+      ]
+    }
+  },
+  {
+    "id": "towers-036",
+    "name": "Garden_05_Art",
+    "project_id": "pm-towers",
+    "description": "3D model from towers collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/Garden_05_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.541Z",
+    "updated_at": "2026-02-09T18:22:10.541Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/Garden_05_Art_thumbnail.png",
+    "metadata": {
+      "number": "036",
+      "github_path": "projects/towers/Garden_05_Art.glb",
+      "file_size": 1032688,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Environment"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Garden Plot"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Garden"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Flora"
+        }
+      ]
+    }
+  },
+  {
+    "id": "towers-037",
+    "name": "Garden_06_Art",
+    "project_id": "pm-towers",
+    "description": "3D model from towers collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/Garden_06_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.541Z",
+    "updated_at": "2026-02-09T18:22:10.541Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/Garden_06_Art_thumbnail.png",
+    "metadata": {
+      "number": "037",
+      "github_path": "projects/towers/Garden_06_Art.glb",
+      "file_size": 1032944,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Environment"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Garden Plot"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Garden"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Flora"
+        }
+      ]
+    }
+  },
+  {
+    "id": "towers-038",
+    "name": "Garden_07_Art",
+    "project_id": "pm-towers",
+    "description": "3D model from towers collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/Garden_07_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.541Z",
+    "updated_at": "2026-02-09T18:22:10.541Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/Garden_07_Art_thumbnail.png",
+    "metadata": {
+      "number": "038",
+      "github_path": "projects/towers/Garden_07_Art.glb",
+      "file_size": 1033204,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Environment"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Garden Plot"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Garden"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Flora"
+        }
+      ]
+    }
+  },
+  {
+    "id": "towers-039",
+    "name": "Garden_08_Art",
+    "project_id": "pm-towers",
+    "description": "3D model from towers collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/Garden_08_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.541Z",
+    "updated_at": "2026-02-09T18:22:10.541Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/Garden_08_Art_thumbnail.png",
+    "metadata": {
+      "number": "039",
+      "github_path": "projects/towers/Garden_08_Art.glb",
+      "file_size": 1033468,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Environment"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Garden Plot"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Garden"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Flora"
+        }
+      ]
+    }
+  },
+  {
+    "id": "towers-040",
+    "name": "Garden_09_Art",
+    "project_id": "pm-towers",
+    "description": "3D model from towers collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/Garden_09_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.541Z",
+    "updated_at": "2026-02-09T18:22:10.541Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/Garden_09_Art_thumbnail.png",
+    "metadata": {
+      "number": "040",
+      "github_path": "projects/towers/Garden_09_Art.glb",
+      "file_size": 1032424,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Environment"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Garden Plot"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Garden"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Flora"
+        }
+      ]
+    }
+  },
+  {
+    "id": "towers-041",
+    "name": "LoveDeath_BigPine_Art",
+    "project_id": "pm-towers",
+    "description": "3D model from towers collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/LoveDeath_BigPine_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.541Z",
+    "updated_at": "2026-02-09T18:22:10.541Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/LoveDeath_BigPine_Art_thumbnail.png",
+    "metadata": {
+      "number": "041",
+      "github_path": "projects/towers/LoveDeath_BigPine_Art.glb",
+      "file_size": 2604256,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Industrial"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Tree"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Dark"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Flora"
+        },
+        {
+          "trait_type": "Size",
+          "value": "Large"
+        }
+      ]
+    }
+  },
+  {
+    "id": "towers-042",
+    "name": "LoveDeath_Bird_Art",
+    "project_id": "pm-towers",
+    "description": "3D model from towers collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/LoveDeath_Bird_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.541Z",
+    "updated_at": "2026-02-09T18:22:10.541Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/LoveDeath_Bird_Art_thumbnail.png",
+    "metadata": {
+      "number": "042",
+      "github_path": "projects/towers/LoveDeath_Bird_Art.glb",
+      "file_size": 13748,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Industrial"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Animal"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Dark"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Fauna"
+        }
+      ]
+    }
+  },
+  {
+    "id": "towers-043",
+    "name": "LoveDeath_Bridge_Fragment_Art",
+    "project_id": "pm-towers",
+    "description": "3D model from towers collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/LoveDeath_Bridge_Fragment_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.541Z",
+    "updated_at": "2026-02-09T18:22:10.541Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/LoveDeath_Bridge_Fragment_Art_thumbnail.png",
+    "metadata": {
+      "number": "043",
+      "github_path": "projects/towers/LoveDeath_Bridge_Fragment_Art.glb",
+      "file_size": 2972556,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Industrial"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Bridge"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Connection"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Dark"
+        }
+      ]
+    }
+  },
+  {
+    "id": "towers-044",
+    "name": "LoveDeath_Cage_Art",
+    "project_id": "pm-towers",
+    "description": "3D model from towers collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/LoveDeath_Cage_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.541Z",
+    "updated_at": "2026-02-09T18:22:10.541Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/LoveDeath_Cage_Art_thumbnail.png",
+    "metadata": {
+      "number": "044",
+      "github_path": "projects/towers/LoveDeath_Cage_Art.glb",
+      "file_size": 26116,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Industrial"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Barrier"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Boundary"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Dark"
+        }
+      ]
+    }
+  },
+  {
+    "id": "towers-045",
+    "name": "LoveDeath_Disc_Art",
+    "project_id": "pm-towers",
+    "description": "3D model from towers collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/LoveDeath_Disc_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.541Z",
+    "updated_at": "2026-02-09T18:22:10.541Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/LoveDeath_Disc_Art_thumbnail.png",
+    "metadata": {
+      "number": "045",
+      "github_path": "projects/towers/LoveDeath_Disc_Art.glb",
+      "file_size": 608880,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Industrial"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Props"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Disc"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Dark"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Circular"
+        }
+      ]
+    }
+  },
+  {
+    "id": "towers-046",
+    "name": "LoveDeath_Fence_Art",
+    "project_id": "pm-towers",
+    "description": "3D model from towers collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/LoveDeath_Fence_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.541Z",
+    "updated_at": "2026-02-09T18:22:10.541Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/LoveDeath_Fence_Art_thumbnail.png",
+    "metadata": {
+      "number": "046",
+      "github_path": "projects/towers/LoveDeath_Fence_Art.glb",
+      "file_size": 2371768,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Industrial"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Barrier"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Boundary"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Dark"
+        }
+      ]
+    }
+  },
+  {
+    "id": "towers-047",
+    "name": "LoveDeath_Hand_Art",
+    "project_id": "pm-towers",
+    "description": "3D model from towers collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/LoveDeath_Hand_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.541Z",
+    "updated_at": "2026-02-09T18:22:10.541Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/LoveDeath_Hand_Art_thumbnail.png",
+    "metadata": {
+      "number": "047",
+      "github_path": "projects/towers/LoveDeath_Hand_Art.glb",
+      "file_size": 2467536,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Industrial"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Props"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Sculpture"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Dark"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Anatomical"
+        }
+      ]
+    }
+  },
+  {
+    "id": "towers-048",
+    "name": "LoveDeath_Log_Art",
+    "project_id": "pm-towers",
+    "description": "3D model from towers collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/LoveDeath_Log_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.541Z",
+    "updated_at": "2026-02-09T18:22:10.541Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/LoveDeath_Log_Art_thumbnail.png",
+    "metadata": {
+      "number": "048",
+      "github_path": "projects/towers/LoveDeath_Log_Art.glb",
+      "file_size": 2003908,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Industrial"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Log"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Dark"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Wood"
+        }
+      ]
+    }
+  },
+  {
+    "id": "towers-049",
+    "name": "LoveDeath_MineCart_Art",
+    "project_id": "pm-towers",
+    "description": "3D model from towers collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/LoveDeath_MineCart_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.541Z",
+    "updated_at": "2026-02-09T18:22:10.541Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/LoveDeath_MineCart_Art_thumbnail.png",
+    "metadata": {
+      "number": "049",
+      "github_path": "projects/towers/LoveDeath_MineCart_Art.glb",
+      "file_size": 598844,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Industrial"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Props"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Cart"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Transport"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Dark"
+        }
+      ]
+    }
+  },
+  {
+    "id": "towers-050",
+    "name": "LoveDeath_MineWheel_Art",
+    "project_id": "pm-towers",
+    "description": "3D model from towers collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/LoveDeath_MineWheel_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.541Z",
+    "updated_at": "2026-02-09T18:22:10.541Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/LoveDeath_MineWheel_Art_thumbnail.png",
+    "metadata": {
+      "number": "050",
+      "github_path": "projects/towers/LoveDeath_MineWheel_Art.glb",
+      "file_size": 609468,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Industrial"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Props"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Wheel"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Mechanism"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Dark"
+        }
+      ]
+    }
+  },
+  {
+    "id": "towers-051",
+    "name": "LoveDeath_Pine_Art",
+    "project_id": "pm-towers",
+    "description": "3D model from towers collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/LoveDeath_Pine_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.541Z",
+    "updated_at": "2026-02-09T18:22:10.541Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/LoveDeath_Pine_Art_thumbnail.png",
+    "metadata": {
+      "number": "051",
+      "github_path": "projects/towers/LoveDeath_Pine_Art.glb",
+      "file_size": 2594036,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Industrial"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Tree"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Dark"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Flora"
+        }
+      ]
+    }
+  },
+  {
+    "id": "towers-052",
+    "name": "LoveDeath_Plant_Art",
+    "project_id": "pm-towers",
+    "description": "3D model from towers collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/LoveDeath_Plant_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.541Z",
+    "updated_at": "2026-02-09T18:22:10.541Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/LoveDeath_Plant_Art_thumbnail.png",
+    "metadata": {
+      "number": "052",
+      "github_path": "projects/towers/LoveDeath_Plant_Art.glb",
+      "file_size": 591968,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Industrial"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Plant"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Dark"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Flora"
+        }
+      ]
+    }
+  },
+  {
+    "id": "towers-053",
+    "name": "LoveDeath_RailWay_Art",
+    "project_id": "pm-towers",
+    "description": "3D model from towers collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/LoveDeath_RailWay_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.541Z",
+    "updated_at": "2026-02-09T18:22:10.541Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/LoveDeath_RailWay_Art_thumbnail.png",
+    "metadata": {
+      "number": "053",
+      "github_path": "projects/towers/LoveDeath_RailWay_Art.glb",
+      "file_size": 597800,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Industrial"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Walkway"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Navigation"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Dark"
+        }
+      ]
+    }
+  },
+  {
+    "id": "towers-054",
+    "name": "LoveDeath_Shovel_Art",
+    "project_id": "pm-towers",
+    "description": "3D model from towers collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/LoveDeath_Shovel_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.541Z",
+    "updated_at": "2026-02-09T18:22:10.541Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/LoveDeath_Shovel_Art_thumbnail.png",
+    "metadata": {
+      "number": "054",
+      "github_path": "projects/towers/LoveDeath_Shovel_Art.glb",
+      "file_size": 593048,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Industrial"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Props"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Tool"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Digging"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Dark"
+        }
+      ]
+    }
+  },
+  {
+    "id": "towers-055",
+    "name": "LoveDeath_Step_Art",
+    "project_id": "pm-towers",
+    "description": "3D model from towers collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/LoveDeath_Step_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.541Z",
+    "updated_at": "2026-02-09T18:22:10.541Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/LoveDeath_Step_Art_thumbnail.png",
+    "metadata": {
+      "number": "055",
+      "github_path": "projects/towers/LoveDeath_Step_Art.glb",
+      "file_size": 435656,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Industrial"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Walkway"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Navigation"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Dark"
+        }
+      ]
+    }
+  },
+  {
+    "id": "towers-056",
+    "name": "LoveDeath_Steps_Art",
+    "project_id": "pm-towers",
+    "description": "3D model from towers collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/LoveDeath_Steps_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.541Z",
+    "updated_at": "2026-02-09T18:22:10.541Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/LoveDeath_Steps_Art_thumbnail.png",
+    "metadata": {
+      "number": "056",
+      "github_path": "projects/towers/LoveDeath_Steps_Art.glb",
+      "file_size": 596088,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Industrial"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Walkway"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Navigation"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Dark"
+        }
+      ]
+    }
+  },
+  {
+    "id": "towers-057",
+    "name": "LoveDeath_Structure_Art",
+    "project_id": "pm-towers",
+    "description": "3D model from towers collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/LoveDeath_Structure_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.541Z",
+    "updated_at": "2026-02-09T18:22:10.541Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/LoveDeath_Structure_Art_thumbnail.png",
+    "metadata": {
+      "number": "057",
+      "github_path": "projects/towers/LoveDeath_Structure_Art.glb",
+      "file_size": 620344,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Industrial"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Structure"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Dark"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Framework"
+        }
+      ]
+    }
+  },
+  {
+    "id": "towers-058",
+    "name": "LoveDeath_Tower_Art",
+    "project_id": "pm-towers",
+    "description": "3D model from towers collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/LoveDeath_Tower_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.541Z",
+    "updated_at": "2026-02-09T18:22:10.541Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/LoveDeath_Tower_Art_thumbnail.png",
+    "metadata": {
+      "number": "058",
+      "github_path": "projects/towers/LoveDeath_Tower_Art.glb",
+      "file_size": 4111688,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Industrial"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Tower"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Dark"
+        },
+        {
+          "trait_type": "Size",
+          "value": "Large"
+        }
+      ]
+    }
+  },
+  {
+    "id": "towers-059",
+    "name": "LoveDeath_Tower_Bridge_Art",
+    "project_id": "pm-towers",
+    "description": "3D model from towers collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/LoveDeath_Tower_Bridge_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.541Z",
+    "updated_at": "2026-02-09T18:22:10.541Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/LoveDeath_Tower_Bridge_Art_thumbnail.png",
+    "metadata": {
+      "number": "059",
+      "github_path": "projects/towers/LoveDeath_Tower_Bridge_Art.glb",
+      "file_size": 4388236,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Industrial"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Bridge"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Connection"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Dark"
+        }
+      ]
+    }
+  },
+  {
+    "id": "towers-060",
+    "name": "MemeFactory_BridgeCorner_Art",
+    "project_id": "pm-towers",
+    "description": "3D model from towers collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/MemeFactory_BridgeCorner_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.541Z",
+    "updated_at": "2026-02-09T18:22:10.541Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/MemeFactory_BridgeCorner_Art_thumbnail.png",
+    "metadata": {
+      "number": "060",
+      "github_path": "projects/towers/MemeFactory_BridgeCorner_Art.glb",
+      "file_size": 1062024,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Industrial"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Bridge"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Connection"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Modern"
+        }
+      ]
+    }
+  },
+  {
+    "id": "towers-061",
+    "name": "MemeFactory_BridgeSection_Art",
+    "project_id": "pm-towers",
+    "description": "3D model from towers collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/MemeFactory_BridgeSection_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.541Z",
+    "updated_at": "2026-02-09T18:22:10.541Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/MemeFactory_BridgeSection_Art_thumbnail.png",
+    "metadata": {
+      "number": "061",
+      "github_path": "projects/towers/MemeFactory_BridgeSection_Art.glb",
+      "file_size": 1834520,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Industrial"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Bridge"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Connection"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Modern"
+        }
+      ]
+    }
+  },
+  {
+    "id": "towers-062",
+    "name": "MemeFactory_Bridge_Art",
+    "project_id": "pm-towers",
+    "description": "3D model from towers collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/MemeFactory_Bridge_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.541Z",
+    "updated_at": "2026-02-09T18:22:10.541Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/MemeFactory_Bridge_Art_thumbnail.png",
+    "metadata": {
+      "number": "062",
+      "github_path": "projects/towers/MemeFactory_Bridge_Art.glb",
+      "file_size": 596164,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Industrial"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Bridge"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Connection"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Modern"
+        }
+      ]
+    }
+  },
+  {
+    "id": "towers-063",
+    "name": "MemeFactory_Bridge_Fragment_Art",
+    "project_id": "pm-towers",
+    "description": "3D model from towers collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/MemeFactory_Bridge_Fragment_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.541Z",
+    "updated_at": "2026-02-09T18:22:10.541Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/MemeFactory_Bridge_Fragment_Art_thumbnail.png",
+    "metadata": {
+      "number": "063",
+      "github_path": "projects/towers/MemeFactory_Bridge_Fragment_Art.glb",
+      "file_size": 591892,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Industrial"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Bridge"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Connection"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Modern"
+        }
+      ]
+    }
+  },
+  {
+    "id": "towers-064",
+    "name": "MemeFactory_ExitSign_Art",
+    "project_id": "pm-towers",
+    "description": "3D model from towers collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/MemeFactory_ExitSign_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.541Z",
+    "updated_at": "2026-02-09T18:22:10.541Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/MemeFactory_ExitSign_Art_thumbnail.png",
+    "metadata": {
+      "number": "064",
+      "github_path": "projects/towers/MemeFactory_ExitSign_Art.glb",
+      "file_size": 493812,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Industrial"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Interactive"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Sign"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Information"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Modern"
+        }
+      ]
+    }
+  },
+  {
+    "id": "towers-065",
+    "name": "MemeFactory_Fragment_Art",
+    "project_id": "pm-towers",
+    "description": "3D model from towers collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/MemeFactory_Fragment_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.541Z",
+    "updated_at": "2026-02-09T18:22:10.541Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/MemeFactory_Fragment_Art_thumbnail.png",
+    "metadata": {
+      "number": "065",
+      "github_path": "projects/towers/MemeFactory_Fragment_Art.glb",
+      "file_size": 759052,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Industrial"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Fragment"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Modern"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Partial"
+        }
+      ]
+    }
+  },
+  {
+    "id": "towers-066",
+    "name": "MemeFactory_GreenButton_Art",
+    "project_id": "pm-towers",
+    "description": "3D model from towers collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/MemeFactory_GreenButton_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.541Z",
+    "updated_at": "2026-02-09T18:22:10.541Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/MemeFactory_GreenButton_Art_thumbnail.png",
+    "metadata": {
+      "number": "066",
+      "github_path": "projects/towers/MemeFactory_GreenButton_Art.glb",
+      "file_size": 663608,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Industrial"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Interactive"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Button"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Control"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Modern"
+        },
+        {
+          "trait_type": "Color",
+          "value": "Green"
+        }
+      ]
+    }
+  },
+  {
+    "id": "towers-067",
+    "name": "MemeFactory_RedButton_Art",
+    "project_id": "pm-towers",
+    "description": "3D model from towers collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/MemeFactory_RedButton_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.541Z",
+    "updated_at": "2026-02-09T18:22:10.541Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/MemeFactory_RedButton_Art_thumbnail.png",
+    "metadata": {
+      "number": "067",
+      "github_path": "projects/towers/MemeFactory_RedButton_Art.glb",
+      "file_size": 647168,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Industrial"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Interactive"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Button"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Control"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Modern"
+        },
+        {
+          "trait_type": "Color",
+          "value": "Red"
+        }
+      ]
+    }
+  },
+  {
+    "id": "towers-068",
+    "name": "MemeFactory_Terminal_Art",
+    "project_id": "pm-towers",
+    "description": "3D model from towers collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/MemeFactory_Terminal_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.541Z",
+    "updated_at": "2026-02-09T18:22:10.541Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/MemeFactory_Terminal_Art_thumbnail.png",
+    "metadata": {
+      "number": "068",
+      "github_path": "projects/towers/MemeFactory_Terminal_Art.glb",
+      "file_size": 2567784,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Industrial"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Technology"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Computer"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Interface"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Modern"
+        }
+      ]
+    }
+  },
+  {
+    "id": "towers-069",
+    "name": "MemeFactory_Tower_02_Art",
+    "project_id": "pm-towers",
+    "description": "3D model from towers collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/MemeFactory_Tower_02_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.541Z",
+    "updated_at": "2026-02-09T18:22:10.541Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/MemeFactory_Tower_02_Art_thumbnail.png",
+    "metadata": {
+      "number": "069",
+      "github_path": "projects/towers/MemeFactory_Tower_02_Art.glb",
+      "file_size": 5137188,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Industrial"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Tower"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Modern"
+        },
+        {
+          "trait_type": "Size",
+          "value": "Large"
+        }
+      ]
+    }
+  },
+  {
+    "id": "towers-070",
+    "name": "MemeFactory_Tower_Art",
+    "project_id": "pm-towers",
+    "description": "3D model from towers collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/MemeFactory_Tower_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.541Z",
+    "updated_at": "2026-02-09T18:22:10.541Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/MemeFactory_Tower_Art_thumbnail.png",
+    "metadata": {
+      "number": "070",
+      "github_path": "projects/towers/MemeFactory_Tower_Art.glb",
+      "file_size": 6218864,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Industrial"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Tower"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Modern"
+        },
+        {
+          "trait_type": "Size",
+          "value": "Large"
+        }
+      ]
+    }
+  },
+  {
+    "id": "towers-071",
+    "name": "Spooky_Bridge_Fragment_01_Art",
+    "project_id": "pm-towers",
+    "description": "3D model from towers collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/Spooky_Bridge_Fragment_01_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.541Z",
+    "updated_at": "2026-02-09T18:22:10.541Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/Spooky_Bridge_Fragment_01_Art_thumbnail.png",
+    "metadata": {
+      "number": "071",
+      "github_path": "projects/towers/Spooky_Bridge_Fragment_01_Art.glb",
+      "file_size": 12780540,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Horror"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Bridge"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Connection"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Gothic"
+        }
+      ]
+    }
+  },
+  {
+    "id": "towers-072",
+    "name": "Spooky_Bridge_Fragment_02_Art",
+    "project_id": "pm-towers",
+    "description": "3D model from towers collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/Spooky_Bridge_Fragment_02_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.541Z",
+    "updated_at": "2026-02-09T18:22:10.541Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/Spooky_Bridge_Fragment_02_Art_thumbnail.png",
+    "metadata": {
+      "number": "072",
+      "github_path": "projects/towers/Spooky_Bridge_Fragment_02_Art.glb",
+      "file_size": 12783080,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Horror"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Bridge"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Connection"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Gothic"
+        }
+      ]
+    }
+  },
+  {
+    "id": "towers-073",
+    "name": "Spooky_Fence_Art",
+    "project_id": "pm-towers",
+    "description": "3D model from towers collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/Spooky_Fence_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.541Z",
+    "updated_at": "2026-02-09T18:22:10.541Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/Spooky_Fence_Art_thumbnail.png",
+    "metadata": {
+      "number": "073",
+      "github_path": "projects/towers/Spooky_Fence_Art.glb",
+      "file_size": 2525684,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Horror"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Barrier"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Boundary"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Gothic"
+        }
+      ]
+    }
+  },
+  {
+    "id": "towers-074",
+    "name": "Spooky_Garden_Art",
+    "project_id": "pm-towers",
+    "description": "3D model from towers collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/Spooky_Garden_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.541Z",
+    "updated_at": "2026-02-09T18:22:10.541Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/Spooky_Garden_Art_thumbnail.png",
+    "metadata": {
+      "number": "074",
+      "github_path": "projects/towers/Spooky_Garden_Art.glb",
+      "file_size": 11678384,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Horror"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Environment"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Garden Plot"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Gothic"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Flora"
+        }
+      ]
+    }
+  },
+  {
+    "id": "towers-075",
+    "name": "Spooky_Rock_BridgeSection_Art",
+    "project_id": "pm-towers",
+    "description": "3D model from towers collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/Spooky_Rock_BridgeSection_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.541Z",
+    "updated_at": "2026-02-09T18:22:10.541Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/Spooky_Rock_BridgeSection_Art_thumbnail.png",
+    "metadata": {
+      "number": "075",
+      "github_path": "projects/towers/Spooky_Rock_BridgeSection_Art.glb",
+      "file_size": 2239604,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Horror"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Bridge"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Connection"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Gothic"
+        }
+      ]
+    }
+  },
+  {
+    "id": "towers-076",
+    "name": "Spooky_Tower_Floating_Cabin_01_Art",
+    "project_id": "pm-towers",
+    "description": "3D model from towers collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/Spooky_Tower_Floating_Cabin_01_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.541Z",
+    "updated_at": "2026-02-09T18:22:10.541Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/Spooky_Tower_Floating_Cabin_01_Art_thumbnail.png",
+    "metadata": {
+      "number": "076",
+      "github_path": "projects/towers/Spooky_Tower_Floating_Cabin_01_Art.glb",
+      "file_size": 960816,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Horror"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Tower"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Gothic"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Floating"
+        },
+        {
+          "trait_type": "Size",
+          "value": "Large"
+        }
+      ]
+    }
+  },
+  {
+    "id": "towers-077",
+    "name": "Spooky_Tower_Floating_Cabin_02_Art",
+    "project_id": "pm-towers",
+    "description": "3D model from towers collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/Spooky_Tower_Floating_Cabin_02_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.541Z",
+    "updated_at": "2026-02-09T18:22:10.541Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/Spooky_Tower_Floating_Cabin_02_Art_thumbnail.png",
+    "metadata": {
+      "number": "077",
+      "github_path": "projects/towers/Spooky_Tower_Floating_Cabin_02_Art.glb",
+      "file_size": 1970100,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Horror"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Tower"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Gothic"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Floating"
+        },
+        {
+          "trait_type": "Size",
+          "value": "Large"
+        }
+      ]
+    }
+  },
+  {
+    "id": "towers-078",
+    "name": "Spooky_Tower_Floating_Cabin_03_Art",
+    "project_id": "pm-towers",
+    "description": "3D model from towers collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/Spooky_Tower_Floating_Cabin_03_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.541Z",
+    "updated_at": "2026-02-09T18:22:10.541Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/Spooky_Tower_Floating_Cabin_03_Art_thumbnail.png",
+    "metadata": {
+      "number": "078",
+      "github_path": "projects/towers/Spooky_Tower_Floating_Cabin_03_Art.glb",
+      "file_size": 955868,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Horror"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Tower"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Gothic"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Floating"
+        },
+        {
+          "trait_type": "Size",
+          "value": "Large"
+        }
+      ]
+    }
+  },
+  {
+    "id": "towers-079",
+    "name": "Spooky_Tower_Floating_House_01_Art",
+    "project_id": "pm-towers",
+    "description": "3D model from towers collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/Spooky_Tower_Floating_House_01_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.541Z",
+    "updated_at": "2026-02-09T18:22:10.541Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/Spooky_Tower_Floating_House_01_Art_thumbnail.png",
+    "metadata": {
+      "number": "079",
+      "github_path": "projects/towers/Spooky_Tower_Floating_House_01_Art.glb",
+      "file_size": 2299716,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Horror"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Tower"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Gothic"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Floating"
+        },
+        {
+          "trait_type": "Size",
+          "value": "Large"
+        }
+      ]
+    }
+  },
+  {
+    "id": "towers-080",
+    "name": "Spooky_Tower_Lantern_Art",
+    "project_id": "pm-towers",
+    "description": "3D model from towers collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/Spooky_Tower_Lantern_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.541Z",
+    "updated_at": "2026-02-09T18:22:10.541Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/Spooky_Tower_Lantern_Art_thumbnail.png",
+    "metadata": {
+      "number": "080",
+      "github_path": "projects/towers/Spooky_Tower_Lantern_Art.glb",
+      "file_size": 532156,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Horror"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Tower"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Gothic"
+        },
+        {
+          "trait_type": "Size",
+          "value": "Large"
+        }
+      ]
+    }
+  },
+  {
+    "id": "towers-081",
+    "name": "Spooky_Tower_Rocks_Base_Art",
+    "project_id": "pm-towers",
+    "description": "3D model from towers collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/Spooky_Tower_Rocks_Base_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.541Z",
+    "updated_at": "2026-02-09T18:22:10.541Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/Spooky_Tower_Rocks_Base_Art_thumbnail.png",
+    "metadata": {
+      "number": "081",
+      "github_path": "projects/towers/Spooky_Tower_Rocks_Base_Art.glb",
+      "file_size": 1821608,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Horror"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Tower"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Gothic"
+        },
+        {
+          "trait_type": "Size",
+          "value": "Large"
+        }
+      ]
+    }
+  },
+  {
+    "id": "towers-082",
+    "name": "Spooky_Tower_Stairs_01_Art",
+    "project_id": "pm-towers",
+    "description": "3D model from towers collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/Spooky_Tower_Stairs_01_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.541Z",
+    "updated_at": "2026-02-09T18:22:10.541Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/Spooky_Tower_Stairs_01_Art_thumbnail.png",
+    "metadata": {
+      "number": "082",
+      "github_path": "projects/towers/Spooky_Tower_Stairs_01_Art.glb",
+      "file_size": 20990284,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Horror"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Tower"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Gothic"
+        },
+        {
+          "trait_type": "Size",
+          "value": "Large"
+        }
+      ]
+    }
+  },
+  {
+    "id": "towers-083",
+    "name": "Spooky_Tower_Stairs_02_Art",
+    "project_id": "pm-towers",
+    "description": "3D model from towers collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/Spooky_Tower_Stairs_02_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.541Z",
+    "updated_at": "2026-02-09T18:22:10.541Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/Spooky_Tower_Stairs_02_Art_thumbnail.png",
+    "metadata": {
+      "number": "083",
+      "github_path": "projects/towers/Spooky_Tower_Stairs_02_Art.glb",
+      "file_size": 19490224,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Horror"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Tower"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Gothic"
+        },
+        {
+          "trait_type": "Size",
+          "value": "Large"
+        }
+      ]
+    }
+  },
+  {
+    "id": "towers-084",
+    "name": "Spooky_Tree_Art",
+    "project_id": "pm-towers",
+    "description": "3D model from towers collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/Spooky_Tree_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.541Z",
+    "updated_at": "2026-02-09T18:22:10.541Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/Spooky_Tree_Art_thumbnail.png",
+    "metadata": {
+      "number": "084",
+      "github_path": "projects/towers/Spooky_Tree_Art.glb",
+      "file_size": 2012780,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Horror"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Tree"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Gothic"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Flora"
+        }
+      ]
+    }
+  },
+  {
+    "id": "towers-085",
+    "name": "Tower_Base_01_Art",
+    "project_id": "pm-towers",
+    "description": "3D model from towers collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/Tower_Base_01_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.541Z",
+    "updated_at": "2026-02-09T18:22:10.541Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/Tower_Base_01_Art_thumbnail.png",
+    "metadata": {
+      "number": "085",
+      "github_path": "projects/towers/Tower_Base_01_Art.glb",
+      "file_size": 846036,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Tower"
+        },
+        {
+          "trait_type": "Size",
+          "value": "Large"
+        }
+      ]
+    }
+  },
+  {
+    "id": "towers-086",
+    "name": "Tower_Base_02_Art",
+    "project_id": "pm-towers",
+    "description": "3D model from towers collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/Tower_Base_02_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.541Z",
+    "updated_at": "2026-02-09T18:22:10.541Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/Tower_Base_02_Art_thumbnail.png",
+    "metadata": {
+      "number": "086",
+      "github_path": "projects/towers/Tower_Base_02_Art.glb",
+      "file_size": 837236,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Tower"
+        },
+        {
+          "trait_type": "Size",
+          "value": "Large"
+        }
+      ]
+    }
+  },
+  {
+    "id": "towers-087",
+    "name": "Tower_Base_Base_Art",
+    "project_id": "pm-towers",
+    "description": "3D model from towers collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/Tower_Base_Base_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.541Z",
+    "updated_at": "2026-02-09T18:22:10.541Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/Tower_Base_Base_Art_thumbnail.png",
+    "metadata": {
+      "number": "087",
+      "github_path": "projects/towers/Tower_Base_Base_Art.glb",
+      "file_size": 557020,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Tower"
+        },
+        {
+          "trait_type": "Size",
+          "value": "Large"
+        }
+      ]
+    }
+  },
+  {
+    "id": "towers-088",
+    "name": "Tower_Base_Column_Art",
+    "project_id": "pm-towers",
+    "description": "3D model from towers collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/Tower_Base_Column_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.541Z",
+    "updated_at": "2026-02-09T18:22:10.541Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/Tower_Base_Column_Art_thumbnail.png",
+    "metadata": {
+      "number": "088",
+      "github_path": "projects/towers/Tower_Base_Column_Art.glb",
+      "file_size": 569188,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Tower"
+        },
+        {
+          "trait_type": "Size",
+          "value": "Large"
+        }
+      ]
+    }
+  },
+  {
+    "id": "towers-089",
+    "name": "Tower_Pot_Art",
+    "project_id": "pm-towers",
+    "description": "3D model from towers collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/Tower_Pot_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.541Z",
+    "updated_at": "2026-02-09T18:22:10.541Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/towers/Tower_Pot_Art_thumbnail.png",
+    "metadata": {
+      "number": "089",
+      "github_path": "projects/towers/Tower_Pot_Art.glb",
+      "file_size": 136480,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Tower"
+        },
+        {
+          "trait_type": "Size",
+          "value": "Large"
+        }
+      ]
+    }
+  }
+]

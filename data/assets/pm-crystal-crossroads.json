@@ -1,0 +1,2770 @@
+[
+  {
+    "id": "crystal-crossroads-001",
+    "name": "Arc",
+    "project_id": "pm-crystal-crossroads",
+    "description": "3D model from crystal-crossroads collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/Arc.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.311Z",
+    "updated_at": "2026-02-09T18:22:08.311Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/Arc_thumbnail.png",
+    "metadata": {
+      "number": "001",
+      "github_path": "projects/crystal-crossroads/Arc.glb",
+      "file_size": 333112,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Ancient Ruins"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Arch"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Structure"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Ancient Crossroads"
+        },
+        {
+          "trait_type": "Condition",
+          "value": "Intact"
+        }
+      ]
+    }
+  },
+  {
+    "id": "crystal-crossroads-002",
+    "name": "Column_Regular",
+    "project_id": "pm-crystal-crossroads",
+    "description": "3D model from crystal-crossroads collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/Column_Regular.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.311Z",
+    "updated_at": "2026-02-09T18:22:08.311Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/Column_Regular_thumbnail.png",
+    "metadata": {
+      "number": "002",
+      "github_path": "projects/crystal-crossroads/Column_Regular.glb",
+      "file_size": 359632,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Ancient Ruins"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Column"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Support"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Ancient Crossroads"
+        },
+        {
+          "trait_type": "Condition",
+          "value": "Intact"
+        }
+      ]
+    }
+  },
+  {
+    "id": "crystal-crossroads-003",
+    "name": "Column_SmallBroken_01",
+    "project_id": "pm-crystal-crossroads",
+    "description": "3D model from crystal-crossroads collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/Column_SmallBroken_01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.311Z",
+    "updated_at": "2026-02-09T18:22:08.311Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/Column_SmallBroken_01_thumbnail.png",
+    "metadata": {
+      "number": "003",
+      "github_path": "projects/crystal-crossroads/Column_SmallBroken_01.glb",
+      "file_size": 335920,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Ancient Ruins"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Column"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Support"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Ancient Crossroads"
+        },
+        {
+          "trait_type": "Size",
+          "value": "Small"
+        },
+        {
+          "trait_type": "Condition",
+          "value": "Damaged"
+        }
+      ]
+    }
+  },
+  {
+    "id": "crystal-crossroads-004",
+    "name": "Crystal_Base",
+    "project_id": "pm-crystal-crossroads",
+    "description": "3D model from crystal-crossroads collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/Crystal_Base.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.311Z",
+    "updated_at": "2026-02-09T18:22:08.311Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/Crystal_Base_thumbnail.png",
+    "metadata": {
+      "number": "004",
+      "github_path": "projects/crystal-crossroads/Crystal_Base.glb",
+      "file_size": 24224,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Fantasy"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Crystal Formation"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Ancient Crossroads"
+        }
+      ]
+    }
+  },
+  {
+    "id": "crystal-crossroads-005",
+    "name": "Crystal_Cluster",
+    "project_id": "pm-crystal-crossroads",
+    "description": "3D model from crystal-crossroads collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/Crystal_Cluster.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.311Z",
+    "updated_at": "2026-02-09T18:22:08.311Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/Crystal_Cluster_thumbnail.png",
+    "metadata": {
+      "number": "005",
+      "github_path": "projects/crystal-crossroads/Crystal_Cluster.glb",
+      "file_size": 264656,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Fantasy"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Crystal Cluster"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Ancient Crossroads"
+        }
+      ]
+    }
+  },
+  {
+    "id": "crystal-crossroads-006",
+    "name": "Crystal_ClusterSurrounded",
+    "project_id": "pm-crystal-crossroads",
+    "description": "3D model from crystal-crossroads collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/Crystal_ClusterSurrounded.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.311Z",
+    "updated_at": "2026-02-09T18:22:08.311Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/Crystal_ClusterSurrounded_thumbnail.png",
+    "metadata": {
+      "number": "006",
+      "github_path": "projects/crystal-crossroads/Crystal_ClusterSurrounded.glb",
+      "file_size": 239188,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Fantasy"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Crystal Cluster"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Ancient Crossroads"
+        }
+      ]
+    }
+  },
+  {
+    "id": "crystal-crossroads-007",
+    "name": "Crystal_Small_01",
+    "project_id": "pm-crystal-crossroads",
+    "description": "3D model from crystal-crossroads collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/Crystal_Small_01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.311Z",
+    "updated_at": "2026-02-09T18:22:08.311Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/Crystal_Small_01_thumbnail.png",
+    "metadata": {
+      "number": "007",
+      "github_path": "projects/crystal-crossroads/Crystal_Small_01.glb",
+      "file_size": 130680,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Fantasy"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Crystal"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Ancient Crossroads"
+        },
+        {
+          "trait_type": "Size",
+          "value": "Small"
+        }
+      ]
+    }
+  },
+  {
+    "id": "crystal-crossroads-008",
+    "name": "Crystal_Small_02",
+    "project_id": "pm-crystal-crossroads",
+    "description": "3D model from crystal-crossroads collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/Crystal_Small_02.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.311Z",
+    "updated_at": "2026-02-09T18:22:08.311Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/Crystal_Small_02_thumbnail.png",
+    "metadata": {
+      "number": "008",
+      "github_path": "projects/crystal-crossroads/Crystal_Small_02.glb",
+      "file_size": 131972,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Fantasy"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Crystal"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Ancient Crossroads"
+        },
+        {
+          "trait_type": "Size",
+          "value": "Small"
+        }
+      ]
+    }
+  },
+  {
+    "id": "crystal-crossroads-009",
+    "name": "Crystal_Small_03",
+    "project_id": "pm-crystal-crossroads",
+    "description": "3D model from crystal-crossroads collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/Crystal_Small_03.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.311Z",
+    "updated_at": "2026-02-09T18:22:08.311Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/Crystal_Small_03_thumbnail.png",
+    "metadata": {
+      "number": "009",
+      "github_path": "projects/crystal-crossroads/Crystal_Small_03.glb",
+      "file_size": 131980,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Fantasy"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Crystal"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Ancient Crossroads"
+        },
+        {
+          "trait_type": "Size",
+          "value": "Small"
+        }
+      ]
+    }
+  },
+  {
+    "id": "crystal-crossroads-010",
+    "name": "Crystal_Small_04",
+    "project_id": "pm-crystal-crossroads",
+    "description": "3D model from crystal-crossroads collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/Crystal_Small_04.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.311Z",
+    "updated_at": "2026-02-09T18:22:08.311Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/Crystal_Small_04_thumbnail.png",
+    "metadata": {
+      "number": "010",
+      "github_path": "projects/crystal-crossroads/Crystal_Small_04.glb",
+      "file_size": 131976,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Fantasy"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Crystal"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Ancient Crossroads"
+        },
+        {
+          "trait_type": "Size",
+          "value": "Small"
+        }
+      ]
+    }
+  },
+  {
+    "id": "crystal-crossroads-011",
+    "name": "Dune_Sand",
+    "project_id": "pm-crystal-crossroads",
+    "description": "3D model from crystal-crossroads collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/Dune_Sand.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.311Z",
+    "updated_at": "2026-02-09T18:22:08.311Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/Dune_Sand_thumbnail.png",
+    "metadata": {
+      "number": "011",
+      "github_path": "projects/crystal-crossroads/Dune_Sand.glb",
+      "file_size": 13164,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Ancient Ruins"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Environment"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Sand Floor"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Surface"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Ancient Crossroads"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Sand"
+        }
+      ]
+    }
+  },
+  {
+    "id": "crystal-crossroads-012",
+    "name": "Floor_Sand_Large",
+    "project_id": "pm-crystal-crossroads",
+    "description": "3D model from crystal-crossroads collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/Floor_Sand_Large.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.311Z",
+    "updated_at": "2026-02-09T18:22:08.311Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/Floor_Sand_Large_thumbnail.png",
+    "metadata": {
+      "number": "012",
+      "github_path": "projects/crystal-crossroads/Floor_Sand_Large.glb",
+      "file_size": 436200,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Ancient Ruins"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Environment"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Sand Floor"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Surface"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Ancient Crossroads"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Sand"
+        },
+        {
+          "trait_type": "Size",
+          "value": "Large"
+        }
+      ]
+    }
+  },
+  {
+    "id": "crystal-crossroads-013",
+    "name": "Floor_Sand_Medium",
+    "project_id": "pm-crystal-crossroads",
+    "description": "3D model from crystal-crossroads collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/Floor_Sand_Medium.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.311Z",
+    "updated_at": "2026-02-09T18:22:08.311Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/Floor_Sand_Medium_thumbnail.png",
+    "metadata": {
+      "number": "013",
+      "github_path": "projects/crystal-crossroads/Floor_Sand_Medium.glb",
+      "file_size": 429092,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Ancient Ruins"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Environment"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Sand Floor"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Surface"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Ancient Crossroads"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Sand"
+        },
+        {
+          "trait_type": "Size",
+          "value": "Medium"
+        }
+      ]
+    }
+  },
+  {
+    "id": "crystal-crossroads-014",
+    "name": "Floor_Sand_Small",
+    "project_id": "pm-crystal-crossroads",
+    "description": "3D model from crystal-crossroads collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/Floor_Sand_Small.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.311Z",
+    "updated_at": "2026-02-09T18:22:08.311Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/Floor_Sand_Small_thumbnail.png",
+    "metadata": {
+      "number": "014",
+      "github_path": "projects/crystal-crossroads/Floor_Sand_Small.glb",
+      "file_size": 408024,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Ancient Ruins"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Environment"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Sand Floor"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Surface"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Ancient Crossroads"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Sand"
+        },
+        {
+          "trait_type": "Size",
+          "value": "Small"
+        }
+      ]
+    }
+  },
+  {
+    "id": "crystal-crossroads-015",
+    "name": "Floor_Tiles_Large",
+    "project_id": "pm-crystal-crossroads",
+    "description": "3D model from crystal-crossroads collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/Floor_Tiles_Large.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.311Z",
+    "updated_at": "2026-02-09T18:22:08.311Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/Floor_Tiles_Large_thumbnail.png",
+    "metadata": {
+      "number": "015",
+      "github_path": "projects/crystal-crossroads/Floor_Tiles_Large.glb",
+      "file_size": 436200,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Ancient Ruins"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Environment"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Tiled Floor"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Surface"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Ancient Crossroads"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Stone"
+        },
+        {
+          "trait_type": "Size",
+          "value": "Large"
+        }
+      ]
+    }
+  },
+  {
+    "id": "crystal-crossroads-016",
+    "name": "Floor_Tiles_Medium",
+    "project_id": "pm-crystal-crossroads",
+    "description": "3D model from crystal-crossroads collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/Floor_Tiles_Medium.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.311Z",
+    "updated_at": "2026-02-09T18:22:08.311Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/Floor_Tiles_Medium_thumbnail.png",
+    "metadata": {
+      "number": "016",
+      "github_path": "projects/crystal-crossroads/Floor_Tiles_Medium.glb",
+      "file_size": 469840,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Ancient Ruins"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Environment"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Tiled Floor"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Surface"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Ancient Crossroads"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Stone"
+        },
+        {
+          "trait_type": "Size",
+          "value": "Medium"
+        }
+      ]
+    }
+  },
+  {
+    "id": "crystal-crossroads-017",
+    "name": "Floor_Tiles_Small",
+    "project_id": "pm-crystal-crossroads",
+    "description": "3D model from crystal-crossroads collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/Floor_Tiles_Small.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.311Z",
+    "updated_at": "2026-02-09T18:22:08.311Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/Floor_Tiles_Small_thumbnail.png",
+    "metadata": {
+      "number": "017",
+      "github_path": "projects/crystal-crossroads/Floor_Tiles_Small.glb",
+      "file_size": 440404,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Ancient Ruins"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Environment"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Tiled Floor"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Surface"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Ancient Crossroads"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Stone"
+        },
+        {
+          "trait_type": "Size",
+          "value": "Small"
+        }
+      ]
+    }
+  },
+  {
+    "id": "crystal-crossroads-018",
+    "name": "FlowerPot_Large_01",
+    "project_id": "pm-crystal-crossroads",
+    "description": "3D model from crystal-crossroads collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/FlowerPot_Large_01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.311Z",
+    "updated_at": "2026-02-09T18:22:08.311Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/FlowerPot_Large_01_thumbnail.png",
+    "metadata": {
+      "number": "018",
+      "github_path": "projects/crystal-crossroads/FlowerPot_Large_01.glb",
+      "file_size": 599152,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Ancient Ruins"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Furniture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Flower Pot"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Ancient Crossroads"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Ceramic"
+        },
+        {
+          "trait_type": "Size",
+          "value": "Large"
+        }
+      ]
+    }
+  },
+  {
+    "id": "crystal-crossroads-019",
+    "name": "FlowerPot_Large_02",
+    "project_id": "pm-crystal-crossroads",
+    "description": "3D model from crystal-crossroads collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/FlowerPot_Large_02.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.311Z",
+    "updated_at": "2026-02-09T18:22:08.311Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/FlowerPot_Large_02_thumbnail.png",
+    "metadata": {
+      "number": "019",
+      "github_path": "projects/crystal-crossroads/FlowerPot_Large_02.glb",
+      "file_size": 602216,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Ancient Ruins"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Furniture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Flower Pot"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Ancient Crossroads"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Ceramic"
+        },
+        {
+          "trait_type": "Size",
+          "value": "Large"
+        }
+      ]
+    }
+  },
+  {
+    "id": "crystal-crossroads-020",
+    "name": "FlowerPot_Large_03",
+    "project_id": "pm-crystal-crossroads",
+    "description": "3D model from crystal-crossroads collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/FlowerPot_Large_03.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.311Z",
+    "updated_at": "2026-02-09T18:22:08.311Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/FlowerPot_Large_03_thumbnail.png",
+    "metadata": {
+      "number": "020",
+      "github_path": "projects/crystal-crossroads/FlowerPot_Large_03.glb",
+      "file_size": 599152,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Ancient Ruins"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Furniture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Flower Pot"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Ancient Crossroads"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Ceramic"
+        },
+        {
+          "trait_type": "Size",
+          "value": "Large"
+        }
+      ]
+    }
+  },
+  {
+    "id": "crystal-crossroads-021",
+    "name": "FlowerPot_Narrow_01",
+    "project_id": "pm-crystal-crossroads",
+    "description": "3D model from crystal-crossroads collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/FlowerPot_Narrow_01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.311Z",
+    "updated_at": "2026-02-09T18:22:08.311Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/FlowerPot_Narrow_01_thumbnail.png",
+    "metadata": {
+      "number": "021",
+      "github_path": "projects/crystal-crossroads/FlowerPot_Narrow_01.glb",
+      "file_size": 599348,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Ancient Ruins"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Furniture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Flower Pot"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Ancient Crossroads"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Ceramic"
+        },
+        {
+          "trait_type": "Size",
+          "value": "Narrow"
+        }
+      ]
+    }
+  },
+  {
+    "id": "crystal-crossroads-022",
+    "name": "FlowerPot_Small_01",
+    "project_id": "pm-crystal-crossroads",
+    "description": "3D model from crystal-crossroads collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/FlowerPot_Small_01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.311Z",
+    "updated_at": "2026-02-09T18:22:08.311Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/FlowerPot_Small_01_thumbnail.png",
+    "metadata": {
+      "number": "022",
+      "github_path": "projects/crystal-crossroads/FlowerPot_Small_01.glb",
+      "file_size": 388212,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Ancient Ruins"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Furniture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Flower Pot"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Ancient Crossroads"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Ceramic"
+        },
+        {
+          "trait_type": "Size",
+          "value": "Small"
+        }
+      ]
+    }
+  },
+  {
+    "id": "crystal-crossroads-023",
+    "name": "FlowerPot_Small_02",
+    "project_id": "pm-crystal-crossroads",
+    "description": "3D model from crystal-crossroads collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/FlowerPot_Small_02.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.311Z",
+    "updated_at": "2026-02-09T18:22:08.311Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/FlowerPot_Small_02_thumbnail.png",
+    "metadata": {
+      "number": "023",
+      "github_path": "projects/crystal-crossroads/FlowerPot_Small_02.glb",
+      "file_size": 388556,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Ancient Ruins"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Furniture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Flower Pot"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Ancient Crossroads"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Ceramic"
+        },
+        {
+          "trait_type": "Size",
+          "value": "Small"
+        }
+      ]
+    }
+  },
+  {
+    "id": "crystal-crossroads-024",
+    "name": "FlowerPot_Small_03",
+    "project_id": "pm-crystal-crossroads",
+    "description": "3D model from crystal-crossroads collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/FlowerPot_Small_03.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.311Z",
+    "updated_at": "2026-02-09T18:22:08.311Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/FlowerPot_Small_03_thumbnail.png",
+    "metadata": {
+      "number": "024",
+      "github_path": "projects/crystal-crossroads/FlowerPot_Small_03.glb",
+      "file_size": 388552,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Ancient Ruins"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Furniture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Flower Pot"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Ancient Crossroads"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Ceramic"
+        },
+        {
+          "trait_type": "Size",
+          "value": "Small"
+        }
+      ]
+    }
+  },
+  {
+    "id": "crystal-crossroads-025",
+    "name": "Pattern_Cube",
+    "project_id": "pm-crystal-crossroads",
+    "description": "3D model from crystal-crossroads collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/Pattern_Cube.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.311Z",
+    "updated_at": "2026-02-09T18:22:08.311Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/Pattern_Cube_thumbnail.png",
+    "metadata": {
+      "number": "025",
+      "github_path": "projects/crystal-crossroads/Pattern_Cube.glb",
+      "file_size": 139912,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Ancient Ruins"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Pattern"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Ancient Crossroads"
+        }
+      ]
+    }
+  },
+  {
+    "id": "crystal-crossroads-026",
+    "name": "Pattern_Cylinder",
+    "project_id": "pm-crystal-crossroads",
+    "description": "3D model from crystal-crossroads collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/Pattern_Cylinder.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.311Z",
+    "updated_at": "2026-02-09T18:22:08.311Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/Pattern_Cylinder_thumbnail.png",
+    "metadata": {
+      "number": "026",
+      "github_path": "projects/crystal-crossroads/Pattern_Cylinder.glb",
+      "file_size": 137564,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Ancient Ruins"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Pattern"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Ancient Crossroads"
+        }
+      ]
+    }
+  },
+  {
+    "id": "crystal-crossroads-027",
+    "name": "Pattern_Solar",
+    "project_id": "pm-crystal-crossroads",
+    "description": "3D model from crystal-crossroads collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/Pattern_Solar.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.311Z",
+    "updated_at": "2026-02-09T18:22:08.311Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/Pattern_Solar_thumbnail.png",
+    "metadata": {
+      "number": "027",
+      "github_path": "projects/crystal-crossroads/Pattern_Solar.glb",
+      "file_size": 342232,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Ancient Ruins"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Pattern"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Ancient Crossroads"
+        }
+      ]
+    }
+  },
+  {
+    "id": "crystal-crossroads-028",
+    "name": "PictureFrame_01",
+    "project_id": "pm-crystal-crossroads",
+    "description": "3D model from crystal-crossroads collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/PictureFrame_01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.311Z",
+    "updated_at": "2026-02-09T18:22:08.311Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/PictureFrame_01_thumbnail.png",
+    "metadata": {
+      "number": "028",
+      "github_path": "projects/crystal-crossroads/PictureFrame_01.glb",
+      "file_size": 150064,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Ancient Ruins"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Furniture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Picture Frame"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Display"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Ancient Crossroads"
+        }
+      ]
+    }
+  },
+  {
+    "id": "crystal-crossroads-029",
+    "name": "PictureFrame_Regular",
+    "project_id": "pm-crystal-crossroads",
+    "description": "3D model from crystal-crossroads collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/PictureFrame_Regular.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.311Z",
+    "updated_at": "2026-02-09T18:22:08.311Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/PictureFrame_Regular_thumbnail.png",
+    "metadata": {
+      "number": "029",
+      "github_path": "projects/crystal-crossroads/PictureFrame_Regular.glb",
+      "file_size": 149704,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Ancient Ruins"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Furniture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Picture Frame"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Display"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Ancient Crossroads"
+        }
+      ]
+    }
+  },
+  {
+    "id": "crystal-crossroads-030",
+    "name": "PictureFrame_Vertical",
+    "project_id": "pm-crystal-crossroads",
+    "description": "3D model from crystal-crossroads collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/PictureFrame_Vertical.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.311Z",
+    "updated_at": "2026-02-09T18:22:08.311Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/PictureFrame_Vertical_thumbnail.png",
+    "metadata": {
+      "number": "030",
+      "github_path": "projects/crystal-crossroads/PictureFrame_Vertical.glb",
+      "file_size": 146676,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Ancient Ruins"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Furniture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Picture Frame"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Display"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Ancient Crossroads"
+        }
+      ]
+    }
+  },
+  {
+    "id": "crystal-crossroads-031",
+    "name": "Platform_03",
+    "project_id": "pm-crystal-crossroads",
+    "description": "3D model from crystal-crossroads collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/Platform_03.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.311Z",
+    "updated_at": "2026-02-09T18:22:08.311Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/Platform_03_thumbnail.png",
+    "metadata": {
+      "number": "031",
+      "github_path": "projects/crystal-crossroads/Platform_03.glb",
+      "file_size": 449352,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Ancient Ruins"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Platform"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Surface"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Ancient Crossroads"
+        }
+      ]
+    }
+  },
+  {
+    "id": "crystal-crossroads-032",
+    "name": "Platform_StairsPlatform",
+    "project_id": "pm-crystal-crossroads",
+    "description": "3D model from crystal-crossroads collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/Platform_StairsPlatform.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.311Z",
+    "updated_at": "2026-02-09T18:22:08.311Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/Platform_StairsPlatform_thumbnail.png",
+    "metadata": {
+      "number": "032",
+      "github_path": "projects/crystal-crossroads/Platform_StairsPlatform.glb",
+      "file_size": 329644,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Ancient Ruins"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Stairs"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Navigation"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Ancient Crossroads"
+        }
+      ]
+    }
+  },
+  {
+    "id": "crystal-crossroads-033",
+    "name": "Platform_Stairs_01",
+    "project_id": "pm-crystal-crossroads",
+    "description": "3D model from crystal-crossroads collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/Platform_Stairs_01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.311Z",
+    "updated_at": "2026-02-09T18:22:08.311Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/Platform_Stairs_01_thumbnail.png",
+    "metadata": {
+      "number": "033",
+      "github_path": "projects/crystal-crossroads/Platform_Stairs_01.glb",
+      "file_size": 386756,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Ancient Ruins"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Stairs"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Navigation"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Ancient Crossroads"
+        }
+      ]
+    }
+  },
+  {
+    "id": "crystal-crossroads-034",
+    "name": "Platform_Stairs_02",
+    "project_id": "pm-crystal-crossroads",
+    "description": "3D model from crystal-crossroads collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/Platform_Stairs_02.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.311Z",
+    "updated_at": "2026-02-09T18:22:08.311Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/Platform_Stairs_02_thumbnail.png",
+    "metadata": {
+      "number": "034",
+      "github_path": "projects/crystal-crossroads/Platform_Stairs_02.glb",
+      "file_size": 177092,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Ancient Ruins"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Stairs"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Navigation"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Ancient Crossroads"
+        }
+      ]
+    }
+  },
+  {
+    "id": "crystal-crossroads-035",
+    "name": "Platform_Stairs_03",
+    "project_id": "pm-crystal-crossroads",
+    "description": "3D model from crystal-crossroads collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/Platform_Stairs_03.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.311Z",
+    "updated_at": "2026-02-09T18:22:08.311Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/Platform_Stairs_03_thumbnail.png",
+    "metadata": {
+      "number": "035",
+      "github_path": "projects/crystal-crossroads/Platform_Stairs_03.glb",
+      "file_size": 380560,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Ancient Ruins"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Stairs"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Navigation"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Ancient Crossroads"
+        }
+      ]
+    }
+  },
+  {
+    "id": "crystal-crossroads-036",
+    "name": "Platform_Stairs_04",
+    "project_id": "pm-crystal-crossroads",
+    "description": "3D model from crystal-crossroads collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/Platform_Stairs_04.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.311Z",
+    "updated_at": "2026-02-09T18:22:08.311Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/Platform_Stairs_04_thumbnail.png",
+    "metadata": {
+      "number": "036",
+      "github_path": "projects/crystal-crossroads/Platform_Stairs_04.glb",
+      "file_size": 388848,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Ancient Ruins"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Stairs"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Navigation"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Ancient Crossroads"
+        }
+      ]
+    }
+  },
+  {
+    "id": "crystal-crossroads-037",
+    "name": "Platform_Step",
+    "project_id": "pm-crystal-crossroads",
+    "description": "3D model from crystal-crossroads collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/Platform_Step.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.311Z",
+    "updated_at": "2026-02-09T18:22:08.311Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/Platform_Step_thumbnail.png",
+    "metadata": {
+      "number": "037",
+      "github_path": "projects/crystal-crossroads/Platform_Step.glb",
+      "file_size": 308284,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Ancient Ruins"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Platform"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Surface"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Ancient Crossroads"
+        }
+      ]
+    }
+  },
+  {
+    "id": "crystal-crossroads-038",
+    "name": "Propellant",
+    "project_id": "pm-crystal-crossroads",
+    "description": "3D model from crystal-crossroads collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/Propellant.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.311Z",
+    "updated_at": "2026-02-09T18:22:08.311Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/Propellant_thumbnail.png",
+    "metadata": {
+      "number": "038",
+      "github_path": "projects/crystal-crossroads/Propellant.glb",
+      "file_size": 309084,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Ancient Ruins"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Technology"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Propellant"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Propulsion"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Ancient Crossroads"
+        }
+      ]
+    }
+  },
+  {
+    "id": "crystal-crossroads-039",
+    "name": "Roof_01",
+    "project_id": "pm-crystal-crossroads",
+    "description": "3D model from crystal-crossroads collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/Roof_01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.311Z",
+    "updated_at": "2026-02-09T18:22:08.311Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/Roof_01_thumbnail.png",
+    "metadata": {
+      "number": "039",
+      "github_path": "projects/crystal-crossroads/Roof_01.glb",
+      "file_size": 433112,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Ancient Ruins"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Roof"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Shelter"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Ancient Crossroads"
+        }
+      ]
+    }
+  },
+  {
+    "id": "crystal-crossroads-040",
+    "name": "Roof_Hole_01",
+    "project_id": "pm-crystal-crossroads",
+    "description": "3D model from crystal-crossroads collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/Roof_Hole_01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.311Z",
+    "updated_at": "2026-02-09T18:22:08.311Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/Roof_Hole_01_thumbnail.png",
+    "metadata": {
+      "number": "040",
+      "github_path": "projects/crystal-crossroads/Roof_Hole_01.glb",
+      "file_size": 520872,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Ancient Ruins"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Roof"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Shelter"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Ancient Crossroads"
+        }
+      ]
+    }
+  },
+  {
+    "id": "crystal-crossroads-041",
+    "name": "SciFi_Antenna",
+    "project_id": "pm-crystal-crossroads",
+    "description": "3D model from crystal-crossroads collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/SciFi_Antenna.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.311Z",
+    "updated_at": "2026-02-09T18:22:08.311Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/SciFi_Antenna_thumbnail.png",
+    "metadata": {
+      "number": "041",
+      "github_path": "projects/crystal-crossroads/SciFi_Antenna.glb",
+      "file_size": 315536,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Sci-Fi"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Technology"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Antenna"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Communication"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Futuristic"
+        }
+      ]
+    }
+  },
+  {
+    "id": "crystal-crossroads-042",
+    "name": "SciFi_Battery",
+    "project_id": "pm-crystal-crossroads",
+    "description": "3D model from crystal-crossroads collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/SciFi_Battery.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.311Z",
+    "updated_at": "2026-02-09T18:22:08.311Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/SciFi_Battery_thumbnail.png",
+    "metadata": {
+      "number": "042",
+      "github_path": "projects/crystal-crossroads/SciFi_Battery.glb",
+      "file_size": 348836,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Sci-Fi"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Technology"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Battery"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Power Storage"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Futuristic"
+        }
+      ]
+    }
+  },
+  {
+    "id": "crystal-crossroads-043",
+    "name": "SciFi_Battery_Capsule01",
+    "project_id": "pm-crystal-crossroads",
+    "description": "3D model from crystal-crossroads collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/SciFi_Battery_Capsule01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.311Z",
+    "updated_at": "2026-02-09T18:22:08.311Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/SciFi_Battery_Capsule01_thumbnail.png",
+    "metadata": {
+      "number": "043",
+      "github_path": "projects/crystal-crossroads/SciFi_Battery_Capsule01.glb",
+      "file_size": 322152,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Sci-Fi"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Technology"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Battery"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Power Storage"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Futuristic"
+        }
+      ]
+    }
+  },
+  {
+    "id": "crystal-crossroads-044",
+    "name": "SciFi_Battery_Capsule02",
+    "project_id": "pm-crystal-crossroads",
+    "description": "3D model from crystal-crossroads collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/SciFi_Battery_Capsule02.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.311Z",
+    "updated_at": "2026-02-09T18:22:08.311Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/SciFi_Battery_Capsule02_thumbnail.png",
+    "metadata": {
+      "number": "044",
+      "github_path": "projects/crystal-crossroads/SciFi_Battery_Capsule02.glb",
+      "file_size": 320940,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Sci-Fi"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Technology"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Battery"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Power Storage"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Futuristic"
+        }
+      ]
+    }
+  },
+  {
+    "id": "crystal-crossroads-045",
+    "name": "SciFi_Bridge",
+    "project_id": "pm-crystal-crossroads",
+    "description": "3D model from crystal-crossroads collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/SciFi_Bridge.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.311Z",
+    "updated_at": "2026-02-09T18:22:08.311Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/SciFi_Bridge_thumbnail.png",
+    "metadata": {
+      "number": "045",
+      "github_path": "projects/crystal-crossroads/SciFi_Bridge.glb",
+      "file_size": 340404,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Sci-Fi"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Bridge"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Navigation"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Futuristic"
+        }
+      ]
+    }
+  },
+  {
+    "id": "crystal-crossroads-046",
+    "name": "SciFi_Capsule",
+    "project_id": "pm-crystal-crossroads",
+    "description": "3D model from crystal-crossroads collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/SciFi_Capsule.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.311Z",
+    "updated_at": "2026-02-09T18:22:08.311Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/SciFi_Capsule_thumbnail.png",
+    "metadata": {
+      "number": "046",
+      "github_path": "projects/crystal-crossroads/SciFi_Capsule.glb",
+      "file_size": 498380,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Sci-Fi"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Technology"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Capsule"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Container"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Futuristic"
+        }
+      ]
+    }
+  },
+  {
+    "id": "crystal-crossroads-047",
+    "name": "SciFi_Drone",
+    "project_id": "pm-crystal-crossroads",
+    "description": "3D model from crystal-crossroads collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/SciFi_Drone.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.311Z",
+    "updated_at": "2026-02-09T18:22:08.311Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/SciFi_Drone_thumbnail.png",
+    "metadata": {
+      "number": "047",
+      "github_path": "projects/crystal-crossroads/SciFi_Drone.glb",
+      "file_size": 338620,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Sci-Fi"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Technology"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Drone"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Surveillance"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Futuristic"
+        }
+      ]
+    }
+  },
+  {
+    "id": "crystal-crossroads-048",
+    "name": "SciFi_GlassScreen",
+    "project_id": "pm-crystal-crossroads",
+    "description": "3D model from crystal-crossroads collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/SciFi_GlassScreen.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.311Z",
+    "updated_at": "2026-02-09T18:22:08.311Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/SciFi_GlassScreen_thumbnail.png",
+    "metadata": {
+      "number": "048",
+      "github_path": "projects/crystal-crossroads/SciFi_GlassScreen.glb",
+      "file_size": 450328,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Sci-Fi"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Technology"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Display Screen"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Interface"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Futuristic"
+        }
+      ]
+    }
+  },
+  {
+    "id": "crystal-crossroads-049",
+    "name": "SciFi_Machine",
+    "project_id": "pm-crystal-crossroads",
+    "description": "3D model from crystal-crossroads collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/SciFi_Machine.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.311Z",
+    "updated_at": "2026-02-09T18:22:08.311Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/SciFi_Machine_thumbnail.png",
+    "metadata": {
+      "number": "049",
+      "github_path": "projects/crystal-crossroads/SciFi_Machine.glb",
+      "file_size": 435156,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Sci-Fi"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Technology"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Machine"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Processing"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Futuristic"
+        }
+      ]
+    }
+  },
+  {
+    "id": "crystal-crossroads-050",
+    "name": "SciFi_PictureFrame",
+    "project_id": "pm-crystal-crossroads",
+    "description": "3D model from crystal-crossroads collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/SciFi_PictureFrame.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.311Z",
+    "updated_at": "2026-02-09T18:22:08.311Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/SciFi_PictureFrame_thumbnail.png",
+    "metadata": {
+      "number": "050",
+      "github_path": "projects/crystal-crossroads/SciFi_PictureFrame.glb",
+      "file_size": 279896,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Sci-Fi"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Furniture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Picture Frame"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Display"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Futuristic"
+        }
+      ]
+    }
+  },
+  {
+    "id": "crystal-crossroads-051",
+    "name": "SciFi_PlatformStairs_Support",
+    "project_id": "pm-crystal-crossroads",
+    "description": "3D model from crystal-crossroads collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/SciFi_PlatformStairs_Support.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.311Z",
+    "updated_at": "2026-02-09T18:22:08.311Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/SciFi_PlatformStairs_Support_thumbnail.png",
+    "metadata": {
+      "number": "051",
+      "github_path": "projects/crystal-crossroads/SciFi_PlatformStairs_Support.glb",
+      "file_size": 306332,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Sci-Fi"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Stairs"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Navigation"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Futuristic"
+        }
+      ]
+    }
+  },
+  {
+    "id": "crystal-crossroads-052",
+    "name": "SciFi_Plug",
+    "project_id": "pm-crystal-crossroads",
+    "description": "3D model from crystal-crossroads collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/SciFi_Plug.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.311Z",
+    "updated_at": "2026-02-09T18:22:08.311Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/SciFi_Plug_thumbnail.png",
+    "metadata": {
+      "number": "052",
+      "github_path": "projects/crystal-crossroads/SciFi_Plug.glb",
+      "file_size": 495180,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Sci-Fi"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Technology"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Power Plug"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Power Connection"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Futuristic"
+        }
+      ]
+    }
+  },
+  {
+    "id": "crystal-crossroads-053",
+    "name": "SciFi_Stairs_16B",
+    "project_id": "pm-crystal-crossroads",
+    "description": "3D model from crystal-crossroads collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/SciFi_Stairs_16B.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.311Z",
+    "updated_at": "2026-02-09T18:22:08.311Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/SciFi_Stairs_16B_thumbnail.png",
+    "metadata": {
+      "number": "053",
+      "github_path": "projects/crystal-crossroads/SciFi_Stairs_16B.glb",
+      "file_size": 370216,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Sci-Fi"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Stairs"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Navigation"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Futuristic"
+        }
+      ]
+    }
+  },
+  {
+    "id": "crystal-crossroads-054",
+    "name": "SciFi_Stairs_32",
+    "project_id": "pm-crystal-crossroads",
+    "description": "3D model from crystal-crossroads collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/SciFi_Stairs_32.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.311Z",
+    "updated_at": "2026-02-09T18:22:08.311Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/SciFi_Stairs_32_thumbnail.png",
+    "metadata": {
+      "number": "054",
+      "github_path": "projects/crystal-crossroads/SciFi_Stairs_32.glb",
+      "file_size": 488264,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Sci-Fi"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Stairs"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Navigation"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Futuristic"
+        }
+      ]
+    }
+  },
+  {
+    "id": "crystal-crossroads-055",
+    "name": "SciFi_Wall_Circle",
+    "project_id": "pm-crystal-crossroads",
+    "description": "3D model from crystal-crossroads collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/SciFi_Wall_Circle.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.311Z",
+    "updated_at": "2026-02-09T18:22:08.311Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/SciFi_Wall_Circle_thumbnail.png",
+    "metadata": {
+      "number": "055",
+      "github_path": "projects/crystal-crossroads/SciFi_Wall_Circle.glb",
+      "file_size": 392020,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Sci-Fi"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Wall"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Structure"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Futuristic"
+        },
+        {
+          "trait_type": "Condition",
+          "value": "Intact"
+        }
+      ]
+    }
+  },
+  {
+    "id": "crystal-crossroads-056",
+    "name": "Stairs",
+    "project_id": "pm-crystal-crossroads",
+    "description": "3D model from crystal-crossroads collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/Stairs.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.311Z",
+    "updated_at": "2026-02-09T18:22:08.311Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/Stairs_thumbnail.png",
+    "metadata": {
+      "number": "056",
+      "github_path": "projects/crystal-crossroads/Stairs.glb",
+      "file_size": 357248,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Ancient Ruins"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Stairs"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Navigation"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Ancient Crossroads"
+        }
+      ]
+    }
+  },
+  {
+    "id": "crystal-crossroads-057",
+    "name": "Vase_Broken",
+    "project_id": "pm-crystal-crossroads",
+    "description": "3D model from crystal-crossroads collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/Vase_Broken.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.311Z",
+    "updated_at": "2026-02-09T18:22:08.311Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/Vase_Broken_thumbnail.png",
+    "metadata": {
+      "number": "057",
+      "github_path": "projects/crystal-crossroads/Vase_Broken.glb",
+      "file_size": 419252,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Ancient Ruins"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Furniture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Vase"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Ancient Crossroads"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Ceramic"
+        },
+        {
+          "trait_type": "Condition",
+          "value": "Damaged"
+        }
+      ]
+    }
+  },
+  {
+    "id": "crystal-crossroads-058",
+    "name": "Vase_Large",
+    "project_id": "pm-crystal-crossroads",
+    "description": "3D model from crystal-crossroads collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/Vase_Large.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.311Z",
+    "updated_at": "2026-02-09T18:22:08.311Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/Vase_Large_thumbnail.png",
+    "metadata": {
+      "number": "058",
+      "github_path": "projects/crystal-crossroads/Vase_Large.glb",
+      "file_size": 375432,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Ancient Ruins"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Furniture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Vase"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Ancient Crossroads"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Ceramic"
+        },
+        {
+          "trait_type": "Size",
+          "value": "Large"
+        },
+        {
+          "trait_type": "Condition",
+          "value": "Intact"
+        }
+      ]
+    }
+  },
+  {
+    "id": "crystal-crossroads-059",
+    "name": "Vase_Mid",
+    "project_id": "pm-crystal-crossroads",
+    "description": "3D model from crystal-crossroads collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/Vase_Mid.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.311Z",
+    "updated_at": "2026-02-09T18:22:08.311Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/Vase_Mid_thumbnail.png",
+    "metadata": {
+      "number": "059",
+      "github_path": "projects/crystal-crossroads/Vase_Mid.glb",
+      "file_size": 375424,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Ancient Ruins"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Furniture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Vase"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Ancient Crossroads"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Ceramic"
+        },
+        {
+          "trait_type": "Size",
+          "value": "Medium"
+        },
+        {
+          "trait_type": "Condition",
+          "value": "Intact"
+        }
+      ]
+    }
+  },
+  {
+    "id": "crystal-crossroads-060",
+    "name": "Vase_Small",
+    "project_id": "pm-crystal-crossroads",
+    "description": "3D model from crystal-crossroads collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/Vase_Small.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.311Z",
+    "updated_at": "2026-02-09T18:22:08.311Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/Vase_Small_thumbnail.png",
+    "metadata": {
+      "number": "060",
+      "github_path": "projects/crystal-crossroads/Vase_Small.glb",
+      "file_size": 354872,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Ancient Ruins"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Furniture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Vase"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Ancient Crossroads"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Ceramic"
+        },
+        {
+          "trait_type": "Size",
+          "value": "Small"
+        },
+        {
+          "trait_type": "Condition",
+          "value": "Intact"
+        }
+      ]
+    }
+  },
+  {
+    "id": "crystal-crossroads-061",
+    "name": "Wall_01",
+    "project_id": "pm-crystal-crossroads",
+    "description": "3D model from crystal-crossroads collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/Wall_01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.311Z",
+    "updated_at": "2026-02-09T18:22:08.311Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/Wall_01_thumbnail.png",
+    "metadata": {
+      "number": "061",
+      "github_path": "projects/crystal-crossroads/Wall_01.glb",
+      "file_size": 314544,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Ancient Ruins"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Wall"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Structure"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Ancient Crossroads"
+        },
+        {
+          "trait_type": "Condition",
+          "value": "Intact"
+        }
+      ]
+    }
+  },
+  {
+    "id": "crystal-crossroads-062",
+    "name": "Wall_Broken_01",
+    "project_id": "pm-crystal-crossroads",
+    "description": "3D model from crystal-crossroads collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/Wall_Broken_01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.311Z",
+    "updated_at": "2026-02-09T18:22:08.311Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/Wall_Broken_01_thumbnail.png",
+    "metadata": {
+      "number": "062",
+      "github_path": "projects/crystal-crossroads/Wall_Broken_01.glb",
+      "file_size": 326328,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Ancient Ruins"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Wall"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Structure"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Ancient Crossroads"
+        },
+        {
+          "trait_type": "Condition",
+          "value": "Damaged"
+        }
+      ]
+    }
+  },
+  {
+    "id": "crystal-crossroads-063",
+    "name": "Wall_CornerBroken",
+    "project_id": "pm-crystal-crossroads",
+    "description": "3D model from crystal-crossroads collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/Wall_CornerBroken.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.311Z",
+    "updated_at": "2026-02-09T18:22:08.311Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/Wall_CornerBroken_thumbnail.png",
+    "metadata": {
+      "number": "063",
+      "github_path": "projects/crystal-crossroads/Wall_CornerBroken.glb",
+      "file_size": 311440,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Ancient Ruins"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Wall"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Structure"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Ancient Crossroads"
+        },
+        {
+          "trait_type": "Condition",
+          "value": "Damaged"
+        }
+      ]
+    }
+  },
+  {
+    "id": "crystal-crossroads-064",
+    "name": "Wall_Small_01",
+    "project_id": "pm-crystal-crossroads",
+    "description": "3D model from crystal-crossroads collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/Wall_Small_01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.311Z",
+    "updated_at": "2026-02-09T18:22:08.311Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/crystal-crossroads/Wall_Small_01_thumbnail.png",
+    "metadata": {
+      "number": "064",
+      "github_path": "projects/crystal-crossroads/Wall_Small_01.glb",
+      "file_size": 313728,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Ancient Ruins"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Wall"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Structure"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Ancient Crossroads"
+        },
+        {
+          "trait_type": "Size",
+          "value": "Small"
+        },
+        {
+          "trait_type": "Condition",
+          "value": "Intact"
+        }
+      ]
+    }
+  }
+]

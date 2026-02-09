@@ -1,0 +1,958 @@
+[
+  {
+    "id": "transit-001",
+    "name": "Bench_01",
+    "project_id": "pm-transit",
+    "description": "3D model from transit collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/transit/Bench_01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.011Z",
+    "updated_at": "2026-02-09T18:22:11.011Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/transit/Bench_01_thumbnail.png",
+    "metadata": {
+      "number": "001",
+      "github_path": "projects/transit/Bench_01.glb",
+      "file_size": 585748,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Transit"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Furniture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Bench"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Seating"
+        },
+        {
+          "trait_type": "Variant",
+          "value": "Version 01"
+        }
+      ]
+    }
+  },
+  {
+    "id": "transit-002",
+    "name": "Dirt_Path_Art",
+    "project_id": "pm-transit",
+    "description": "3D model from transit collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/transit/Dirt_Path_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.011Z",
+    "updated_at": "2026-02-09T18:22:11.011Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/transit/Dirt_Path_Art_thumbnail.png",
+    "metadata": {
+      "number": "002",
+      "github_path": "projects/transit/Dirt_Path_Art.glb",
+      "file_size": 1308980,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Transit"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Infrastructure"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Path"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Outdoor"
+        }
+      ]
+    }
+  },
+  {
+    "id": "transit-003",
+    "name": "Iron_Structure_01_Art",
+    "project_id": "pm-transit",
+    "description": "3D model from transit collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/transit/Iron_Structure_01_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.011Z",
+    "updated_at": "2026-02-09T18:22:11.011Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/transit/Iron_Structure_01_Art_thumbnail.png",
+    "metadata": {
+      "number": "003",
+      "github_path": "projects/transit/Iron_Structure_01_Art.glb",
+      "file_size": 1324404,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Transit"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Structure"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Metal"
+        },
+        {
+          "trait_type": "Variant",
+          "value": "Version 01"
+        }
+      ]
+    }
+  },
+  {
+    "id": "transit-004",
+    "name": "Pipe_01_Art",
+    "project_id": "pm-transit",
+    "description": "3D model from transit collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/transit/Pipe_01_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.011Z",
+    "updated_at": "2026-02-09T18:22:11.011Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/transit/Pipe_01_Art_thumbnail.png",
+    "metadata": {
+      "number": "004",
+      "github_path": "projects/transit/Pipe_01_Art.glb",
+      "file_size": 1075756,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Transit"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Infrastructure"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Pipe"
+        },
+        {
+          "trait_type": "Variant",
+          "value": "Version 01"
+        }
+      ]
+    }
+  },
+  {
+    "id": "transit-005",
+    "name": "Plant_01_Art",
+    "project_id": "pm-transit",
+    "description": "3D model from transit collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/transit/Plant_01_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.011Z",
+    "updated_at": "2026-02-09T18:22:11.011Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/transit/Plant_01_Art_thumbnail.png",
+    "metadata": {
+      "number": "005",
+      "github_path": "projects/transit/Plant_01_Art.glb",
+      "file_size": 2536880,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Transit"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Plant"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Organic"
+        },
+        {
+          "trait_type": "Variant",
+          "value": "Version 01"
+        }
+      ]
+    }
+  },
+  {
+    "id": "transit-006",
+    "name": "Plant_02_Art",
+    "project_id": "pm-transit",
+    "description": "3D model from transit collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/transit/Plant_02_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.011Z",
+    "updated_at": "2026-02-09T18:22:11.011Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/transit/Plant_02_Art_thumbnail.png",
+    "metadata": {
+      "number": "006",
+      "github_path": "projects/transit/Plant_02_Art.glb",
+      "file_size": 585600,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Transit"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Plant"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Organic"
+        },
+        {
+          "trait_type": "Variant",
+          "value": "Version 02"
+        }
+      ]
+    }
+  },
+  {
+    "id": "transit-007",
+    "name": "Platform_01_Art",
+    "project_id": "pm-transit",
+    "description": "3D model from transit collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/transit/Platform_01_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.011Z",
+    "updated_at": "2026-02-09T18:22:11.011Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/transit/Platform_01_Art_thumbnail.png",
+    "metadata": {
+      "number": "007",
+      "github_path": "projects/transit/Platform_01_Art.glb",
+      "file_size": 963244,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Transit"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Platform"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Waiting Area"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Station"
+        },
+        {
+          "trait_type": "Variant",
+          "value": "Version 01"
+        }
+      ]
+    }
+  },
+  {
+    "id": "transit-008",
+    "name": "Rock_01",
+    "project_id": "pm-transit",
+    "description": "3D model from transit collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/transit/Rock_01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.011Z",
+    "updated_at": "2026-02-09T18:22:11.011Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/transit/Rock_01_thumbnail.png",
+    "metadata": {
+      "number": "008",
+      "github_path": "projects/transit/Rock_01.glb",
+      "file_size": 1890176,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Transit"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Rock"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Scenery"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Outdoor"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Stone"
+        },
+        {
+          "trait_type": "Variant",
+          "value": "Version 01"
+        }
+      ]
+    }
+  },
+  {
+    "id": "transit-009",
+    "name": "TowerStation_Dirt_Art",
+    "project_id": "pm-transit",
+    "description": "3D model from transit collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/transit/TowerStation_Dirt_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.011Z",
+    "updated_at": "2026-02-09T18:22:11.011Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/transit/TowerStation_Dirt_Art_thumbnail.png",
+    "metadata": {
+      "number": "009",
+      "github_path": "projects/transit/TowerStation_Dirt_Art.glb",
+      "file_size": 1308208,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Transit"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Tower"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Structure"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Station"
+        }
+      ]
+    }
+  },
+  {
+    "id": "transit-010",
+    "name": "TowerStation_Ground_Art",
+    "project_id": "pm-transit",
+    "description": "3D model from transit collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/transit/TowerStation_Ground_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.011Z",
+    "updated_at": "2026-02-09T18:22:11.011Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/transit/TowerStation_Ground_Art_thumbnail.png",
+    "metadata": {
+      "number": "010",
+      "github_path": "projects/transit/TowerStation_Ground_Art.glb",
+      "file_size": 1509308,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Transit"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Tower"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Structure"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Station"
+        }
+      ]
+    }
+  },
+  {
+    "id": "transit-011",
+    "name": "Tower_Ornamental_Fence_Art",
+    "project_id": "pm-transit",
+    "description": "3D model from transit collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/transit/Tower_Ornamental_Fence_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.011Z",
+    "updated_at": "2026-02-09T18:22:11.011Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/transit/Tower_Ornamental_Fence_Art_thumbnail.png",
+    "metadata": {
+      "number": "011",
+      "github_path": "projects/transit/Tower_Ornamental_Fence_Art.glb",
+      "file_size": 615332,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Transit"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Tower"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Barrier"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Transit Hub"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Ornamental"
+        }
+      ]
+    }
+  },
+  {
+    "id": "transit-012",
+    "name": "Tower_Station_01_Art",
+    "project_id": "pm-transit",
+    "description": "3D model from transit collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/transit/Tower_Station_01_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.011Z",
+    "updated_at": "2026-02-09T18:22:11.011Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/transit/Tower_Station_01_Art_thumbnail.png",
+    "metadata": {
+      "number": "012",
+      "github_path": "projects/transit/Tower_Station_01_Art.glb",
+      "file_size": 8852128,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Transit"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Tower"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Structure"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Station"
+        },
+        {
+          "trait_type": "Variant",
+          "value": "Version 01"
+        }
+      ]
+    }
+  },
+  {
+    "id": "transit-013",
+    "name": "Tower_Station_01_SponsorRings_Art",
+    "project_id": "pm-transit",
+    "description": "3D model from transit collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/transit/Tower_Station_01_SponsorRings_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.011Z",
+    "updated_at": "2026-02-09T18:22:11.011Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/transit/Tower_Station_01_SponsorRings_Art_thumbnail.png",
+    "metadata": {
+      "number": "013",
+      "github_path": "projects/transit/Tower_Station_01_SponsorRings_Art.glb",
+      "file_size": 1266708,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Transit"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Tower"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Structure"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Station"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Ornamental"
+        },
+        {
+          "trait_type": "Variant",
+          "value": "Version 01"
+        }
+      ]
+    }
+  },
+  {
+    "id": "transit-014",
+    "name": "Tower_Station_CallerButton_Art",
+    "project_id": "pm-transit",
+    "description": "3D model from transit collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/transit/Tower_Station_CallerButton_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.011Z",
+    "updated_at": "2026-02-09T18:22:11.011Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/transit/Tower_Station_CallerButton_Art_thumbnail.png",
+    "metadata": {
+      "number": "014",
+      "github_path": "projects/transit/Tower_Station_CallerButton_Art.glb",
+      "file_size": 688116,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Transit"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Tower"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Control"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Station"
+        },
+        {
+          "trait_type": "Interactive",
+          "value": "Yes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "transit-015",
+    "name": "Tower_Station_Elevator_Art",
+    "project_id": "pm-transit",
+    "description": "3D model from transit collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/transit/Tower_Station_Elevator_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.011Z",
+    "updated_at": "2026-02-09T18:22:11.011Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/transit/Tower_Station_Elevator_Art_thumbnail.png",
+    "metadata": {
+      "number": "015",
+      "github_path": "projects/transit/Tower_Station_Elevator_Art.glb",
+      "file_size": 1239600,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Transit"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Tower"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Vertical Transport"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Station"
+        }
+      ]
+    }
+  },
+  {
+    "id": "transit-016",
+    "name": "Tower_Station_Fence_Art",
+    "project_id": "pm-transit",
+    "description": "3D model from transit collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/transit/Tower_Station_Fence_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.011Z",
+    "updated_at": "2026-02-09T18:22:11.011Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/transit/Tower_Station_Fence_Art_thumbnail.png",
+    "metadata": {
+      "number": "016",
+      "github_path": "projects/transit/Tower_Station_Fence_Art.glb",
+      "file_size": 583272,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Transit"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Tower"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Barrier"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Station"
+        }
+      ]
+    }
+  },
+  {
+    "id": "transit-017",
+    "name": "Tower_Station_Light_Art",
+    "project_id": "pm-transit",
+    "description": "3D model from transit collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/transit/Tower_Station_Light_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.011Z",
+    "updated_at": "2026-02-09T18:22:11.011Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/transit/Tower_Station_Light_Art_thumbnail.png",
+    "metadata": {
+      "number": "017",
+      "github_path": "projects/transit/Tower_Station_Light_Art.glb",
+      "file_size": 687608,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Transit"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Tower"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Lighting"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Station"
+        }
+      ]
+    }
+  },
+  {
+    "id": "transit-018",
+    "name": "Tower_Station_Sign_Art",
+    "project_id": "pm-transit",
+    "description": "3D model from transit collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/transit/Tower_Station_Sign_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.011Z",
+    "updated_at": "2026-02-09T18:22:11.011Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/transit/Tower_Station_Sign_Art_thumbnail.png",
+    "metadata": {
+      "number": "018",
+      "github_path": "projects/transit/Tower_Station_Sign_Art.glb",
+      "file_size": 532004,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Transit"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Tower"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Information"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Station"
+        }
+      ]
+    }
+  },
+  {
+    "id": "transit-019",
+    "name": "Tower_Station_Telephone_Art",
+    "project_id": "pm-transit",
+    "description": "3D model from transit collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/transit/Tower_Station_Telephone_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.011Z",
+    "updated_at": "2026-02-09T18:22:11.011Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/transit/Tower_Station_Telephone_Art_thumbnail.png",
+    "metadata": {
+      "number": "019",
+      "github_path": "projects/transit/Tower_Station_Telephone_Art.glb",
+      "file_size": 707624,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Transit"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Tower"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Communication"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Station"
+        },
+        {
+          "trait_type": "Interactive",
+          "value": "Yes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "transit-020",
+    "name": "Track_01_Tap_Art",
+    "project_id": "pm-transit",
+    "description": "3D model from transit collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/transit/Track_01_Tap_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.011Z",
+    "updated_at": "2026-02-09T18:22:11.011Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/transit/Track_01_Tap_Art_thumbnail.png",
+    "metadata": {
+      "number": "020",
+      "github_path": "projects/transit/Track_01_Tap_Art.glb",
+      "file_size": 325300,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Transit"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Infrastructure"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Track"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Infrastructure"
+        },
+        {
+          "trait_type": "Variant",
+          "value": "Version 01"
+        }
+      ]
+    }
+  },
+  {
+    "id": "transit-021",
+    "name": "Train_01_Art",
+    "project_id": "pm-transit",
+    "description": "3D model from transit collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/transit/Train_01_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.011Z",
+    "updated_at": "2026-02-09T18:22:11.011Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/transit/Train_01_Art_thumbnail.png",
+    "metadata": {
+      "number": "021",
+      "github_path": "projects/transit/Train_01_Art.glb",
+      "file_size": 2427408,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Transit"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Vehicle"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Train"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Transportation"
+        },
+        {
+          "trait_type": "Variant",
+          "value": "Version 01"
+        }
+      ]
+    }
+  },
+  {
+    "id": "transit-022",
+    "name": "Train_02_Art",
+    "project_id": "pm-transit",
+    "description": "3D model from transit collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/transit/Train_02_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.011Z",
+    "updated_at": "2026-02-09T18:22:11.011Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/transit/Train_02_Art_thumbnail.png",
+    "metadata": {
+      "number": "022",
+      "github_path": "projects/transit/Train_02_Art.glb",
+      "file_size": 2018072,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Transit"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Vehicle"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Train"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Transportation"
+        },
+        {
+          "trait_type": "Variant",
+          "value": "Version 02"
+        }
+      ]
+    }
+  },
+  {
+    "id": "transit-023",
+    "name": "Train_Track_01",
+    "project_id": "pm-transit",
+    "description": "3D model from transit collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/transit/Train_Track_01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.011Z",
+    "updated_at": "2026-02-09T18:22:11.011Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/transit/Train_Track_01_thumbnail.png",
+    "metadata": {
+      "number": "023",
+      "github_path": "projects/transit/Train_Track_01.glb",
+      "file_size": 329604,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Transit"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Infrastructure"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Track"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Transportation"
+        },
+        {
+          "trait_type": "Variant",
+          "value": "Version 01"
+        }
+      ]
+    }
+  }
+]

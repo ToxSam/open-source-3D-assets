@@ -1,0 +1,3602 @@
+[
+  {
+    "id": "xyz-001",
+    "name": "001_Triangulon_Art",
+    "project_id": "pm-xyz",
+    "description": "3D model from xyz collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/001_Triangulon_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.988Z",
+    "updated_at": "2026-02-09T18:22:11.988Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/001_Triangulon_Art_thumbnail.png",
+    "metadata": {
+      "number": "001",
+      "github_path": "projects/xyz/001_Triangulon_Art.glb",
+      "file_size": 97796,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "XYZ Collection"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Creature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Hybrid-Creature"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Geometric"
+        },
+        {
+          "trait_type": "Art Style",
+          "value": "Low-Poly"
+        },
+        {
+          "trait_type": "Rigging",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Animations",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Polycount",
+          "value": "Low"
+        },
+        {
+          "trait_type": "Materials",
+          "value": "Flat-Shaded"
+        },
+        {
+          "trait_type": "Textures",
+          "value": "Vertex-Colors"
+        }
+      ]
+    }
+  },
+  {
+    "id": "xyz-002",
+    "name": "002_Squaresquid_Art",
+    "project_id": "pm-xyz",
+    "description": "3D model from xyz collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/002_Squaresquid_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.988Z",
+    "updated_at": "2026-02-09T18:22:11.988Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/002_Squaresquid_Art_thumbnail.png",
+    "metadata": {
+      "number": "002",
+      "github_path": "projects/xyz/002_Squaresquid_Art.glb",
+      "file_size": 71428,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "XYZ Collection"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Creature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Squid"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Geometric"
+        },
+        {
+          "trait_type": "Art Style",
+          "value": "Low-Poly"
+        },
+        {
+          "trait_type": "Rigging",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Animations",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Polycount",
+          "value": "Low"
+        },
+        {
+          "trait_type": "Materials",
+          "value": "Flat-Shaded"
+        },
+        {
+          "trait_type": "Textures",
+          "value": "Vertex-Colors"
+        }
+      ]
+    }
+  },
+  {
+    "id": "xyz-003",
+    "name": "003_Hexabear_Art",
+    "project_id": "pm-xyz",
+    "description": "3D model from xyz collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/003_Hexabear_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.988Z",
+    "updated_at": "2026-02-09T18:22:11.988Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/003_Hexabear_Art_thumbnail.png",
+    "metadata": {
+      "number": "003",
+      "github_path": "projects/xyz/003_Hexabear_Art.glb",
+      "file_size": 182112,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "XYZ Collection"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Creature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Bear"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Geometric"
+        },
+        {
+          "trait_type": "Art Style",
+          "value": "Low-Poly"
+        },
+        {
+          "trait_type": "Rigging",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Animations",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Polycount",
+          "value": "Low"
+        },
+        {
+          "trait_type": "Materials",
+          "value": "Flat-Shaded"
+        },
+        {
+          "trait_type": "Textures",
+          "value": "Vertex-Colors"
+        }
+      ]
+    }
+  },
+  {
+    "id": "xyz-004",
+    "name": "004_Xenguin_Art",
+    "project_id": "pm-xyz",
+    "description": "3D model from xyz collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/004_Xenguin_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.988Z",
+    "updated_at": "2026-02-09T18:22:11.988Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/004_Xenguin_Art_thumbnail.png",
+    "metadata": {
+      "number": "004",
+      "github_path": "projects/xyz/004_Xenguin_Art.glb",
+      "file_size": 108040,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "XYZ Collection"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Creature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Penguin"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Geometric"
+        },
+        {
+          "trait_type": "Art Style",
+          "value": "Low-Poly"
+        },
+        {
+          "trait_type": "Rigging",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Animations",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Polycount",
+          "value": "Low"
+        },
+        {
+          "trait_type": "Materials",
+          "value": "Flat-Shaded"
+        },
+        {
+          "trait_type": "Textures",
+          "value": "Vertex-Colors"
+        }
+      ]
+    }
+  },
+  {
+    "id": "xyz-005",
+    "name": "005_Pentachick_Art",
+    "project_id": "pm-xyz",
+    "description": "3D model from xyz collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/005_Pentachick_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.988Z",
+    "updated_at": "2026-02-09T18:22:11.988Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/005_Pentachick_Art_thumbnail.png",
+    "metadata": {
+      "number": "005",
+      "github_path": "projects/xyz/005_Pentachick_Art.glb",
+      "file_size": 124264,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "XYZ Collection"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Creature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Chick"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Geometric"
+        },
+        {
+          "trait_type": "Art Style",
+          "value": "Low-Poly"
+        },
+        {
+          "trait_type": "Rigging",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Animations",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Polycount",
+          "value": "Low"
+        },
+        {
+          "trait_type": "Materials",
+          "value": "Flat-Shaded"
+        },
+        {
+          "trait_type": "Textures",
+          "value": "Vertex-Colors"
+        }
+      ]
+    }
+  },
+  {
+    "id": "xyz-006",
+    "name": "006_Whormbus_Art",
+    "project_id": "pm-xyz",
+    "description": "3D model from xyz collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/006_Whormbus_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.988Z",
+    "updated_at": "2026-02-09T18:22:11.988Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/006_Whormbus_Art_thumbnail.png",
+    "metadata": {
+      "number": "006",
+      "github_path": "projects/xyz/006_Whormbus_Art.glb",
+      "file_size": 100684,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "XYZ Collection"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Creature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Worm"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Geometric"
+        },
+        {
+          "trait_type": "Art Style",
+          "value": "Low-Poly"
+        },
+        {
+          "trait_type": "Rigging",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Animations",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Polycount",
+          "value": "Low"
+        },
+        {
+          "trait_type": "Materials",
+          "value": "Flat-Shaded"
+        },
+        {
+          "trait_type": "Textures",
+          "value": "Vertex-Colors"
+        }
+      ]
+    }
+  },
+  {
+    "id": "xyz-007",
+    "name": "007_Starplant_Art",
+    "project_id": "pm-xyz",
+    "description": "3D model from xyz collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/007_Starplant_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.988Z",
+    "updated_at": "2026-02-09T18:22:11.988Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/007_Starplant_Art_thumbnail.png",
+    "metadata": {
+      "number": "007",
+      "github_path": "projects/xyz/007_Starplant_Art.glb",
+      "file_size": 77124,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "XYZ Collection"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Creature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Plant"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Geometric"
+        },
+        {
+          "trait_type": "Art Style",
+          "value": "Low-Poly"
+        },
+        {
+          "trait_type": "Rigging",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Animations",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Polycount",
+          "value": "Low"
+        },
+        {
+          "trait_type": "Materials",
+          "value": "Flat-Shaded"
+        },
+        {
+          "trait_type": "Textures",
+          "value": "Vertex-Colors"
+        }
+      ]
+    }
+  },
+  {
+    "id": "xyz-008",
+    "name": "008_Vguy_Art",
+    "project_id": "pm-xyz",
+    "description": "3D model from xyz collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/008_Vguy_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.988Z",
+    "updated_at": "2026-02-09T18:22:11.988Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/008_Vguy_Art_thumbnail.png",
+    "metadata": {
+      "number": "008",
+      "github_path": "projects/xyz/008_Vguy_Art.glb",
+      "file_size": 102104,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "XYZ Collection"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Creature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Guy"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Geometric"
+        },
+        {
+          "trait_type": "Art Style",
+          "value": "Low-Poly"
+        },
+        {
+          "trait_type": "Rigging",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Animations",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Polycount",
+          "value": "Low"
+        },
+        {
+          "trait_type": "Materials",
+          "value": "Flat-Shaded"
+        },
+        {
+          "trait_type": "Textures",
+          "value": "Vertex-Colors"
+        }
+      ]
+    }
+  },
+  {
+    "id": "xyz-009",
+    "name": "009_Trirectankey_Art",
+    "project_id": "pm-xyz",
+    "description": "3D model from xyz collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/009_Trirectankey_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.988Z",
+    "updated_at": "2026-02-09T18:22:11.988Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/009_Trirectankey_Art_thumbnail.png",
+    "metadata": {
+      "number": "009",
+      "github_path": "projects/xyz/009_Trirectankey_Art.glb",
+      "file_size": 93472,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "XYZ Collection"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Creature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Hybrid-Creature"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Geometric"
+        },
+        {
+          "trait_type": "Art Style",
+          "value": "Low-Poly"
+        },
+        {
+          "trait_type": "Rigging",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Animations",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Polycount",
+          "value": "Low"
+        },
+        {
+          "trait_type": "Materials",
+          "value": "Flat-Shaded"
+        },
+        {
+          "trait_type": "Textures",
+          "value": "Vertex-Colors"
+        }
+      ]
+    }
+  },
+  {
+    "id": "xyz-010",
+    "name": "010_Rhombolion_Art",
+    "project_id": "pm-xyz",
+    "description": "3D model from xyz collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/010_Rhombolion_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.988Z",
+    "updated_at": "2026-02-09T18:22:11.988Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/010_Rhombolion_Art_thumbnail.png",
+    "metadata": {
+      "number": "010",
+      "github_path": "projects/xyz/010_Rhombolion_Art.glb",
+      "file_size": 98964,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "XYZ Collection"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Creature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Lion"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Geometric"
+        },
+        {
+          "trait_type": "Art Style",
+          "value": "Low-Poly"
+        },
+        {
+          "trait_type": "Rigging",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Animations",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Polycount",
+          "value": "Low"
+        },
+        {
+          "trait_type": "Materials",
+          "value": "Flat-Shaded"
+        },
+        {
+          "trait_type": "Textures",
+          "value": "Vertex-Colors"
+        }
+      ]
+    }
+  },
+  {
+    "id": "xyz-011",
+    "name": "011_Rectashark_Art",
+    "project_id": "pm-xyz",
+    "description": "3D model from xyz collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/011_Rectashark_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.988Z",
+    "updated_at": "2026-02-09T18:22:11.988Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/011_Rectashark_Art_thumbnail.png",
+    "metadata": {
+      "number": "011",
+      "github_path": "projects/xyz/011_Rectashark_Art.glb",
+      "file_size": 125448,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "XYZ Collection"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Creature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Shark"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Geometric"
+        },
+        {
+          "trait_type": "Art Style",
+          "value": "Low-Poly"
+        },
+        {
+          "trait_type": "Rigging",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Animations",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Polycount",
+          "value": "Low"
+        },
+        {
+          "trait_type": "Materials",
+          "value": "Flat-Shaded"
+        },
+        {
+          "trait_type": "Textures",
+          "value": "Vertex-Colors"
+        }
+      ]
+    }
+  },
+  {
+    "id": "xyz-012",
+    "name": "012_Heptangle_Art",
+    "project_id": "pm-xyz",
+    "description": "3D model from xyz collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/012_Heptangle_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.988Z",
+    "updated_at": "2026-02-09T18:22:11.988Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/012_Heptangle_Art_thumbnail.png",
+    "metadata": {
+      "number": "012",
+      "github_path": "projects/xyz/012_Heptangle_Art.glb",
+      "file_size": 113704,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "XYZ Collection"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Creature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Hybrid-Creature"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Geometric"
+        },
+        {
+          "trait_type": "Art Style",
+          "value": "Low-Poly"
+        },
+        {
+          "trait_type": "Rigging",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Animations",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Polycount",
+          "value": "Low"
+        },
+        {
+          "trait_type": "Materials",
+          "value": "Flat-Shaded"
+        },
+        {
+          "trait_type": "Textures",
+          "value": "Vertex-Colors"
+        }
+      ]
+    }
+  },
+  {
+    "id": "xyz-013",
+    "name": "013_Octogecko_Art",
+    "project_id": "pm-xyz",
+    "description": "3D model from xyz collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/013_Octogecko_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.988Z",
+    "updated_at": "2026-02-09T18:22:11.988Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/013_Octogecko_Art_thumbnail.png",
+    "metadata": {
+      "number": "013",
+      "github_path": "projects/xyz/013_Octogecko_Art.glb",
+      "file_size": 104380,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "XYZ Collection"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Creature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Gecko"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Geometric"
+        },
+        {
+          "trait_type": "Art Style",
+          "value": "Low-Poly"
+        },
+        {
+          "trait_type": "Rigging",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Animations",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Polycount",
+          "value": "Low"
+        },
+        {
+          "trait_type": "Materials",
+          "value": "Flat-Shaded"
+        },
+        {
+          "trait_type": "Textures",
+          "value": "Vertex-Colors"
+        }
+      ]
+    }
+  },
+  {
+    "id": "xyz-014",
+    "name": "014_Penturtlen_Art",
+    "project_id": "pm-xyz",
+    "description": "3D model from xyz collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/014_Penturtlen_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.988Z",
+    "updated_at": "2026-02-09T18:22:11.988Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/014_Penturtlen_Art_thumbnail.png",
+    "metadata": {
+      "number": "014",
+      "github_path": "projects/xyz/014_Penturtlen_Art.glb",
+      "file_size": 125436,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "XYZ Collection"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Creature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Turtle"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Geometric"
+        },
+        {
+          "trait_type": "Art Style",
+          "value": "Low-Poly"
+        },
+        {
+          "trait_type": "Rigging",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Animations",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Polycount",
+          "value": "Low"
+        },
+        {
+          "trait_type": "Materials",
+          "value": "Flat-Shaded"
+        },
+        {
+          "trait_type": "Textures",
+          "value": "Vertex-Colors"
+        }
+      ]
+    }
+  },
+  {
+    "id": "xyz-015",
+    "name": "015_Slothocto_Art",
+    "project_id": "pm-xyz",
+    "description": "3D model from xyz collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/015_Slothocto_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.988Z",
+    "updated_at": "2026-02-09T18:22:11.988Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/015_Slothocto_Art_thumbnail.png",
+    "metadata": {
+      "number": "015",
+      "github_path": "projects/xyz/015_Slothocto_Art.glb",
+      "file_size": 114832,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "XYZ Collection"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Creature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Sloth"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Geometric"
+        },
+        {
+          "trait_type": "Art Style",
+          "value": "Low-Poly"
+        },
+        {
+          "trait_type": "Rigging",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Animations",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Polycount",
+          "value": "Low"
+        },
+        {
+          "trait_type": "Materials",
+          "value": "Flat-Shaded"
+        },
+        {
+          "trait_type": "Textures",
+          "value": "Vertex-Colors"
+        }
+      ]
+    }
+  },
+  {
+    "id": "xyz-016",
+    "name": "016_Raptorous_Art",
+    "project_id": "pm-xyz",
+    "description": "3D model from xyz collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/016_Raptorous_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.988Z",
+    "updated_at": "2026-02-09T18:22:11.988Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/016_Raptorous_Art_thumbnail.png",
+    "metadata": {
+      "number": "016",
+      "github_path": "projects/xyz/016_Raptorous_Art.glb",
+      "file_size": 113360,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "XYZ Collection"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Creature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Raptor"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Geometric"
+        },
+        {
+          "trait_type": "Art Style",
+          "value": "Low-Poly"
+        },
+        {
+          "trait_type": "Rigging",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Animations",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Polycount",
+          "value": "Low"
+        },
+        {
+          "trait_type": "Materials",
+          "value": "Flat-Shaded"
+        },
+        {
+          "trait_type": "Textures",
+          "value": "Vertex-Colors"
+        }
+      ]
+    }
+  },
+  {
+    "id": "xyz-017",
+    "name": "017_Sauris_Art",
+    "project_id": "pm-xyz",
+    "description": "3D model from xyz collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/017_Sauris_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.988Z",
+    "updated_at": "2026-02-09T18:22:11.988Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/017_Sauris_Art_thumbnail.png",
+    "metadata": {
+      "number": "017",
+      "github_path": "projects/xyz/017_Sauris_Art.glb",
+      "file_size": 128160,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "XYZ Collection"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Creature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Dinosaur"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Geometric"
+        },
+        {
+          "trait_type": "Art Style",
+          "value": "Low-Poly"
+        },
+        {
+          "trait_type": "Rigging",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Animations",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Polycount",
+          "value": "Low"
+        },
+        {
+          "trait_type": "Materials",
+          "value": "Flat-Shaded"
+        },
+        {
+          "trait_type": "Textures",
+          "value": "Vertex-Colors"
+        }
+      ]
+    }
+  },
+  {
+    "id": "xyz-018",
+    "name": "018_Mewphinx_Art",
+    "project_id": "pm-xyz",
+    "description": "3D model from xyz collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/018_Mewphinx_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.988Z",
+    "updated_at": "2026-02-09T18:22:11.988Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/018_Mewphinx_Art_thumbnail.png",
+    "metadata": {
+      "number": "018",
+      "github_path": "projects/xyz/018_Mewphinx_Art.glb",
+      "file_size": 152136,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "XYZ Collection"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Creature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Cat"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Geometric"
+        },
+        {
+          "trait_type": "Art Style",
+          "value": "Low-Poly"
+        },
+        {
+          "trait_type": "Rigging",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Animations",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Polycount",
+          "value": "Low"
+        },
+        {
+          "trait_type": "Materials",
+          "value": "Flat-Shaded"
+        },
+        {
+          "trait_type": "Textures",
+          "value": "Vertex-Colors"
+        }
+      ]
+    }
+  },
+  {
+    "id": "xyz-019",
+    "name": "019_Boargram_Art",
+    "project_id": "pm-xyz",
+    "description": "3D model from xyz collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/019_Boargram_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.988Z",
+    "updated_at": "2026-02-09T18:22:11.988Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/019_Boargram_Art_thumbnail.png",
+    "metadata": {
+      "number": "019",
+      "github_path": "projects/xyz/019_Boargram_Art.glb",
+      "file_size": 86756,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "XYZ Collection"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Creature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Boar"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Geometric"
+        },
+        {
+          "trait_type": "Art Style",
+          "value": "Low-Poly"
+        },
+        {
+          "trait_type": "Rigging",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Animations",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Polycount",
+          "value": "Low"
+        },
+        {
+          "trait_type": "Materials",
+          "value": "Flat-Shaded"
+        },
+        {
+          "trait_type": "Textures",
+          "value": "Vertex-Colors"
+        }
+      ]
+    }
+  },
+  {
+    "id": "xyz-020",
+    "name": "020_Octozilla_Art",
+    "project_id": "pm-xyz",
+    "description": "3D model from xyz collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/020_Octozilla_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.988Z",
+    "updated_at": "2026-02-09T18:22:11.988Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/020_Octozilla_Art_thumbnail.png",
+    "metadata": {
+      "number": "020",
+      "github_path": "projects/xyz/020_Octozilla_Art.glb",
+      "file_size": 95676,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "XYZ Collection"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Creature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Dragon"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Geometric"
+        },
+        {
+          "trait_type": "Art Style",
+          "value": "Low-Poly"
+        },
+        {
+          "trait_type": "Rigging",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Animations",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Polycount",
+          "value": "Low"
+        },
+        {
+          "trait_type": "Materials",
+          "value": "Flat-Shaded"
+        },
+        {
+          "trait_type": "Textures",
+          "value": "Vertex-Colors"
+        }
+      ]
+    }
+  },
+  {
+    "id": "xyz-021",
+    "name": "021_Rhomgon_Art",
+    "project_id": "pm-xyz",
+    "description": "3D model from xyz collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/021_Rhomgon_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.988Z",
+    "updated_at": "2026-02-09T18:22:11.988Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/021_Rhomgon_Art_thumbnail.png",
+    "metadata": {
+      "number": "021",
+      "github_path": "projects/xyz/021_Rhomgon_Art.glb",
+      "file_size": 122440,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "XYZ Collection"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Creature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Dragon"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Geometric"
+        },
+        {
+          "trait_type": "Art Style",
+          "value": "Low-Poly"
+        },
+        {
+          "trait_type": "Rigging",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Animations",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Polycount",
+          "value": "Low"
+        },
+        {
+          "trait_type": "Materials",
+          "value": "Flat-Shaded"
+        },
+        {
+          "trait_type": "Textures",
+          "value": "Vertex-Colors"
+        }
+      ]
+    }
+  },
+  {
+    "id": "xyz-022",
+    "name": "022_Triplicoon_Art",
+    "project_id": "pm-xyz",
+    "description": "3D model from xyz collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/022_Triplicoon_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.988Z",
+    "updated_at": "2026-02-09T18:22:11.988Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/022_Triplicoon_Art_thumbnail.png",
+    "metadata": {
+      "number": "022",
+      "github_path": "projects/xyz/022_Triplicoon_Art.glb",
+      "file_size": 88528,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "XYZ Collection"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Creature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Raccoon"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Geometric"
+        },
+        {
+          "trait_type": "Art Style",
+          "value": "Low-Poly"
+        },
+        {
+          "trait_type": "Rigging",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Animations",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Polycount",
+          "value": "Low"
+        },
+        {
+          "trait_type": "Materials",
+          "value": "Flat-Shaded"
+        },
+        {
+          "trait_type": "Textures",
+          "value": "Vertex-Colors"
+        }
+      ]
+    }
+  },
+  {
+    "id": "xyz-023",
+    "name": "023_Titanoboo_Art",
+    "project_id": "pm-xyz",
+    "description": "3D model from xyz collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/023_Titanoboo_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.988Z",
+    "updated_at": "2026-02-09T18:22:11.988Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/023_Titanoboo_Art_thumbnail.png",
+    "metadata": {
+      "number": "023",
+      "github_path": "projects/xyz/023_Titanoboo_Art.glb",
+      "file_size": 93800,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "XYZ Collection"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Creature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Snake"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Geometric"
+        },
+        {
+          "trait_type": "Art Style",
+          "value": "Low-Poly"
+        },
+        {
+          "trait_type": "Rigging",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Animations",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Polycount",
+          "value": "Low"
+        },
+        {
+          "trait_type": "Materials",
+          "value": "Flat-Shaded"
+        },
+        {
+          "trait_type": "Textures",
+          "value": "Vertex-Colors"
+        }
+      ]
+    }
+  },
+  {
+    "id": "xyz-024",
+    "name": "024_Circlox_Art",
+    "project_id": "pm-xyz",
+    "description": "3D model from xyz collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/024_Circlox_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.988Z",
+    "updated_at": "2026-02-09T18:22:11.988Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/024_Circlox_Art_thumbnail.png",
+    "metadata": {
+      "number": "024",
+      "github_path": "projects/xyz/024_Circlox_Art.glb",
+      "file_size": 108024,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "XYZ Collection"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Creature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Fox"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Geometric"
+        },
+        {
+          "trait_type": "Art Style",
+          "value": "Low-Poly"
+        },
+        {
+          "trait_type": "Rigging",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Animations",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Polycount",
+          "value": "Low"
+        },
+        {
+          "trait_type": "Materials",
+          "value": "Flat-Shaded"
+        },
+        {
+          "trait_type": "Textures",
+          "value": "Vertex-Colors"
+        }
+      ]
+    }
+  },
+  {
+    "id": "xyz-025",
+    "name": "025_Snakis_Art",
+    "project_id": "pm-xyz",
+    "description": "3D model from xyz collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/025_Snakis_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.988Z",
+    "updated_at": "2026-02-09T18:22:11.988Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/025_Snakis_Art_thumbnail.png",
+    "metadata": {
+      "number": "025",
+      "github_path": "projects/xyz/025_Snakis_Art.glb",
+      "file_size": 104288,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "XYZ Collection"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Creature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Snake"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Geometric"
+        },
+        {
+          "trait_type": "Art Style",
+          "value": "Low-Poly"
+        },
+        {
+          "trait_type": "Rigging",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Animations",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Polycount",
+          "value": "Low"
+        },
+        {
+          "trait_type": "Materials",
+          "value": "Flat-Shaded"
+        },
+        {
+          "trait_type": "Textures",
+          "value": "Vertex-Colors"
+        }
+      ]
+    }
+  },
+  {
+    "id": "xyz-026",
+    "name": "026_Tribird_Art",
+    "project_id": "pm-xyz",
+    "description": "3D model from xyz collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/026_Tribird_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.988Z",
+    "updated_at": "2026-02-09T18:22:11.988Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/026_Tribird_Art_thumbnail.png",
+    "metadata": {
+      "number": "026",
+      "github_path": "projects/xyz/026_Tribird_Art.glb",
+      "file_size": 129884,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "XYZ Collection"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Creature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Bird"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Geometric"
+        },
+        {
+          "trait_type": "Art Style",
+          "value": "Low-Poly"
+        },
+        {
+          "trait_type": "Rigging",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Animations",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Polycount",
+          "value": "Low"
+        },
+        {
+          "trait_type": "Materials",
+          "value": "Flat-Shaded"
+        },
+        {
+          "trait_type": "Textures",
+          "value": "Vertex-Colors"
+        }
+      ]
+    }
+  },
+  {
+    "id": "xyz-027",
+    "name": "027_Rombophant_Art",
+    "project_id": "pm-xyz",
+    "description": "3D model from xyz collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/027_Rombophant_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.988Z",
+    "updated_at": "2026-02-09T18:22:11.988Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/027_Rombophant_Art_thumbnail.png",
+    "metadata": {
+      "number": "027",
+      "github_path": "projects/xyz/027_Rombophant_Art.glb",
+      "file_size": 97424,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "XYZ Collection"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Creature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Hybrid-Creature"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Geometric"
+        },
+        {
+          "trait_type": "Art Style",
+          "value": "Low-Poly"
+        },
+        {
+          "trait_type": "Rigging",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Animations",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Polycount",
+          "value": "Low"
+        },
+        {
+          "trait_type": "Materials",
+          "value": "Flat-Shaded"
+        },
+        {
+          "trait_type": "Textures",
+          "value": "Vertex-Colors"
+        }
+      ]
+    }
+  },
+  {
+    "id": "xyz-028",
+    "name": "028_Hexowl_Art",
+    "project_id": "pm-xyz",
+    "description": "3D model from xyz collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/028_Hexowl_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.988Z",
+    "updated_at": "2026-02-09T18:22:11.988Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/028_Hexowl_Art_thumbnail.png",
+    "metadata": {
+      "number": "028",
+      "github_path": "projects/xyz/028_Hexowl_Art.glb",
+      "file_size": 125996,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "XYZ Collection"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Creature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Owl"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Geometric"
+        },
+        {
+          "trait_type": "Art Style",
+          "value": "Low-Poly"
+        },
+        {
+          "trait_type": "Rigging",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Animations",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Polycount",
+          "value": "Low"
+        },
+        {
+          "trait_type": "Materials",
+          "value": "Flat-Shaded"
+        },
+        {
+          "trait_type": "Textures",
+          "value": "Vertex-Colors"
+        }
+      ]
+    }
+  },
+  {
+    "id": "xyz-029",
+    "name": "029_Monkeylon_Art",
+    "project_id": "pm-xyz",
+    "description": "3D model from xyz collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/029_Monkeylon_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.988Z",
+    "updated_at": "2026-02-09T18:22:11.988Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/029_Monkeylon_Art_thumbnail.png",
+    "metadata": {
+      "number": "029",
+      "github_path": "projects/xyz/029_Monkeylon_Art.glb",
+      "file_size": 150868,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "XYZ Collection"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Creature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Monkey"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Geometric"
+        },
+        {
+          "trait_type": "Art Style",
+          "value": "Low-Poly"
+        },
+        {
+          "trait_type": "Rigging",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Animations",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Polycount",
+          "value": "Low"
+        },
+        {
+          "trait_type": "Materials",
+          "value": "Flat-Shaded"
+        },
+        {
+          "trait_type": "Textures",
+          "value": "Vertex-Colors"
+        }
+      ]
+    }
+  },
+  {
+    "id": "xyz-030",
+    "name": "030_Crabylon_Art",
+    "project_id": "pm-xyz",
+    "description": "3D model from xyz collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/030_Crabylon_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.988Z",
+    "updated_at": "2026-02-09T18:22:11.988Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/030_Crabylon_Art_thumbnail.png",
+    "metadata": {
+      "number": "030",
+      "github_path": "projects/xyz/030_Crabylon_Art.glb",
+      "file_size": 257004,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "XYZ Collection"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Creature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Crab"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Geometric"
+        },
+        {
+          "trait_type": "Art Style",
+          "value": "Low-Poly"
+        },
+        {
+          "trait_type": "Rigging",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Animations",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Polycount",
+          "value": "Low"
+        },
+        {
+          "trait_type": "Materials",
+          "value": "Flat-Shaded"
+        },
+        {
+          "trait_type": "Textures",
+          "value": "Vertex-Colors"
+        }
+      ]
+    }
+  },
+  {
+    "id": "xyz-031",
+    "name": "031_Snailus_Art",
+    "project_id": "pm-xyz",
+    "description": "3D model from xyz collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/031_Snailus_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.988Z",
+    "updated_at": "2026-02-09T18:22:11.988Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/031_Snailus_Art_thumbnail.png",
+    "metadata": {
+      "number": "031",
+      "github_path": "projects/xyz/031_Snailus_Art.glb",
+      "file_size": 74428,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "XYZ Collection"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Creature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Snail"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Geometric"
+        },
+        {
+          "trait_type": "Art Style",
+          "value": "Low-Poly"
+        },
+        {
+          "trait_type": "Rigging",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Animations",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Polycount",
+          "value": "Low"
+        },
+        {
+          "trait_type": "Materials",
+          "value": "Flat-Shaded"
+        },
+        {
+          "trait_type": "Textures",
+          "value": "Vertex-Colors"
+        }
+      ]
+    }
+  },
+  {
+    "id": "xyz-032",
+    "name": "032_Monkeylon_ The_Big_Fighter_Art",
+    "project_id": "pm-xyz",
+    "description": "3D model from xyz collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/032_Monkeylon_%20The_Big_Fighter_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.988Z",
+    "updated_at": "2026-02-09T18:22:11.988Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/032_Monkeylon_%20The_Big_Fighter_Art_thumbnail.png",
+    "metadata": {
+      "number": "032",
+      "github_path": "projects/xyz/032_Monkeylon_ The_Big_Fighter_Art.glb",
+      "file_size": 151288,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "XYZ Collection"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Creature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Monkey"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Geometric"
+        },
+        {
+          "trait_type": "Art Style",
+          "value": "Low-Poly"
+        },
+        {
+          "trait_type": "Rigging",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Animations",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Polycount",
+          "value": "Low"
+        },
+        {
+          "trait_type": "Materials",
+          "value": "Flat-Shaded"
+        },
+        {
+          "trait_type": "Textures",
+          "value": "Vertex-Colors"
+        }
+      ]
+    }
+  },
+  {
+    "id": "xyz-033",
+    "name": "033_Monkeylon_ The_Middle_Fighter_Art",
+    "project_id": "pm-xyz",
+    "description": "3D model from xyz collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/033_Monkeylon_%20The_Middle_Fighter_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.988Z",
+    "updated_at": "2026-02-09T18:22:11.988Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/033_Monkeylon_%20The_Middle_Fighter_Art_thumbnail.png",
+    "metadata": {
+      "number": "033",
+      "github_path": "projects/xyz/033_Monkeylon_ The_Middle_Fighter_Art.glb",
+      "file_size": 151252,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "XYZ Collection"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Creature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Monkey"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Geometric"
+        },
+        {
+          "trait_type": "Art Style",
+          "value": "Low-Poly"
+        },
+        {
+          "trait_type": "Rigging",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Animations",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Polycount",
+          "value": "Low"
+        },
+        {
+          "trait_type": "Materials",
+          "value": "Flat-Shaded"
+        },
+        {
+          "trait_type": "Textures",
+          "value": "Vertex-Colors"
+        }
+      ]
+    }
+  },
+  {
+    "id": "xyz-034",
+    "name": "034_Cobrangle_Art",
+    "project_id": "pm-xyz",
+    "description": "3D model from xyz collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/034_Cobrangle_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.988Z",
+    "updated_at": "2026-02-09T18:22:11.988Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/034_Cobrangle_Art_thumbnail.png",
+    "metadata": {
+      "number": "034",
+      "github_path": "projects/xyz/034_Cobrangle_Art.glb",
+      "file_size": 166732,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "XYZ Collection"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Creature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Snake"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Geometric"
+        },
+        {
+          "trait_type": "Art Style",
+          "value": "Low-Poly"
+        },
+        {
+          "trait_type": "Rigging",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Animations",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Polycount",
+          "value": "Low"
+        },
+        {
+          "trait_type": "Materials",
+          "value": "Flat-Shaded"
+        },
+        {
+          "trait_type": "Textures",
+          "value": "Vertex-Colors"
+        }
+      ]
+    }
+  },
+  {
+    "id": "xyz-035",
+    "name": "035_Trihound_Art",
+    "project_id": "pm-xyz",
+    "description": "3D model from xyz collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/035_Trihound_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.988Z",
+    "updated_at": "2026-02-09T18:22:11.988Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/035_Trihound_Art_thumbnail.png",
+    "metadata": {
+      "number": "035",
+      "github_path": "projects/xyz/035_Trihound_Art.glb",
+      "file_size": 266012,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "XYZ Collection"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Creature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Dog"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Geometric"
+        },
+        {
+          "trait_type": "Art Style",
+          "value": "Low-Poly"
+        },
+        {
+          "trait_type": "Rigging",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Animations",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Polycount",
+          "value": "Low"
+        },
+        {
+          "trait_type": "Materials",
+          "value": "Flat-Shaded"
+        },
+        {
+          "trait_type": "Textures",
+          "value": "Vertex-Colors"
+        }
+      ]
+    }
+  },
+  {
+    "id": "xyz-036",
+    "name": "036_Crabylon_Art",
+    "project_id": "pm-xyz",
+    "description": "3D model from xyz collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/036_Crabylon_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.988Z",
+    "updated_at": "2026-02-09T18:22:11.988Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/036_Crabylon_Art_thumbnail.png",
+    "metadata": {
+      "number": "036",
+      "github_path": "projects/xyz/036_Crabylon_Art.glb",
+      "file_size": 261420,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "XYZ Collection"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Creature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Crab"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Geometric"
+        },
+        {
+          "trait_type": "Art Style",
+          "value": "Low-Poly"
+        },
+        {
+          "trait_type": "Rigging",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Animations",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Polycount",
+          "value": "Low"
+        },
+        {
+          "trait_type": "Materials",
+          "value": "Flat-Shaded"
+        },
+        {
+          "trait_type": "Textures",
+          "value": "Vertex-Colors"
+        }
+      ]
+    }
+  },
+  {
+    "id": "xyz-037",
+    "name": "037_Octospider_Art",
+    "project_id": "pm-xyz",
+    "description": "3D model from xyz collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/037_Octospider_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.988Z",
+    "updated_at": "2026-02-09T18:22:11.988Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/037_Octospider_Art_thumbnail.png",
+    "metadata": {
+      "number": "037",
+      "github_path": "projects/xyz/037_Octospider_Art.glb",
+      "file_size": 219208,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "XYZ Collection"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Creature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Spider"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Geometric"
+        },
+        {
+          "trait_type": "Art Style",
+          "value": "Low-Poly"
+        },
+        {
+          "trait_type": "Rigging",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Animations",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Polycount",
+          "value": "Low"
+        },
+        {
+          "trait_type": "Materials",
+          "value": "Flat-Shaded"
+        },
+        {
+          "trait_type": "Textures",
+          "value": "Vertex-Colors"
+        }
+      ]
+    }
+  },
+  {
+    "id": "xyz-038",
+    "name": "038_Giraffaxon_Art",
+    "project_id": "pm-xyz",
+    "description": "3D model from xyz collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/038_Giraffaxon_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.988Z",
+    "updated_at": "2026-02-09T18:22:11.988Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/038_Giraffaxon_Art_thumbnail.png",
+    "metadata": {
+      "number": "038",
+      "github_path": "projects/xyz/038_Giraffaxon_Art.glb",
+      "file_size": 131368,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "XYZ Collection"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Creature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Giraffe"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Geometric"
+        },
+        {
+          "trait_type": "Art Style",
+          "value": "Low-Poly"
+        },
+        {
+          "trait_type": "Rigging",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Animations",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Polycount",
+          "value": "Low"
+        },
+        {
+          "trait_type": "Materials",
+          "value": "Flat-Shaded"
+        },
+        {
+          "trait_type": "Textures",
+          "value": "Vertex-Colors"
+        }
+      ]
+    }
+  },
+  {
+    "id": "xyz-039",
+    "name": "039_Mousylon_Art",
+    "project_id": "pm-xyz",
+    "description": "3D model from xyz collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/039_Mousylon_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.988Z",
+    "updated_at": "2026-02-09T18:22:11.988Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/039_Mousylon_Art_thumbnail.png",
+    "metadata": {
+      "number": "039",
+      "github_path": "projects/xyz/039_Mousylon_Art.glb",
+      "file_size": 171160,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "XYZ Collection"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Creature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Mouse"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Geometric"
+        },
+        {
+          "trait_type": "Art Style",
+          "value": "Low-Poly"
+        },
+        {
+          "trait_type": "Rigging",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Animations",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Polycount",
+          "value": "Low"
+        },
+        {
+          "trait_type": "Materials",
+          "value": "Flat-Shaded"
+        },
+        {
+          "trait_type": "Textures",
+          "value": "Vertex-Colors"
+        }
+      ]
+    }
+  },
+  {
+    "id": "xyz-040",
+    "name": "040_Natiangle_Art",
+    "project_id": "pm-xyz",
+    "description": "3D model from xyz collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/040_Natiangle_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.988Z",
+    "updated_at": "2026-02-09T18:22:11.988Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/040_Natiangle_Art_thumbnail.png",
+    "metadata": {
+      "number": "040",
+      "github_path": "projects/xyz/040_Natiangle_Art.glb",
+      "file_size": 94116,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "XYZ Collection"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Creature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Hybrid-Creature"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Geometric"
+        },
+        {
+          "trait_type": "Art Style",
+          "value": "Low-Poly"
+        },
+        {
+          "trait_type": "Rigging",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Animations",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Polycount",
+          "value": "Low"
+        },
+        {
+          "trait_type": "Materials",
+          "value": "Flat-Shaded"
+        },
+        {
+          "trait_type": "Textures",
+          "value": "Vertex-Colors"
+        }
+      ]
+    }
+  },
+  {
+    "id": "xyz-041",
+    "name": "041_Beaveriangle_Art",
+    "project_id": "pm-xyz",
+    "description": "3D model from xyz collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/041_Beaveriangle_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.988Z",
+    "updated_at": "2026-02-09T18:22:11.988Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/041_Beaveriangle_Art_thumbnail.png",
+    "metadata": {
+      "number": "041",
+      "github_path": "projects/xyz/041_Beaveriangle_Art.glb",
+      "file_size": 90396,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "XYZ Collection"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Creature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Beaver"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Geometric"
+        },
+        {
+          "trait_type": "Art Style",
+          "value": "Low-Poly"
+        },
+        {
+          "trait_type": "Rigging",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Animations",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Polycount",
+          "value": "Low"
+        },
+        {
+          "trait_type": "Materials",
+          "value": "Flat-Shaded"
+        },
+        {
+          "trait_type": "Textures",
+          "value": "Vertex-Colors"
+        }
+      ]
+    }
+  },
+  {
+    "id": "xyz-042",
+    "name": "042_Bigsastylon_Art",
+    "project_id": "pm-xyz",
+    "description": "3D model from xyz collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/042_Bigsastylon_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.988Z",
+    "updated_at": "2026-02-09T18:22:11.988Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/042_Bigsastylon_Art_thumbnail.png",
+    "metadata": {
+      "number": "042",
+      "github_path": "projects/xyz/042_Bigsastylon_Art.glb",
+      "file_size": 126460,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "XYZ Collection"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Creature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Sasquatch"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Geometric"
+        },
+        {
+          "trait_type": "Art Style",
+          "value": "Low-Poly"
+        },
+        {
+          "trait_type": "Rigging",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Animations",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Polycount",
+          "value": "Low"
+        },
+        {
+          "trait_type": "Materials",
+          "value": "Flat-Shaded"
+        },
+        {
+          "trait_type": "Textures",
+          "value": "Vertex-Colors"
+        }
+      ]
+    }
+  },
+  {
+    "id": "xyz-043",
+    "name": "043_Firellama_Art",
+    "project_id": "pm-xyz",
+    "description": "3D model from xyz collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/043_Firellama_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.988Z",
+    "updated_at": "2026-02-09T18:22:11.988Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/043_Firellama_Art_thumbnail.png",
+    "metadata": {
+      "number": "043",
+      "github_path": "projects/xyz/043_Firellama_Art.glb",
+      "file_size": 79360,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "XYZ Collection"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Creature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Llama"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Geometric"
+        },
+        {
+          "trait_type": "Art Style",
+          "value": "Low-Poly"
+        },
+        {
+          "trait_type": "Rigging",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Animations",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Polycount",
+          "value": "Low"
+        },
+        {
+          "trait_type": "Materials",
+          "value": "Flat-Shaded"
+        },
+        {
+          "trait_type": "Textures",
+          "value": "Vertex-Colors"
+        }
+      ]
+    }
+  },
+  {
+    "id": "xyz-044",
+    "name": "044_Orclygon_Art",
+    "project_id": "pm-xyz",
+    "description": "3D model from xyz collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/044_Orclygon_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.988Z",
+    "updated_at": "2026-02-09T18:22:11.988Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/044_Orclygon_Art_thumbnail.png",
+    "metadata": {
+      "number": "044",
+      "github_path": "projects/xyz/044_Orclygon_Art.glb",
+      "file_size": 103472,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "XYZ Collection"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Creature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Dragon"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Geometric"
+        },
+        {
+          "trait_type": "Art Style",
+          "value": "Low-Poly"
+        },
+        {
+          "trait_type": "Rigging",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Animations",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Polycount",
+          "value": "Low"
+        },
+        {
+          "trait_type": "Materials",
+          "value": "Flat-Shaded"
+        },
+        {
+          "trait_type": "Textures",
+          "value": "Vertex-Colors"
+        }
+      ]
+    }
+  },
+  {
+    "id": "xyz-045",
+    "name": "045_Mermalygon_Art",
+    "project_id": "pm-xyz",
+    "description": "3D model from xyz collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/045_Mermalygon_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.988Z",
+    "updated_at": "2026-02-09T18:22:11.988Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/045_Mermalygon_Art_thumbnail.png",
+    "metadata": {
+      "number": "045",
+      "github_path": "projects/xyz/045_Mermalygon_Art.glb",
+      "file_size": 96444,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "XYZ Collection"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Creature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Dragon"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Geometric"
+        },
+        {
+          "trait_type": "Art Style",
+          "value": "Low-Poly"
+        },
+        {
+          "trait_type": "Rigging",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Animations",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Polycount",
+          "value": "Low"
+        },
+        {
+          "trait_type": "Materials",
+          "value": "Flat-Shaded"
+        },
+        {
+          "trait_type": "Textures",
+          "value": "Vertex-Colors"
+        }
+      ]
+    }
+  },
+  {
+    "id": "xyz-046",
+    "name": "046_Mushroomy_Art",
+    "project_id": "pm-xyz",
+    "description": "3D model from xyz collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/046_Mushroomy_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.988Z",
+    "updated_at": "2026-02-09T18:22:11.988Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/046_Mushroomy_Art_thumbnail.png",
+    "metadata": {
+      "number": "046",
+      "github_path": "projects/xyz/046_Mushroomy_Art.glb",
+      "file_size": 111144,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "XYZ Collection"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Creature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Mushroom"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Geometric"
+        },
+        {
+          "trait_type": "Art Style",
+          "value": "Low-Poly"
+        },
+        {
+          "trait_type": "Rigging",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Animations",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Polycount",
+          "value": "Low"
+        },
+        {
+          "trait_type": "Materials",
+          "value": "Flat-Shaded"
+        },
+        {
+          "trait_type": "Textures",
+          "value": "Vertex-Colors"
+        }
+      ]
+    }
+  },
+  {
+    "id": "xyz-047",
+    "name": "047_Peacolion_Art",
+    "project_id": "pm-xyz",
+    "description": "3D model from xyz collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/047_Peacolion_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.988Z",
+    "updated_at": "2026-02-09T18:22:11.988Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/047_Peacolion_Art_thumbnail.png",
+    "metadata": {
+      "number": "047",
+      "github_path": "projects/xyz/047_Peacolion_Art.glb",
+      "file_size": 110872,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "XYZ Collection"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Creature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Lion"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Geometric"
+        },
+        {
+          "trait_type": "Art Style",
+          "value": "Low-Poly"
+        },
+        {
+          "trait_type": "Rigging",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Animations",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Polycount",
+          "value": "Low"
+        },
+        {
+          "trait_type": "Materials",
+          "value": "Flat-Shaded"
+        },
+        {
+          "trait_type": "Textures",
+          "value": "Vertex-Colors"
+        }
+      ]
+    }
+  },
+  {
+    "id": "xyz-048",
+    "name": "048_Frogaxon_Art",
+    "project_id": "pm-xyz",
+    "description": "3D model from xyz collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/048_Frogaxon_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.988Z",
+    "updated_at": "2026-02-09T18:22:11.988Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/048_Frogaxon_Art_thumbnail.png",
+    "metadata": {
+      "number": "048",
+      "github_path": "projects/xyz/048_Frogaxon_Art.glb",
+      "file_size": 187328,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "XYZ Collection"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Creature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Frog"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Geometric"
+        },
+        {
+          "trait_type": "Art Style",
+          "value": "Low-Poly"
+        },
+        {
+          "trait_type": "Rigging",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Animations",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Polycount",
+          "value": "Low"
+        },
+        {
+          "trait_type": "Materials",
+          "value": "Flat-Shaded"
+        },
+        {
+          "trait_type": "Textures",
+          "value": "Vertex-Colors"
+        }
+      ]
+    }
+  },
+  {
+    "id": "xyz-049",
+    "name": "049_Turtlelion_Art",
+    "project_id": "pm-xyz",
+    "description": "3D model from xyz collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/049_Turtlelion_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.988Z",
+    "updated_at": "2026-02-09T18:22:11.988Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/049_Turtlelion_Art_thumbnail.png",
+    "metadata": {
+      "number": "049",
+      "github_path": "projects/xyz/049_Turtlelion_Art.glb",
+      "file_size": 113684,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "XYZ Collection"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Creature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Lion"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Geometric"
+        },
+        {
+          "trait_type": "Art Style",
+          "value": "Low-Poly"
+        },
+        {
+          "trait_type": "Rigging",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Animations",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Polycount",
+          "value": "Low"
+        },
+        {
+          "trait_type": "Materials",
+          "value": "Flat-Shaded"
+        },
+        {
+          "trait_type": "Textures",
+          "value": "Vertex-Colors"
+        }
+      ]
+    }
+  },
+  {
+    "id": "xyz-050",
+    "name": "050_Binguilon_Art",
+    "project_id": "pm-xyz",
+    "description": "3D model from xyz collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/050_Binguilon_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.988Z",
+    "updated_at": "2026-02-09T18:22:11.988Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/050_Binguilon_Art_thumbnail.png",
+    "metadata": {
+      "number": "050",
+      "github_path": "projects/xyz/050_Binguilon_Art.glb",
+      "file_size": 91288,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "XYZ Collection"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Creature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Penguin"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Geometric"
+        },
+        {
+          "trait_type": "Art Style",
+          "value": "Low-Poly"
+        },
+        {
+          "trait_type": "Rigging",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Animations",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Polycount",
+          "value": "Low"
+        },
+        {
+          "trait_type": "Materials",
+          "value": "Flat-Shaded"
+        },
+        {
+          "trait_type": "Textures",
+          "value": "Vertex-Colors"
+        }
+      ]
+    }
+  },
+  {
+    "id": "xyz-051",
+    "name": "051_Cacturnion_Art",
+    "project_id": "pm-xyz",
+    "description": "3D model from xyz collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/051_Cacturnion_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.988Z",
+    "updated_at": "2026-02-09T18:22:11.988Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/051_Cacturnion_Art_thumbnail.png",
+    "metadata": {
+      "number": "051",
+      "github_path": "projects/xyz/051_Cacturnion_Art.glb",
+      "file_size": 78552,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "XYZ Collection"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Creature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Cactus"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Geometric"
+        },
+        {
+          "trait_type": "Art Style",
+          "value": "Low-Poly"
+        },
+        {
+          "trait_type": "Rigging",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Animations",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Polycount",
+          "value": "Low"
+        },
+        {
+          "trait_type": "Materials",
+          "value": "Flat-Shaded"
+        },
+        {
+          "trait_type": "Textures",
+          "value": "Vertex-Colors"
+        }
+      ]
+    }
+  },
+  {
+    "id": "xyz-052",
+    "name": "052_Owltron_Art",
+    "project_id": "pm-xyz",
+    "description": "3D model from xyz collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/052_Owltron_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.988Z",
+    "updated_at": "2026-02-09T18:22:11.988Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/052_Owltron_Art_thumbnail.png",
+    "metadata": {
+      "number": "052",
+      "github_path": "projects/xyz/052_Owltron_Art.glb",
+      "file_size": 185740,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "XYZ Collection"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Creature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Owl"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Geometric"
+        },
+        {
+          "trait_type": "Art Style",
+          "value": "Low-Poly"
+        },
+        {
+          "trait_type": "Rigging",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Animations",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Polycount",
+          "value": "Low"
+        },
+        {
+          "trait_type": "Materials",
+          "value": "Flat-Shaded"
+        },
+        {
+          "trait_type": "Textures",
+          "value": "Vertex-Colors"
+        }
+      ]
+    }
+  },
+  {
+    "id": "xyz-053",
+    "name": "053_Penguiton_Art",
+    "project_id": "pm-xyz",
+    "description": "3D model from xyz collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/053_Penguiton_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.988Z",
+    "updated_at": "2026-02-09T18:22:11.988Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/053_Penguiton_Art_thumbnail.png",
+    "metadata": {
+      "number": "053",
+      "github_path": "projects/xyz/053_Penguiton_Art.glb",
+      "file_size": 80588,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "XYZ Collection"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Creature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Hybrid-Creature"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Geometric"
+        },
+        {
+          "trait_type": "Art Style",
+          "value": "Low-Poly"
+        },
+        {
+          "trait_type": "Rigging",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Animations",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Polycount",
+          "value": "Low"
+        },
+        {
+          "trait_type": "Materials",
+          "value": "Flat-Shaded"
+        },
+        {
+          "trait_type": "Textures",
+          "value": "Vertex-Colors"
+        }
+      ]
+    }
+  },
+  {
+    "id": "xyz-054",
+    "name": "054_Scorpy_Art",
+    "project_id": "pm-xyz",
+    "description": "3D model from xyz collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/054_Scorpy_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.988Z",
+    "updated_at": "2026-02-09T18:22:11.988Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/054_Scorpy_Art_thumbnail.png",
+    "metadata": {
+      "number": "054",
+      "github_path": "projects/xyz/054_Scorpy_Art.glb",
+      "file_size": 129888,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "XYZ Collection"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Creature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Scorpion"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Geometric"
+        },
+        {
+          "trait_type": "Art Style",
+          "value": "Low-Poly"
+        },
+        {
+          "trait_type": "Rigging",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Animations",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Polycount",
+          "value": "Low"
+        },
+        {
+          "trait_type": "Materials",
+          "value": "Flat-Shaded"
+        },
+        {
+          "trait_type": "Textures",
+          "value": "Vertex-Colors"
+        }
+      ]
+    }
+  },
+  {
+    "id": "xyz-055",
+    "name": "055_Searlygon_Art",
+    "project_id": "pm-xyz",
+    "description": "3D model from xyz collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/055_Searlygon_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.988Z",
+    "updated_at": "2026-02-09T18:22:11.988Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/055_Searlygon_Art_thumbnail.png",
+    "metadata": {
+      "number": "055",
+      "github_path": "projects/xyz/055_Searlygon_Art.glb",
+      "file_size": 65856,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "XYZ Collection"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Creature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Dragon"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Geometric"
+        },
+        {
+          "trait_type": "Art Style",
+          "value": "Low-Poly"
+        },
+        {
+          "trait_type": "Rigging",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Animations",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Polycount",
+          "value": "Low"
+        },
+        {
+          "trait_type": "Materials",
+          "value": "Flat-Shaded"
+        },
+        {
+          "trait_type": "Textures",
+          "value": "Vertex-Colors"
+        }
+      ]
+    }
+  },
+  {
+    "id": "xyz-056",
+    "name": "056_Anteategon_Art",
+    "project_id": "pm-xyz",
+    "description": "3D model from xyz collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/056_Anteategon_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.988Z",
+    "updated_at": "2026-02-09T18:22:11.988Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/056_Anteategon_Art_thumbnail.png",
+    "metadata": {
+      "number": "056",
+      "github_path": "projects/xyz/056_Anteategon_Art.glb",
+      "file_size": 100992,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "XYZ Collection"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Creature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Dragon"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Geometric"
+        },
+        {
+          "trait_type": "Art Style",
+          "value": "Low-Poly"
+        },
+        {
+          "trait_type": "Rigging",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Animations",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Polycount",
+          "value": "Low"
+        },
+        {
+          "trait_type": "Materials",
+          "value": "Flat-Shaded"
+        },
+        {
+          "trait_type": "Textures",
+          "value": "Vertex-Colors"
+        }
+      ]
+    }
+  },
+  {
+    "id": "xyz-057",
+    "name": "057_Horsely_Art",
+    "project_id": "pm-xyz",
+    "description": "3D model from xyz collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/057_Horsely_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.988Z",
+    "updated_at": "2026-02-09T18:22:11.988Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/057_Horsely_Art_thumbnail.png",
+    "metadata": {
+      "number": "057",
+      "github_path": "projects/xyz/057_Horsely_Art.glb",
+      "file_size": 106796,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "XYZ Collection"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Creature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Horse"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Geometric"
+        },
+        {
+          "trait_type": "Art Style",
+          "value": "Low-Poly"
+        },
+        {
+          "trait_type": "Rigging",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Animations",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Polycount",
+          "value": "Low"
+        },
+        {
+          "trait_type": "Materials",
+          "value": "Flat-Shaded"
+        },
+        {
+          "trait_type": "Textures",
+          "value": "Vertex-Colors"
+        }
+      ]
+    }
+  },
+  {
+    "id": "xyz-058",
+    "name": "058_Symbbit_Art",
+    "project_id": "pm-xyz",
+    "description": "3D model from xyz collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/058_Symbbit_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.988Z",
+    "updated_at": "2026-02-09T18:22:11.988Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/058_Symbbit_Art_thumbnail.png",
+    "metadata": {
+      "number": "058",
+      "github_path": "projects/xyz/058_Symbbit_Art.glb",
+      "file_size": 140764,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "XYZ Collection"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Creature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Rabbit"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Geometric"
+        },
+        {
+          "trait_type": "Art Style",
+          "value": "Low-Poly"
+        },
+        {
+          "trait_type": "Rigging",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Animations",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Polycount",
+          "value": "Low"
+        },
+        {
+          "trait_type": "Materials",
+          "value": "Flat-Shaded"
+        },
+        {
+          "trait_type": "Textures",
+          "value": "Vertex-Colors"
+        }
+      ]
+    }
+  },
+  {
+    "id": "xyz-059",
+    "name": "059_Triangaroo_Art",
+    "project_id": "pm-xyz",
+    "description": "3D model from xyz collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/059_Triangaroo_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.988Z",
+    "updated_at": "2026-02-09T18:22:11.988Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/059_Triangaroo_Art_thumbnail.png",
+    "metadata": {
+      "number": "059",
+      "github_path": "projects/xyz/059_Triangaroo_Art.glb",
+      "file_size": 118492,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "XYZ Collection"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Creature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Kangaroo"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Geometric"
+        },
+        {
+          "trait_type": "Art Style",
+          "value": "Low-Poly"
+        },
+        {
+          "trait_type": "Rigging",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Animations",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Polycount",
+          "value": "Low"
+        },
+        {
+          "trait_type": "Materials",
+          "value": "Flat-Shaded"
+        },
+        {
+          "trait_type": "Textures",
+          "value": "Vertex-Colors"
+        }
+      ]
+    }
+  },
+  {
+    "id": "xyz-060",
+    "name": "060_Polypug_Art",
+    "project_id": "pm-xyz",
+    "description": "3D model from xyz collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/060_Polypug_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.988Z",
+    "updated_at": "2026-02-09T18:22:11.988Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/xyz/060_Polypug_Art_thumbnail.png",
+    "metadata": {
+      "number": "060",
+      "github_path": "projects/xyz/060_Polypug_Art.glb",
+      "file_size": 95824,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "XYZ Collection"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Creature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Dog"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Geometric"
+        },
+        {
+          "trait_type": "Art Style",
+          "value": "Low-Poly"
+        },
+        {
+          "trait_type": "Rigging",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Animations",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Polycount",
+          "value": "Low"
+        },
+        {
+          "trait_type": "Materials",
+          "value": "Flat-Shaded"
+        },
+        {
+          "trait_type": "Textures",
+          "value": "Vertex-Colors"
+        }
+      ]
+    }
+  }
+]

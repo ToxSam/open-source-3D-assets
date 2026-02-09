@@ -1,0 +1,5042 @@
+[
+  {
+    "id": "avatar-garden-001",
+    "name": "AvatarPedestal01",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/AvatarPedestal01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/AvatarPedestal01_thumbnail.png",
+    "metadata": {
+      "number": "001",
+      "github_path": "projects/avatar-garden/AvatarPedestal01.glb",
+      "file_size": 12050244,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Display"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Pedestal"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Avatar Display"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Exhibition"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-002",
+    "name": "BasePalmTree01",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/BasePalmTree01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/BasePalmTree01_thumbnail.png",
+    "metadata": {
+      "number": "002",
+      "github_path": "projects/avatar-garden/BasePalmTree01.glb",
+      "file_size": 13356104,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Tree"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Tropical"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Palm Tree"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-003",
+    "name": "BlackHole01",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/BlackHole01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/BlackHole01_thumbnail.png",
+    "metadata": {
+      "number": "003",
+      "github_path": "projects/avatar-garden/BlackHole01.glb",
+      "file_size": 5968896,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Special Effects"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Black Hole"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Visual Effect"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Space"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-004",
+    "name": "Bridge01",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/Bridge01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/Bridge01_thumbnail.png",
+    "metadata": {
+      "number": "004",
+      "github_path": "projects/avatar-garden/Bridge01.glb",
+      "file_size": 18249160,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Bridge"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Navigation"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Wooden"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-005",
+    "name": "Brush01",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/Brush01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/Brush01_thumbnail.png",
+    "metadata": {
+      "number": "005",
+      "github_path": "projects/avatar-garden/Brush01.glb",
+      "file_size": 70916,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Tool"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Brush"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Art Creation"
+        },
+        {
+          "trait_type": "Size",
+          "value": "Small"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-006",
+    "name": "Bush01",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/Bush01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/Bush01_thumbnail.png",
+    "metadata": {
+      "number": "006",
+      "github_path": "projects/avatar-garden/Bush01.glb",
+      "file_size": 12858724,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Bush"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Vegetation"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-007",
+    "name": "Bush02",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/Bush02.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/Bush02_thumbnail.png",
+    "metadata": {
+      "number": "007",
+      "github_path": "projects/avatar-garden/Bush02.glb",
+      "file_size": 2285488,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Bush"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Vegetation"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-008",
+    "name": "Bush03",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/Bush03.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/Bush03_thumbnail.png",
+    "metadata": {
+      "number": "008",
+      "github_path": "projects/avatar-garden/Bush03.glb",
+      "file_size": 16321032,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Bush"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Vegetation"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-009",
+    "name": "Bush04",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/Bush04.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/Bush04_thumbnail.png",
+    "metadata": {
+      "number": "009",
+      "github_path": "projects/avatar-garden/Bush04.glb",
+      "file_size": 1478328,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Bush"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Vegetation"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-010",
+    "name": "Bush05",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/Bush05.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/Bush05_thumbnail.png",
+    "metadata": {
+      "number": "010",
+      "github_path": "projects/avatar-garden/Bush05.glb",
+      "file_size": 25405784,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Bush"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Vegetation"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-011",
+    "name": "Bush06",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/Bush06.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/Bush06_thumbnail.png",
+    "metadata": {
+      "number": "011",
+      "github_path": "projects/avatar-garden/Bush06.glb",
+      "file_size": 24711340,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Bush"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Vegetation"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-012",
+    "name": "Bush07",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/Bush07.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/Bush07_thumbnail.png",
+    "metadata": {
+      "number": "012",
+      "github_path": "projects/avatar-garden/Bush07.glb",
+      "file_size": 2285488,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Bush"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Vegetation"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-013",
+    "name": "Bush08",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/Bush08.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/Bush08_thumbnail.png",
+    "metadata": {
+      "number": "013",
+      "github_path": "projects/avatar-garden/Bush08.glb",
+      "file_size": 2285488,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Bush"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Vegetation"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-014",
+    "name": "Bush09",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/Bush09.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/Bush09_thumbnail.png",
+    "metadata": {
+      "number": "014",
+      "github_path": "projects/avatar-garden/Bush09.glb",
+      "file_size": 2285488,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Bush"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Vegetation"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-015",
+    "name": "Button01",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/Button01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/Button01_thumbnail.png",
+    "metadata": {
+      "number": "015",
+      "github_path": "projects/avatar-garden/Button01.glb",
+      "file_size": 3054900,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Interactive"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Button"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Interaction"
+        },
+        {
+          "trait_type": "Element",
+          "value": "UI"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-016",
+    "name": "Button02",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/Button02.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/Button02_thumbnail.png",
+    "metadata": {
+      "number": "016",
+      "github_path": "projects/avatar-garden/Button02.glb",
+      "file_size": 10225152,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Interactive"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Button"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Interaction"
+        },
+        {
+          "trait_type": "Element",
+          "value": "UI"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-017",
+    "name": "ButtonR01",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/ButtonR01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/ButtonR01_thumbnail.png",
+    "metadata": {
+      "number": "017",
+      "github_path": "projects/avatar-garden/ButtonR01.glb",
+      "file_size": 3081532,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Interactive"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Button"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Interaction"
+        },
+        {
+          "trait_type": "Element",
+          "value": "UI"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-018",
+    "name": "ButtonR02",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/ButtonR02.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/ButtonR02_thumbnail.png",
+    "metadata": {
+      "number": "018",
+      "github_path": "projects/avatar-garden/ButtonR02.glb",
+      "file_size": 3085412,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Interactive"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Button"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Interaction"
+        },
+        {
+          "trait_type": "Element",
+          "value": "UI"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-019",
+    "name": "ButtonR03",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/ButtonR03.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/ButtonR03_thumbnail.png",
+    "metadata": {
+      "number": "019",
+      "github_path": "projects/avatar-garden/ButtonR03.glb",
+      "file_size": 6165652,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Interactive"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Button"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Interaction"
+        },
+        {
+          "trait_type": "Element",
+          "value": "UI"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-020",
+    "name": "Cloud01",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/Cloud01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/Cloud01_thumbnail.png",
+    "metadata": {
+      "number": "020",
+      "github_path": "projects/avatar-garden/Cloud01.glb",
+      "file_size": 2417756,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Environment"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Cloud"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Atmosphere"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Sky"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-021",
+    "name": "Cloud02",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/Cloud02.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/Cloud02_thumbnail.png",
+    "metadata": {
+      "number": "021",
+      "github_path": "projects/avatar-garden/Cloud02.glb",
+      "file_size": 2417752,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Environment"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Cloud"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Atmosphere"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Sky"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-022",
+    "name": "Cloud03",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/Cloud03.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/Cloud03_thumbnail.png",
+    "metadata": {
+      "number": "022",
+      "github_path": "projects/avatar-garden/Cloud03.glb",
+      "file_size": 2417736,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Environment"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Cloud"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Atmosphere"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Sky"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-023",
+    "name": "Cloud04",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/Cloud04.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/Cloud04_thumbnail.png",
+    "metadata": {
+      "number": "023",
+      "github_path": "projects/avatar-garden/Cloud04.glb",
+      "file_size": 2417752,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Environment"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Cloud"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Atmosphere"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Sky"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-024",
+    "name": "DialogueBubble01",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/DialogueBubble01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/DialogueBubble01_thumbnail.png",
+    "metadata": {
+      "number": "024",
+      "github_path": "projects/avatar-garden/DialogueBubble01.glb",
+      "file_size": 7169632,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Communication"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Dialogue Bubble"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Communication"
+        },
+        {
+          "trait_type": "Element",
+          "value": "UI"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-025",
+    "name": "Dock01",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/Dock01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/Dock01_thumbnail.png",
+    "metadata": {
+      "number": "025",
+      "github_path": "projects/avatar-garden/Dock01.glb",
+      "file_size": 29491364,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Pathway"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Navigation"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Wooden"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-026",
+    "name": "Flower01",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/Flower01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/Flower01_thumbnail.png",
+    "metadata": {
+      "number": "026",
+      "github_path": "projects/avatar-garden/Flower01.glb",
+      "file_size": 2263936,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Flower"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Flora"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-027",
+    "name": "Flower02",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/Flower02.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/Flower02_thumbnail.png",
+    "metadata": {
+      "number": "027",
+      "github_path": "projects/avatar-garden/Flower02.glb",
+      "file_size": 2263940,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Flower"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Flora"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-028",
+    "name": "Flower03",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/Flower03.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/Flower03_thumbnail.png",
+    "metadata": {
+      "number": "028",
+      "github_path": "projects/avatar-garden/Flower03.glb",
+      "file_size": 2263940,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Flower"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Flora"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-029",
+    "name": "Flower04",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/Flower04.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/Flower04_thumbnail.png",
+    "metadata": {
+      "number": "029",
+      "github_path": "projects/avatar-garden/Flower04.glb",
+      "file_size": 2263936,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Flower"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Flora"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-030",
+    "name": "Flower05",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/Flower05.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/Flower05_thumbnail.png",
+    "metadata": {
+      "number": "030",
+      "github_path": "projects/avatar-garden/Flower05.glb",
+      "file_size": 2263940,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Flower"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Flora"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-031",
+    "name": "Flower06",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/Flower06.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/Flower06_thumbnail.png",
+    "metadata": {
+      "number": "031",
+      "github_path": "projects/avatar-garden/Flower06.glb",
+      "file_size": 2263936,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Flower"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Flora"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-032",
+    "name": "Flower07",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/Flower07.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/Flower07_thumbnail.png",
+    "metadata": {
+      "number": "032",
+      "github_path": "projects/avatar-garden/Flower07.glb",
+      "file_size": 2263940,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Flower"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Flora"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-033",
+    "name": "Flower08",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/Flower08.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/Flower08_thumbnail.png",
+    "metadata": {
+      "number": "033",
+      "github_path": "projects/avatar-garden/Flower08.glb",
+      "file_size": 2263936,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Flower"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Flora"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-034",
+    "name": "Grass01",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/Grass01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/Grass01_thumbnail.png",
+    "metadata": {
+      "number": "034",
+      "github_path": "projects/avatar-garden/Grass01.glb",
+      "file_size": 7231988,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Grass"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Environment"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Ground Cover"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-035",
+    "name": "Grass02",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/Grass02.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/Grass02_thumbnail.png",
+    "metadata": {
+      "number": "035",
+      "github_path": "projects/avatar-garden/Grass02.glb",
+      "file_size": 7231988,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Grass"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Environment"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Ground Cover"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-036",
+    "name": "Grass03",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/Grass03.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/Grass03_thumbnail.png",
+    "metadata": {
+      "number": "036",
+      "github_path": "projects/avatar-garden/Grass03.glb",
+      "file_size": 7231988,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Grass"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Environment"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Ground Cover"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-037",
+    "name": "Grass04",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/Grass04.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/Grass04_thumbnail.png",
+    "metadata": {
+      "number": "037",
+      "github_path": "projects/avatar-garden/Grass04.glb",
+      "file_size": 7231988,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Grass"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Environment"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Ground Cover"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-038",
+    "name": "GroundPlatform01",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/GroundPlatform01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/GroundPlatform01_thumbnail.png",
+    "metadata": {
+      "number": "038",
+      "github_path": "projects/avatar-garden/GroundPlatform01.glb",
+      "file_size": 2378476,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Platform"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Display Base"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Exhibition"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-039",
+    "name": "InformationStand01",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/InformationStand01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/InformationStand01_thumbnail.png",
+    "metadata": {
+      "number": "039",
+      "github_path": "projects/avatar-garden/InformationStand01.glb",
+      "file_size": 39814220,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Display"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Exhibition Stand"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Display"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Exhibition"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-040",
+    "name": "InformativePanel01",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/InformativePanel01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/InformativePanel01_thumbnail.png",
+    "metadata": {
+      "number": "040",
+      "github_path": "projects/avatar-garden/InformativePanel01.glb",
+      "file_size": 12713948,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Information"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Info Display"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Information"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Signage"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-041",
+    "name": "LogoPolygonal01",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/LogoPolygonal01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/LogoPolygonal01_thumbnail.png",
+    "metadata": {
+      "number": "041",
+      "github_path": "projects/avatar-garden/LogoPolygonal01.glb",
+      "file_size": 18560,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Branding"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Logo"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Branding"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Graphics"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-042",
+    "name": "Mountain01",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/Mountain01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/Mountain01_thumbnail.png",
+    "metadata": {
+      "number": "042",
+      "github_path": "projects/avatar-garden/Mountain01.glb",
+      "file_size": 2372168,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Environment"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Rock Formation"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Stone"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Landscape"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-043",
+    "name": "Mountain02",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/Mountain02.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/Mountain02_thumbnail.png",
+    "metadata": {
+      "number": "043",
+      "github_path": "projects/avatar-garden/Mountain02.glb",
+      "file_size": 2370680,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Environment"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Rock Formation"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Stone"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Landscape"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-044",
+    "name": "Mountain03",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/Mountain03.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/Mountain03_thumbnail.png",
+    "metadata": {
+      "number": "044",
+      "github_path": "projects/avatar-garden/Mountain03.glb",
+      "file_size": 2369900,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Environment"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Rock Formation"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Stone"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Landscape"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-045",
+    "name": "Mountain04",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/Mountain04.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/Mountain04_thumbnail.png",
+    "metadata": {
+      "number": "045",
+      "github_path": "projects/avatar-garden/Mountain04.glb",
+      "file_size": 2371224,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Environment"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Rock Formation"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Stone"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Landscape"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-046",
+    "name": "Mountain05",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/Mountain05.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/Mountain05_thumbnail.png",
+    "metadata": {
+      "number": "046",
+      "github_path": "projects/avatar-garden/Mountain05.glb",
+      "file_size": 2372224,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Environment"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Rock Formation"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Stone"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Landscape"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-047",
+    "name": "NewAvatarsPlatform01",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/NewAvatarsPlatform01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/NewAvatarsPlatform01_thumbnail.png",
+    "metadata": {
+      "number": "047",
+      "github_path": "projects/avatar-garden/NewAvatarsPlatform01.glb",
+      "file_size": 8488628,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Platform"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Display Base"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Exhibition"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-048",
+    "name": "PaintEasel01",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/PaintEasel01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/PaintEasel01_thumbnail.png",
+    "metadata": {
+      "number": "048",
+      "github_path": "projects/avatar-garden/PaintEasel01.glb",
+      "file_size": 293724,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Art"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Art Supply"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Art Creation"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Tool"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-049",
+    "name": "PaintEasel02",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/PaintEasel02.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/PaintEasel02_thumbnail.png",
+    "metadata": {
+      "number": "049",
+      "github_path": "projects/avatar-garden/PaintEasel02.glb",
+      "file_size": 508496,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Art"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Art Supply"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Art Creation"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Tool"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-050",
+    "name": "PaintEasel03",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/PaintEasel03.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/PaintEasel03_thumbnail.png",
+    "metadata": {
+      "number": "050",
+      "github_path": "projects/avatar-garden/PaintEasel03.glb",
+      "file_size": 504636,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Art"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Art Supply"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Art Creation"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Tool"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-051",
+    "name": "Palette01",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/Palette01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/Palette01_thumbnail.png",
+    "metadata": {
+      "number": "051",
+      "github_path": "projects/avatar-garden/Palette01.glb",
+      "file_size": 10528,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Art"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Art Supply"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Art Creation"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Tool"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-052",
+    "name": "PalmTree02",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/PalmTree02.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/PalmTree02_thumbnail.png",
+    "metadata": {
+      "number": "052",
+      "github_path": "projects/avatar-garden/PalmTree02.glb",
+      "file_size": 14147356,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Tree"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Garden"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Flora"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-053",
+    "name": "PalmTree03",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/PalmTree03.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/PalmTree03_thumbnail.png",
+    "metadata": {
+      "number": "053",
+      "github_path": "projects/avatar-garden/PalmTree03.glb",
+      "file_size": 14148244,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Tree"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Garden"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Flora"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-054",
+    "name": "PalmTree04",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/PalmTree04.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/PalmTree04_thumbnail.png",
+    "metadata": {
+      "number": "054",
+      "github_path": "projects/avatar-garden/PalmTree04.glb",
+      "file_size": 14163008,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Tree"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Garden"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Flora"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-055",
+    "name": "PlanetStardust01",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/PlanetStardust01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/PlanetStardust01_thumbnail.png",
+    "metadata": {
+      "number": "055",
+      "github_path": "projects/avatar-garden/PlanetStardust01.glb",
+      "file_size": 4467740,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Space"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Celestial Object"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Space"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-056",
+    "name": "Portal01",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/Portal01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/Portal01_thumbnail.png",
+    "metadata": {
+      "number": "056",
+      "github_path": "projects/avatar-garden/Portal01.glb",
+      "file_size": 5481772,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Interactive"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Portal"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Navigation"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Gateway"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-057",
+    "name": "Portal02",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/Portal02.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/Portal02_thumbnail.png",
+    "metadata": {
+      "number": "057",
+      "github_path": "projects/avatar-garden/Portal02.glb",
+      "file_size": 14957880,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Interactive"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Portal"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Navigation"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Gateway"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-058",
+    "name": "Portal03",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/Portal03.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/Portal03_thumbnail.png",
+    "metadata": {
+      "number": "058",
+      "github_path": "projects/avatar-garden/Portal03.glb",
+      "file_size": 5473816,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Interactive"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Portal"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Navigation"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Gateway"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-059",
+    "name": "PortalEffect01",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/PortalEffect01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/PortalEffect01_thumbnail.png",
+    "metadata": {
+      "number": "059",
+      "github_path": "projects/avatar-garden/PortalEffect01.glb",
+      "file_size": 3075456,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Interactive"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Portal"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Navigation"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Gateway"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-060",
+    "name": "PortalEffect02",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/PortalEffect02.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/PortalEffect02_thumbnail.png",
+    "metadata": {
+      "number": "060",
+      "github_path": "projects/avatar-garden/PortalEffect02.glb",
+      "file_size": 3075268,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Interactive"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Portal"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Navigation"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Gateway"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-061",
+    "name": "PortalStones01",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/PortalStones01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/PortalStones01_thumbnail.png",
+    "metadata": {
+      "number": "061",
+      "github_path": "projects/avatar-garden/PortalStones01.glb",
+      "file_size": 2385768,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Environment"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Rock Formation"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Stone"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Landscape"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-062",
+    "name": "PortalThumbnail01",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/PortalThumbnail01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/PortalThumbnail01_thumbnail.png",
+    "metadata": {
+      "number": "062",
+      "github_path": "projects/avatar-garden/PortalThumbnail01.glb",
+      "file_size": 1724624,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Interactive"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Portal"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Navigation"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Gateway"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-063",
+    "name": "PortalThumbnail02",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/PortalThumbnail02.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/PortalThumbnail02_thumbnail.png",
+    "metadata": {
+      "number": "063",
+      "github_path": "projects/avatar-garden/PortalThumbnail02.glb",
+      "file_size": 1724620,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Interactive"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Portal"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Navigation"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Gateway"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-064",
+    "name": "PortalThumbnail03",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/PortalThumbnail03.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/PortalThumbnail03_thumbnail.png",
+    "metadata": {
+      "number": "064",
+      "github_path": "projects/avatar-garden/PortalThumbnail03.glb",
+      "file_size": 1724620,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Interactive"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Portal"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Navigation"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Gateway"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-065",
+    "name": "RiverFoam01",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/RiverFoam01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/RiverFoam01_thumbnail.png",
+    "metadata": {
+      "number": "065",
+      "github_path": "projects/avatar-garden/RiverFoam01.glb",
+      "file_size": 1659056,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Environment"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Water Effect"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Visual Effect"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Water"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-066",
+    "name": "Round01",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/Round01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/Round01_thumbnail.png",
+    "metadata": {
+      "number": "066",
+      "github_path": "projects/avatar-garden/Round01.glb",
+      "file_size": 3146180,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Interactive"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Button"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Interaction"
+        },
+        {
+          "trait_type": "Shape",
+          "value": "Round"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-067",
+    "name": "Round02",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/Round02.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/Round02_thumbnail.png",
+    "metadata": {
+      "number": "067",
+      "github_path": "projects/avatar-garden/Round02.glb",
+      "file_size": 3150072,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Interactive"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Button"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Interaction"
+        },
+        {
+          "trait_type": "Shape",
+          "value": "Round"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-068",
+    "name": "Shell01",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/Shell01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/Shell01_thumbnail.png",
+    "metadata": {
+      "number": "068",
+      "github_path": "projects/avatar-garden/Shell01.glb",
+      "file_size": 188312,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Seashell"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Marine"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-069",
+    "name": "SignArrow01",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/SignArrow01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/SignArrow01_thumbnail.png",
+    "metadata": {
+      "number": "069",
+      "github_path": "projects/avatar-garden/SignArrow01.glb",
+      "file_size": 7174488,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Navigation"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Sign"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Wayfinding"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Information"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-070",
+    "name": "SignArrow02",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/SignArrow02.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/SignArrow02_thumbnail.png",
+    "metadata": {
+      "number": "070",
+      "github_path": "projects/avatar-garden/SignArrow02.glb",
+      "file_size": 7169736,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Navigation"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Sign"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Wayfinding"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Information"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-071",
+    "name": "SignArrow03",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/SignArrow03.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/SignArrow03_thumbnail.png",
+    "metadata": {
+      "number": "071",
+      "github_path": "projects/avatar-garden/SignArrow03.glb",
+      "file_size": 7169184,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Navigation"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Sign"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Wayfinding"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Information"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-072",
+    "name": "SignBase01",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/SignBase01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/SignBase01_thumbnail.png",
+    "metadata": {
+      "number": "072",
+      "github_path": "projects/avatar-garden/SignBase01.glb",
+      "file_size": 7169796,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Navigation"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Sign"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Wayfinding"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Information"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-073",
+    "name": "SmallGrass01",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/SmallGrass01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/SmallGrass01_thumbnail.png",
+    "metadata": {
+      "number": "073",
+      "github_path": "projects/avatar-garden/SmallGrass01.glb",
+      "file_size": 1977912,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Grass"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Environment"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Ground Cover"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-074",
+    "name": "StandAlone01",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/StandAlone01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/StandAlone01_thumbnail.png",
+    "metadata": {
+      "number": "074",
+      "github_path": "projects/avatar-garden/StandAlone01.glb",
+      "file_size": 3064088,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Display"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Exhibition Stand"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Display"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Exhibition"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-075",
+    "name": "StandAlone02",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/StandAlone02.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/StandAlone02_thumbnail.png",
+    "metadata": {
+      "number": "075",
+      "github_path": "projects/avatar-garden/StandAlone02.glb",
+      "file_size": 3057812,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Display"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Exhibition Stand"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Display"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Exhibition"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-076",
+    "name": "StandAlone03",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/StandAlone03.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/StandAlone03_thumbnail.png",
+    "metadata": {
+      "number": "076",
+      "github_path": "projects/avatar-garden/StandAlone03.glb",
+      "file_size": 3056640,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Display"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Exhibition Stand"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Display"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Exhibition"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-077",
+    "name": "StandAnimals01",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/StandAnimals01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/StandAnimals01_thumbnail.png",
+    "metadata": {
+      "number": "077",
+      "github_path": "projects/avatar-garden/StandAnimals01.glb",
+      "file_size": 3364876,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Display"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Exhibition Stand"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Display"
+        },
+        {
+          "trait_type": "Content",
+          "value": "Animals"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-078",
+    "name": "StandArc01",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/StandArc01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/StandArc01_thumbnail.png",
+    "metadata": {
+      "number": "078",
+      "github_path": "projects/avatar-garden/StandArc01.glb",
+      "file_size": 3067332,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Arch Stand"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Display"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Architectural"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-079",
+    "name": "StandArc02",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/StandArc02.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/StandArc02_thumbnail.png",
+    "metadata": {
+      "number": "079",
+      "github_path": "projects/avatar-garden/StandArc02.glb",
+      "file_size": 3064152,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Arch Stand"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Display"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Architectural"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-080",
+    "name": "StandBrick01",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/StandBrick01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/StandBrick01_thumbnail.png",
+    "metadata": {
+      "number": "080",
+      "github_path": "projects/avatar-garden/StandBrick01.glb",
+      "file_size": 3055092,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Brick Stand"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Display"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Brick"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-081",
+    "name": "StandChristmas01",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/StandChristmas01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/StandChristmas01_thumbnail.png",
+    "metadata": {
+      "number": "081",
+      "github_path": "projects/avatar-garden/StandChristmas01.glb",
+      "file_size": 3540200,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Display"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Exhibition Stand"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Display"
+        },
+        {
+          "trait_type": "Content",
+          "value": "Christmas"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-082",
+    "name": "StandColumn01",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/StandColumn01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/StandColumn01_thumbnail.png",
+    "metadata": {
+      "number": "082",
+      "github_path": "projects/avatar-garden/StandColumn01.glb",
+      "file_size": 3062492,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Column Stand"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Display"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Architectural"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-083",
+    "name": "StandColumn02",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/StandColumn02.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/StandColumn02_thumbnail.png",
+    "metadata": {
+      "number": "083",
+      "github_path": "projects/avatar-garden/StandColumn02.glb",
+      "file_size": 3056328,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Column Stand"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Display"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Architectural"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-084",
+    "name": "StandColumn03",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/StandColumn03.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/StandColumn03_thumbnail.png",
+    "metadata": {
+      "number": "084",
+      "github_path": "projects/avatar-garden/StandColumn03.glb",
+      "file_size": 3060204,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Column Stand"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Display"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Architectural"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-085",
+    "name": "StandColumn04",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/StandColumn04.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/StandColumn04_thumbnail.png",
+    "metadata": {
+      "number": "085",
+      "github_path": "projects/avatar-garden/StandColumn04.glb",
+      "file_size": 3059140,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Column Stand"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Display"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Architectural"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-086",
+    "name": "StandColumn05",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/StandColumn05.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/StandColumn05_thumbnail.png",
+    "metadata": {
+      "number": "086",
+      "github_path": "projects/avatar-garden/StandColumn05.glb",
+      "file_size": 3064252,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Column Stand"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Display"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Architectural"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-087",
+    "name": "StandColumn06",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/StandColumn06.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/StandColumn06_thumbnail.png",
+    "metadata": {
+      "number": "087",
+      "github_path": "projects/avatar-garden/StandColumn06.glb",
+      "file_size": 3062036,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Column Stand"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Display"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Architectural"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-088",
+    "name": "StandCylinder01",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/StandCylinder01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/StandCylinder01_thumbnail.png",
+    "metadata": {
+      "number": "088",
+      "github_path": "projects/avatar-garden/StandCylinder01.glb",
+      "file_size": 1737772,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Display"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Cylinder Stand"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Display"
+        },
+        {
+          "trait_type": "Shape",
+          "value": "Cylindrical"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-089",
+    "name": "StandFood01",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/StandFood01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/StandFood01_thumbnail.png",
+    "metadata": {
+      "number": "089",
+      "github_path": "projects/avatar-garden/StandFood01.glb",
+      "file_size": 3370128,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Display"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Exhibition Stand"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Display"
+        },
+        {
+          "trait_type": "Content",
+          "value": "Food"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-090",
+    "name": "StandFood02",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/StandFood02.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/StandFood02_thumbnail.png",
+    "metadata": {
+      "number": "090",
+      "github_path": "projects/avatar-garden/StandFood02.glb",
+      "file_size": 3257876,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Display"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Exhibition Stand"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Display"
+        },
+        {
+          "trait_type": "Content",
+          "value": "Food"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-091",
+    "name": "StandHumanoid01",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/StandHumanoid01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/StandHumanoid01_thumbnail.png",
+    "metadata": {
+      "number": "091",
+      "github_path": "projects/avatar-garden/StandHumanoid01.glb",
+      "file_size": 3535004,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Display"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Exhibition Stand"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Display"
+        },
+        {
+          "trait_type": "Content",
+          "value": "Humanoid"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-092",
+    "name": "StandOthers01",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/StandOthers01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/StandOthers01_thumbnail.png",
+    "metadata": {
+      "number": "092",
+      "github_path": "projects/avatar-garden/StandOthers01.glb",
+      "file_size": 3405312,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Display"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Exhibition Stand"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Display"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Exhibition"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-093",
+    "name": "StandOthers02",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/StandOthers02.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/StandOthers02_thumbnail.png",
+    "metadata": {
+      "number": "093",
+      "github_path": "projects/avatar-garden/StandOthers02.glb",
+      "file_size": 3487336,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Display"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Exhibition Stand"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Display"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Exhibition"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-094",
+    "name": "StandPedestal01",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/StandPedestal01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/StandPedestal01_thumbnail.png",
+    "metadata": {
+      "number": "094",
+      "github_path": "projects/avatar-garden/StandPedestal01.glb",
+      "file_size": 3068824,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Display"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Pedestal Stand"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Display"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Classic"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-095",
+    "name": "StandSpace01",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/StandSpace01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/StandSpace01_thumbnail.png",
+    "metadata": {
+      "number": "095",
+      "github_path": "projects/avatar-garden/StandSpace01.glb",
+      "file_size": 3301104,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Display"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Exhibition Stand"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Display"
+        },
+        {
+          "trait_type": "Content",
+          "value": "Space"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-096",
+    "name": "StandSpace02",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/StandSpace02.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/StandSpace02_thumbnail.png",
+    "metadata": {
+      "number": "096",
+      "github_path": "projects/avatar-garden/StandSpace02.glb",
+      "file_size": 3241272,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Display"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Exhibition Stand"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Display"
+        },
+        {
+          "trait_type": "Content",
+          "value": "Space"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-097",
+    "name": "StandSpooky01",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/StandSpooky01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/StandSpooky01_thumbnail.png",
+    "metadata": {
+      "number": "097",
+      "github_path": "projects/avatar-garden/StandSpooky01.glb",
+      "file_size": 3348020,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Display"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Exhibition Stand"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Display"
+        },
+        {
+          "trait_type": "Content",
+          "value": "Spooky"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-098",
+    "name": "StandTheEye01",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/StandTheEye01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/StandTheEye01_thumbnail.png",
+    "metadata": {
+      "number": "098",
+      "github_path": "projects/avatar-garden/StandTheEye01.glb",
+      "file_size": 3254956,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Display"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Exhibition Stand"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Display"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Exhibition"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-099",
+    "name": "StandThings01",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/StandThings01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/StandThings01_thumbnail.png",
+    "metadata": {
+      "number": "099",
+      "github_path": "projects/avatar-garden/StandThings01.glb",
+      "file_size": 3275368,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Display"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Exhibition Stand"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Display"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Exhibition"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-100",
+    "name": "Star01",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/Star01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/Star01_thumbnail.png",
+    "metadata": {
+      "number": "100",
+      "github_path": "projects/avatar-garden/Star01.glb",
+      "file_size": 189728,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Space"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Celestial Object"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Space"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-101",
+    "name": "Stone01",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/Stone01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/Stone01_thumbnail.png",
+    "metadata": {
+      "number": "101",
+      "github_path": "projects/avatar-garden/Stone01.glb",
+      "file_size": 2370156,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Environment"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Rock Formation"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Stone"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Landscape"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-102",
+    "name": "Stone02",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/Stone02.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/Stone02_thumbnail.png",
+    "metadata": {
+      "number": "102",
+      "github_path": "projects/avatar-garden/Stone02.glb",
+      "file_size": 2368328,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Environment"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Rock Formation"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Stone"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Landscape"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-103",
+    "name": "Stone03",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/Stone03.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/Stone03_thumbnail.png",
+    "metadata": {
+      "number": "103",
+      "github_path": "projects/avatar-garden/Stone03.glb",
+      "file_size": 2370988,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Environment"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Rock Formation"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Stone"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Landscape"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-104",
+    "name": "Stone04",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/Stone04.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/Stone04_thumbnail.png",
+    "metadata": {
+      "number": "104",
+      "github_path": "projects/avatar-garden/Stone04.glb",
+      "file_size": 2369544,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Environment"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Rock Formation"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Stone"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Landscape"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-105",
+    "name": "Stone05",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/Stone05.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/Stone05_thumbnail.png",
+    "metadata": {
+      "number": "105",
+      "github_path": "projects/avatar-garden/Stone05.glb",
+      "file_size": 2369564,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Environment"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Rock Formation"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Stone"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Landscape"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-106",
+    "name": "Sunflare01",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/Sunflare01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/Sunflare01_thumbnail.png",
+    "metadata": {
+      "number": "106",
+      "github_path": "projects/avatar-garden/Sunflare01.glb",
+      "file_size": 157528,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Lighting"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Sun Flare"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Lighting Effect"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Visual Effect"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-107",
+    "name": "TerrainGrass01",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/TerrainGrass01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/TerrainGrass01_thumbnail.png",
+    "metadata": {
+      "number": "107",
+      "github_path": "projects/avatar-garden/TerrainGrass01.glb",
+      "file_size": 10303060,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Grass"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Environment"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Ground Cover"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-108",
+    "name": "TerrainGround01",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/TerrainGround01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/TerrainGround01_thumbnail.png",
+    "metadata": {
+      "number": "108",
+      "github_path": "projects/avatar-garden/TerrainGround01.glb",
+      "file_size": 11152940,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Environment"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Terrain"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Ground"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Ground"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-109",
+    "name": "TerrainGroundGrass01",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/TerrainGroundGrass01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/TerrainGroundGrass01_thumbnail.png",
+    "metadata": {
+      "number": "109",
+      "github_path": "projects/avatar-garden/TerrainGroundGrass01.glb",
+      "file_size": 6047528,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Grass"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Environment"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Ground Cover"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-110",
+    "name": "TerrainGroundRight01",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/TerrainGroundRight01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/TerrainGroundRight01_thumbnail.png",
+    "metadata": {
+      "number": "110",
+      "github_path": "projects/avatar-garden/TerrainGroundRight01.glb",
+      "file_size": 2508084,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Environment"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Terrain"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Ground"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Ground"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-111",
+    "name": "TerrainSand01",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/TerrainSand01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/TerrainSand01_thumbnail.png",
+    "metadata": {
+      "number": "111",
+      "github_path": "projects/avatar-garden/TerrainSand01.glb",
+      "file_size": 11335968,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Environment"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Sand Terrain"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Ground"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Sand"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-112",
+    "name": "TerrainWater01",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/TerrainWater01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/TerrainWater01_thumbnail.png",
+    "metadata": {
+      "number": "112",
+      "github_path": "projects/avatar-garden/TerrainWater01.glb",
+      "file_size": 14296428,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Environment"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Water Terrain"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Ground"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Water"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-113",
+    "name": "TransitionEfect_01",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/TransitionEfect_01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/TransitionEfect_01_thumbnail.png",
+    "metadata": {
+      "number": "113",
+      "github_path": "projects/avatar-garden/TransitionEfect_01.glb",
+      "file_size": 4477624,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Special Effects"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Visual Effect"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Transition"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Effect"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-114",
+    "name": "Tree01",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/Tree01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/Tree01_thumbnail.png",
+    "metadata": {
+      "number": "114",
+      "github_path": "projects/avatar-garden/Tree01.glb",
+      "file_size": 19744908,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Tree"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Garden"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Flora"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-115",
+    "name": "Tree02",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/Tree02.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/Tree02_thumbnail.png",
+    "metadata": {
+      "number": "115",
+      "github_path": "projects/avatar-garden/Tree02.glb",
+      "file_size": 26801604,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Tree"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Garden"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Flora"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-116",
+    "name": "Tree03",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/Tree03.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/Tree03_thumbnail.png",
+    "metadata": {
+      "number": "116",
+      "github_path": "projects/avatar-garden/Tree03.glb",
+      "file_size": 20651172,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Tree"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Garden"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Flora"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-117",
+    "name": "Tree04",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/Tree04.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/Tree04_thumbnail.png",
+    "metadata": {
+      "number": "117",
+      "github_path": "projects/avatar-garden/Tree04.glb",
+      "file_size": 23848152,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Tree"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Garden"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Flora"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-118",
+    "name": "Trunk01",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/Trunk01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/Trunk01_thumbnail.png",
+    "metadata": {
+      "number": "118",
+      "github_path": "projects/avatar-garden/Trunk01.glb",
+      "file_size": 10944364,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Tree Trunk"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Wood"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Wood"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-119",
+    "name": "WaterfallFoam01",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/WaterfallFoam01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/WaterfallFoam01_thumbnail.png",
+    "metadata": {
+      "number": "119",
+      "github_path": "projects/avatar-garden/WaterfallFoam01.glb",
+      "file_size": 1703060,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Environment"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Water Effect"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Visual Effect"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Water"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-120",
+    "name": "WoodenPlank01",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/WoodenPlank01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/WoodenPlank01_thumbnail.png",
+    "metadata": {
+      "number": "120",
+      "github_path": "projects/avatar-garden/WoodenPlank01.glb",
+      "file_size": 7167424,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Pathway"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Navigation"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Wooden"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-121",
+    "name": "WoodenPlank02",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/WoodenPlank02.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/WoodenPlank02_thumbnail.png",
+    "metadata": {
+      "number": "121",
+      "github_path": "projects/avatar-garden/WoodenPlank02.glb",
+      "file_size": 7169800,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Pathway"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Navigation"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Wooden"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-122",
+    "name": "WoodenPlank03",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/WoodenPlank03.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/WoodenPlank03_thumbnail.png",
+    "metadata": {
+      "number": "122",
+      "github_path": "projects/avatar-garden/WoodenPlank03.glb",
+      "file_size": 7171696,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Pathway"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Navigation"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Wooden"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-123",
+    "name": "WoodenPlank04",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/WoodenPlank04.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/WoodenPlank04_thumbnail.png",
+    "metadata": {
+      "number": "123",
+      "github_path": "projects/avatar-garden/WoodenPlank04.glb",
+      "file_size": 7168420,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Pathway"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Navigation"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Wooden"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-124",
+    "name": "WoodenPlank05",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/WoodenPlank05.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/WoodenPlank05_thumbnail.png",
+    "metadata": {
+      "number": "124",
+      "github_path": "projects/avatar-garden/WoodenPlank05.glb",
+      "file_size": 7166596,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Pathway"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Navigation"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Wooden"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-125",
+    "name": "WoodenPlank06",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/WoodenPlank06.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/WoodenPlank06_thumbnail.png",
+    "metadata": {
+      "number": "125",
+      "github_path": "projects/avatar-garden/WoodenPlank06.glb",
+      "file_size": 7167256,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Pathway"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Navigation"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Wooden"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-garden-126",
+    "name": "WorldGear01",
+    "project_id": "pm-avatar-garden",
+    "description": "3D model from avatar-garden collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/WorldGear01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:05.548Z",
+    "updated_at": "2026-02-09T18:22:05.548Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-garden/WorldGear01_thumbnail.png",
+    "metadata": {
+      "number": "126",
+      "github_path": "projects/avatar-garden/WorldGear01.glb",
+      "file_size": 17699952,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Avatar Garden"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Mechanical"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Gear"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Mechanism"
+        }
+      ]
+    }
+  }
+]

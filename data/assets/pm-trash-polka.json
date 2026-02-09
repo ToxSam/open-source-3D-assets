@@ -1,0 +1,1286 @@
+[
+  {
+    "id": "trash-polka-001",
+    "name": "Door",
+    "project_id": "pm-trash-polka",
+    "description": "3D model from trash-polka collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/trash-polka/Door.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.486Z",
+    "updated_at": "2026-02-09T18:22:11.486Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/trash-polka/Door_thumbnail.png",
+    "metadata": {
+      "number": "001",
+      "github_path": "projects/trash-polka/Door.glb",
+      "file_size": 33804,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Industrial"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Door"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Access"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Urban"
+        }
+      ]
+    }
+  },
+  {
+    "id": "trash-polka-002",
+    "name": "ExteriorDoor",
+    "project_id": "pm-trash-polka",
+    "description": "3D model from trash-polka collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/trash-polka/ExteriorDoor.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.486Z",
+    "updated_at": "2026-02-09T18:22:11.486Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/trash-polka/ExteriorDoor_thumbnail.png",
+    "metadata": {
+      "number": "002",
+      "github_path": "projects/trash-polka/ExteriorDoor.glb",
+      "file_size": 166312,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Industrial"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Exterior Door"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Building Access"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Urban"
+        }
+      ]
+    }
+  },
+  {
+    "id": "trash-polka-003",
+    "name": "InfoPanel",
+    "project_id": "pm-trash-polka",
+    "description": "3D model from trash-polka collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/trash-polka/InfoPanel.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.486Z",
+    "updated_at": "2026-02-09T18:22:11.486Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/trash-polka/InfoPanel_thumbnail.png",
+    "metadata": {
+      "number": "003",
+      "github_path": "projects/trash-polka/InfoPanel.glb",
+      "file_size": 22432,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Industrial"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Interactive"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Information Panel"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Information Display"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Urban"
+        },
+        {
+          "trait_type": "Element",
+          "value": "UI Element"
+        }
+      ]
+    }
+  },
+  {
+    "id": "trash-polka-004",
+    "name": "InteriorDoor",
+    "project_id": "pm-trash-polka",
+    "description": "3D model from trash-polka collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/trash-polka/InteriorDoor.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.486Z",
+    "updated_at": "2026-02-09T18:22:11.486Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/trash-polka/InteriorDoor_thumbnail.png",
+    "metadata": {
+      "number": "004",
+      "github_path": "projects/trash-polka/InteriorDoor.glb",
+      "file_size": 26660,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Industrial"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Interior Door"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Room Separator"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Urban"
+        }
+      ]
+    }
+  },
+  {
+    "id": "trash-polka-005",
+    "name": "InteriorFloor",
+    "project_id": "pm-trash-polka",
+    "description": "3D model from trash-polka collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/trash-polka/InteriorFloor.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.486Z",
+    "updated_at": "2026-02-09T18:22:11.486Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/trash-polka/InteriorFloor_thumbnail.png",
+    "metadata": {
+      "number": "005",
+      "github_path": "projects/trash-polka/InteriorFloor.glb",
+      "file_size": 1968,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Industrial"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Floor"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Surface"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Interior"
+        }
+      ]
+    }
+  },
+  {
+    "id": "trash-polka-006",
+    "name": "InteriorRoof",
+    "project_id": "pm-trash-polka",
+    "description": "3D model from trash-polka collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/trash-polka/InteriorRoof.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.486Z",
+    "updated_at": "2026-02-09T18:22:11.486Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/trash-polka/InteriorRoof_thumbnail.png",
+    "metadata": {
+      "number": "006",
+      "github_path": "projects/trash-polka/InteriorRoof.glb",
+      "file_size": 95088,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Industrial"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Roof"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Structure"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Interior"
+        }
+      ]
+    }
+  },
+  {
+    "id": "trash-polka-007",
+    "name": "InteriorWall",
+    "project_id": "pm-trash-polka",
+    "description": "3D model from trash-polka collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/trash-polka/InteriorWall.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.486Z",
+    "updated_at": "2026-02-09T18:22:11.486Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/trash-polka/InteriorWall_thumbnail.png",
+    "metadata": {
+      "number": "007",
+      "github_path": "projects/trash-polka/InteriorWall.glb",
+      "file_size": 22688,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Industrial"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Wall"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Structure"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Interior"
+        }
+      ]
+    }
+  },
+  {
+    "id": "trash-polka-008",
+    "name": "InteriorWall02",
+    "project_id": "pm-trash-polka",
+    "description": "3D model from trash-polka collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/trash-polka/InteriorWall02.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.486Z",
+    "updated_at": "2026-02-09T18:22:11.486Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/trash-polka/InteriorWall02_thumbnail.png",
+    "metadata": {
+      "number": "008",
+      "github_path": "projects/trash-polka/InteriorWall02.glb",
+      "file_size": 21044,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Industrial"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Wall"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Structure"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Interior"
+        }
+      ]
+    }
+  },
+  {
+    "id": "trash-polka-009",
+    "name": "Kiosco",
+    "project_id": "pm-trash-polka",
+    "description": "3D model from trash-polka collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/trash-polka/Kiosco.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.486Z",
+    "updated_at": "2026-02-09T18:22:11.486Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/trash-polka/Kiosco_thumbnail.png",
+    "metadata": {
+      "number": "009",
+      "github_path": "projects/trash-polka/Kiosco.glb",
+      "file_size": 179952,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Industrial"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Kiosk"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Stand"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Outdoor"
+        }
+      ]
+    }
+  },
+  {
+    "id": "trash-polka-010",
+    "name": "Lateral01",
+    "project_id": "pm-trash-polka",
+    "description": "3D model from trash-polka collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/trash-polka/Lateral01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.486Z",
+    "updated_at": "2026-02-09T18:22:11.486Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/trash-polka/Lateral01_thumbnail.png",
+    "metadata": {
+      "number": "010",
+      "github_path": "projects/trash-polka/Lateral01.glb",
+      "file_size": 3684,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Industrial"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Side Structure"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Support"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Urban"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Structural"
+        }
+      ]
+    }
+  },
+  {
+    "id": "trash-polka-011",
+    "name": "Lateral02",
+    "project_id": "pm-trash-polka",
+    "description": "3D model from trash-polka collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/trash-polka/Lateral02.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.486Z",
+    "updated_at": "2026-02-09T18:22:11.486Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/trash-polka/Lateral02_thumbnail.png",
+    "metadata": {
+      "number": "011",
+      "github_path": "projects/trash-polka/Lateral02.glb",
+      "file_size": 3544,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Industrial"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Side Structure"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Support"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Urban"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Structural"
+        }
+      ]
+    }
+  },
+  {
+    "id": "trash-polka-012",
+    "name": "Light01",
+    "project_id": "pm-trash-polka",
+    "description": "3D model from trash-polka collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/trash-polka/Light01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.486Z",
+    "updated_at": "2026-02-09T18:22:11.486Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/trash-polka/Light01_thumbnail.png",
+    "metadata": {
+      "number": "012",
+      "github_path": "projects/trash-polka/Light01.glb",
+      "file_size": 6512,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Industrial"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Lighting"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Light Fixture"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Illumination"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Urban"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Environmental"
+        }
+      ]
+    }
+  },
+  {
+    "id": "trash-polka-013",
+    "name": "Light02",
+    "project_id": "pm-trash-polka",
+    "description": "3D model from trash-polka collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/trash-polka/Light02.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.486Z",
+    "updated_at": "2026-02-09T18:22:11.486Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/trash-polka/Light02_thumbnail.png",
+    "metadata": {
+      "number": "013",
+      "github_path": "projects/trash-polka/Light02.glb",
+      "file_size": 5064,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Industrial"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Lighting"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Light Fixture"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Illumination"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Urban"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Environmental"
+        }
+      ]
+    }
+  },
+  {
+    "id": "trash-polka-014",
+    "name": "Light03",
+    "project_id": "pm-trash-polka",
+    "description": "3D model from trash-polka collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/trash-polka/Light03.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.486Z",
+    "updated_at": "2026-02-09T18:22:11.486Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/trash-polka/Light03_thumbnail.png",
+    "metadata": {
+      "number": "014",
+      "github_path": "projects/trash-polka/Light03.glb",
+      "file_size": 4500,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Industrial"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Lighting"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Light Fixture"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Illumination"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Urban"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Environmental"
+        }
+      ]
+    }
+  },
+  {
+    "id": "trash-polka-015",
+    "name": "Light04",
+    "project_id": "pm-trash-polka",
+    "description": "3D model from trash-polka collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/trash-polka/Light04.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.486Z",
+    "updated_at": "2026-02-09T18:22:11.486Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/trash-polka/Light04_thumbnail.png",
+    "metadata": {
+      "number": "015",
+      "github_path": "projects/trash-polka/Light04.glb",
+      "file_size": 5272,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Industrial"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Lighting"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Light Fixture"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Illumination"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Urban"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Environmental"
+        }
+      ]
+    }
+  },
+  {
+    "id": "trash-polka-016",
+    "name": "Light05",
+    "project_id": "pm-trash-polka",
+    "description": "3D model from trash-polka collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/trash-polka/Light05.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.486Z",
+    "updated_at": "2026-02-09T18:22:11.486Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/trash-polka/Light05_thumbnail.png",
+    "metadata": {
+      "number": "016",
+      "github_path": "projects/trash-polka/Light05.glb",
+      "file_size": 2280,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Industrial"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Lighting"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Light Fixture"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Illumination"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Urban"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Environmental"
+        }
+      ]
+    }
+  },
+  {
+    "id": "trash-polka-017",
+    "name": "Light06",
+    "project_id": "pm-trash-polka",
+    "description": "3D model from trash-polka collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/trash-polka/Light06.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.486Z",
+    "updated_at": "2026-02-09T18:22:11.486Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/trash-polka/Light06_thumbnail.png",
+    "metadata": {
+      "number": "017",
+      "github_path": "projects/trash-polka/Light06.glb",
+      "file_size": 3220,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Industrial"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Lighting"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Light Fixture"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Illumination"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Urban"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Environmental"
+        }
+      ]
+    }
+  },
+  {
+    "id": "trash-polka-018",
+    "name": "Light07",
+    "project_id": "pm-trash-polka",
+    "description": "3D model from trash-polka collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/trash-polka/Light07.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.486Z",
+    "updated_at": "2026-02-09T18:22:11.486Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/trash-polka/Light07_thumbnail.png",
+    "metadata": {
+      "number": "018",
+      "github_path": "projects/trash-polka/Light07.glb",
+      "file_size": 94224,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Industrial"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Lighting"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Light Fixture"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Illumination"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Urban"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Environmental"
+        }
+      ]
+    }
+  },
+  {
+    "id": "trash-polka-019",
+    "name": "Light08",
+    "project_id": "pm-trash-polka",
+    "description": "3D model from trash-polka collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/trash-polka/Light08.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.486Z",
+    "updated_at": "2026-02-09T18:22:11.486Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/trash-polka/Light08_thumbnail.png",
+    "metadata": {
+      "number": "019",
+      "github_path": "projects/trash-polka/Light08.glb",
+      "file_size": 104868,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Industrial"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Lighting"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Light Fixture"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Illumination"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Urban"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Environmental"
+        }
+      ]
+    }
+  },
+  {
+    "id": "trash-polka-020",
+    "name": "LowerPipe",
+    "project_id": "pm-trash-polka",
+    "description": "3D model from trash-polka collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/trash-polka/LowerPipe.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.486Z",
+    "updated_at": "2026-02-09T18:22:11.486Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/trash-polka/LowerPipe_thumbnail.png",
+    "metadata": {
+      "number": "020",
+      "github_path": "projects/trash-polka/LowerPipe.glb",
+      "file_size": 118956,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Industrial"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Infrastructure"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Lower Pipe"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Utility"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Urban"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Metal"
+        }
+      ]
+    }
+  },
+  {
+    "id": "trash-polka-021",
+    "name": "PoapMachine",
+    "project_id": "pm-trash-polka",
+    "description": "3D model from trash-polka collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/trash-polka/PoapMachine.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.486Z",
+    "updated_at": "2026-02-09T18:22:11.486Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/trash-polka/PoapMachine_thumbnail.png",
+    "metadata": {
+      "number": "021",
+      "github_path": "projects/trash-polka/PoapMachine.glb",
+      "file_size": 625448,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Industrial"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Interactive"
+        },
+        {
+          "trait_type": "Type",
+          "value": "POAP Machine"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Dispenser"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Urban"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Web3"
+        }
+      ]
+    }
+  },
+  {
+    "id": "trash-polka-022",
+    "name": "Robot",
+    "project_id": "pm-trash-polka",
+    "description": "3D model from trash-polka collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/trash-polka/Robot.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.486Z",
+    "updated_at": "2026-02-09T18:22:11.486Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/trash-polka/Robot_thumbnail.png",
+    "metadata": {
+      "number": "022",
+      "github_path": "projects/trash-polka/Robot.glb",
+      "file_size": 528196,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Industrial"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Interactive"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Robot"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Character"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Urban"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Animated"
+        }
+      ]
+    }
+  },
+  {
+    "id": "trash-polka-023",
+    "name": "Rock",
+    "project_id": "pm-trash-polka",
+    "description": "3D model from trash-polka collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/trash-polka/Rock.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.486Z",
+    "updated_at": "2026-02-09T18:22:11.486Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/trash-polka/Rock_thumbnail.png",
+    "metadata": {
+      "number": "023",
+      "github_path": "projects/trash-polka/Rock.glb",
+      "file_size": 416184,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Industrial"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Rock"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Urban"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Stone"
+        }
+      ]
+    }
+  },
+  {
+    "id": "trash-polka-024",
+    "name": "Screen",
+    "project_id": "pm-trash-polka",
+    "description": "3D model from trash-polka collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/trash-polka/Screen.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.486Z",
+    "updated_at": "2026-02-09T18:22:11.486Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/trash-polka/Screen_thumbnail.png",
+    "metadata": {
+      "number": "024",
+      "github_path": "projects/trash-polka/Screen.glb",
+      "file_size": 8992,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Industrial"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Electronics"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Display Screen"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Information Display"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Urban"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Interactive"
+        }
+      ]
+    }
+  },
+  {
+    "id": "trash-polka-025",
+    "name": "Structure01",
+    "project_id": "pm-trash-polka",
+    "description": "3D model from trash-polka collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/trash-polka/Structure01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.486Z",
+    "updated_at": "2026-02-09T18:22:11.486Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/trash-polka/Structure01_thumbnail.png",
+    "metadata": {
+      "number": "025",
+      "github_path": "projects/trash-polka/Structure01.glb",
+      "file_size": 4840,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Industrial"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Structural Element"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Support"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Urban"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Metal"
+        }
+      ]
+    }
+  },
+  {
+    "id": "trash-polka-026",
+    "name": "Structure02",
+    "project_id": "pm-trash-polka",
+    "description": "3D model from trash-polka collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/trash-polka/Structure02.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.486Z",
+    "updated_at": "2026-02-09T18:22:11.486Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/trash-polka/Structure02_thumbnail.png",
+    "metadata": {
+      "number": "026",
+      "github_path": "projects/trash-polka/Structure02.glb",
+      "file_size": 2232,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Industrial"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Structural Element"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Support"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Urban"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Metal"
+        }
+      ]
+    }
+  },
+  {
+    "id": "trash-polka-027",
+    "name": "Structure03",
+    "project_id": "pm-trash-polka",
+    "description": "3D model from trash-polka collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/trash-polka/Structure03.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.486Z",
+    "updated_at": "2026-02-09T18:22:11.486Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/trash-polka/Structure03_thumbnail.png",
+    "metadata": {
+      "number": "027",
+      "github_path": "projects/trash-polka/Structure03.glb",
+      "file_size": 2232,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Industrial"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Structural Element"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Support"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Urban"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Metal"
+        }
+      ]
+    }
+  },
+  {
+    "id": "trash-polka-028",
+    "name": "Tank",
+    "project_id": "pm-trash-polka",
+    "description": "3D model from trash-polka collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/trash-polka/Tank.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.486Z",
+    "updated_at": "2026-02-09T18:22:11.486Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/trash-polka/Tank_thumbnail.png",
+    "metadata": {
+      "number": "028",
+      "github_path": "projects/trash-polka/Tank.glb",
+      "file_size": 207328,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Industrial"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Infrastructure"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Storage Tank"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Storage"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Urban"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Metal"
+        }
+      ]
+    }
+  },
+  {
+    "id": "trash-polka-029",
+    "name": "Terrain",
+    "project_id": "pm-trash-polka",
+    "description": "3D model from trash-polka collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/trash-polka/Terrain.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.486Z",
+    "updated_at": "2026-02-09T18:22:11.486Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/trash-polka/Terrain_thumbnail.png",
+    "metadata": {
+      "number": "029",
+      "github_path": "projects/trash-polka/Terrain.glb",
+      "file_size": 94848,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Industrial"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Environment"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Terrain"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Ground Surface"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Outdoor"
+        }
+      ]
+    }
+  },
+  {
+    "id": "trash-polka-030",
+    "name": "UpperPipe",
+    "project_id": "pm-trash-polka",
+    "description": "3D model from trash-polka collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/trash-polka/UpperPipe.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:11.486Z",
+    "updated_at": "2026-02-09T18:22:11.486Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/trash-polka/UpperPipe_thumbnail.png",
+    "metadata": {
+      "number": "030",
+      "github_path": "projects/trash-polka/UpperPipe.glb",
+      "file_size": 215356,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Industrial"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Infrastructure"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Upper Pipe"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Utility"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Urban"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Metal"
+        }
+      ]
+    }
+  }
+]

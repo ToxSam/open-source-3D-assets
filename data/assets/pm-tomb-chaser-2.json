@@ -1,0 +1,2202 @@
+[
+  {
+    "id": "tomb-chaser-2-001",
+    "name": "Ad01_Art",
+    "project_id": "pm-tomb-chaser-2",
+    "description": "3D model from tomb-chaser-2 collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-2/Ad01_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.077Z",
+    "updated_at": "2026-02-09T18:22:10.077Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-2/Ad01_Art_thumbnail.png",
+    "metadata": {
+      "number": "001",
+      "github_path": "projects/tomb-chaser-2/Ad01_Art.glb",
+      "file_size": 412848,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Mixed"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Advertisement"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Outdoor"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Hybrid"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tomb-chaser-2-002",
+    "name": "Ad02_Art",
+    "project_id": "pm-tomb-chaser-2",
+    "description": "3D model from tomb-chaser-2 collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-2/Ad02_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.077Z",
+    "updated_at": "2026-02-09T18:22:10.077Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-2/Ad02_Art_thumbnail.png",
+    "metadata": {
+      "number": "002",
+      "github_path": "projects/tomb-chaser-2/Ad02_Art.glb",
+      "file_size": 393792,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Mixed"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Advertisement"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Outdoor"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Hybrid"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tomb-chaser-2-003",
+    "name": "Ad03_Art",
+    "project_id": "pm-tomb-chaser-2",
+    "description": "3D model from tomb-chaser-2 collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-2/Ad03_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.077Z",
+    "updated_at": "2026-02-09T18:22:10.077Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-2/Ad03_Art_thumbnail.png",
+    "metadata": {
+      "number": "003",
+      "github_path": "projects/tomb-chaser-2/Ad03_Art.glb",
+      "file_size": 402096,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Mixed"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Advertisement"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Outdoor"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Hybrid"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tomb-chaser-2-004",
+    "name": "Ad04_Art",
+    "project_id": "pm-tomb-chaser-2",
+    "description": "3D model from tomb-chaser-2 collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-2/Ad04_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.077Z",
+    "updated_at": "2026-02-09T18:22:10.077Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-2/Ad04_Art_thumbnail.png",
+    "metadata": {
+      "number": "004",
+      "github_path": "projects/tomb-chaser-2/Ad04_Art.glb",
+      "file_size": 395804,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Mixed"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Advertisement"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Outdoor"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Hybrid"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tomb-chaser-2-005",
+    "name": "Ad05_Art",
+    "project_id": "pm-tomb-chaser-2",
+    "description": "3D model from tomb-chaser-2 collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-2/Ad05_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.077Z",
+    "updated_at": "2026-02-09T18:22:10.077Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-2/Ad05_Art_thumbnail.png",
+    "metadata": {
+      "number": "005",
+      "github_path": "projects/tomb-chaser-2/Ad05_Art.glb",
+      "file_size": 395984,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Mixed"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Advertisement"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Outdoor"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Hybrid"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tomb-chaser-2-006",
+    "name": "Ad06_Art",
+    "project_id": "pm-tomb-chaser-2",
+    "description": "3D model from tomb-chaser-2 collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-2/Ad06_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.077Z",
+    "updated_at": "2026-02-09T18:22:10.077Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-2/Ad06_Art_thumbnail.png",
+    "metadata": {
+      "number": "006",
+      "github_path": "projects/tomb-chaser-2/Ad06_Art.glb",
+      "file_size": 389936,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Mixed"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Advertisement"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Outdoor"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Hybrid"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tomb-chaser-2-007",
+    "name": "Column01_Art",
+    "project_id": "pm-tomb-chaser-2",
+    "description": "3D model from tomb-chaser-2 collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-2/Column01_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.077Z",
+    "updated_at": "2026-02-09T18:22:10.077Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-2/Column01_Art_thumbnail.png",
+    "metadata": {
+      "number": "007",
+      "github_path": "projects/tomb-chaser-2/Column01_Art.glb",
+      "file_size": 216684,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Ancient Temple"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Column"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Environmental"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Temple"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Hybrid"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tomb-chaser-2-008",
+    "name": "Column02_Art",
+    "project_id": "pm-tomb-chaser-2",
+    "description": "3D model from tomb-chaser-2 collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-2/Column02_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.077Z",
+    "updated_at": "2026-02-09T18:22:10.077Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-2/Column02_Art_thumbnail.png",
+    "metadata": {
+      "number": "008",
+      "github_path": "projects/tomb-chaser-2/Column02_Art.glb",
+      "file_size": 205912,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Ancient Temple"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Column"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Environmental"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Temple"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Hybrid"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tomb-chaser-2-009",
+    "name": "Cyber_Surroundings_01",
+    "project_id": "pm-tomb-chaser-2",
+    "description": "3D model from tomb-chaser-2 collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-2/Cyber_Surroundings_01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.077Z",
+    "updated_at": "2026-02-09T18:22:10.077Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-2/Cyber_Surroundings_01_thumbnail.png",
+    "metadata": {
+      "number": "009",
+      "github_path": "projects/tomb-chaser-2/Cyber_Surroundings_01.glb",
+      "file_size": 9867196,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Cyber"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Environment"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Environment Set"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Environmental"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Cyber Space"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Futuristic"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tomb-chaser-2-010",
+    "name": "Decoration01_Art",
+    "project_id": "pm-tomb-chaser-2",
+    "description": "3D model from tomb-chaser-2 collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-2/Decoration01_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.077Z",
+    "updated_at": "2026-02-09T18:22:10.077Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-2/Decoration01_Art_thumbnail.png",
+    "metadata": {
+      "number": "010",
+      "github_path": "projects/tomb-chaser-2/Decoration01_Art.glb",
+      "file_size": 63272,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Ancient Temple"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Ornament"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Outdoor"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Hybrid"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tomb-chaser-2-011",
+    "name": "Decoration02_Art",
+    "project_id": "pm-tomb-chaser-2",
+    "description": "3D model from tomb-chaser-2 collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-2/Decoration02_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.077Z",
+    "updated_at": "2026-02-09T18:22:10.077Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-2/Decoration02_Art_thumbnail.png",
+    "metadata": {
+      "number": "011",
+      "github_path": "projects/tomb-chaser-2/Decoration02_Art.glb",
+      "file_size": 54476,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Ancient Temple"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Ornament"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Outdoor"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Hybrid"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tomb-chaser-2-012",
+    "name": "ElectricBox01_Art",
+    "project_id": "pm-tomb-chaser-2",
+    "description": "3D model from tomb-chaser-2 collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-2/ElectricBox01_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.077Z",
+    "updated_at": "2026-02-09T18:22:10.077Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-2/ElectricBox01_Art_thumbnail.png",
+    "metadata": {
+      "number": "012",
+      "github_path": "projects/tomb-chaser-2/ElectricBox01_Art.glb",
+      "file_size": 643784,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Cyber"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Infrastructure"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Electric Box"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Utility"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Outdoor"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Futuristic"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tomb-chaser-2-013",
+    "name": "ElectricPost01_Art",
+    "project_id": "pm-tomb-chaser-2",
+    "description": "3D model from tomb-chaser-2 collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-2/ElectricPost01_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.077Z",
+    "updated_at": "2026-02-09T18:22:10.077Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-2/ElectricPost01_Art_thumbnail.png",
+    "metadata": {
+      "number": "013",
+      "github_path": "projects/tomb-chaser-2/ElectricPost01_Art.glb",
+      "file_size": 643728,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Cyber"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Infrastructure"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Electric Post"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Utility"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Outdoor"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Futuristic"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tomb-chaser-2-014",
+    "name": "ElectricPost02_Art",
+    "project_id": "pm-tomb-chaser-2",
+    "description": "3D model from tomb-chaser-2 collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-2/ElectricPost02_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.077Z",
+    "updated_at": "2026-02-09T18:22:10.077Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-2/ElectricPost02_Art_thumbnail.png",
+    "metadata": {
+      "number": "014",
+      "github_path": "projects/tomb-chaser-2/ElectricPost02_Art.glb",
+      "file_size": 647488,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Cyber"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Infrastructure"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Electric Post"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Utility"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Outdoor"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Futuristic"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tomb-chaser-2-015",
+    "name": "ElectricWire01_Art",
+    "project_id": "pm-tomb-chaser-2",
+    "description": "3D model from tomb-chaser-2 collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-2/ElectricWire01_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.077Z",
+    "updated_at": "2026-02-09T18:22:10.077Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-2/ElectricWire01_Art_thumbnail.png",
+    "metadata": {
+      "number": "015",
+      "github_path": "projects/tomb-chaser-2/ElectricWire01_Art.glb",
+      "file_size": 639980,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Cyber"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Infrastructure"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Electric Wire"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Utility"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Outdoor"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Futuristic"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tomb-chaser-2-016",
+    "name": "ElectricWire02_Art",
+    "project_id": "pm-tomb-chaser-2",
+    "description": "3D model from tomb-chaser-2 collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-2/ElectricWire02_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.077Z",
+    "updated_at": "2026-02-09T18:22:10.077Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-2/ElectricWire02_Art_thumbnail.png",
+    "metadata": {
+      "number": "016",
+      "github_path": "projects/tomb-chaser-2/ElectricWire02_Art.glb",
+      "file_size": 639976,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Cyber"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Infrastructure"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Electric Wire"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Utility"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Outdoor"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Futuristic"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tomb-chaser-2-017",
+    "name": "Exit_Art",
+    "project_id": "pm-tomb-chaser-2",
+    "description": "3D model from tomb-chaser-2 collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-2/Exit_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.077Z",
+    "updated_at": "2026-02-09T18:22:10.077Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-2/Exit_Art_thumbnail.png",
+    "metadata": {
+      "number": "017",
+      "github_path": "projects/tomb-chaser-2/Exit_Art.glb",
+      "file_size": 905620,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Mixed"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Interactive"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Exit Sign"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Information"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Outdoor"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Hybrid"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tomb-chaser-2-018",
+    "name": "Floor01_Art",
+    "project_id": "pm-tomb-chaser-2",
+    "description": "3D model from tomb-chaser-2 collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-2/Floor01_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.077Z",
+    "updated_at": "2026-02-09T18:22:10.077Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-2/Floor01_Art_thumbnail.png",
+    "metadata": {
+      "number": "018",
+      "github_path": "projects/tomb-chaser-2/Floor01_Art.glb",
+      "file_size": 344444,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Mixed"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Floor"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Structural"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Outdoor"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Hybrid"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tomb-chaser-2-019",
+    "name": "Floor02_Art",
+    "project_id": "pm-tomb-chaser-2",
+    "description": "3D model from tomb-chaser-2 collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-2/Floor02_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.077Z",
+    "updated_at": "2026-02-09T18:22:10.077Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-2/Floor02_Art_thumbnail.png",
+    "metadata": {
+      "number": "019",
+      "github_path": "projects/tomb-chaser-2/Floor02_Art.glb",
+      "file_size": 422008,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Mixed"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Floor"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Structural"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Outdoor"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Hybrid"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tomb-chaser-2-020",
+    "name": "Frame_Art",
+    "project_id": "pm-tomb-chaser-2",
+    "description": "3D model from tomb-chaser-2 collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-2/Frame_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.077Z",
+    "updated_at": "2026-02-09T18:22:10.077Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-2/Frame_Art_thumbnail.png",
+    "metadata": {
+      "number": "020",
+      "github_path": "projects/tomb-chaser-2/Frame_Art.glb",
+      "file_size": 431028,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Mixed"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Frame"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Outdoor"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Hybrid"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tomb-chaser-2-021",
+    "name": "GlitchFloor_Art",
+    "project_id": "pm-tomb-chaser-2",
+    "description": "3D model from tomb-chaser-2 collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-2/GlitchFloor_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.077Z",
+    "updated_at": "2026-02-09T18:22:10.077Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-2/GlitchFloor_Art_thumbnail.png",
+    "metadata": {
+      "number": "021",
+      "github_path": "projects/tomb-chaser-2/GlitchFloor_Art.glb",
+      "file_size": 1255508,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Cyber"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Floor"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Structural"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Glitch Zone"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Futuristic"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tomb-chaser-2-022",
+    "name": "GlitchRoof_Art",
+    "project_id": "pm-tomb-chaser-2",
+    "description": "3D model from tomb-chaser-2 collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-2/GlitchRoof_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.077Z",
+    "updated_at": "2026-02-09T18:22:10.077Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-2/GlitchRoof_Art_thumbnail.png",
+    "metadata": {
+      "number": "022",
+      "github_path": "projects/tomb-chaser-2/GlitchRoof_Art.glb",
+      "file_size": 804612,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Cyber"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Roof"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Structural"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Glitch Zone"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Futuristic"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tomb-chaser-2-023",
+    "name": "Grass01_Art",
+    "project_id": "pm-tomb-chaser-2",
+    "description": "3D model from tomb-chaser-2 collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-2/Grass01_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.077Z",
+    "updated_at": "2026-02-09T18:22:10.077Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-2/Grass01_Art_thumbnail.png",
+    "metadata": {
+      "number": "023",
+      "github_path": "projects/tomb-chaser-2/Grass01_Art.glb",
+      "file_size": 385340,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Grass"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Scenery"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Outdoor"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Organic"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tomb-chaser-2-024",
+    "name": "Grass02_Art",
+    "project_id": "pm-tomb-chaser-2",
+    "description": "3D model from tomb-chaser-2 collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-2/Grass02_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.077Z",
+    "updated_at": "2026-02-09T18:22:10.077Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-2/Grass02_Art_thumbnail.png",
+    "metadata": {
+      "number": "024",
+      "github_path": "projects/tomb-chaser-2/Grass02_Art.glb",
+      "file_size": 1211788,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Grass"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Scenery"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Outdoor"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Organic"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tomb-chaser-2-025",
+    "name": "Leaderboard_Art",
+    "project_id": "pm-tomb-chaser-2",
+    "description": "3D model from tomb-chaser-2 collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-2/Leaderboard_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.077Z",
+    "updated_at": "2026-02-09T18:22:10.077Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-2/Leaderboard_Art_thumbnail.png",
+    "metadata": {
+      "number": "025",
+      "github_path": "projects/tomb-chaser-2/Leaderboard_Art.glb",
+      "file_size": 366416,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Mixed"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Advertisement"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Outdoor"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Hybrid"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tomb-chaser-2-026",
+    "name": "Mist01_Art",
+    "project_id": "pm-tomb-chaser-2",
+    "description": "3D model from tomb-chaser-2 collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-2/Mist01_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.077Z",
+    "updated_at": "2026-02-09T18:22:10.077Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-2/Mist01_Art_thumbnail.png",
+    "metadata": {
+      "number": "026",
+      "github_path": "projects/tomb-chaser-2/Mist01_Art.glb",
+      "file_size": 165388,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Mist"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Scenery"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Outdoor"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Hybrid"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tomb-chaser-2-027",
+    "name": "Mist02_Art",
+    "project_id": "pm-tomb-chaser-2",
+    "description": "3D model from tomb-chaser-2 collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-2/Mist02_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.077Z",
+    "updated_at": "2026-02-09T18:22:10.077Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-2/Mist02_Art_thumbnail.png",
+    "metadata": {
+      "number": "027",
+      "github_path": "projects/tomb-chaser-2/Mist02_Art.glb",
+      "file_size": 159788,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Mist"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Scenery"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Outdoor"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Hybrid"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tomb-chaser-2-028",
+    "name": "Reed_Art",
+    "project_id": "pm-tomb-chaser-2",
+    "description": "3D model from tomb-chaser-2 collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-2/Reed_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.077Z",
+    "updated_at": "2026-02-09T18:22:10.077Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-2/Reed_Art_thumbnail.png",
+    "metadata": {
+      "number": "028",
+      "github_path": "projects/tomb-chaser-2/Reed_Art.glb",
+      "file_size": 1025096,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Reed"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Scenery"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Outdoor"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Organic"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tomb-chaser-2-029",
+    "name": "Rock01_Art",
+    "project_id": "pm-tomb-chaser-2",
+    "description": "3D model from tomb-chaser-2 collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-2/Rock01_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.077Z",
+    "updated_at": "2026-02-09T18:22:10.077Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-2/Rock01_Art_thumbnail.png",
+    "metadata": {
+      "number": "029",
+      "github_path": "projects/tomb-chaser-2/Rock01_Art.glb",
+      "file_size": 639856,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Rock"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Scenery"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Outdoor"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Organic"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tomb-chaser-2-030",
+    "name": "Rock02_Art",
+    "project_id": "pm-tomb-chaser-2",
+    "description": "3D model from tomb-chaser-2 collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-2/Rock02_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.077Z",
+    "updated_at": "2026-02-09T18:22:10.077Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-2/Rock02_Art_thumbnail.png",
+    "metadata": {
+      "number": "030",
+      "github_path": "projects/tomb-chaser-2/Rock02_Art.glb",
+      "file_size": 639856,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Rock"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Scenery"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Outdoor"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Organic"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tomb-chaser-2-031",
+    "name": "Shrine_Art",
+    "project_id": "pm-tomb-chaser-2",
+    "description": "3D model from tomb-chaser-2 collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-2/Shrine_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.077Z",
+    "updated_at": "2026-02-09T18:22:10.077Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-2/Shrine_Art_thumbnail.png",
+    "metadata": {
+      "number": "031",
+      "github_path": "projects/tomb-chaser-2/Shrine_Art.glb",
+      "file_size": 648860,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Ancient Temple"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Environment"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Shrine"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Religious"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Temple"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Ancient"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tomb-chaser-2-032",
+    "name": "Signbook_Art",
+    "project_id": "pm-tomb-chaser-2",
+    "description": "3D model from tomb-chaser-2 collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-2/Signbook_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.077Z",
+    "updated_at": "2026-02-09T18:22:10.077Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-2/Signbook_Art_thumbnail.png",
+    "metadata": {
+      "number": "032",
+      "github_path": "projects/tomb-chaser-2/Signbook_Art.glb",
+      "file_size": 684640,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Mixed"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Sign Book"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Information"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Outdoor"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Hybrid"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tomb-chaser-2-033",
+    "name": "TempleBaseCorner_Art",
+    "project_id": "pm-tomb-chaser-2",
+    "description": "3D model from tomb-chaser-2 collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-2/TempleBaseCorner_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.077Z",
+    "updated_at": "2026-02-09T18:22:10.077Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-2/TempleBaseCorner_Art_thumbnail.png",
+    "metadata": {
+      "number": "033",
+      "github_path": "projects/tomb-chaser-2/TempleBaseCorner_Art.glb",
+      "file_size": 777608,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Ancient Temple"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Structure"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Structural"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Temple"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Ancient"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tomb-chaser-2-034",
+    "name": "TempleBaseDetail01_Art",
+    "project_id": "pm-tomb-chaser-2",
+    "description": "3D model from tomb-chaser-2 collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-2/TempleBaseDetail01_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.077Z",
+    "updated_at": "2026-02-09T18:22:10.077Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-2/TempleBaseDetail01_Art_thumbnail.png",
+    "metadata": {
+      "number": "034",
+      "github_path": "projects/tomb-chaser-2/TempleBaseDetail01_Art.glb",
+      "file_size": 777480,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Ancient Temple"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Structure"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Structural"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Temple"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Ancient"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tomb-chaser-2-035",
+    "name": "TempleBaseDetail02_Art",
+    "project_id": "pm-tomb-chaser-2",
+    "description": "3D model from tomb-chaser-2 collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-2/TempleBaseDetail02_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.077Z",
+    "updated_at": "2026-02-09T18:22:10.077Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-2/TempleBaseDetail02_Art_thumbnail.png",
+    "metadata": {
+      "number": "035",
+      "github_path": "projects/tomb-chaser-2/TempleBaseDetail02_Art.glb",
+      "file_size": 1028808,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Ancient Temple"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Structure"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Structural"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Temple"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Ancient"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tomb-chaser-2-036",
+    "name": "TempleBaseStaircase_Art",
+    "project_id": "pm-tomb-chaser-2",
+    "description": "3D model from tomb-chaser-2 collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-2/TempleBaseStaircase_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.077Z",
+    "updated_at": "2026-02-09T18:22:10.077Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-2/TempleBaseStaircase_Art_thumbnail.png",
+    "metadata": {
+      "number": "036",
+      "github_path": "projects/tomb-chaser-2/TempleBaseStaircase_Art.glb",
+      "file_size": 1203484,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Ancient Temple"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Staircase"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Structural"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Temple"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Ancient"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tomb-chaser-2-037",
+    "name": "TempleBase_Art",
+    "project_id": "pm-tomb-chaser-2",
+    "description": "3D model from tomb-chaser-2 collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-2/TempleBase_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.077Z",
+    "updated_at": "2026-02-09T18:22:10.077Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-2/TempleBase_Art_thumbnail.png",
+    "metadata": {
+      "number": "037",
+      "github_path": "projects/tomb-chaser-2/TempleBase_Art.glb",
+      "file_size": 777172,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Ancient Temple"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Structure"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Structural"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Temple"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Ancient"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tomb-chaser-2-038",
+    "name": "TempleBeam01_Art",
+    "project_id": "pm-tomb-chaser-2",
+    "description": "3D model from tomb-chaser-2 collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-2/TempleBeam01_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.077Z",
+    "updated_at": "2026-02-09T18:22:10.077Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-2/TempleBeam01_Art_thumbnail.png",
+    "metadata": {
+      "number": "038",
+      "github_path": "projects/tomb-chaser-2/TempleBeam01_Art.glb",
+      "file_size": 687264,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Ancient Temple"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Beam"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Environmental"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Temple"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Ancient"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tomb-chaser-2-039",
+    "name": "TempleBeam02_Art",
+    "project_id": "pm-tomb-chaser-2",
+    "description": "3D model from tomb-chaser-2 collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-2/TempleBeam02_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.077Z",
+    "updated_at": "2026-02-09T18:22:10.077Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-2/TempleBeam02_Art_thumbnail.png",
+    "metadata": {
+      "number": "039",
+      "github_path": "projects/tomb-chaser-2/TempleBeam02_Art.glb",
+      "file_size": 687452,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Ancient Temple"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Beam"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Environmental"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Temple"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Ancient"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tomb-chaser-2-040",
+    "name": "TempleColumn_Art",
+    "project_id": "pm-tomb-chaser-2",
+    "description": "3D model from tomb-chaser-2 collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-2/TempleColumn_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.077Z",
+    "updated_at": "2026-02-09T18:22:10.077Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-2/TempleColumn_Art_thumbnail.png",
+    "metadata": {
+      "number": "040",
+      "github_path": "projects/tomb-chaser-2/TempleColumn_Art.glb",
+      "file_size": 687752,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Ancient Temple"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Column"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Environmental"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Temple"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Ancient"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tomb-chaser-2-041",
+    "name": "TempleRoof01Corner_Art",
+    "project_id": "pm-tomb-chaser-2",
+    "description": "3D model from tomb-chaser-2 collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-2/TempleRoof01Corner_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.077Z",
+    "updated_at": "2026-02-09T18:22:10.077Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-2/TempleRoof01Corner_Art_thumbnail.png",
+    "metadata": {
+      "number": "041",
+      "github_path": "projects/tomb-chaser-2/TempleRoof01Corner_Art.glb",
+      "file_size": 1890428,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Ancient Temple"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Roof"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Structural"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Temple"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Ancient"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tomb-chaser-2-042",
+    "name": "TempleRoof01_Art",
+    "project_id": "pm-tomb-chaser-2",
+    "description": "3D model from tomb-chaser-2 collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-2/TempleRoof01_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.077Z",
+    "updated_at": "2026-02-09T18:22:10.077Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-2/TempleRoof01_Art_thumbnail.png",
+    "metadata": {
+      "number": "042",
+      "github_path": "projects/tomb-chaser-2/TempleRoof01_Art.glb",
+      "file_size": 1882428,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Ancient Temple"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Roof"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Structural"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Temple"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Ancient"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tomb-chaser-2-043",
+    "name": "TempleRoof02Corner_Art",
+    "project_id": "pm-tomb-chaser-2",
+    "description": "3D model from tomb-chaser-2 collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-2/TempleRoof02Corner_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.077Z",
+    "updated_at": "2026-02-09T18:22:10.077Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-2/TempleRoof02Corner_Art_thumbnail.png",
+    "metadata": {
+      "number": "043",
+      "github_path": "projects/tomb-chaser-2/TempleRoof02Corner_Art.glb",
+      "file_size": 1813376,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Ancient Temple"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Roof"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Structural"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Temple"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Ancient"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tomb-chaser-2-044",
+    "name": "TempleRoof02_Art",
+    "project_id": "pm-tomb-chaser-2",
+    "description": "3D model from tomb-chaser-2 collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-2/TempleRoof02_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.077Z",
+    "updated_at": "2026-02-09T18:22:10.077Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-2/TempleRoof02_Art_thumbnail.png",
+    "metadata": {
+      "number": "044",
+      "github_path": "projects/tomb-chaser-2/TempleRoof02_Art.glb",
+      "file_size": 1370572,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Ancient Temple"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Roof"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Structural"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Temple"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Ancient"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tomb-chaser-2-045",
+    "name": "TempleWall01_Art",
+    "project_id": "pm-tomb-chaser-2",
+    "description": "3D model from tomb-chaser-2 collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-2/TempleWall01_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.077Z",
+    "updated_at": "2026-02-09T18:22:10.077Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-2/TempleWall01_Art_thumbnail.png",
+    "metadata": {
+      "number": "045",
+      "github_path": "projects/tomb-chaser-2/TempleWall01_Art.glb",
+      "file_size": 437352,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Ancient Temple"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Wall"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Structural"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Temple"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Ancient"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tomb-chaser-2-046",
+    "name": "TempleWall02_Art",
+    "project_id": "pm-tomb-chaser-2",
+    "description": "3D model from tomb-chaser-2 collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-2/TempleWall02_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.077Z",
+    "updated_at": "2026-02-09T18:22:10.077Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-2/TempleWall02_Art_thumbnail.png",
+    "metadata": {
+      "number": "046",
+      "github_path": "projects/tomb-chaser-2/TempleWall02_Art.glb",
+      "file_size": 437424,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Ancient Temple"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Wall"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Structural"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Temple"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Ancient"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tomb-chaser-2-047",
+    "name": "TempleWallCorner_Art",
+    "project_id": "pm-tomb-chaser-2",
+    "description": "3D model from tomb-chaser-2 collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-2/TempleWallCorner_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.077Z",
+    "updated_at": "2026-02-09T18:22:10.077Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-2/TempleWallCorner_Art_thumbnail.png",
+    "metadata": {
+      "number": "047",
+      "github_path": "projects/tomb-chaser-2/TempleWallCorner_Art.glb",
+      "file_size": 437568,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Ancient Temple"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Wall"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Structural"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Temple"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Ancient"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tomb-chaser-2-048",
+    "name": "TempleWindow_Art",
+    "project_id": "pm-tomb-chaser-2",
+    "description": "3D model from tomb-chaser-2 collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-2/TempleWindow_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.077Z",
+    "updated_at": "2026-02-09T18:22:10.077Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-2/TempleWindow_Art_thumbnail.png",
+    "metadata": {
+      "number": "048",
+      "github_path": "projects/tomb-chaser-2/TempleWindow_Art.glb",
+      "file_size": 632756,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Ancient Temple"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Environment"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Window"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Opening"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Temple"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Ancient"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tomb-chaser-2-049",
+    "name": "WarningSign01_Art",
+    "project_id": "pm-tomb-chaser-2",
+    "description": "3D model from tomb-chaser-2 collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-2/WarningSign01_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.077Z",
+    "updated_at": "2026-02-09T18:22:10.077Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-2/WarningSign01_Art_thumbnail.png",
+    "metadata": {
+      "number": "049",
+      "github_path": "projects/tomb-chaser-2/WarningSign01_Art.glb",
+      "file_size": 637820,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Mixed"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Warning Sign"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Information"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Outdoor"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Hybrid"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tomb-chaser-2-050",
+    "name": "WarningSign02_Art",
+    "project_id": "pm-tomb-chaser-2",
+    "description": "3D model from tomb-chaser-2 collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-2/WarningSign02_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:10.077Z",
+    "updated_at": "2026-02-09T18:22:10.077Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-2/WarningSign02_Art_thumbnail.png",
+    "metadata": {
+      "number": "050",
+      "github_path": "projects/tomb-chaser-2/WarningSign02_Art.glb",
+      "file_size": 637816,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Mixed"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Warning Sign"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Information"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Outdoor"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Hybrid"
+        }
+      ]
+    }
+  }
+]

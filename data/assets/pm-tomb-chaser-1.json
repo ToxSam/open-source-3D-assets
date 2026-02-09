@@ -1,0 +1,2258 @@
+[
+  {
+    "id": "tomb-chaser-1-001",
+    "name": "Coins_Art",
+    "project_id": "pm-tomb-chaser-1",
+    "description": "3D model from tomb-chaser-1 collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/Coins_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:09.616Z",
+    "updated_at": "2026-02-09T18:22:09.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/Coins_Art_thumbnail.png",
+    "metadata": {
+      "number": "001",
+      "github_path": "projects/tomb-chaser-1/Coins_Art.glb",
+      "file_size": 821064,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Egyptian"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Collectible"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Currency"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Collectible"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Tomb"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Gold"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tomb-chaser-1-002",
+    "name": "Column_Art",
+    "project_id": "pm-tomb-chaser-1",
+    "description": "3D model from tomb-chaser-1 collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/Column_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:09.616Z",
+    "updated_at": "2026-02-09T18:22:09.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/Column_Art_thumbnail.png",
+    "metadata": {
+      "number": "002",
+      "github_path": "projects/tomb-chaser-1/Column_Art.glb",
+      "file_size": 636964,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Egyptian"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Column"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Structural"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Tomb"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tomb-chaser-1-003",
+    "name": "Door_Art",
+    "project_id": "pm-tomb-chaser-1",
+    "description": "3D model from tomb-chaser-1 collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/Door_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:09.616Z",
+    "updated_at": "2026-02-09T18:22:09.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/Door_Art_thumbnail.png",
+    "metadata": {
+      "number": "003",
+      "github_path": "projects/tomb-chaser-1/Door_Art.glb",
+      "file_size": 602668,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Egyptian"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Door"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Interactive"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Tomb"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tomb-chaser-1-004",
+    "name": "FireTorch01_Art",
+    "project_id": "pm-tomb-chaser-1",
+    "description": "3D model from tomb-chaser-1 collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/FireTorch01_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:09.616Z",
+    "updated_at": "2026-02-09T18:22:09.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/FireTorch01_Art_thumbnail.png",
+    "metadata": {
+      "number": "004",
+      "github_path": "projects/tomb-chaser-1/FireTorch01_Art.glb",
+      "file_size": 40496,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Egyptian"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Props"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Torch"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Lighting"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Tomb"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Fire"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tomb-chaser-1-005",
+    "name": "FireTorch02_Art",
+    "project_id": "pm-tomb-chaser-1",
+    "description": "3D model from tomb-chaser-1 collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/FireTorch02_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:09.616Z",
+    "updated_at": "2026-02-09T18:22:09.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/FireTorch02_Art_thumbnail.png",
+    "metadata": {
+      "number": "005",
+      "github_path": "projects/tomb-chaser-1/FireTorch02_Art.glb",
+      "file_size": 40492,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Egyptian"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Props"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Torch"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Lighting"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Tomb"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Fire"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tomb-chaser-1-006",
+    "name": "FireTorch03_Art",
+    "project_id": "pm-tomb-chaser-1",
+    "description": "3D model from tomb-chaser-1 collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/FireTorch03_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:09.616Z",
+    "updated_at": "2026-02-09T18:22:09.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/FireTorch03_Art_thumbnail.png",
+    "metadata": {
+      "number": "006",
+      "github_path": "projects/tomb-chaser-1/FireTorch03_Art.glb",
+      "file_size": 40636,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Egyptian"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Props"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Torch"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Lighting"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Tomb"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Fire"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tomb-chaser-1-007",
+    "name": "Gem01_Art",
+    "project_id": "pm-tomb-chaser-1",
+    "description": "3D model from tomb-chaser-1 collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/Gem01_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:09.616Z",
+    "updated_at": "2026-02-09T18:22:09.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/Gem01_Art_thumbnail.png",
+    "metadata": {
+      "number": "007",
+      "github_path": "projects/tomb-chaser-1/Gem01_Art.glb",
+      "file_size": 232788,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Egyptian"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Collectible"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Gem"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Collectible"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Tomb"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Crystal"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tomb-chaser-1-008",
+    "name": "Gem02_Art",
+    "project_id": "pm-tomb-chaser-1",
+    "description": "3D model from tomb-chaser-1 collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/Gem02_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:09.616Z",
+    "updated_at": "2026-02-09T18:22:09.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/Gem02_Art_thumbnail.png",
+    "metadata": {
+      "number": "008",
+      "github_path": "projects/tomb-chaser-1/Gem02_Art.glb",
+      "file_size": 231536,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Egyptian"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Collectible"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Gem"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Collectible"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Tomb"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Crystal"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tomb-chaser-1-009",
+    "name": "Gem03_Art",
+    "project_id": "pm-tomb-chaser-1",
+    "description": "3D model from tomb-chaser-1 collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/Gem03_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:09.616Z",
+    "updated_at": "2026-02-09T18:22:09.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/Gem03_Art_thumbnail.png",
+    "metadata": {
+      "number": "009",
+      "github_path": "projects/tomb-chaser-1/Gem03_Art.glb",
+      "file_size": 235884,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Egyptian"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Collectible"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Gem"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Collectible"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Tomb"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Crystal"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tomb-chaser-1-010",
+    "name": "GhostArmature",
+    "project_id": "pm-tomb-chaser-1",
+    "description": "3D model from tomb-chaser-1 collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/GhostArmature.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:09.616Z",
+    "updated_at": "2026-02-09T18:22:09.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/GhostArmature_thumbnail.png",
+    "metadata": {
+      "number": "010",
+      "github_path": "projects/tomb-chaser-1/GhostArmature.glb",
+      "file_size": 289116,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Egyptian"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Character"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Enemy"
+        },
+        {
+          "trait_type": "Function",
+          "value": "NPC"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Tomb"
+        },
+        {
+          "trait_type": "Species",
+          "value": "Ghost"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tomb-chaser-1-011",
+    "name": "GodAnubis_Art",
+    "project_id": "pm-tomb-chaser-1",
+    "description": "3D model from tomb-chaser-1 collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/GodAnubis_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:09.616Z",
+    "updated_at": "2026-02-09T18:22:09.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/GodAnubis_Art_thumbnail.png",
+    "metadata": {
+      "number": "011",
+      "github_path": "projects/tomb-chaser-1/GodAnubis_Art.glb",
+      "file_size": 222224,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Egyptian"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Statue"
+        },
+        {
+          "trait_type": "Type",
+          "value": "God Statue"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decorative"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Temple"
+        },
+        {
+          "trait_type": "Deity",
+          "value": "Anubis"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tomb-chaser-1-012",
+    "name": "GodBastet_Art",
+    "project_id": "pm-tomb-chaser-1",
+    "description": "3D model from tomb-chaser-1 collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/GodBastet_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:09.616Z",
+    "updated_at": "2026-02-09T18:22:09.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/GodBastet_Art_thumbnail.png",
+    "metadata": {
+      "number": "012",
+      "github_path": "projects/tomb-chaser-1/GodBastet_Art.glb",
+      "file_size": 214736,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Egyptian"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Statue"
+        },
+        {
+          "trait_type": "Type",
+          "value": "God Statue"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decorative"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Temple"
+        },
+        {
+          "trait_type": "Deity",
+          "value": "Bastet"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tomb-chaser-1-013",
+    "name": "GodRa_Art",
+    "project_id": "pm-tomb-chaser-1",
+    "description": "3D model from tomb-chaser-1 collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/GodRa_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:09.616Z",
+    "updated_at": "2026-02-09T18:22:09.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/GodRa_Art_thumbnail.png",
+    "metadata": {
+      "number": "013",
+      "github_path": "projects/tomb-chaser-1/GodRa_Art.glb",
+      "file_size": 232064,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Egyptian"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Statue"
+        },
+        {
+          "trait_type": "Type",
+          "value": "God Statue"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decorative"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Temple"
+        },
+        {
+          "trait_type": "Deity",
+          "value": "Ra"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tomb-chaser-1-014",
+    "name": "InteriorEmbelisher01_Art",
+    "project_id": "pm-tomb-chaser-1",
+    "description": "3D model from tomb-chaser-1 collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/InteriorEmbelisher01_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:09.616Z",
+    "updated_at": "2026-02-09T18:22:09.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/InteriorEmbelisher01_Art_thumbnail.png",
+    "metadata": {
+      "number": "014",
+      "github_path": "projects/tomb-chaser-1/InteriorEmbelisher01_Art.glb",
+      "file_size": 626248,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Egyptian"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Embellishment"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decorative"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Interior"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tomb-chaser-1-015",
+    "name": "InteriorEmbelisher02_Art",
+    "project_id": "pm-tomb-chaser-1",
+    "description": "3D model from tomb-chaser-1 collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/InteriorEmbelisher02_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:09.616Z",
+    "updated_at": "2026-02-09T18:22:09.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/InteriorEmbelisher02_Art_thumbnail.png",
+    "metadata": {
+      "number": "015",
+      "github_path": "projects/tomb-chaser-1/InteriorEmbelisher02_Art.glb",
+      "file_size": 629860,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Egyptian"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Embellishment"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decorative"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Interior"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tomb-chaser-1-016",
+    "name": "Jar01_Art",
+    "project_id": "pm-tomb-chaser-1",
+    "description": "3D model from tomb-chaser-1 collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/Jar01_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:09.616Z",
+    "updated_at": "2026-02-09T18:22:09.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/Jar01_Art_thumbnail.png",
+    "metadata": {
+      "number": "016",
+      "github_path": "projects/tomb-chaser-1/Jar01_Art.glb",
+      "file_size": 631892,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Egyptian"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Props"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Container"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Storage"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Tomb"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Canopic"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tomb-chaser-1-017",
+    "name": "Jar02_Art",
+    "project_id": "pm-tomb-chaser-1",
+    "description": "3D model from tomb-chaser-1 collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/Jar02_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:09.616Z",
+    "updated_at": "2026-02-09T18:22:09.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/Jar02_Art_thumbnail.png",
+    "metadata": {
+      "number": "017",
+      "github_path": "projects/tomb-chaser-1/Jar02_Art.glb",
+      "file_size": 631896,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Egyptian"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Props"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Container"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Storage"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Tomb"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Canopic"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tomb-chaser-1-018",
+    "name": "Lance_Art",
+    "project_id": "pm-tomb-chaser-1",
+    "description": "3D model from tomb-chaser-1 collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/Lance_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:09.616Z",
+    "updated_at": "2026-02-09T18:22:09.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/Lance_Art_thumbnail.png",
+    "metadata": {
+      "number": "018",
+      "github_path": "projects/tomb-chaser-1/Lance_Art.glb",
+      "file_size": 632016,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Egyptian"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Weapon"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Spear"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Combat"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Tomb"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Metal"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tomb-chaser-1-019",
+    "name": "Layout_Floor01",
+    "project_id": "pm-tomb-chaser-1",
+    "description": "3D model from tomb-chaser-1 collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/Layout_Floor01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:09.616Z",
+    "updated_at": "2026-02-09T18:22:09.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/Layout_Floor01_thumbnail.png",
+    "metadata": {
+      "number": "019",
+      "github_path": "projects/tomb-chaser-1/Layout_Floor01.glb",
+      "file_size": 2257808,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Egyptian"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Floor"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Structural"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Tomb"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tomb-chaser-1-020",
+    "name": "Layout_Floor02",
+    "project_id": "pm-tomb-chaser-1",
+    "description": "3D model from tomb-chaser-1 collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/Layout_Floor02.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:09.616Z",
+    "updated_at": "2026-02-09T18:22:09.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/Layout_Floor02_thumbnail.png",
+    "metadata": {
+      "number": "020",
+      "github_path": "projects/tomb-chaser-1/Layout_Floor02.glb",
+      "file_size": 1954024,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Egyptian"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Floor"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Structural"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Tomb"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tomb-chaser-1-021",
+    "name": "Layout_Floor03",
+    "project_id": "pm-tomb-chaser-1",
+    "description": "3D model from tomb-chaser-1 collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/Layout_Floor03.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:09.616Z",
+    "updated_at": "2026-02-09T18:22:09.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/Layout_Floor03_thumbnail.png",
+    "metadata": {
+      "number": "021",
+      "github_path": "projects/tomb-chaser-1/Layout_Floor03.glb",
+      "file_size": 2497304,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Egyptian"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Floor"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Structural"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Tomb"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tomb-chaser-1-022",
+    "name": "Layout_Floor04",
+    "project_id": "pm-tomb-chaser-1",
+    "description": "3D model from tomb-chaser-1 collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/Layout_Floor04.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:09.616Z",
+    "updated_at": "2026-02-09T18:22:09.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/Layout_Floor04_thumbnail.png",
+    "metadata": {
+      "number": "022",
+      "github_path": "projects/tomb-chaser-1/Layout_Floor04.glb",
+      "file_size": 2542852,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Egyptian"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Floor"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Structural"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Tomb"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tomb-chaser-1-023",
+    "name": "Layout_Floor05",
+    "project_id": "pm-tomb-chaser-1",
+    "description": "3D model from tomb-chaser-1 collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/Layout_Floor05.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:09.616Z",
+    "updated_at": "2026-02-09T18:22:09.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/Layout_Floor05_thumbnail.png",
+    "metadata": {
+      "number": "023",
+      "github_path": "projects/tomb-chaser-1/Layout_Floor05.glb",
+      "file_size": 1797772,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Egyptian"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Floor"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Structural"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Tomb"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tomb-chaser-1-024",
+    "name": "Leaderboard_Art",
+    "project_id": "pm-tomb-chaser-1",
+    "description": "3D model from tomb-chaser-1 collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/Leaderboard_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:09.616Z",
+    "updated_at": "2026-02-09T18:22:09.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/Leaderboard_Art_thumbnail.png",
+    "metadata": {
+      "number": "024",
+      "github_path": "projects/tomb-chaser-1/Leaderboard_Art.glb",
+      "file_size": 606620,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Egyptian"
+        },
+        {
+          "trait_type": "Category",
+          "value": "UI"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Leaderboard"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Display"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tomb-chaser-1-025",
+    "name": "Oasis_Art",
+    "project_id": "pm-tomb-chaser-1",
+    "description": "3D model from tomb-chaser-1 collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/Oasis_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:09.616Z",
+    "updated_at": "2026-02-09T18:22:09.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/Oasis_Art_thumbnail.png",
+    "metadata": {
+      "number": "025",
+      "github_path": "projects/tomb-chaser-1/Oasis_Art.glb",
+      "file_size": 10214472,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Egyptian"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Oasis"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Environment"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Desert"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Water"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tomb-chaser-1-026",
+    "name": "Obelisk_Art",
+    "project_id": "pm-tomb-chaser-1",
+    "description": "3D model from tomb-chaser-1 collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/Obelisk_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:09.616Z",
+    "updated_at": "2026-02-09T18:22:09.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/Obelisk_Art_thumbnail.png",
+    "metadata": {
+      "number": "026",
+      "github_path": "projects/tomb-chaser-1/Obelisk_Art.glb",
+      "file_size": 484820,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Egyptian"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Monument"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Obelisk"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Landmark"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Temple"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Stone"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tomb-chaser-1-027",
+    "name": "PalmTree_Art",
+    "project_id": "pm-tomb-chaser-1",
+    "description": "3D model from tomb-chaser-1 collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/PalmTree_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:09.616Z",
+    "updated_at": "2026-02-09T18:22:09.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/PalmTree_Art_thumbnail.png",
+    "metadata": {
+      "number": "027",
+      "github_path": "projects/tomb-chaser-1/PalmTree_Art.glb",
+      "file_size": 752448,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Egyptian"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Tree"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Environment"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Desert"
+        },
+        {
+          "trait_type": "Species",
+          "value": "Palm"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tomb-chaser-1-028",
+    "name": "PlatformBeams_Art",
+    "project_id": "pm-tomb-chaser-1",
+    "description": "3D model from tomb-chaser-1 collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/PlatformBeams_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:09.616Z",
+    "updated_at": "2026-02-09T18:22:09.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/PlatformBeams_Art_thumbnail.png",
+    "metadata": {
+      "number": "028",
+      "github_path": "projects/tomb-chaser-1/PlatformBeams_Art.glb",
+      "file_size": 627272,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Egyptian"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Platform"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Structural"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Tomb"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tomb-chaser-1-029",
+    "name": "Platform_Art",
+    "project_id": "pm-tomb-chaser-1",
+    "description": "3D model from tomb-chaser-1 collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/Platform_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:09.616Z",
+    "updated_at": "2026-02-09T18:22:09.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/Platform_Art_thumbnail.png",
+    "metadata": {
+      "number": "029",
+      "github_path": "projects/tomb-chaser-1/Platform_Art.glb",
+      "file_size": 632204,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Egyptian"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Platform"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Structural"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Tomb"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tomb-chaser-1-030",
+    "name": "Podium_Art",
+    "project_id": "pm-tomb-chaser-1",
+    "description": "3D model from tomb-chaser-1 collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/Podium_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:09.616Z",
+    "updated_at": "2026-02-09T18:22:09.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/Podium_Art_thumbnail.png",
+    "metadata": {
+      "number": "030",
+      "github_path": "projects/tomb-chaser-1/Podium_Art.glb",
+      "file_size": 1640948,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Egyptian"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Props"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Podium"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Display"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Tomb"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tomb-chaser-1-031",
+    "name": "PolygonalMindLogo_Art",
+    "project_id": "pm-tomb-chaser-1",
+    "description": "3D model from tomb-chaser-1 collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/PolygonalMindLogo_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:09.616Z",
+    "updated_at": "2026-02-09T18:22:09.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/PolygonalMindLogo_Art_thumbnail.png",
+    "metadata": {
+      "number": "031",
+      "github_path": "projects/tomb-chaser-1/PolygonalMindLogo_Art.glb",
+      "file_size": 488060,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Egyptian"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Branding"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Logo"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Branding"
+        },
+        {
+          "trait_type": "Brand",
+          "value": "Polygonal Mind"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tomb-chaser-1-032",
+    "name": "SandMount_Art",
+    "project_id": "pm-tomb-chaser-1",
+    "description": "3D model from tomb-chaser-1 collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/SandMount_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:09.616Z",
+    "updated_at": "2026-02-09T18:22:09.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/SandMount_Art_thumbnail.png",
+    "metadata": {
+      "number": "032",
+      "github_path": "projects/tomb-chaser-1/SandMount_Art.glb",
+      "file_size": 10193132,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Egyptian"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Terrain"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Environment"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Desert"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Sand"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tomb-chaser-1-033",
+    "name": "Spiderweb_Art",
+    "project_id": "pm-tomb-chaser-1",
+    "description": "3D model from tomb-chaser-1 collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/Spiderweb_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:09.616Z",
+    "updated_at": "2026-02-09T18:22:09.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/Spiderweb_Art_thumbnail.png",
+    "metadata": {
+      "number": "033",
+      "github_path": "projects/tomb-chaser-1/Spiderweb_Art.glb",
+      "file_size": 40436,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Egyptian"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Interactive"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Obstacle"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Tomb"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Web"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tomb-chaser-1-034",
+    "name": "TempleArch01_Art",
+    "project_id": "pm-tomb-chaser-1",
+    "description": "3D model from tomb-chaser-1 collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/TempleArch01_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:09.616Z",
+    "updated_at": "2026-02-09T18:22:09.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/TempleArch01_Art_thumbnail.png",
+    "metadata": {
+      "number": "034",
+      "github_path": "projects/tomb-chaser-1/TempleArch01_Art.glb",
+      "file_size": 376256,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Egyptian"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Arch"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Structural"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Temple"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tomb-chaser-1-035",
+    "name": "TempleArch02_Art",
+    "project_id": "pm-tomb-chaser-1",
+    "description": "3D model from tomb-chaser-1 collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/TempleArch02_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:09.616Z",
+    "updated_at": "2026-02-09T18:22:09.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/TempleArch02_Art_thumbnail.png",
+    "metadata": {
+      "number": "035",
+      "github_path": "projects/tomb-chaser-1/TempleArch02_Art.glb",
+      "file_size": 765760,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Egyptian"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Arch"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Structural"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Temple"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tomb-chaser-1-036",
+    "name": "TempleEmbelisher01_Art",
+    "project_id": "pm-tomb-chaser-1",
+    "description": "3D model from tomb-chaser-1 collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/TempleEmbelisher01_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:09.616Z",
+    "updated_at": "2026-02-09T18:22:09.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/TempleEmbelisher01_Art_thumbnail.png",
+    "metadata": {
+      "number": "036",
+      "github_path": "projects/tomb-chaser-1/TempleEmbelisher01_Art.glb",
+      "file_size": 371076,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Egyptian"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Temple"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tomb-chaser-1-037",
+    "name": "TempleEmbelisher02_Art",
+    "project_id": "pm-tomb-chaser-1",
+    "description": "3D model from tomb-chaser-1 collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/TempleEmbelisher02_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:09.616Z",
+    "updated_at": "2026-02-09T18:22:09.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/TempleEmbelisher02_Art_thumbnail.png",
+    "metadata": {
+      "number": "037",
+      "github_path": "projects/tomb-chaser-1/TempleEmbelisher02_Art.glb",
+      "file_size": 391512,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Egyptian"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Temple"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tomb-chaser-1-038",
+    "name": "TempleEmbelisher03_Art",
+    "project_id": "pm-tomb-chaser-1",
+    "description": "3D model from tomb-chaser-1 collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/TempleEmbelisher03_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:09.616Z",
+    "updated_at": "2026-02-09T18:22:09.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/TempleEmbelisher03_Art_thumbnail.png",
+    "metadata": {
+      "number": "038",
+      "github_path": "projects/tomb-chaser-1/TempleEmbelisher03_Art.glb",
+      "file_size": 368740,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Egyptian"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Temple"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tomb-chaser-1-039",
+    "name": "TempleFloor01_Art",
+    "project_id": "pm-tomb-chaser-1",
+    "description": "3D model from tomb-chaser-1 collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/TempleFloor01_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:09.616Z",
+    "updated_at": "2026-02-09T18:22:09.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/TempleFloor01_Art_thumbnail.png",
+    "metadata": {
+      "number": "039",
+      "github_path": "projects/tomb-chaser-1/TempleFloor01_Art.glb",
+      "file_size": 764944,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Egyptian"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Floor"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Structural"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Temple"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tomb-chaser-1-040",
+    "name": "TempleFloor01_Cut.001",
+    "project_id": "pm-tomb-chaser-1",
+    "description": "3D model from tomb-chaser-1 collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/TempleFloor01_Cut.001.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:09.616Z",
+    "updated_at": "2026-02-09T18:22:09.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/TempleFloor01_Cut.001_thumbnail.png",
+    "metadata": {
+      "number": "040",
+      "github_path": "projects/tomb-chaser-1/TempleFloor01_Cut.001.glb",
+      "file_size": 771432,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Egyptian"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Floor"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Structural"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Temple"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tomb-chaser-1-041",
+    "name": "TempleFloor01_Cut",
+    "project_id": "pm-tomb-chaser-1",
+    "description": "3D model from tomb-chaser-1 collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/TempleFloor01_Cut.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:09.616Z",
+    "updated_at": "2026-02-09T18:22:09.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/TempleFloor01_Cut_thumbnail.png",
+    "metadata": {
+      "number": "041",
+      "github_path": "projects/tomb-chaser-1/TempleFloor01_Cut.glb",
+      "file_size": 772440,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Egyptian"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Floor"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Structural"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Temple"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tomb-chaser-1-042",
+    "name": "TempleFloor02_Art",
+    "project_id": "pm-tomb-chaser-1",
+    "description": "3D model from tomb-chaser-1 collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/TempleFloor02_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:09.616Z",
+    "updated_at": "2026-02-09T18:22:09.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/TempleFloor02_Art_thumbnail.png",
+    "metadata": {
+      "number": "042",
+      "github_path": "projects/tomb-chaser-1/TempleFloor02_Art.glb",
+      "file_size": 750584,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Egyptian"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Floor"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Structural"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Temple"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tomb-chaser-1-043",
+    "name": "TempleFloor02_Cut.001",
+    "project_id": "pm-tomb-chaser-1",
+    "description": "3D model from tomb-chaser-1 collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/TempleFloor02_Cut.001.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:09.616Z",
+    "updated_at": "2026-02-09T18:22:09.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/TempleFloor02_Cut.001_thumbnail.png",
+    "metadata": {
+      "number": "043",
+      "github_path": "projects/tomb-chaser-1/TempleFloor02_Cut.001.glb",
+      "file_size": 756116,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Egyptian"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Floor"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Structural"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Temple"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tomb-chaser-1-044",
+    "name": "TempleFloor02_Cut",
+    "project_id": "pm-tomb-chaser-1",
+    "description": "3D model from tomb-chaser-1 collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/TempleFloor02_Cut.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:09.616Z",
+    "updated_at": "2026-02-09T18:22:09.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/TempleFloor02_Cut_thumbnail.png",
+    "metadata": {
+      "number": "044",
+      "github_path": "projects/tomb-chaser-1/TempleFloor02_Cut.glb",
+      "file_size": 756112,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Egyptian"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Floor"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Structural"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Temple"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tomb-chaser-1-045",
+    "name": "TempleFloor03_Art",
+    "project_id": "pm-tomb-chaser-1",
+    "description": "3D model from tomb-chaser-1 collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/TempleFloor03_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:09.616Z",
+    "updated_at": "2026-02-09T18:22:09.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/TempleFloor03_Art_thumbnail.png",
+    "metadata": {
+      "number": "045",
+      "github_path": "projects/tomb-chaser-1/TempleFloor03_Art.glb",
+      "file_size": 758864,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Egyptian"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Floor"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Structural"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Temple"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tomb-chaser-1-046",
+    "name": "TempleFloor03_Cut.001",
+    "project_id": "pm-tomb-chaser-1",
+    "description": "3D model from tomb-chaser-1 collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/TempleFloor03_Cut.001.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:09.616Z",
+    "updated_at": "2026-02-09T18:22:09.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/TempleFloor03_Cut.001_thumbnail.png",
+    "metadata": {
+      "number": "046",
+      "github_path": "projects/tomb-chaser-1/TempleFloor03_Cut.001.glb",
+      "file_size": 380304,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Egyptian"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Floor"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Structural"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Temple"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tomb-chaser-1-047",
+    "name": "TempleFloor03_Cut",
+    "project_id": "pm-tomb-chaser-1",
+    "description": "3D model from tomb-chaser-1 collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/TempleFloor03_Cut.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:09.616Z",
+    "updated_at": "2026-02-09T18:22:09.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/TempleFloor03_Cut_thumbnail.png",
+    "metadata": {
+      "number": "047",
+      "github_path": "projects/tomb-chaser-1/TempleFloor03_Cut.glb",
+      "file_size": 380268,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Egyptian"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Floor"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Structural"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Temple"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tomb-chaser-1-048",
+    "name": "TempleFloor04_Art",
+    "project_id": "pm-tomb-chaser-1",
+    "description": "3D model from tomb-chaser-1 collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/TempleFloor04_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:09.616Z",
+    "updated_at": "2026-02-09T18:22:09.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/TempleFloor04_Art_thumbnail.png",
+    "metadata": {
+      "number": "048",
+      "github_path": "projects/tomb-chaser-1/TempleFloor04_Art.glb",
+      "file_size": 754224,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Egyptian"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Floor"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Structural"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Temple"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tomb-chaser-1-049",
+    "name": "TempleFloor04_Cut.001",
+    "project_id": "pm-tomb-chaser-1",
+    "description": "3D model from tomb-chaser-1 collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/TempleFloor04_Cut.001.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:09.616Z",
+    "updated_at": "2026-02-09T18:22:09.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/TempleFloor04_Cut.001_thumbnail.png",
+    "metadata": {
+      "number": "049",
+      "github_path": "projects/tomb-chaser-1/TempleFloor04_Cut.001.glb",
+      "file_size": 761128,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Egyptian"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Floor"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Structural"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Temple"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tomb-chaser-1-050",
+    "name": "TempleFloor04_Cut",
+    "project_id": "pm-tomb-chaser-1",
+    "description": "3D model from tomb-chaser-1 collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/TempleFloor04_Cut.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:09.616Z",
+    "updated_at": "2026-02-09T18:22:09.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/TempleFloor04_Cut_thumbnail.png",
+    "metadata": {
+      "number": "050",
+      "github_path": "projects/tomb-chaser-1/TempleFloor04_Cut.glb",
+      "file_size": 761124,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Egyptian"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Floor"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Structural"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Temple"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tomb-chaser-1-051",
+    "name": "Torch_Art",
+    "project_id": "pm-tomb-chaser-1",
+    "description": "3D model from tomb-chaser-1 collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/Torch_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:09.616Z",
+    "updated_at": "2026-02-09T18:22:09.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/Torch_Art_thumbnail.png",
+    "metadata": {
+      "number": "051",
+      "github_path": "projects/tomb-chaser-1/Torch_Art.glb",
+      "file_size": 631728,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Egyptian"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Props"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Torch"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Lighting"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Tomb"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Fire"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tomb-chaser-1-052",
+    "name": "Trap_Art",
+    "project_id": "pm-tomb-chaser-1",
+    "description": "3D model from tomb-chaser-1 collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/Trap_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:09.616Z",
+    "updated_at": "2026-02-09T18:22:09.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/Trap_Art_thumbnail.png",
+    "metadata": {
+      "number": "052",
+      "github_path": "projects/tomb-chaser-1/Trap_Art.glb",
+      "file_size": 703764,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Egyptian"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Interactive"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Trap"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Hazard"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Tomb"
+        },
+        {
+          "trait_type": "Mechanic",
+          "value": "Damage"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tomb-chaser-1-053",
+    "name": "Wall01_Art",
+    "project_id": "pm-tomb-chaser-1",
+    "description": "3D model from tomb-chaser-1 collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/Wall01_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:09.616Z",
+    "updated_at": "2026-02-09T18:22:09.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/Wall01_Art_thumbnail.png",
+    "metadata": {
+      "number": "053",
+      "github_path": "projects/tomb-chaser-1/Wall01_Art.glb",
+      "file_size": 604540,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Egyptian"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Wall"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Structural"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Tomb"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tomb-chaser-1-054",
+    "name": "Wall02_Art",
+    "project_id": "pm-tomb-chaser-1",
+    "description": "3D model from tomb-chaser-1 collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/Wall02_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:09.616Z",
+    "updated_at": "2026-02-09T18:22:09.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/Wall02_Art_thumbnail.png",
+    "metadata": {
+      "number": "054",
+      "github_path": "projects/tomb-chaser-1/Wall02_Art.glb",
+      "file_size": 604540,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Egyptian"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Wall"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Structural"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Tomb"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tomb-chaser-1-055",
+    "name": "Wall03_Art",
+    "project_id": "pm-tomb-chaser-1",
+    "description": "3D model from tomb-chaser-1 collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/Wall03_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:09.616Z",
+    "updated_at": "2026-02-09T18:22:09.616Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/tomb-chaser-1/Wall03_Art_thumbnail.png",
+    "metadata": {
+      "number": "055",
+      "github_path": "projects/tomb-chaser-1/Wall03_Art.glb",
+      "file_size": 604544,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Egyptian"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Wall"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Structural"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Tomb"
+        }
+      ]
+    }
+  }
+]

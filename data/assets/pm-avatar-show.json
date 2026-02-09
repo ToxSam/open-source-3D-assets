@@ -1,0 +1,1918 @@
+[
+  {
+    "id": "avatar-show-001",
+    "name": "Arm_Chair",
+    "project_id": "pm-avatar-show",
+    "description": "3D model from avatar-show collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-show/Arm_Chair.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.045Z",
+    "updated_at": "2026-02-09T18:22:06.045Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-show/Arm_Chair_thumbnail.png",
+    "metadata": {
+      "number": "001",
+      "github_path": "projects/avatar-show/Arm_Chair.glb",
+      "file_size": 9291024,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Furniture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Chair"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Seating"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Studio"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Armchair"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-show-002",
+    "name": "Banana_Plant",
+    "project_id": "pm-avatar-show",
+    "description": "3D model from avatar-show collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-show/Banana_Plant.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.045Z",
+    "updated_at": "2026-02-09T18:22:06.045Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-show/Banana_Plant_thumbnail.png",
+    "metadata": {
+      "number": "002",
+      "github_path": "projects/avatar-show/Banana_Plant.glb",
+      "file_size": 4114240,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Plant"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Studio"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Banana Plant"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-show-003",
+    "name": "Book",
+    "project_id": "pm-avatar-show",
+    "description": "3D model from avatar-show collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-show/Book.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.045Z",
+    "updated_at": "2026-02-09T18:22:06.045Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-show/Book_thumbnail.png",
+    "metadata": {
+      "number": "003",
+      "github_path": "projects/avatar-show/Book.glb",
+      "file_size": 364460,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Office"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Book"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Reading"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Studio"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Stationery"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-show-004",
+    "name": "Camera",
+    "project_id": "pm-avatar-show",
+    "description": "3D model from avatar-show collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-show/Camera.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.045Z",
+    "updated_at": "2026-02-09T18:22:06.045Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-show/Camera_thumbnail.png",
+    "metadata": {
+      "number": "004",
+      "github_path": "projects/avatar-show/Camera.glb",
+      "file_size": 8711888,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Equipment"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Camera"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Recording"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Studio"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Technology"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-show-005",
+    "name": "Carpet",
+    "project_id": "pm-avatar-show",
+    "description": "3D model from avatar-show collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-show/Carpet.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.045Z",
+    "updated_at": "2026-02-09T18:22:06.045Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-show/Carpet_thumbnail.png",
+    "metadata": {
+      "number": "005",
+      "github_path": "projects/avatar-show/Carpet.glb",
+      "file_size": 7165608,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Furniture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Carpet"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Flooring"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Studio"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Decoration"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-show-006",
+    "name": "CoffeeMug",
+    "project_id": "pm-avatar-show",
+    "description": "3D model from avatar-show collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-show/CoffeeMug.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.045Z",
+    "updated_at": "2026-02-09T18:22:06.045Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-show/CoffeeMug_thumbnail.png",
+    "metadata": {
+      "number": "006",
+      "github_path": "projects/avatar-show/CoffeeMug.glb",
+      "file_size": 2692148,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Tableware"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Mug"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Beverage"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Studio"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Office"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-show-007",
+    "name": "Curved_Pipe",
+    "project_id": "pm-avatar-show",
+    "description": "3D model from avatar-show collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-show/Curved_Pipe.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.045Z",
+    "updated_at": "2026-02-09T18:22:06.045Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-show/Curved_Pipe_thumbnail.png",
+    "metadata": {
+      "number": "007",
+      "github_path": "projects/avatar-show/Curved_Pipe.glb",
+      "file_size": 2363076,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Industrial"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Pipe"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Structure"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Studio"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Curved"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-show-008",
+    "name": "End_Pipe",
+    "project_id": "pm-avatar-show",
+    "description": "3D model from avatar-show collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-show/End_Pipe.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.045Z",
+    "updated_at": "2026-02-09T18:22:06.045Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-show/End_Pipe_thumbnail.png",
+    "metadata": {
+      "number": "008",
+      "github_path": "projects/avatar-show/End_Pipe.glb",
+      "file_size": 2367744,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Industrial"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Pipe"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Structure"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Studio"
+        },
+        {
+          "trait_type": "Style",
+          "value": "End Cap"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-show-009",
+    "name": "Extractor",
+    "project_id": "pm-avatar-show",
+    "description": "3D model from avatar-show collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-show/Extractor.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.045Z",
+    "updated_at": "2026-02-09T18:22:06.045Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-show/Extractor_thumbnail.png",
+    "metadata": {
+      "number": "009",
+      "github_path": "projects/avatar-show/Extractor.glb",
+      "file_size": 2410848,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Industrial"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Ventilation"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Air System"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Studio"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Equipment"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-show-010",
+    "name": "Jar",
+    "project_id": "pm-avatar-show",
+    "description": "3D model from avatar-show collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-show/Jar.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.045Z",
+    "updated_at": "2026-02-09T18:22:06.045Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-show/Jar_thumbnail.png",
+    "metadata": {
+      "number": "010",
+      "github_path": "projects/avatar-show/Jar.glb",
+      "file_size": 630116,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Tableware"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Container"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Storage"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Studio"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Decoration"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-show-011",
+    "name": "Lamp_Stand",
+    "project_id": "pm-avatar-show",
+    "description": "3D model from avatar-show collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-show/Lamp_Stand.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.045Z",
+    "updated_at": "2026-02-09T18:22:06.045Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-show/Lamp_Stand_thumbnail.png",
+    "metadata": {
+      "number": "011",
+      "github_path": "projects/avatar-show/Lamp_Stand.glb",
+      "file_size": 354052,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Lighting"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Lamp"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Illumination"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Studio"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Stand"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-show-012",
+    "name": "Lamp_Wall",
+    "project_id": "pm-avatar-show",
+    "description": "3D model from avatar-show collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-show/Lamp_Wall.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.045Z",
+    "updated_at": "2026-02-09T18:22:06.045Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-show/Lamp_Wall_thumbnail.png",
+    "metadata": {
+      "number": "012",
+      "github_path": "projects/avatar-show/Lamp_Wall.glb",
+      "file_size": 6128132,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Lighting"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Lamp"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Illumination"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Studio"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Wall-Mounted"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-show-013",
+    "name": "Long_Chair",
+    "project_id": "pm-avatar-show",
+    "description": "3D model from avatar-show collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-show/Long_Chair.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.045Z",
+    "updated_at": "2026-02-09T18:22:06.045Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-show/Long_Chair_thumbnail.png",
+    "metadata": {
+      "number": "013",
+      "github_path": "projects/avatar-show/Long_Chair.glb",
+      "file_size": 5672004,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Furniture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Chair"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Seating"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Studio"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Lounge"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-show-014",
+    "name": "Magazine_01",
+    "project_id": "pm-avatar-show",
+    "description": "3D model from avatar-show collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-show/Magazine_01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.045Z",
+    "updated_at": "2026-02-09T18:22:06.045Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-show/Magazine_01_thumbnail.png",
+    "metadata": {
+      "number": "014",
+      "github_path": "projects/avatar-show/Magazine_01.glb",
+      "file_size": 2932412,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Office"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Magazine"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Reading"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Studio"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Decor"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-show-015",
+    "name": "Magazine_02",
+    "project_id": "pm-avatar-show",
+    "description": "3D model from avatar-show collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-show/Magazine_02.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.045Z",
+    "updated_at": "2026-02-09T18:22:06.045Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-show/Magazine_02_thumbnail.png",
+    "metadata": {
+      "number": "015",
+      "github_path": "projects/avatar-show/Magazine_02.glb",
+      "file_size": 2916236,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Office"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Magazine"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Reading"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Studio"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Decor"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-show-016",
+    "name": "Magazine_03",
+    "project_id": "pm-avatar-show",
+    "description": "3D model from avatar-show collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-show/Magazine_03.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.045Z",
+    "updated_at": "2026-02-09T18:22:06.045Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-show/Magazine_03_thumbnail.png",
+    "metadata": {
+      "number": "016",
+      "github_path": "projects/avatar-show/Magazine_03.glb",
+      "file_size": 2890000,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Office"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Magazine"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Reading"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Studio"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Decor"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-show-017",
+    "name": "Magazine_04",
+    "project_id": "pm-avatar-show",
+    "description": "3D model from avatar-show collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-show/Magazine_04.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.045Z",
+    "updated_at": "2026-02-09T18:22:06.045Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-show/Magazine_04_thumbnail.png",
+    "metadata": {
+      "number": "017",
+      "github_path": "projects/avatar-show/Magazine_04.glb",
+      "file_size": 3298144,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Office"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Magazine"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Reading"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Studio"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Decor"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-show-018",
+    "name": "Mesh_Mug",
+    "project_id": "pm-avatar-show",
+    "description": "3D model from avatar-show collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-show/Mesh_Mug.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.045Z",
+    "updated_at": "2026-02-09T18:22:06.045Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-show/Mesh_Mug_thumbnail.png",
+    "metadata": {
+      "number": "018",
+      "github_path": "projects/avatar-show/Mesh_Mug.glb",
+      "file_size": 760156,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Tableware"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Mug"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Beverage"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Studio"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Mesh"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-show-019",
+    "name": "Paper_Ball",
+    "project_id": "pm-avatar-show",
+    "description": "3D model from avatar-show collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-show/Paper_Ball.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.045Z",
+    "updated_at": "2026-02-09T18:22:06.045Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-show/Paper_Ball_thumbnail.png",
+    "metadata": {
+      "number": "019",
+      "github_path": "projects/avatar-show/Paper_Ball.glb",
+      "file_size": 4329508,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Office"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Paper"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Waste"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Studio"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Clutter"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-show-020",
+    "name": "Pencil",
+    "project_id": "pm-avatar-show",
+    "description": "3D model from avatar-show collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-show/Pencil.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.045Z",
+    "updated_at": "2026-02-09T18:22:06.045Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-show/Pencil_thumbnail.png",
+    "metadata": {
+      "number": "020",
+      "github_path": "projects/avatar-show/Pencil.glb",
+      "file_size": 55960,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Office"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Pencil"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Writing"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Studio"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Stationery"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-show-021",
+    "name": "Platea",
+    "project_id": "pm-avatar-show",
+    "description": "3D model from avatar-show collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-show/Platea.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.045Z",
+    "updated_at": "2026-02-09T18:22:06.045Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-show/Platea_thumbnail.png",
+    "metadata": {
+      "number": "021",
+      "github_path": "projects/avatar-show/Platea.glb",
+      "file_size": 7252844,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Platform"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Seating Area"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Stage"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Audience"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-show-022",
+    "name": "Platea_Straight",
+    "project_id": "pm-avatar-show",
+    "description": "3D model from avatar-show collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-show/Platea_Straight.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.045Z",
+    "updated_at": "2026-02-09T18:22:06.045Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-show/Platea_Straight_thumbnail.png",
+    "metadata": {
+      "number": "022",
+      "github_path": "projects/avatar-show/Platea_Straight.glb",
+      "file_size": 7252492,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Platform"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Seating Area"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Stage"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Straight"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-show-023",
+    "name": "Poly_Plush",
+    "project_id": "pm-avatar-show",
+    "description": "3D model from avatar-show collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-show/Poly_Plush.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.045Z",
+    "updated_at": "2026-02-09T18:22:06.045Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-show/Poly_Plush_thumbnail.png",
+    "metadata": {
+      "number": "023",
+      "github_path": "projects/avatar-show/Poly_Plush.glb",
+      "file_size": 1299608,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Toy"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Plush"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Studio"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Soft"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-show-024",
+    "name": "Pot",
+    "project_id": "pm-avatar-show",
+    "description": "3D model from avatar-show collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-show/Pot.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.045Z",
+    "updated_at": "2026-02-09T18:22:06.045Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-show/Pot_thumbnail.png",
+    "metadata": {
+      "number": "024",
+      "github_path": "projects/avatar-show/Pot.glb",
+      "file_size": 2687720,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Pot"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Plant Container"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Studio"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Decoration"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-show-025",
+    "name": "Pot_Plant",
+    "project_id": "pm-avatar-show",
+    "description": "3D model from avatar-show collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-show/Pot_Plant.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.045Z",
+    "updated_at": "2026-02-09T18:22:06.045Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-show/Pot_Plant_thumbnail.png",
+    "metadata": {
+      "number": "025",
+      "github_path": "projects/avatar-show/Pot_Plant.glb",
+      "file_size": 582736,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Plant"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Studio"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Potted Plant"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-show-026",
+    "name": "Seat",
+    "project_id": "pm-avatar-show",
+    "description": "3D model from avatar-show collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-show/Seat.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.045Z",
+    "updated_at": "2026-02-09T18:22:06.045Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-show/Seat_thumbnail.png",
+    "metadata": {
+      "number": "026",
+      "github_path": "projects/avatar-show/Seat.glb",
+      "file_size": 312620,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Furniture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Seat"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Seating"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Stage"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Audience"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-show-027",
+    "name": "Sofa",
+    "project_id": "pm-avatar-show",
+    "description": "3D model from avatar-show collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-show/Sofa.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.045Z",
+    "updated_at": "2026-02-09T18:22:06.045Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-show/Sofa_thumbnail.png",
+    "metadata": {
+      "number": "027",
+      "github_path": "projects/avatar-show/Sofa.glb",
+      "file_size": 333088,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Furniture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Sofa"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Seating"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Studio"
+        },
+        {
+          "trait_type": "Size",
+          "value": "Large"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-show-028",
+    "name": "Spectator_Chair",
+    "project_id": "pm-avatar-show",
+    "description": "3D model from avatar-show collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-show/Spectator_Chair.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.045Z",
+    "updated_at": "2026-02-09T18:22:06.045Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-show/Spectator_Chair_thumbnail.png",
+    "metadata": {
+      "number": "028",
+      "github_path": "projects/avatar-show/Spectator_Chair.glb",
+      "file_size": 8593116,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Furniture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Chair"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Seating"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Stage"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-show-029",
+    "name": "Stage_Curtain_Invite",
+    "project_id": "pm-avatar-show",
+    "description": "3D model from avatar-show collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-show/Stage_Curtain_Invite.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.045Z",
+    "updated_at": "2026-02-09T18:22:06.045Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-show/Stage_Curtain_Invite_thumbnail.png",
+    "metadata": {
+      "number": "029",
+      "github_path": "projects/avatar-show/Stage_Curtain_Invite.glb",
+      "file_size": 4682620,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Curtain"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Stage Decor"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Stage"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Fabric"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-show-030",
+    "name": "Stage_Decor",
+    "project_id": "pm-avatar-show",
+    "description": "3D model from avatar-show collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-show/Stage_Decor.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.045Z",
+    "updated_at": "2026-02-09T18:22:06.045Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-show/Stage_Decor_thumbnail.png",
+    "metadata": {
+      "number": "030",
+      "github_path": "projects/avatar-show/Stage_Decor.glb",
+      "file_size": 1641656,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Decor"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Embellishment"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Stage"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Stage Design"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-show-031",
+    "name": "Stage_Floor",
+    "project_id": "pm-avatar-show",
+    "description": "3D model from avatar-show collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-show/Stage_Floor.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.045Z",
+    "updated_at": "2026-02-09T18:22:06.045Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-show/Stage_Floor_thumbnail.png",
+    "metadata": {
+      "number": "031",
+      "github_path": "projects/avatar-show/Stage_Floor.glb",
+      "file_size": 16226624,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Floor"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Surface"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Stage"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Stage Structure"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-show-032",
+    "name": "Stage_Full_Structure",
+    "project_id": "pm-avatar-show",
+    "description": "3D model from avatar-show collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-show/Stage_Full_Structure.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.045Z",
+    "updated_at": "2026-02-09T18:22:06.045Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-show/Stage_Full_Structure_thumbnail.png",
+    "metadata": {
+      "number": "032",
+      "github_path": "projects/avatar-show/Stage_Full_Structure.glb",
+      "file_size": 10422176,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Building"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Stage Structure"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Stage"
+        },
+        {
+          "trait_type": "Size",
+          "value": "Complete"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-show-033",
+    "name": "Stage_Platform",
+    "project_id": "pm-avatar-show",
+    "description": "3D model from avatar-show collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-show/Stage_Platform.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.045Z",
+    "updated_at": "2026-02-09T18:22:06.045Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-show/Stage_Platform_thumbnail.png",
+    "metadata": {
+      "number": "033",
+      "github_path": "projects/avatar-show/Stage_Platform.glb",
+      "file_size": 9458236,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Platform"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Performance Area"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Stage"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Stage Structure"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-show-034",
+    "name": "Stage_Structure_Back_Corridor",
+    "project_id": "pm-avatar-show",
+    "description": "3D model from avatar-show collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-show/Stage_Structure_Back_Corridor.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.045Z",
+    "updated_at": "2026-02-09T18:22:06.045Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-show/Stage_Structure_Back_Corridor_thumbnail.png",
+    "metadata": {
+      "number": "034",
+      "github_path": "projects/avatar-show/Stage_Structure_Back_Corridor.glb",
+      "file_size": 10257724,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Corridor"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Passage"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Stage"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Backstage"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-show-035",
+    "name": "Stage_Structure_Backstage",
+    "project_id": "pm-avatar-show",
+    "description": "3D model from avatar-show collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-show/Stage_Structure_Backstage.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.045Z",
+    "updated_at": "2026-02-09T18:22:06.045Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-show/Stage_Structure_Backstage_thumbnail.png",
+    "metadata": {
+      "number": "035",
+      "github_path": "projects/avatar-show/Stage_Structure_Backstage.glb",
+      "file_size": 6258356,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Room"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Backstage Area"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Stage"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Stage Structure"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-show-036",
+    "name": "Stage_Structure_Skylight",
+    "project_id": "pm-avatar-show",
+    "description": "3D model from avatar-show collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-show/Stage_Structure_Skylight.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.045Z",
+    "updated_at": "2026-02-09T18:22:06.045Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-show/Stage_Structure_Skylight_thumbnail.png",
+    "metadata": {
+      "number": "036",
+      "github_path": "projects/avatar-show/Stage_Structure_Skylight.glb",
+      "file_size": 320160,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Window"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Natural Light"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Stage"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Skylight"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-show-037",
+    "name": "Stage_Wall",
+    "project_id": "pm-avatar-show",
+    "description": "3D model from avatar-show collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-show/Stage_Wall.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.045Z",
+    "updated_at": "2026-02-09T18:22:06.045Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-show/Stage_Wall_thumbnail.png",
+    "metadata": {
+      "number": "037",
+      "github_path": "projects/avatar-show/Stage_Wall.glb",
+      "file_size": 7797716,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Wall"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Structure"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Stage"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Stage Structure"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-show-038",
+    "name": "Straight_Pipe",
+    "project_id": "pm-avatar-show",
+    "description": "3D model from avatar-show collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-show/Straight_Pipe.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.045Z",
+    "updated_at": "2026-02-09T18:22:06.045Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-show/Straight_Pipe_thumbnail.png",
+    "metadata": {
+      "number": "038",
+      "github_path": "projects/avatar-show/Straight_Pipe.glb",
+      "file_size": 2358516,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Industrial"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Pipe"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Structure"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Studio"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Straight"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-show-039",
+    "name": "StudioLight_Armature",
+    "project_id": "pm-avatar-show",
+    "description": "3D model from avatar-show collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-show/StudioLight_Armature.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.045Z",
+    "updated_at": "2026-02-09T18:22:06.045Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-show/StudioLight_Armature_thumbnail.png",
+    "metadata": {
+      "number": "039",
+      "github_path": "projects/avatar-show/StudioLight_Armature.glb",
+      "file_size": 2356560,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Lighting"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Light Rig"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Illumination"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Studio"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Equipment"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-show-040",
+    "name": "Studio_Lamp",
+    "project_id": "pm-avatar-show",
+    "description": "3D model from avatar-show collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-show/Studio_Lamp.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.045Z",
+    "updated_at": "2026-02-09T18:22:06.045Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-show/Studio_Lamp_thumbnail.png",
+    "metadata": {
+      "number": "040",
+      "github_path": "projects/avatar-show/Studio_Lamp.glb",
+      "file_size": 8739356,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Lighting"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Lamp"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Professional Lighting"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Studio"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Equipment"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-show-041",
+    "name": "T_Pipe",
+    "project_id": "pm-avatar-show",
+    "description": "3D model from avatar-show collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-show/T_Pipe.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.045Z",
+    "updated_at": "2026-02-09T18:22:06.045Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-show/T_Pipe_thumbnail.png",
+    "metadata": {
+      "number": "041",
+      "github_path": "projects/avatar-show/T_Pipe.glb",
+      "file_size": 2378552,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Industrial"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Pipe"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Structure"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Studio"
+        },
+        {
+          "trait_type": "Style",
+          "value": "T-Junction"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-show-042",
+    "name": "Table",
+    "project_id": "pm-avatar-show",
+    "description": "3D model from avatar-show collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-show/Table.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.045Z",
+    "updated_at": "2026-02-09T18:22:06.045Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-show/Table_thumbnail.png",
+    "metadata": {
+      "number": "042",
+      "github_path": "projects/avatar-show/Table.glb",
+      "file_size": 6415356,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Furniture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Table"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Surface"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Studio"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Office"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-show-043",
+    "name": "TableLamp",
+    "project_id": "pm-avatar-show",
+    "description": "3D model from avatar-show collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-show/TableLamp.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.045Z",
+    "updated_at": "2026-02-09T18:22:06.045Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-show/TableLamp_thumbnail.png",
+    "metadata": {
+      "number": "043",
+      "github_path": "projects/avatar-show/TableLamp.glb",
+      "file_size": 6133276,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Lighting"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Lamp"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Illumination"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Studio"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Table"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-show-044",
+    "name": "Table_Futuristic",
+    "project_id": "pm-avatar-show",
+    "description": "3D model from avatar-show collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-show/Table_Futuristic.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.045Z",
+    "updated_at": "2026-02-09T18:22:06.045Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-show/Table_Futuristic_thumbnail.png",
+    "metadata": {
+      "number": "044",
+      "github_path": "projects/avatar-show/Table_Futuristic.glb",
+      "file_size": 223168,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Furniture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Table"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Surface"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Studio"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Futuristic"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-show-045",
+    "name": "Table_Round_01",
+    "project_id": "pm-avatar-show",
+    "description": "3D model from avatar-show collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-show/Table_Round_01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.045Z",
+    "updated_at": "2026-02-09T18:22:06.045Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-show/Table_Round_01_thumbnail.png",
+    "metadata": {
+      "number": "045",
+      "github_path": "projects/avatar-show/Table_Round_01.glb",
+      "file_size": 659036,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Furniture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Table"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Surface"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Studio"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Round"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-show-046",
+    "name": "Tablet",
+    "project_id": "pm-avatar-show",
+    "description": "3D model from avatar-show collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-show/Tablet.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.045Z",
+    "updated_at": "2026-02-09T18:22:06.045Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-show/Tablet_thumbnail.png",
+    "metadata": {
+      "number": "046",
+      "github_path": "projects/avatar-show/Tablet.glb",
+      "file_size": 3685228,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Technology"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Tablet"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Device"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Studio"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Electronics"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-show-047",
+    "name": "TheAvatarShow_Logo_Background",
+    "project_id": "pm-avatar-show",
+    "description": "3D model from avatar-show collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-show/TheAvatarShow_Logo_Background.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.045Z",
+    "updated_at": "2026-02-09T18:22:06.045Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-show/TheAvatarShow_Logo_Background_thumbnail.png",
+    "metadata": {
+      "number": "047",
+      "github_path": "projects/avatar-show/TheAvatarShow_Logo_Background.glb",
+      "file_size": 3898384,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Branding"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Logo"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Brand Identity"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Stage"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Background"
+        }
+      ]
+    }
+  },
+  {
+    "id": "avatar-show-048",
+    "name": "desk_bin",
+    "project_id": "pm-avatar-show",
+    "description": "3D model from avatar-show collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-show/desk_bin.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.045Z",
+    "updated_at": "2026-02-09T18:22:06.045Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/avatar-show/desk_bin_thumbnail.png",
+    "metadata": {
+      "number": "048",
+      "github_path": "projects/avatar-show/desk_bin.glb",
+      "file_size": 2877632,
+      "attributes": [
+        {
+          "trait_type": "Category",
+          "value": "Office"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Bin"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Waste Container"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Studio"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Storage"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,2082 @@
+[
+  {
+    "id": "lunar-year-001",
+    "name": "ArchBanner",
+    "project_id": "pm-lunar-year",
+    "description": "3D model from lunar-year collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/lunar-year/ArchBanner.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.726Z",
+    "updated_at": "2026-02-09T18:22:08.726Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/lunar-year/ArchBanner_thumbnail.png",
+    "metadata": {
+      "number": "001",
+      "github_path": "projects/lunar-year/ArchBanner.glb",
+      "file_size": 779956,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Lunar New Year"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Banner"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Display"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Asian Traditional"
+        }
+      ]
+    }
+  },
+  {
+    "id": "lunar-year-002",
+    "name": "Banner",
+    "project_id": "pm-lunar-year",
+    "description": "3D model from lunar-year collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/lunar-year/Banner.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.726Z",
+    "updated_at": "2026-02-09T18:22:08.726Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/lunar-year/Banner_thumbnail.png",
+    "metadata": {
+      "number": "002",
+      "github_path": "projects/lunar-year/Banner.glb",
+      "file_size": 1009288,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Lunar New Year"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Banner"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Display"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Asian Traditional"
+        }
+      ]
+    }
+  },
+  {
+    "id": "lunar-year-003",
+    "name": "Bell",
+    "project_id": "pm-lunar-year",
+    "description": "3D model from lunar-year collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/lunar-year/Bell.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.726Z",
+    "updated_at": "2026-02-09T18:22:08.726Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/lunar-year/Bell_thumbnail.png",
+    "metadata": {
+      "number": "003",
+      "github_path": "projects/lunar-year/Bell.glb",
+      "file_size": 857940,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Lunar New Year"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Cultural"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Bell"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Ceremonial"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Asian Traditional"
+        }
+      ]
+    }
+  },
+  {
+    "id": "lunar-year-004",
+    "name": "BellStructure",
+    "project_id": "pm-lunar-year",
+    "description": "3D model from lunar-year collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/lunar-year/BellStructure.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.726Z",
+    "updated_at": "2026-02-09T18:22:08.726Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/lunar-year/BellStructure_thumbnail.png",
+    "metadata": {
+      "number": "004",
+      "github_path": "projects/lunar-year/BellStructure.glb",
+      "file_size": 1236928,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Lunar New Year"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Cultural"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Bell"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Ceremonial"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Support Structure"
+        }
+      ]
+    }
+  },
+  {
+    "id": "lunar-year-005",
+    "name": "BuildingBase",
+    "project_id": "pm-lunar-year",
+    "description": "3D model from lunar-year collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/lunar-year/BuildingBase.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.726Z",
+    "updated_at": "2026-02-09T18:22:08.726Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/lunar-year/BuildingBase_thumbnail.png",
+    "metadata": {
+      "number": "005",
+      "github_path": "projects/lunar-year/BuildingBase.glb",
+      "file_size": 736928,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Lunar New Year"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Building Component"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Traditional Asian"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Foundation"
+        }
+      ]
+    }
+  },
+  {
+    "id": "lunar-year-006",
+    "name": "Carpet01",
+    "project_id": "pm-lunar-year",
+    "description": "3D model from lunar-year collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/lunar-year/Carpet01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.726Z",
+    "updated_at": "2026-02-09T18:22:08.726Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/lunar-year/Carpet01_thumbnail.png",
+    "metadata": {
+      "number": "006",
+      "github_path": "projects/lunar-year/Carpet01.glb",
+      "file_size": 651392,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Lunar New Year"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Furniture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Carpet"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Flooring"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Traditional"
+        }
+      ]
+    }
+  },
+  {
+    "id": "lunar-year-007",
+    "name": "Carpet02",
+    "project_id": "pm-lunar-year",
+    "description": "3D model from lunar-year collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/lunar-year/Carpet02.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.726Z",
+    "updated_at": "2026-02-09T18:22:08.726Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/lunar-year/Carpet02_thumbnail.png",
+    "metadata": {
+      "number": "007",
+      "github_path": "projects/lunar-year/Carpet02.glb",
+      "file_size": 652760,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Lunar New Year"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Furniture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Carpet"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Flooring"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Traditional"
+        }
+      ]
+    }
+  },
+  {
+    "id": "lunar-year-008",
+    "name": "Column",
+    "project_id": "pm-lunar-year",
+    "description": "3D model from lunar-year collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/lunar-year/Column.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.726Z",
+    "updated_at": "2026-02-09T18:22:08.726Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/lunar-year/Column_thumbnail.png",
+    "metadata": {
+      "number": "008",
+      "github_path": "projects/lunar-year/Column.glb",
+      "file_size": 1149660,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Lunar New Year"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Column"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Structural Support"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Asian Traditional"
+        }
+      ]
+    }
+  },
+  {
+    "id": "lunar-year-009",
+    "name": "ColumnBase",
+    "project_id": "pm-lunar-year",
+    "description": "3D model from lunar-year collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/lunar-year/ColumnBase.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.726Z",
+    "updated_at": "2026-02-09T18:22:08.726Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/lunar-year/ColumnBase_thumbnail.png",
+    "metadata": {
+      "number": "009",
+      "github_path": "projects/lunar-year/ColumnBase.glb",
+      "file_size": 349492,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Lunar New Year"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Column"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Structural Support"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Foundation"
+        }
+      ]
+    }
+  },
+  {
+    "id": "lunar-year-010",
+    "name": "Cushion",
+    "project_id": "pm-lunar-year",
+    "description": "3D model from lunar-year collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/lunar-year/Cushion.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.726Z",
+    "updated_at": "2026-02-09T18:22:08.726Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/lunar-year/Cushion_thumbnail.png",
+    "metadata": {
+      "number": "010",
+      "github_path": "projects/lunar-year/Cushion.glb",
+      "file_size": 773084,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Lunar New Year"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Furniture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Cushion"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Seating"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Asian Traditional"
+        }
+      ]
+    }
+  },
+  {
+    "id": "lunar-year-011",
+    "name": "Door",
+    "project_id": "pm-lunar-year",
+    "description": "3D model from lunar-year collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/lunar-year/Door.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.726Z",
+    "updated_at": "2026-02-09T18:22:08.726Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/lunar-year/Door_thumbnail.png",
+    "metadata": {
+      "number": "011",
+      "github_path": "projects/lunar-year/Door.glb",
+      "file_size": 1156328,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Lunar New Year"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Door"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Entry"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Asian Traditional"
+        }
+      ]
+    }
+  },
+  {
+    "id": "lunar-year-012",
+    "name": "Dragon",
+    "project_id": "pm-lunar-year",
+    "description": "3D model from lunar-year collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/lunar-year/Dragon.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.726Z",
+    "updated_at": "2026-02-09T18:22:08.726Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/lunar-year/Dragon_thumbnail.png",
+    "metadata": {
+      "number": "012",
+      "github_path": "projects/lunar-year/Dragon.glb",
+      "file_size": 1294404,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Lunar New Year"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Cultural Symbol"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Dragon"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Symbolism",
+          "value": "Good Fortune"
+        }
+      ]
+    }
+  },
+  {
+    "id": "lunar-year-013",
+    "name": "Drum",
+    "project_id": "pm-lunar-year",
+    "description": "3D model from lunar-year collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/lunar-year/Drum.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.726Z",
+    "updated_at": "2026-02-09T18:22:08.726Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/lunar-year/Drum_thumbnail.png",
+    "metadata": {
+      "number": "013",
+      "github_path": "projects/lunar-year/Drum.glb",
+      "file_size": 779688,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Lunar New Year"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Cultural"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Drum"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Ceremonial Music"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Asian Traditional"
+        }
+      ]
+    }
+  },
+  {
+    "id": "lunar-year-014",
+    "name": "EntranceStairs",
+    "project_id": "pm-lunar-year",
+    "description": "3D model from lunar-year collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/lunar-year/EntranceStairs.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.726Z",
+    "updated_at": "2026-02-09T18:22:08.726Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/lunar-year/EntranceStairs_thumbnail.png",
+    "metadata": {
+      "number": "014",
+      "github_path": "projects/lunar-year/EntranceStairs.glb",
+      "file_size": 728988,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Lunar New Year"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Stairs"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Access"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Asian Traditional"
+        }
+      ]
+    }
+  },
+  {
+    "id": "lunar-year-015",
+    "name": "Fence01",
+    "project_id": "pm-lunar-year",
+    "description": "3D model from lunar-year collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/lunar-year/Fence01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.726Z",
+    "updated_at": "2026-02-09T18:22:08.726Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/lunar-year/Fence01_thumbnail.png",
+    "metadata": {
+      "number": "015",
+      "github_path": "projects/lunar-year/Fence01.glb",
+      "file_size": 1149004,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Lunar New Year"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Fence"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Boundary"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Outdoor"
+        }
+      ]
+    }
+  },
+  {
+    "id": "lunar-year-016",
+    "name": "Fence02",
+    "project_id": "pm-lunar-year",
+    "description": "3D model from lunar-year collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/lunar-year/Fence02.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.726Z",
+    "updated_at": "2026-02-09T18:22:08.726Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/lunar-year/Fence02_thumbnail.png",
+    "metadata": {
+      "number": "016",
+      "github_path": "projects/lunar-year/Fence02.glb",
+      "file_size": 1167348,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Lunar New Year"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Fence"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Boundary"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Outdoor"
+        }
+      ]
+    }
+  },
+  {
+    "id": "lunar-year-017",
+    "name": "Floor01",
+    "project_id": "pm-lunar-year",
+    "description": "3D model from lunar-year collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/lunar-year/Floor01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.726Z",
+    "updated_at": "2026-02-09T18:22:08.726Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/lunar-year/Floor01_thumbnail.png",
+    "metadata": {
+      "number": "017",
+      "github_path": "projects/lunar-year/Floor01.glb",
+      "file_size": 1219852,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Lunar New Year"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Floor"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Foundation"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Indoor"
+        }
+      ]
+    }
+  },
+  {
+    "id": "lunar-year-018",
+    "name": "Floor02",
+    "project_id": "pm-lunar-year",
+    "description": "3D model from lunar-year collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/lunar-year/Floor02.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.726Z",
+    "updated_at": "2026-02-09T18:22:08.726Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/lunar-year/Floor02_thumbnail.png",
+    "metadata": {
+      "number": "018",
+      "github_path": "projects/lunar-year/Floor02.glb",
+      "file_size": 1551976,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Lunar New Year"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Floor"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Foundation"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Indoor"
+        }
+      ]
+    }
+  },
+  {
+    "id": "lunar-year-019",
+    "name": "InteriorLight01",
+    "project_id": "pm-lunar-year",
+    "description": "3D model from lunar-year collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/lunar-year/InteriorLight01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.726Z",
+    "updated_at": "2026-02-09T18:22:08.726Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/lunar-year/InteriorLight01_thumbnail.png",
+    "metadata": {
+      "number": "019",
+      "github_path": "projects/lunar-year/InteriorLight01.glb",
+      "file_size": 222888,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Lunar New Year"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Lighting"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Interior Light"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Illumination"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Indoor"
+        }
+      ]
+    }
+  },
+  {
+    "id": "lunar-year-020",
+    "name": "InteriorLight02",
+    "project_id": "pm-lunar-year",
+    "description": "3D model from lunar-year collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/lunar-year/InteriorLight02.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.726Z",
+    "updated_at": "2026-02-09T18:22:08.726Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/lunar-year/InteriorLight02_thumbnail.png",
+    "metadata": {
+      "number": "020",
+      "github_path": "projects/lunar-year/InteriorLight02.glb",
+      "file_size": 222892,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Lunar New Year"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Lighting"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Interior Light"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Illumination"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Indoor"
+        }
+      ]
+    }
+  },
+  {
+    "id": "lunar-year-021",
+    "name": "InteriorLight03",
+    "project_id": "pm-lunar-year",
+    "description": "3D model from lunar-year collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/lunar-year/InteriorLight03.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.726Z",
+    "updated_at": "2026-02-09T18:22:08.726Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/lunar-year/InteriorLight03_thumbnail.png",
+    "metadata": {
+      "number": "021",
+      "github_path": "projects/lunar-year/InteriorLight03.glb",
+      "file_size": 222892,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Lunar New Year"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Lighting"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Interior Light"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Illumination"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Indoor"
+        }
+      ]
+    }
+  },
+  {
+    "id": "lunar-year-022",
+    "name": "InteriorLight04",
+    "project_id": "pm-lunar-year",
+    "description": "3D model from lunar-year collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/lunar-year/InteriorLight04.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.726Z",
+    "updated_at": "2026-02-09T18:22:08.726Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/lunar-year/InteriorLight04_thumbnail.png",
+    "metadata": {
+      "number": "022",
+      "github_path": "projects/lunar-year/InteriorLight04.glb",
+      "file_size": 222928,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Lunar New Year"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Lighting"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Interior Light"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Illumination"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Indoor"
+        }
+      ]
+    }
+  },
+  {
+    "id": "lunar-year-023",
+    "name": "InteriorLight05",
+    "project_id": "pm-lunar-year",
+    "description": "3D model from lunar-year collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/lunar-year/InteriorLight05.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.726Z",
+    "updated_at": "2026-02-09T18:22:08.726Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/lunar-year/InteriorLight05_thumbnail.png",
+    "metadata": {
+      "number": "023",
+      "github_path": "projects/lunar-year/InteriorLight05.glb",
+      "file_size": 226996,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Lunar New Year"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Lighting"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Interior Light"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Illumination"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Indoor"
+        }
+      ]
+    }
+  },
+  {
+    "id": "lunar-year-024",
+    "name": "InteriorLight06",
+    "project_id": "pm-lunar-year",
+    "description": "3D model from lunar-year collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/lunar-year/InteriorLight06.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.726Z",
+    "updated_at": "2026-02-09T18:22:08.726Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/lunar-year/InteriorLight06_thumbnail.png",
+    "metadata": {
+      "number": "024",
+      "github_path": "projects/lunar-year/InteriorLight06.glb",
+      "file_size": 227000,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Lunar New Year"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Lighting"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Interior Light"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Illumination"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Indoor"
+        }
+      ]
+    }
+  },
+  {
+    "id": "lunar-year-025",
+    "name": "Lamp01",
+    "project_id": "pm-lunar-year",
+    "description": "3D model from lunar-year collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/lunar-year/Lamp01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.726Z",
+    "updated_at": "2026-02-09T18:22:08.726Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/lunar-year/Lamp01_thumbnail.png",
+    "metadata": {
+      "number": "025",
+      "github_path": "projects/lunar-year/Lamp01.glb",
+      "file_size": 475620,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Lunar New Year"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Lighting"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Lantern"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Illumination"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Asian Traditional"
+        }
+      ]
+    }
+  },
+  {
+    "id": "lunar-year-026",
+    "name": "Lamp02",
+    "project_id": "pm-lunar-year",
+    "description": "3D model from lunar-year collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/lunar-year/Lamp02.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.726Z",
+    "updated_at": "2026-02-09T18:22:08.726Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/lunar-year/Lamp02_thumbnail.png",
+    "metadata": {
+      "number": "026",
+      "github_path": "projects/lunar-year/Lamp02.glb",
+      "file_size": 475672,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Lunar New Year"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Lighting"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Lantern"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Illumination"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Asian Traditional"
+        }
+      ]
+    }
+  },
+  {
+    "id": "lunar-year-027",
+    "name": "Lamp03",
+    "project_id": "pm-lunar-year",
+    "description": "3D model from lunar-year collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/lunar-year/Lamp03.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.726Z",
+    "updated_at": "2026-02-09T18:22:08.726Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/lunar-year/Lamp03_thumbnail.png",
+    "metadata": {
+      "number": "027",
+      "github_path": "projects/lunar-year/Lamp03.glb",
+      "file_size": 472352,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Lunar New Year"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Lighting"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Lantern"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Illumination"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Asian Traditional"
+        }
+      ]
+    }
+  },
+  {
+    "id": "lunar-year-028",
+    "name": "Lamp04",
+    "project_id": "pm-lunar-year",
+    "description": "3D model from lunar-year collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/lunar-year/Lamp04.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.726Z",
+    "updated_at": "2026-02-09T18:22:08.726Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/lunar-year/Lamp04_thumbnail.png",
+    "metadata": {
+      "number": "028",
+      "github_path": "projects/lunar-year/Lamp04.glb",
+      "file_size": 472352,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Lunar New Year"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Lighting"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Lantern"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Illumination"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Asian Traditional"
+        }
+      ]
+    }
+  },
+  {
+    "id": "lunar-year-029",
+    "name": "LampWreath",
+    "project_id": "pm-lunar-year",
+    "description": "3D model from lunar-year collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/lunar-year/LampWreath.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.726Z",
+    "updated_at": "2026-02-09T18:22:08.726Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/lunar-year/LampWreath_thumbnail.png",
+    "metadata": {
+      "number": "029",
+      "github_path": "projects/lunar-year/LampWreath.glb",
+      "file_size": 915152,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Lunar New Year"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Lighting"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Lantern"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Illumination"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Asian Traditional"
+        }
+      ]
+    }
+  },
+  {
+    "id": "lunar-year-030",
+    "name": "LunarYearTile",
+    "project_id": "pm-lunar-year",
+    "description": "3D model from lunar-year collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/lunar-year/LunarYearTile.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.726Z",
+    "updated_at": "2026-02-09T18:22:08.726Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/lunar-year/LunarYearTile_thumbnail.png",
+    "metadata": {
+      "number": "030",
+      "github_path": "projects/lunar-year/LunarYearTile.glb",
+      "file_size": 345416,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Lunar New Year"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Floor"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Foundation"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Indoor"
+        }
+      ]
+    }
+  },
+  {
+    "id": "lunar-year-031",
+    "name": "MainAltar",
+    "project_id": "pm-lunar-year",
+    "description": "3D model from lunar-year collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/lunar-year/MainAltar.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.726Z",
+    "updated_at": "2026-02-09T18:22:08.726Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/lunar-year/MainAltar_thumbnail.png",
+    "metadata": {
+      "number": "031",
+      "github_path": "projects/lunar-year/MainAltar.glb",
+      "file_size": 1574396,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Lunar New Year"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Cultural"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Altar"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Worship"
+        },
+        {
+          "trait_type": "Significance",
+          "value": "Sacred"
+        }
+      ]
+    }
+  },
+  {
+    "id": "lunar-year-032",
+    "name": "OutterLamp",
+    "project_id": "pm-lunar-year",
+    "description": "3D model from lunar-year collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/lunar-year/OutterLamp.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.726Z",
+    "updated_at": "2026-02-09T18:22:08.726Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/lunar-year/OutterLamp_thumbnail.png",
+    "metadata": {
+      "number": "032",
+      "github_path": "projects/lunar-year/OutterLamp.glb",
+      "file_size": 791028,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Lunar New Year"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Lighting"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Exterior Lamp"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Illumination"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Outdoor"
+        }
+      ]
+    }
+  },
+  {
+    "id": "lunar-year-033",
+    "name": "Panel",
+    "project_id": "pm-lunar-year",
+    "description": "3D model from lunar-year collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/lunar-year/Panel.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.726Z",
+    "updated_at": "2026-02-09T18:22:08.726Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/lunar-year/Panel_thumbnail.png",
+    "metadata": {
+      "number": "033",
+      "github_path": "projects/lunar-year/Panel.glb",
+      "file_size": 803524,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Lunar New Year"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Panel"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Asian Traditional"
+        }
+      ]
+    }
+  },
+  {
+    "id": "lunar-year-034",
+    "name": "Portal",
+    "project_id": "pm-lunar-year",
+    "description": "3D model from lunar-year collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/lunar-year/Portal.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.726Z",
+    "updated_at": "2026-02-09T18:22:08.726Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/lunar-year/Portal_thumbnail.png",
+    "metadata": {
+      "number": "034",
+      "github_path": "projects/lunar-year/Portal.glb",
+      "file_size": 1582320,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Lunar New Year"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Interactive"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Portal"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Teleportation"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Asian Traditional"
+        }
+      ]
+    }
+  },
+  {
+    "id": "lunar-year-035",
+    "name": "PortalFade01",
+    "project_id": "pm-lunar-year",
+    "description": "3D model from lunar-year collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/lunar-year/PortalFade01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.726Z",
+    "updated_at": "2026-02-09T18:22:08.726Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/lunar-year/PortalFade01_thumbnail.png",
+    "metadata": {
+      "number": "035",
+      "github_path": "projects/lunar-year/PortalFade01.glb",
+      "file_size": 124252,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Lunar New Year"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Interactive"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Portal"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Teleportation"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Visual Effect"
+        }
+      ]
+    }
+  },
+  {
+    "id": "lunar-year-036",
+    "name": "PortalFade02",
+    "project_id": "pm-lunar-year",
+    "description": "3D model from lunar-year collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/lunar-year/PortalFade02.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.726Z",
+    "updated_at": "2026-02-09T18:22:08.726Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/lunar-year/PortalFade02_thumbnail.png",
+    "metadata": {
+      "number": "036",
+      "github_path": "projects/lunar-year/PortalFade02.glb",
+      "file_size": 124248,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Lunar New Year"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Interactive"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Portal"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Teleportation"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Visual Effect"
+        }
+      ]
+    }
+  },
+  {
+    "id": "lunar-year-037",
+    "name": "Poster01",
+    "project_id": "pm-lunar-year",
+    "description": "3D model from lunar-year collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/lunar-year/Poster01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.726Z",
+    "updated_at": "2026-02-09T18:22:08.726Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/lunar-year/Poster01_thumbnail.png",
+    "metadata": {
+      "number": "037",
+      "github_path": "projects/lunar-year/Poster01.glb",
+      "file_size": 779864,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Lunar New Year"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Poster"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Display"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Asian Traditional"
+        }
+      ]
+    }
+  },
+  {
+    "id": "lunar-year-038",
+    "name": "Poster02",
+    "project_id": "pm-lunar-year",
+    "description": "3D model from lunar-year collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/lunar-year/Poster02.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.726Z",
+    "updated_at": "2026-02-09T18:22:08.726Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/lunar-year/Poster02_thumbnail.png",
+    "metadata": {
+      "number": "038",
+      "github_path": "projects/lunar-year/Poster02.glb",
+      "file_size": 779588,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Lunar New Year"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Poster"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Display"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Asian Traditional"
+        }
+      ]
+    }
+  },
+  {
+    "id": "lunar-year-039",
+    "name": "RobeWreath",
+    "project_id": "pm-lunar-year",
+    "description": "3D model from lunar-year collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/lunar-year/RobeWreath.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.726Z",
+    "updated_at": "2026-02-09T18:22:08.726Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/lunar-year/RobeWreath_thumbnail.png",
+    "metadata": {
+      "number": "039",
+      "github_path": "projects/lunar-year/RobeWreath.glb",
+      "file_size": 427564,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Lunar New Year"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Wreath"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Ornamental"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Asian Traditional"
+        }
+      ]
+    }
+  },
+  {
+    "id": "lunar-year-040",
+    "name": "Rock01",
+    "project_id": "pm-lunar-year",
+    "description": "3D model from lunar-year collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/lunar-year/Rock01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.726Z",
+    "updated_at": "2026-02-09T18:22:08.726Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/lunar-year/Rock01_thumbnail.png",
+    "metadata": {
+      "number": "040",
+      "github_path": "projects/lunar-year/Rock01.glb",
+      "file_size": 373420,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Lunar New Year"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Rock"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Outdoor"
+        }
+      ]
+    }
+  },
+  {
+    "id": "lunar-year-041",
+    "name": "Rock02",
+    "project_id": "pm-lunar-year",
+    "description": "3D model from lunar-year collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/lunar-year/Rock02.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.726Z",
+    "updated_at": "2026-02-09T18:22:08.726Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/lunar-year/Rock02_thumbnail.png",
+    "metadata": {
+      "number": "041",
+      "github_path": "projects/lunar-year/Rock02.glb",
+      "file_size": 375064,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Lunar New Year"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Rock"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Outdoor"
+        }
+      ]
+    }
+  },
+  {
+    "id": "lunar-year-042",
+    "name": "RoomDoor",
+    "project_id": "pm-lunar-year",
+    "description": "3D model from lunar-year collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/lunar-year/RoomDoor.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.726Z",
+    "updated_at": "2026-02-09T18:22:08.726Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/lunar-year/RoomDoor_thumbnail.png",
+    "metadata": {
+      "number": "042",
+      "github_path": "projects/lunar-year/RoomDoor.glb",
+      "file_size": 726284,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Lunar New Year"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Door"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Entry"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Interior"
+        }
+      ]
+    }
+  },
+  {
+    "id": "lunar-year-043",
+    "name": "RoomFloor",
+    "project_id": "pm-lunar-year",
+    "description": "3D model from lunar-year collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/lunar-year/RoomFloor.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.726Z",
+    "updated_at": "2026-02-09T18:22:08.726Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/lunar-year/RoomFloor_thumbnail.png",
+    "metadata": {
+      "number": "043",
+      "github_path": "projects/lunar-year/RoomFloor.glb",
+      "file_size": 351740,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Lunar New Year"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Floor"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Foundation"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Indoor"
+        }
+      ]
+    }
+  },
+  {
+    "id": "lunar-year-044",
+    "name": "RoomRoof",
+    "project_id": "pm-lunar-year",
+    "description": "3D model from lunar-year collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/lunar-year/RoomRoof.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.726Z",
+    "updated_at": "2026-02-09T18:22:08.726Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/lunar-year/RoomRoof_thumbnail.png",
+    "metadata": {
+      "number": "044",
+      "github_path": "projects/lunar-year/RoomRoof.glb",
+      "file_size": 799616,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Lunar New Year"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Roof"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Shelter"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Asian Traditional"
+        }
+      ]
+    }
+  },
+  {
+    "id": "lunar-year-045",
+    "name": "RoomRoofBeam",
+    "project_id": "pm-lunar-year",
+    "description": "3D model from lunar-year collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/lunar-year/RoomRoofBeam.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.726Z",
+    "updated_at": "2026-02-09T18:22:08.726Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/lunar-year/RoomRoofBeam_thumbnail.png",
+    "metadata": {
+      "number": "045",
+      "github_path": "projects/lunar-year/RoomRoofBeam.glb",
+      "file_size": 1161352,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Lunar New Year"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Roof"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Shelter"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Support Beam"
+        }
+      ]
+    }
+  },
+  {
+    "id": "lunar-year-046",
+    "name": "RoomWall01",
+    "project_id": "pm-lunar-year",
+    "description": "3D model from lunar-year collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/lunar-year/RoomWall01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.726Z",
+    "updated_at": "2026-02-09T18:22:08.726Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/lunar-year/RoomWall01_thumbnail.png",
+    "metadata": {
+      "number": "046",
+      "github_path": "projects/lunar-year/RoomWall01.glb",
+      "file_size": 723108,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Lunar New Year"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Wall"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Structure"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Asian Traditional"
+        }
+      ]
+    }
+  },
+  {
+    "id": "lunar-year-047",
+    "name": "Signbook",
+    "project_id": "pm-lunar-year",
+    "description": "3D model from lunar-year collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/lunar-year/Signbook.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.726Z",
+    "updated_at": "2026-02-09T18:22:08.726Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/lunar-year/Signbook_thumbnail.png",
+    "metadata": {
+      "number": "047",
+      "github_path": "projects/lunar-year/Signbook.glb",
+      "file_size": 837124,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Lunar New Year"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Interactive"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Sign Book"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Guest Registry"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Asian Traditional"
+        }
+      ]
+    }
+  },
+  {
+    "id": "lunar-year-048",
+    "name": "Table01",
+    "project_id": "pm-lunar-year",
+    "description": "3D model from lunar-year collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/lunar-year/Table01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.726Z",
+    "updated_at": "2026-02-09T18:22:08.726Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/lunar-year/Table01_thumbnail.png",
+    "metadata": {
+      "number": "048",
+      "github_path": "projects/lunar-year/Table01.glb",
+      "file_size": 1546380,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Lunar New Year"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Furniture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Table"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Display"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Traditional"
+        }
+      ]
+    }
+  },
+  {
+    "id": "lunar-year-049",
+    "name": "Table02",
+    "project_id": "pm-lunar-year",
+    "description": "3D model from lunar-year collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/lunar-year/Table02.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.726Z",
+    "updated_at": "2026-02-09T18:22:08.726Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/lunar-year/Table02_thumbnail.png",
+    "metadata": {
+      "number": "049",
+      "github_path": "projects/lunar-year/Table02.glb",
+      "file_size": 1768680,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Lunar New Year"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Furniture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Table"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Display"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Traditional"
+        }
+      ]
+    }
+  },
+  {
+    "id": "lunar-year-050",
+    "name": "TerrainFloor",
+    "project_id": "pm-lunar-year",
+    "description": "3D model from lunar-year collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/lunar-year/TerrainFloor.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.726Z",
+    "updated_at": "2026-02-09T18:22:08.726Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/lunar-year/TerrainFloor_thumbnail.png",
+    "metadata": {
+      "number": "050",
+      "github_path": "projects/lunar-year/TerrainFloor.glb",
+      "file_size": 819412,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Lunar New Year"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Floor"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Foundation"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Outdoor"
+        }
+      ]
+    }
+  },
+  {
+    "id": "lunar-year-051",
+    "name": "TigerLogo",
+    "project_id": "pm-lunar-year",
+    "description": "3D model from lunar-year collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/lunar-year/TigerLogo.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.726Z",
+    "updated_at": "2026-02-09T18:22:08.726Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/lunar-year/TigerLogo_thumbnail.png",
+    "metadata": {
+      "number": "051",
+      "github_path": "projects/lunar-year/TigerLogo.glb",
+      "file_size": 834580,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Lunar New Year"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Cultural Symbol"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Tiger Logo"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Branding"
+        },
+        {
+          "trait_type": "Zodiac",
+          "value": "Tiger Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "lunar-year-052",
+    "name": "UpperLights02",
+    "project_id": "pm-lunar-year",
+    "description": "3D model from lunar-year collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/lunar-year/UpperLights02.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:08.726Z",
+    "updated_at": "2026-02-09T18:22:08.726Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/lunar-year/UpperLights02_thumbnail.png",
+    "metadata": {
+      "number": "052",
+      "github_path": "projects/lunar-year/UpperLights02.glb",
+      "file_size": 1776,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Lunar New Year"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Lighting"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Ceiling Light"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Illumination"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Indoor"
+        }
+      ]
+    }
+  }
+]

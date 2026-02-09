@@ -1,0 +1,2162 @@
+[
+  {
+    "id": "cryptoavatars-retro-booth-001",
+    "name": "Button",
+    "project_id": "pm-cryptoavatars-retro-booth",
+    "description": "3D model from cryptoavatars-retro-booth collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/cryptoavatars-retro-booth/Button.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:07.894Z",
+    "updated_at": "2026-02-09T18:22:07.894Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/cryptoavatars-retro-booth/Button_thumbnail.png",
+    "metadata": {
+      "number": "001",
+      "github_path": "projects/cryptoavatars-retro-booth/Button.glb",
+      "file_size": 6729564,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Retro Tech"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Interactive"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Button"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Control"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Booth"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cryptoavatars-retro-booth-002",
+    "name": "CA_Head",
+    "project_id": "pm-cryptoavatars-retro-booth",
+    "description": "3D model from cryptoavatars-retro-booth collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/cryptoavatars-retro-booth/CA_Head.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:07.894Z",
+    "updated_at": "2026-02-09T18:22:07.894Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/cryptoavatars-retro-booth/CA_Head_thumbnail.png",
+    "metadata": {
+      "number": "002",
+      "github_path": "projects/cryptoavatars-retro-booth/CA_Head.glb",
+      "file_size": 1300208,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Retro Tech"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Avatar"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Character"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Display"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Booth"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cryptoavatars-retro-booth-003",
+    "name": "Capsule_Avatar",
+    "project_id": "pm-cryptoavatars-retro-booth",
+    "description": "3D model from cryptoavatars-retro-booth collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/cryptoavatars-retro-booth/Capsule_Avatar.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:07.894Z",
+    "updated_at": "2026-02-09T18:22:07.894Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/cryptoavatars-retro-booth/Capsule_Avatar_thumbnail.png",
+    "metadata": {
+      "number": "003",
+      "github_path": "projects/cryptoavatars-retro-booth/Capsule_Avatar.glb",
+      "file_size": 18551084,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Retro Tech"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Avatar"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Character"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Display"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Booth"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cryptoavatars-retro-booth-004",
+    "name": "Capsule_Container",
+    "project_id": "pm-cryptoavatars-retro-booth",
+    "description": "3D model from cryptoavatars-retro-booth collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/cryptoavatars-retro-booth/Capsule_Container.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:07.894Z",
+    "updated_at": "2026-02-09T18:22:07.894Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/cryptoavatars-retro-booth/Capsule_Container_thumbnail.png",
+    "metadata": {
+      "number": "004",
+      "github_path": "projects/cryptoavatars-retro-booth/Capsule_Container.glb",
+      "file_size": 7852132,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Retro Tech"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Container"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Capsule"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Storage"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Booth"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cryptoavatars-retro-booth-005",
+    "name": "Computer_Screen",
+    "project_id": "pm-cryptoavatars-retro-booth",
+    "description": "3D model from cryptoavatars-retro-booth collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/cryptoavatars-retro-booth/Computer_Screen.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:07.894Z",
+    "updated_at": "2026-02-09T18:22:07.894Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/cryptoavatars-retro-booth/Computer_Screen_thumbnail.png",
+    "metadata": {
+      "number": "005",
+      "github_path": "projects/cryptoavatars-retro-booth/Computer_Screen.glb",
+      "file_size": 964320,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Retro Tech"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Technology"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Screen"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Display"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Retro"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cryptoavatars-retro-booth-006",
+    "name": "Computer_Structure",
+    "project_id": "pm-cryptoavatars-retro-booth",
+    "description": "3D model from cryptoavatars-retro-booth collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/cryptoavatars-retro-booth/Computer_Structure.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:07.894Z",
+    "updated_at": "2026-02-09T18:22:07.894Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/cryptoavatars-retro-booth/Computer_Structure_thumbnail.png",
+    "metadata": {
+      "number": "006",
+      "github_path": "projects/cryptoavatars-retro-booth/Computer_Structure.glb",
+      "file_size": 1648364,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Retro Tech"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Technology"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Computer"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Terminal"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Retro"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cryptoavatars-retro-booth-007",
+    "name": "Energy_Ball_Projector",
+    "project_id": "pm-cryptoavatars-retro-booth",
+    "description": "3D model from cryptoavatars-retro-booth collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/cryptoavatars-retro-booth/Energy_Ball_Projector.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:07.894Z",
+    "updated_at": "2026-02-09T18:22:07.894Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/cryptoavatars-retro-booth/Energy_Ball_Projector_thumbnail.png",
+    "metadata": {
+      "number": "007",
+      "github_path": "projects/cryptoavatars-retro-booth/Energy_Ball_Projector.glb",
+      "file_size": 18553084,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Retro Tech"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Technology"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Projector"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Lighting"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Energy"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cryptoavatars-retro-booth-008",
+    "name": "Floor",
+    "project_id": "pm-cryptoavatars-retro-booth",
+    "description": "3D model from cryptoavatars-retro-booth collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/cryptoavatars-retro-booth/Floor.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:07.894Z",
+    "updated_at": "2026-02-09T18:22:07.894Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/cryptoavatars-retro-booth/Floor_thumbnail.png",
+    "metadata": {
+      "number": "008",
+      "github_path": "projects/cryptoavatars-retro-booth/Floor.glb",
+      "file_size": 6727620,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Retro Tech"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Floor"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Base"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Surface"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cryptoavatars-retro-booth-009",
+    "name": "Floor_Beam",
+    "project_id": "pm-cryptoavatars-retro-booth",
+    "description": "3D model from cryptoavatars-retro-booth collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/cryptoavatars-retro-booth/Floor_Beam.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:07.894Z",
+    "updated_at": "2026-02-09T18:22:07.894Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/cryptoavatars-retro-booth/Floor_Beam_thumbnail.png",
+    "metadata": {
+      "number": "009",
+      "github_path": "projects/cryptoavatars-retro-booth/Floor_Beam.glb",
+      "file_size": 6732920,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Retro Tech"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Beam"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Structural"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Floor"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cryptoavatars-retro-booth-010",
+    "name": "Floor_Platform",
+    "project_id": "pm-cryptoavatars-retro-booth",
+    "description": "3D model from cryptoavatars-retro-booth collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/cryptoavatars-retro-booth/Floor_Platform.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:07.894Z",
+    "updated_at": "2026-02-09T18:22:07.894Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/cryptoavatars-retro-booth/Floor_Platform_thumbnail.png",
+    "metadata": {
+      "number": "010",
+      "github_path": "projects/cryptoavatars-retro-booth/Floor_Platform.glb",
+      "file_size": 6731408,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Retro Tech"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Platform"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Structural"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Floor"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cryptoavatars-retro-booth-011",
+    "name": "Floor_Ring",
+    "project_id": "pm-cryptoavatars-retro-booth",
+    "description": "3D model from cryptoavatars-retro-booth collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/cryptoavatars-retro-booth/Floor_Ring.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:07.894Z",
+    "updated_at": "2026-02-09T18:22:07.894Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/cryptoavatars-retro-booth/Floor_Ring_thumbnail.png",
+    "metadata": {
+      "number": "011",
+      "github_path": "projects/cryptoavatars-retro-booth/Floor_Ring.glb",
+      "file_size": 6803408,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Retro Tech"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Ring"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Floor"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cryptoavatars-retro-booth-012",
+    "name": "Japanese_Arch",
+    "project_id": "pm-cryptoavatars-retro-booth",
+    "description": "3D model from cryptoavatars-retro-booth collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/cryptoavatars-retro-booth/Japanese_Arch.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:07.894Z",
+    "updated_at": "2026-02-09T18:22:07.894Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/cryptoavatars-retro-booth/Japanese_Arch_thumbnail.png",
+    "metadata": {
+      "number": "012",
+      "github_path": "projects/cryptoavatars-retro-booth/Japanese_Arch.glb",
+      "file_size": 18525044,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Retro Tech"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Arch"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Japanese"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Structural"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cryptoavatars-retro-booth-013",
+    "name": "Japanese_Roof",
+    "project_id": "pm-cryptoavatars-retro-booth",
+    "description": "3D model from cryptoavatars-retro-booth collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/cryptoavatars-retro-booth/Japanese_Roof.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:07.894Z",
+    "updated_at": "2026-02-09T18:22:07.894Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/cryptoavatars-retro-booth/Japanese_Roof_thumbnail.png",
+    "metadata": {
+      "number": "013",
+      "github_path": "projects/cryptoavatars-retro-booth/Japanese_Roof.glb",
+      "file_size": 18507864,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Retro Tech"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Roof"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Japanese"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Structural"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cryptoavatars-retro-booth-014",
+    "name": "Japanese_Sign_01",
+    "project_id": "pm-cryptoavatars-retro-booth",
+    "description": "3D model from cryptoavatars-retro-booth collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/cryptoavatars-retro-booth/Japanese_Sign_01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:07.894Z",
+    "updated_at": "2026-02-09T18:22:07.894Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/cryptoavatars-retro-booth/Japanese_Sign_01_thumbnail.png",
+    "metadata": {
+      "number": "014",
+      "github_path": "projects/cryptoavatars-retro-booth/Japanese_Sign_01.glb",
+      "file_size": 19535136,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Retro Tech"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Signage"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Japanese Sign"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Asian"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cryptoavatars-retro-booth-015",
+    "name": "Japanese_Sign_02",
+    "project_id": "pm-cryptoavatars-retro-booth",
+    "description": "3D model from cryptoavatars-retro-booth collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/cryptoavatars-retro-booth/Japanese_Sign_02.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:07.894Z",
+    "updated_at": "2026-02-09T18:22:07.894Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/cryptoavatars-retro-booth/Japanese_Sign_02_thumbnail.png",
+    "metadata": {
+      "number": "015",
+      "github_path": "projects/cryptoavatars-retro-booth/Japanese_Sign_02.glb",
+      "file_size": 7797784,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Retro Tech"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Signage"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Japanese Sign"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Asian"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cryptoavatars-retro-booth-016",
+    "name": "Japanese_Sign_03",
+    "project_id": "pm-cryptoavatars-retro-booth",
+    "description": "3D model from cryptoavatars-retro-booth collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/cryptoavatars-retro-booth/Japanese_Sign_03.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:07.894Z",
+    "updated_at": "2026-02-09T18:22:07.894Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/cryptoavatars-retro-booth/Japanese_Sign_03_thumbnail.png",
+    "metadata": {
+      "number": "016",
+      "github_path": "projects/cryptoavatars-retro-booth/Japanese_Sign_03.glb",
+      "file_size": 7761284,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Retro Tech"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Signage"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Japanese Sign"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Asian"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cryptoavatars-retro-booth-017",
+    "name": "Japanese_Sign_04",
+    "project_id": "pm-cryptoavatars-retro-booth",
+    "description": "3D model from cryptoavatars-retro-booth collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/cryptoavatars-retro-booth/Japanese_Sign_04.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:07.894Z",
+    "updated_at": "2026-02-09T18:22:07.894Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/cryptoavatars-retro-booth/Japanese_Sign_04_thumbnail.png",
+    "metadata": {
+      "number": "017",
+      "github_path": "projects/cryptoavatars-retro-booth/Japanese_Sign_04.glb",
+      "file_size": 19531700,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Retro Tech"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Signage"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Japanese Sign"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Asian"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cryptoavatars-retro-booth-018",
+    "name": "Japanese_Sign_05",
+    "project_id": "pm-cryptoavatars-retro-booth",
+    "description": "3D model from cryptoavatars-retro-booth collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/cryptoavatars-retro-booth/Japanese_Sign_05.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:07.894Z",
+    "updated_at": "2026-02-09T18:22:07.894Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/cryptoavatars-retro-booth/Japanese_Sign_05_thumbnail.png",
+    "metadata": {
+      "number": "018",
+      "github_path": "projects/cryptoavatars-retro-booth/Japanese_Sign_05.glb",
+      "file_size": 7760748,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Retro Tech"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Signage"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Japanese Sign"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Asian"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cryptoavatars-retro-booth-019",
+    "name": "Japanese_Sign_06",
+    "project_id": "pm-cryptoavatars-retro-booth",
+    "description": "3D model from cryptoavatars-retro-booth collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/cryptoavatars-retro-booth/Japanese_Sign_06.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:07.894Z",
+    "updated_at": "2026-02-09T18:22:07.894Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/cryptoavatars-retro-booth/Japanese_Sign_06_thumbnail.png",
+    "metadata": {
+      "number": "019",
+      "github_path": "projects/cryptoavatars-retro-booth/Japanese_Sign_06.glb",
+      "file_size": 7760744,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Retro Tech"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Signage"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Japanese Sign"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Asian"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cryptoavatars-retro-booth-020",
+    "name": "Japanese_Sign_07",
+    "project_id": "pm-cryptoavatars-retro-booth",
+    "description": "3D model from cryptoavatars-retro-booth collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/cryptoavatars-retro-booth/Japanese_Sign_07.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:07.894Z",
+    "updated_at": "2026-02-09T18:22:07.894Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/cryptoavatars-retro-booth/Japanese_Sign_07_thumbnail.png",
+    "metadata": {
+      "number": "020",
+      "github_path": "projects/cryptoavatars-retro-booth/Japanese_Sign_07.glb",
+      "file_size": 7760748,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Retro Tech"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Signage"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Japanese Sign"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Asian"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cryptoavatars-retro-booth-021",
+    "name": "Japanese_Sign_08",
+    "project_id": "pm-cryptoavatars-retro-booth",
+    "description": "3D model from cryptoavatars-retro-booth collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/cryptoavatars-retro-booth/Japanese_Sign_08.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:07.894Z",
+    "updated_at": "2026-02-09T18:22:07.894Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/cryptoavatars-retro-booth/Japanese_Sign_08_thumbnail.png",
+    "metadata": {
+      "number": "021",
+      "github_path": "projects/cryptoavatars-retro-booth/Japanese_Sign_08.glb",
+      "file_size": 7760744,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Retro Tech"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Signage"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Japanese Sign"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Asian"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cryptoavatars-retro-booth-022",
+    "name": "Japanese_Sign_09",
+    "project_id": "pm-cryptoavatars-retro-booth",
+    "description": "3D model from cryptoavatars-retro-booth collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/cryptoavatars-retro-booth/Japanese_Sign_09.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:07.894Z",
+    "updated_at": "2026-02-09T18:22:07.894Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/cryptoavatars-retro-booth/Japanese_Sign_09_thumbnail.png",
+    "metadata": {
+      "number": "022",
+      "github_path": "projects/cryptoavatars-retro-booth/Japanese_Sign_09.glb",
+      "file_size": 7760740,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Retro Tech"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Signage"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Japanese Sign"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Asian"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cryptoavatars-retro-booth-023",
+    "name": "Japanese_Sign_10",
+    "project_id": "pm-cryptoavatars-retro-booth",
+    "description": "3D model from cryptoavatars-retro-booth collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/cryptoavatars-retro-booth/Japanese_Sign_10.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:07.894Z",
+    "updated_at": "2026-02-09T18:22:07.894Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/cryptoavatars-retro-booth/Japanese_Sign_10_thumbnail.png",
+    "metadata": {
+      "number": "023",
+      "github_path": "projects/cryptoavatars-retro-booth/Japanese_Sign_10.glb",
+      "file_size": 7760740,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Retro Tech"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Signage"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Japanese Sign"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Asian"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cryptoavatars-retro-booth-024",
+    "name": "Japanese_Sign_11",
+    "project_id": "pm-cryptoavatars-retro-booth",
+    "description": "3D model from cryptoavatars-retro-booth collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/cryptoavatars-retro-booth/Japanese_Sign_11.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:07.894Z",
+    "updated_at": "2026-02-09T18:22:07.894Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/cryptoavatars-retro-booth/Japanese_Sign_11_thumbnail.png",
+    "metadata": {
+      "number": "024",
+      "github_path": "projects/cryptoavatars-retro-booth/Japanese_Sign_11.glb",
+      "file_size": 19548776,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Retro Tech"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Signage"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Japanese Sign"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Asian"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cryptoavatars-retro-booth-025",
+    "name": "Japanese_Sign_12",
+    "project_id": "pm-cryptoavatars-retro-booth",
+    "description": "3D model from cryptoavatars-retro-booth collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/cryptoavatars-retro-booth/Japanese_Sign_12.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:07.894Z",
+    "updated_at": "2026-02-09T18:22:07.894Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/cryptoavatars-retro-booth/Japanese_Sign_12_thumbnail.png",
+    "metadata": {
+      "number": "025",
+      "github_path": "projects/cryptoavatars-retro-booth/Japanese_Sign_12.glb",
+      "file_size": 19535200,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Retro Tech"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Signage"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Japanese Sign"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Asian"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cryptoavatars-retro-booth-026",
+    "name": "Japanese_Sign_13",
+    "project_id": "pm-cryptoavatars-retro-booth",
+    "description": "3D model from cryptoavatars-retro-booth collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/cryptoavatars-retro-booth/Japanese_Sign_13.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:07.894Z",
+    "updated_at": "2026-02-09T18:22:07.894Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/cryptoavatars-retro-booth/Japanese_Sign_13_thumbnail.png",
+    "metadata": {
+      "number": "026",
+      "github_path": "projects/cryptoavatars-retro-booth/Japanese_Sign_13.glb",
+      "file_size": 6737552,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Retro Tech"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Signage"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Japanese Sign"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Asian"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cryptoavatars-retro-booth-027",
+    "name": "Japanese_Sign_14",
+    "project_id": "pm-cryptoavatars-retro-booth",
+    "description": "3D model from cryptoavatars-retro-booth collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/cryptoavatars-retro-booth/Japanese_Sign_14.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:07.894Z",
+    "updated_at": "2026-02-09T18:22:07.894Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/cryptoavatars-retro-booth/Japanese_Sign_14_thumbnail.png",
+    "metadata": {
+      "number": "027",
+      "github_path": "projects/cryptoavatars-retro-booth/Japanese_Sign_14.glb",
+      "file_size": 19533792,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Retro Tech"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Signage"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Japanese Sign"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Asian"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cryptoavatars-retro-booth-028",
+    "name": "Japanese_Sign_15",
+    "project_id": "pm-cryptoavatars-retro-booth",
+    "description": "3D model from cryptoavatars-retro-booth collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/cryptoavatars-retro-booth/Japanese_Sign_15.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:07.894Z",
+    "updated_at": "2026-02-09T18:22:07.894Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/cryptoavatars-retro-booth/Japanese_Sign_15_thumbnail.png",
+    "metadata": {
+      "number": "028",
+      "github_path": "projects/cryptoavatars-retro-booth/Japanese_Sign_15.glb",
+      "file_size": 19535124,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Retro Tech"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Signage"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Japanese Sign"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Asian"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cryptoavatars-retro-booth-029",
+    "name": "Japanese_Sign_16",
+    "project_id": "pm-cryptoavatars-retro-booth",
+    "description": "3D model from cryptoavatars-retro-booth collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/cryptoavatars-retro-booth/Japanese_Sign_16.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:07.894Z",
+    "updated_at": "2026-02-09T18:22:07.894Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/cryptoavatars-retro-booth/Japanese_Sign_16_thumbnail.png",
+    "metadata": {
+      "number": "029",
+      "github_path": "projects/cryptoavatars-retro-booth/Japanese_Sign_16.glb",
+      "file_size": 7760820,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Retro Tech"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Signage"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Japanese Sign"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Asian"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cryptoavatars-retro-booth-030",
+    "name": "Orion",
+    "project_id": "pm-cryptoavatars-retro-booth",
+    "description": "3D model from cryptoavatars-retro-booth collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/cryptoavatars-retro-booth/Orion.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:07.894Z",
+    "updated_at": "2026-02-09T18:22:07.894Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/cryptoavatars-retro-booth/Orion_thumbnail.png",
+    "metadata": {
+      "number": "030",
+      "github_path": "projects/cryptoavatars-retro-booth/Orion.glb",
+      "file_size": 2848628,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Retro Tech"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Avatar"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Character"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Display"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Booth"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cryptoavatars-retro-booth-031",
+    "name": "Pipe_02",
+    "project_id": "pm-cryptoavatars-retro-booth",
+    "description": "3D model from cryptoavatars-retro-booth collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/cryptoavatars-retro-booth/Pipe_02.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:07.894Z",
+    "updated_at": "2026-02-09T18:22:07.894Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/cryptoavatars-retro-booth/Pipe_02_thumbnail.png",
+    "metadata": {
+      "number": "031",
+      "github_path": "projects/cryptoavatars-retro-booth/Pipe_02.glb",
+      "file_size": 6736848,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Retro Tech"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Pipe"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Structural"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Infrastructure"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cryptoavatars-retro-booth-032",
+    "name": "RetroComputerBooth",
+    "project_id": "pm-cryptoavatars-retro-booth",
+    "description": "3D model from cryptoavatars-retro-booth collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/cryptoavatars-retro-booth/RetroComputerBooth.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:07.894Z",
+    "updated_at": "2026-02-09T18:22:07.894Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/cryptoavatars-retro-booth/RetroComputerBooth_thumbnail.png",
+    "metadata": {
+      "number": "032",
+      "github_path": "projects/cryptoavatars-retro-booth/RetroComputerBooth.glb",
+      "file_size": 24010828,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Retro Tech"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Booth"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Structure"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Retro"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cryptoavatars-retro-booth-033",
+    "name": "Sidewalk",
+    "project_id": "pm-cryptoavatars-retro-booth",
+    "description": "3D model from cryptoavatars-retro-booth collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/cryptoavatars-retro-booth/Sidewalk.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:07.894Z",
+    "updated_at": "2026-02-09T18:22:07.894Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/cryptoavatars-retro-booth/Sidewalk_thumbnail.png",
+    "metadata": {
+      "number": "033",
+      "github_path": "projects/cryptoavatars-retro-booth/Sidewalk.glb",
+      "file_size": 11773792,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Retro Tech"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Sidewalk"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Urban"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Ground"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cryptoavatars-retro-booth-034",
+    "name": "Sticker_01",
+    "project_id": "pm-cryptoavatars-retro-booth",
+    "description": "3D model from cryptoavatars-retro-booth collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/cryptoavatars-retro-booth/Sticker_01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:07.894Z",
+    "updated_at": "2026-02-09T18:22:07.894Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/cryptoavatars-retro-booth/Sticker_01_thumbnail.png",
+    "metadata": {
+      "number": "034",
+      "github_path": "projects/cryptoavatars-retro-booth/Sticker_01.glb",
+      "file_size": 1143168,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Retro Tech"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Sticker"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Booth"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cryptoavatars-retro-booth-035",
+    "name": "Sticker_02",
+    "project_id": "pm-cryptoavatars-retro-booth",
+    "description": "3D model from cryptoavatars-retro-booth collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/cryptoavatars-retro-booth/Sticker_02.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:07.894Z",
+    "updated_at": "2026-02-09T18:22:07.894Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/cryptoavatars-retro-booth/Sticker_02_thumbnail.png",
+    "metadata": {
+      "number": "035",
+      "github_path": "projects/cryptoavatars-retro-booth/Sticker_02.glb",
+      "file_size": 1143132,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Retro Tech"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Sticker"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Booth"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cryptoavatars-retro-booth-036",
+    "name": "Sticker_03",
+    "project_id": "pm-cryptoavatars-retro-booth",
+    "description": "3D model from cryptoavatars-retro-booth collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/cryptoavatars-retro-booth/Sticker_03.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:07.894Z",
+    "updated_at": "2026-02-09T18:22:07.894Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/cryptoavatars-retro-booth/Sticker_03_thumbnail.png",
+    "metadata": {
+      "number": "036",
+      "github_path": "projects/cryptoavatars-retro-booth/Sticker_03.glb",
+      "file_size": 1143208,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Retro Tech"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Sticker"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Booth"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cryptoavatars-retro-booth-037",
+    "name": "Sticker_04",
+    "project_id": "pm-cryptoavatars-retro-booth",
+    "description": "3D model from cryptoavatars-retro-booth collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/cryptoavatars-retro-booth/Sticker_04.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:07.894Z",
+    "updated_at": "2026-02-09T18:22:07.894Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/cryptoavatars-retro-booth/Sticker_04_thumbnail.png",
+    "metadata": {
+      "number": "037",
+      "github_path": "projects/cryptoavatars-retro-booth/Sticker_04.glb",
+      "file_size": 1142884,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Retro Tech"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Sticker"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Booth"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cryptoavatars-retro-booth-038",
+    "name": "Sticker_05",
+    "project_id": "pm-cryptoavatars-retro-booth",
+    "description": "3D model from cryptoavatars-retro-booth collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/cryptoavatars-retro-booth/Sticker_05.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:07.894Z",
+    "updated_at": "2026-02-09T18:22:07.894Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/cryptoavatars-retro-booth/Sticker_05_thumbnail.png",
+    "metadata": {
+      "number": "038",
+      "github_path": "projects/cryptoavatars-retro-booth/Sticker_05.glb",
+      "file_size": 1143088,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Retro Tech"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Sticker"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Booth"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cryptoavatars-retro-booth-039",
+    "name": "Sticker_06",
+    "project_id": "pm-cryptoavatars-retro-booth",
+    "description": "3D model from cryptoavatars-retro-booth collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/cryptoavatars-retro-booth/Sticker_06.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:07.894Z",
+    "updated_at": "2026-02-09T18:22:07.894Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/cryptoavatars-retro-booth/Sticker_06_thumbnail.png",
+    "metadata": {
+      "number": "039",
+      "github_path": "projects/cryptoavatars-retro-booth/Sticker_06.glb",
+      "file_size": 1143084,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Retro Tech"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Sticker"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Booth"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cryptoavatars-retro-booth-040",
+    "name": "Sticker_07",
+    "project_id": "pm-cryptoavatars-retro-booth",
+    "description": "3D model from cryptoavatars-retro-booth collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/cryptoavatars-retro-booth/Sticker_07.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:07.894Z",
+    "updated_at": "2026-02-09T18:22:07.894Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/cryptoavatars-retro-booth/Sticker_07_thumbnail.png",
+    "metadata": {
+      "number": "040",
+      "github_path": "projects/cryptoavatars-retro-booth/Sticker_07.glb",
+      "file_size": 1143120,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Retro Tech"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Sticker"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Booth"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cryptoavatars-retro-booth-041",
+    "name": "Sticker_08",
+    "project_id": "pm-cryptoavatars-retro-booth",
+    "description": "3D model from cryptoavatars-retro-booth collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/cryptoavatars-retro-booth/Sticker_08.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:07.894Z",
+    "updated_at": "2026-02-09T18:22:07.894Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/cryptoavatars-retro-booth/Sticker_08_thumbnail.png",
+    "metadata": {
+      "number": "041",
+      "github_path": "projects/cryptoavatars-retro-booth/Sticker_08.glb",
+      "file_size": 1143084,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Retro Tech"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Sticker"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Booth"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cryptoavatars-retro-booth-042",
+    "name": "Top_Beam",
+    "project_id": "pm-cryptoavatars-retro-booth",
+    "description": "3D model from cryptoavatars-retro-booth collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/cryptoavatars-retro-booth/Top_Beam.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:07.894Z",
+    "updated_at": "2026-02-09T18:22:07.894Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/cryptoavatars-retro-booth/Top_Beam_thumbnail.png",
+    "metadata": {
+      "number": "042",
+      "github_path": "projects/cryptoavatars-retro-booth/Top_Beam.glb",
+      "file_size": 6730584,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Retro Tech"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Beam"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Structural"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Ceiling"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cryptoavatars-retro-booth-043",
+    "name": "Top_Ceiling",
+    "project_id": "pm-cryptoavatars-retro-booth",
+    "description": "3D model from cryptoavatars-retro-booth collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/cryptoavatars-retro-booth/Top_Ceiling.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:07.894Z",
+    "updated_at": "2026-02-09T18:22:07.894Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/cryptoavatars-retro-booth/Top_Ceiling_thumbnail.png",
+    "metadata": {
+      "number": "043",
+      "github_path": "projects/cryptoavatars-retro-booth/Top_Ceiling.glb",
+      "file_size": 18500868,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Retro Tech"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Ceiling"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Structural"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Top"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cryptoavatars-retro-booth-044",
+    "name": "Top_Ring",
+    "project_id": "pm-cryptoavatars-retro-booth",
+    "description": "3D model from cryptoavatars-retro-booth collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/cryptoavatars-retro-booth/Top_Ring.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:07.894Z",
+    "updated_at": "2026-02-09T18:22:07.894Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/cryptoavatars-retro-booth/Top_Ring_thumbnail.png",
+    "metadata": {
+      "number": "044",
+      "github_path": "projects/cryptoavatars-retro-booth/Top_Ring.glb",
+      "file_size": 6808092,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Retro Tech"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Ring"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Ceiling"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cryptoavatars-retro-booth-045",
+    "name": "Wall_01",
+    "project_id": "pm-cryptoavatars-retro-booth",
+    "description": "3D model from cryptoavatars-retro-booth collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/cryptoavatars-retro-booth/Wall_01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:07.894Z",
+    "updated_at": "2026-02-09T18:22:07.894Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/cryptoavatars-retro-booth/Wall_01_thumbnail.png",
+    "metadata": {
+      "number": "045",
+      "github_path": "projects/cryptoavatars-retro-booth/Wall_01.glb",
+      "file_size": 11773432,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Retro Tech"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Wall"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Enclosure"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Structure"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cryptoavatars-retro-booth-046",
+    "name": "Wall_02",
+    "project_id": "pm-cryptoavatars-retro-booth",
+    "description": "3D model from cryptoavatars-retro-booth collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/cryptoavatars-retro-booth/Wall_02.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:07.894Z",
+    "updated_at": "2026-02-09T18:22:07.894Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/cryptoavatars-retro-booth/Wall_02_thumbnail.png",
+    "metadata": {
+      "number": "046",
+      "github_path": "projects/cryptoavatars-retro-booth/Wall_02.glb",
+      "file_size": 11773432,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Retro Tech"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Wall"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Enclosure"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Structure"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cryptoavatars-retro-booth-047",
+    "name": "Wall_03",
+    "project_id": "pm-cryptoavatars-retro-booth",
+    "description": "3D model from cryptoavatars-retro-booth collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/cryptoavatars-retro-booth/Wall_03.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:07.894Z",
+    "updated_at": "2026-02-09T18:22:07.894Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/cryptoavatars-retro-booth/Wall_03_thumbnail.png",
+    "metadata": {
+      "number": "047",
+      "github_path": "projects/cryptoavatars-retro-booth/Wall_03.glb",
+      "file_size": 11774564,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Retro Tech"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Wall"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Enclosure"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Structure"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cryptoavatars-retro-booth-048",
+    "name": "Wall_Module_01",
+    "project_id": "pm-cryptoavatars-retro-booth",
+    "description": "3D model from cryptoavatars-retro-booth collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/cryptoavatars-retro-booth/Wall_Module_01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:07.894Z",
+    "updated_at": "2026-02-09T18:22:07.894Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/cryptoavatars-retro-booth/Wall_Module_01_thumbnail.png",
+    "metadata": {
+      "number": "048",
+      "github_path": "projects/cryptoavatars-retro-booth/Wall_Module_01.glb",
+      "file_size": 11776052,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Retro Tech"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Wall Module"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Structural"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Wall"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cryptoavatars-retro-booth-049",
+    "name": "Wall_Module_02",
+    "project_id": "pm-cryptoavatars-retro-booth",
+    "description": "3D model from cryptoavatars-retro-booth collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/cryptoavatars-retro-booth/Wall_Module_02.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:07.894Z",
+    "updated_at": "2026-02-09T18:22:07.894Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/cryptoavatars-retro-booth/Wall_Module_02_thumbnail.png",
+    "metadata": {
+      "number": "049",
+      "github_path": "projects/cryptoavatars-retro-booth/Wall_Module_02.glb",
+      "file_size": 11776064,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Retro Tech"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Wall Module"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Structural"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Wall"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cryptoavatars-retro-booth-050",
+    "name": "Wall_Module_03",
+    "project_id": "pm-cryptoavatars-retro-booth",
+    "description": "3D model from cryptoavatars-retro-booth collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/cryptoavatars-retro-booth/Wall_Module_03.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:07.894Z",
+    "updated_at": "2026-02-09T18:22:07.894Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/cryptoavatars-retro-booth/Wall_Module_03_thumbnail.png",
+    "metadata": {
+      "number": "050",
+      "github_path": "projects/cryptoavatars-retro-booth/Wall_Module_03.glb",
+      "file_size": 11776192,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Retro Tech"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Wall Module"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Structural"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Wall"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cryptoavatars-retro-booth-051",
+    "name": "Wall_Module_04",
+    "project_id": "pm-cryptoavatars-retro-booth",
+    "description": "3D model from cryptoavatars-retro-booth collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/cryptoavatars-retro-booth/Wall_Module_04.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:07.894Z",
+    "updated_at": "2026-02-09T18:22:07.894Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/cryptoavatars-retro-booth/Wall_Module_04_thumbnail.png",
+    "metadata": {
+      "number": "051",
+      "github_path": "projects/cryptoavatars-retro-booth/Wall_Module_04.glb",
+      "file_size": 11783428,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Retro Tech"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Wall Module"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Structural"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Wall"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cryptoavatars-retro-booth-052",
+    "name": "Wall_Module_05",
+    "project_id": "pm-cryptoavatars-retro-booth",
+    "description": "3D model from cryptoavatars-retro-booth collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/cryptoavatars-retro-booth/Wall_Module_05.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:07.894Z",
+    "updated_at": "2026-02-09T18:22:07.894Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/cryptoavatars-retro-booth/Wall_Module_05_thumbnail.png",
+    "metadata": {
+      "number": "052",
+      "github_path": "projects/cryptoavatars-retro-booth/Wall_Module_05.glb",
+      "file_size": 11776608,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Retro Tech"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Wall Module"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Structural"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Wall"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cryptoavatars-retro-booth-053",
+    "name": "Wall_Module_06",
+    "project_id": "pm-cryptoavatars-retro-booth",
+    "description": "3D model from cryptoavatars-retro-booth collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/cryptoavatars-retro-booth/Wall_Module_06.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:07.894Z",
+    "updated_at": "2026-02-09T18:22:07.894Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/cryptoavatars-retro-booth/Wall_Module_06_thumbnail.png",
+    "metadata": {
+      "number": "053",
+      "github_path": "projects/cryptoavatars-retro-booth/Wall_Module_06.glb",
+      "file_size": 11782984,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Retro Tech"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Wall Module"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Structural"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Wall"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cryptoavatars-retro-booth-054",
+    "name": "Wall_Module_07",
+    "project_id": "pm-cryptoavatars-retro-booth",
+    "description": "3D model from cryptoavatars-retro-booth collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/cryptoavatars-retro-booth/Wall_Module_07.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:07.894Z",
+    "updated_at": "2026-02-09T18:22:07.894Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/cryptoavatars-retro-booth/Wall_Module_07_thumbnail.png",
+    "metadata": {
+      "number": "054",
+      "github_path": "projects/cryptoavatars-retro-booth/Wall_Module_07.glb",
+      "file_size": 18508292,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Retro Tech"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Wall Module"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Structural"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Wall"
+        }
+      ]
+    }
+  }
+]

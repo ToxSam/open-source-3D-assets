@@ -1,0 +1,1602 @@
+[
+  {
+    "id": "christmas-001",
+    "name": "Candle",
+    "project_id": "pm-christmas",
+    "description": "3D model from christmas collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/christmas/Candle.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.955Z",
+    "updated_at": "2026-02-09T18:22:06.955Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/christmas/Candle_thumbnail.png",
+    "metadata": {
+      "number": "001",
+      "github_path": "projects/christmas/Candle.glb",
+      "file_size": 116652,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Christmas"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Lighting"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Candle"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Illumination"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Indoor"
+        }
+      ]
+    }
+  },
+  {
+    "id": "christmas-002",
+    "name": "CandyCane",
+    "project_id": "pm-christmas",
+    "description": "3D model from christmas collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/christmas/CandyCane.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.955Z",
+    "updated_at": "2026-02-09T18:22:06.955Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/christmas/CandyCane_thumbnail.png",
+    "metadata": {
+      "number": "002",
+      "github_path": "projects/christmas/CandyCane.glb",
+      "file_size": 117508,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Christmas"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Candy"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Traditional"
+        },
+        {
+          "trait_type": "Color",
+          "value": "Red and White"
+        }
+      ]
+    }
+  },
+  {
+    "id": "christmas-003",
+    "name": "Door",
+    "project_id": "pm-christmas",
+    "description": "3D model from christmas collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/christmas/Door.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.955Z",
+    "updated_at": "2026-02-09T18:22:06.955Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/christmas/Door_thumbnail.png",
+    "metadata": {
+      "number": "003",
+      "github_path": "projects/christmas/Door.glb",
+      "file_size": 543788,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Christmas"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Door"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Entry"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Exterior"
+        }
+      ]
+    }
+  },
+  {
+    "id": "christmas-004",
+    "name": "ExteriorWall",
+    "project_id": "pm-christmas",
+    "description": "3D model from christmas collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/christmas/ExteriorWall.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.955Z",
+    "updated_at": "2026-02-09T18:22:06.955Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/christmas/ExteriorWall_thumbnail.png",
+    "metadata": {
+      "number": "004",
+      "github_path": "projects/christmas/ExteriorWall.glb",
+      "file_size": 395572,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Christmas"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Wall"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Structure"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Exterior"
+        }
+      ]
+    }
+  },
+  {
+    "id": "christmas-005",
+    "name": "Fence",
+    "project_id": "pm-christmas",
+    "description": "3D model from christmas collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/christmas/Fence.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.955Z",
+    "updated_at": "2026-02-09T18:22:06.955Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/christmas/Fence_thumbnail.png",
+    "metadata": {
+      "number": "005",
+      "github_path": "projects/christmas/Fence.glb",
+      "file_size": 45072,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Christmas"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Fence"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Barrier"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Outdoor"
+        }
+      ]
+    }
+  },
+  {
+    "id": "christmas-006",
+    "name": "Fireplace",
+    "project_id": "pm-christmas",
+    "description": "3D model from christmas collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/christmas/Fireplace.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.955Z",
+    "updated_at": "2026-02-09T18:22:06.955Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/christmas/Fireplace_thumbnail.png",
+    "metadata": {
+      "number": "006",
+      "github_path": "projects/christmas/Fireplace.glb",
+      "file_size": 412452,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Christmas"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Furniture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Fireplace"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Heating"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Indoor"
+        }
+      ]
+    }
+  },
+  {
+    "id": "christmas-007",
+    "name": "Frame",
+    "project_id": "pm-christmas",
+    "description": "3D model from christmas collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/christmas/Frame.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.955Z",
+    "updated_at": "2026-02-09T18:22:06.955Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/christmas/Frame_thumbnail.png",
+    "metadata": {
+      "number": "007",
+      "github_path": "projects/christmas/Frame.glb",
+      "file_size": 441304,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Christmas"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Frame"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Structure"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Wood"
+        }
+      ]
+    }
+  },
+  {
+    "id": "christmas-008",
+    "name": "InteriorDoor",
+    "project_id": "pm-christmas",
+    "description": "3D model from christmas collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/christmas/InteriorDoor.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.955Z",
+    "updated_at": "2026-02-09T18:22:06.955Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/christmas/InteriorDoor_thumbnail.png",
+    "metadata": {
+      "number": "008",
+      "github_path": "projects/christmas/InteriorDoor.glb",
+      "file_size": 401736,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Christmas"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Door"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Entry"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Interior"
+        }
+      ]
+    }
+  },
+  {
+    "id": "christmas-009",
+    "name": "InteriorWall",
+    "project_id": "pm-christmas",
+    "description": "3D model from christmas collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/christmas/InteriorWall.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.955Z",
+    "updated_at": "2026-02-09T18:22:06.955Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/christmas/InteriorWall_thumbnail.png",
+    "metadata": {
+      "number": "009",
+      "github_path": "projects/christmas/InteriorWall.glb",
+      "file_size": 481644,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Christmas"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Wall"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Structure"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Interior"
+        }
+      ]
+    }
+  },
+  {
+    "id": "christmas-010",
+    "name": "Lamp01",
+    "project_id": "pm-christmas",
+    "description": "3D model from christmas collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/christmas/Lamp01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.955Z",
+    "updated_at": "2026-02-09T18:22:06.955Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/christmas/Lamp01_thumbnail.png",
+    "metadata": {
+      "number": "010",
+      "github_path": "projects/christmas/Lamp01.glb",
+      "file_size": 158992,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Christmas"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Lighting"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Lamp"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Illumination"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Indoor"
+        }
+      ]
+    }
+  },
+  {
+    "id": "christmas-011",
+    "name": "Lights01",
+    "project_id": "pm-christmas",
+    "description": "3D model from christmas collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/christmas/Lights01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.955Z",
+    "updated_at": "2026-02-09T18:22:06.955Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/christmas/Lights01_thumbnail.png",
+    "metadata": {
+      "number": "011",
+      "github_path": "projects/christmas/Lights01.glb",
+      "file_size": 115888,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Christmas"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Type",
+          "value": "String Lights"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Illumination"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Festive"
+        }
+      ]
+    }
+  },
+  {
+    "id": "christmas-012",
+    "name": "Lights02",
+    "project_id": "pm-christmas",
+    "description": "3D model from christmas collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/christmas/Lights02.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.955Z",
+    "updated_at": "2026-02-09T18:22:06.955Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/christmas/Lights02_thumbnail.png",
+    "metadata": {
+      "number": "012",
+      "github_path": "projects/christmas/Lights02.glb",
+      "file_size": 118372,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Christmas"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Type",
+          "value": "String Lights"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Illumination"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Festive"
+        }
+      ]
+    }
+  },
+  {
+    "id": "christmas-013",
+    "name": "MiniTree",
+    "project_id": "pm-christmas",
+    "description": "3D model from christmas collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/christmas/MiniTree.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.955Z",
+    "updated_at": "2026-02-09T18:22:06.955Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/christmas/MiniTree_thumbnail.png",
+    "metadata": {
+      "number": "013",
+      "github_path": "projects/christmas/MiniTree.glb",
+      "file_size": 116496,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Christmas"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Christmas Tree"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Indoor"
+        },
+        {
+          "trait_type": "Size",
+          "value": "Small"
+        }
+      ]
+    }
+  },
+  {
+    "id": "christmas-014",
+    "name": "NoelCap",
+    "project_id": "pm-christmas",
+    "description": "3D model from christmas collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/christmas/NoelCap.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.955Z",
+    "updated_at": "2026-02-09T18:22:06.955Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/christmas/NoelCap_thumbnail.png",
+    "metadata": {
+      "number": "014",
+      "github_path": "projects/christmas/NoelCap.glb",
+      "file_size": 118688,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Christmas"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Accessory"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Santa Hat"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Traditional"
+        },
+        {
+          "trait_type": "Color",
+          "value": "Red"
+        }
+      ]
+    }
+  },
+  {
+    "id": "christmas-015",
+    "name": "PosterRoller",
+    "project_id": "pm-christmas",
+    "description": "3D model from christmas collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/christmas/PosterRoller.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.955Z",
+    "updated_at": "2026-02-09T18:22:06.955Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/christmas/PosterRoller_thumbnail.png",
+    "metadata": {
+      "number": "015",
+      "github_path": "projects/christmas/PosterRoller.glb",
+      "file_size": 134572,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Christmas"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Poster"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Display"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Indoor"
+        }
+      ]
+    }
+  },
+  {
+    "id": "christmas-016",
+    "name": "Present01",
+    "project_id": "pm-christmas",
+    "description": "3D model from christmas collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/christmas/Present01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.955Z",
+    "updated_at": "2026-02-09T18:22:06.955Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/christmas/Present01_thumbnail.png",
+    "metadata": {
+      "number": "016",
+      "github_path": "projects/christmas/Present01.glb",
+      "file_size": 118680,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Christmas"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Gift Box"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Wrapped"
+        }
+      ]
+    }
+  },
+  {
+    "id": "christmas-017",
+    "name": "Present02",
+    "project_id": "pm-christmas",
+    "description": "3D model from christmas collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/christmas/Present02.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.955Z",
+    "updated_at": "2026-02-09T18:22:06.955Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/christmas/Present02_thumbnail.png",
+    "metadata": {
+      "number": "017",
+      "github_path": "projects/christmas/Present02.glb",
+      "file_size": 118540,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Christmas"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Gift Box"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Wrapped"
+        }
+      ]
+    }
+  },
+  {
+    "id": "christmas-018",
+    "name": "Present03",
+    "project_id": "pm-christmas",
+    "description": "3D model from christmas collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/christmas/Present03.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.955Z",
+    "updated_at": "2026-02-09T18:22:06.955Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/christmas/Present03_thumbnail.png",
+    "metadata": {
+      "number": "018",
+      "github_path": "projects/christmas/Present03.glb",
+      "file_size": 118536,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Christmas"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Gift Box"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Wrapped"
+        }
+      ]
+    }
+  },
+  {
+    "id": "christmas-019",
+    "name": "PresentSackXmas01",
+    "project_id": "pm-christmas",
+    "description": "3D model from christmas collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/christmas/PresentSackXmas01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.955Z",
+    "updated_at": "2026-02-09T18:22:06.955Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/christmas/PresentSackXmas01_thumbnail.png",
+    "metadata": {
+      "number": "019",
+      "github_path": "projects/christmas/PresentSackXmas01.glb",
+      "file_size": 121932,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Christmas"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Gift Sack"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Storage"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Traditional"
+        }
+      ]
+    }
+  },
+  {
+    "id": "christmas-020",
+    "name": "PresentSackXmas02",
+    "project_id": "pm-christmas",
+    "description": "3D model from christmas collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/christmas/PresentSackXmas02.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.955Z",
+    "updated_at": "2026-02-09T18:22:06.955Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/christmas/PresentSackXmas02_thumbnail.png",
+    "metadata": {
+      "number": "020",
+      "github_path": "projects/christmas/PresentSackXmas02.glb",
+      "file_size": 121868,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Christmas"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Gift Sack"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Storage"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Traditional"
+        }
+      ]
+    }
+  },
+  {
+    "id": "christmas-021",
+    "name": "Shelving",
+    "project_id": "pm-christmas",
+    "description": "3D model from christmas collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/christmas/Shelving.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.955Z",
+    "updated_at": "2026-02-09T18:22:06.955Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/christmas/Shelving_thumbnail.png",
+    "metadata": {
+      "number": "021",
+      "github_path": "projects/christmas/Shelving.glb",
+      "file_size": 440720,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Christmas"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Furniture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Shelf"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Storage"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Indoor"
+        }
+      ]
+    }
+  },
+  {
+    "id": "christmas-022",
+    "name": "SnowBall",
+    "project_id": "pm-christmas",
+    "description": "3D model from christmas collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/christmas/SnowBall.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.955Z",
+    "updated_at": "2026-02-09T18:22:06.955Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/christmas/SnowBall_thumbnail.png",
+    "metadata": {
+      "number": "022",
+      "github_path": "projects/christmas/SnowBall.glb",
+      "file_size": 122576,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Christmas"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Interactive"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Snowball"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Outdoor"
+        },
+        {
+          "trait_type": "Color",
+          "value": "White"
+        }
+      ]
+    }
+  },
+  {
+    "id": "christmas-023",
+    "name": "SockXmas",
+    "project_id": "pm-christmas",
+    "description": "3D model from christmas collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/christmas/SockXmas.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.955Z",
+    "updated_at": "2026-02-09T18:22:06.955Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/christmas/SockXmas_thumbnail.png",
+    "metadata": {
+      "number": "023",
+      "github_path": "projects/christmas/SockXmas.glb",
+      "file_size": 117760,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Christmas"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Stocking"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Traditional"
+        }
+      ]
+    }
+  },
+  {
+    "id": "christmas-024",
+    "name": "Star",
+    "project_id": "pm-christmas",
+    "description": "3D model from christmas collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/christmas/Star.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.955Z",
+    "updated_at": "2026-02-09T18:22:06.955Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/christmas/Star_thumbnail.png",
+    "metadata": {
+      "number": "024",
+      "github_path": "projects/christmas/Star.glb",
+      "file_size": 116848,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Christmas"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Star"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Tree Topper"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Festive"
+        }
+      ]
+    }
+  },
+  {
+    "id": "christmas-025",
+    "name": "StoreCartel",
+    "project_id": "pm-christmas",
+    "description": "3D model from christmas collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/christmas/StoreCartel.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.955Z",
+    "updated_at": "2026-02-09T18:22:06.955Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/christmas/StoreCartel_thumbnail.png",
+    "metadata": {
+      "number": "025",
+      "github_path": "projects/christmas/StoreCartel.glb",
+      "file_size": 441448,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Christmas"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Signage"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Sign"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Display"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Commercial"
+        }
+      ]
+    }
+  },
+  {
+    "id": "christmas-026",
+    "name": "Tank",
+    "project_id": "pm-christmas",
+    "description": "3D model from christmas collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/christmas/Tank.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.955Z",
+    "updated_at": "2026-02-09T18:22:06.955Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/christmas/Tank_thumbnail.png",
+    "metadata": {
+      "number": "026",
+      "github_path": "projects/christmas/Tank.glb",
+      "file_size": 640672,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Christmas"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Furniture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Container"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Storage"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Metal"
+        }
+      ]
+    }
+  },
+  {
+    "id": "christmas-027",
+    "name": "WoodArc",
+    "project_id": "pm-christmas",
+    "description": "3D model from christmas collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/christmas/WoodArc.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.955Z",
+    "updated_at": "2026-02-09T18:22:06.955Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/christmas/WoodArc_thumbnail.png",
+    "metadata": {
+      "number": "027",
+      "github_path": "projects/christmas/WoodArc.glb",
+      "file_size": 443248,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Christmas"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Arch"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Structure"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Wood"
+        }
+      ]
+    }
+  },
+  {
+    "id": "christmas-028",
+    "name": "WoodBeam01",
+    "project_id": "pm-christmas",
+    "description": "3D model from christmas collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/christmas/WoodBeam01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.955Z",
+    "updated_at": "2026-02-09T18:22:06.955Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/christmas/WoodBeam01_thumbnail.png",
+    "metadata": {
+      "number": "028",
+      "github_path": "projects/christmas/WoodBeam01.glb",
+      "file_size": 440704,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Christmas"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Beam"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Support"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Wood"
+        }
+      ]
+    }
+  },
+  {
+    "id": "christmas-029",
+    "name": "WoodBeam02",
+    "project_id": "pm-christmas",
+    "description": "3D model from christmas collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/christmas/WoodBeam02.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.955Z",
+    "updated_at": "2026-02-09T18:22:06.955Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/christmas/WoodBeam02_thumbnail.png",
+    "metadata": {
+      "number": "029",
+      "github_path": "projects/christmas/WoodBeam02.glb",
+      "file_size": 440720,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Christmas"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Beam"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Support"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Wood"
+        }
+      ]
+    }
+  },
+  {
+    "id": "christmas-030",
+    "name": "WoodBeam03",
+    "project_id": "pm-christmas",
+    "description": "3D model from christmas collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/christmas/WoodBeam03.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.955Z",
+    "updated_at": "2026-02-09T18:22:06.955Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/christmas/WoodBeam03_thumbnail.png",
+    "metadata": {
+      "number": "030",
+      "github_path": "projects/christmas/WoodBeam03.glb",
+      "file_size": 443144,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Christmas"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Beam"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Support"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Wood"
+        }
+      ]
+    }
+  },
+  {
+    "id": "christmas-031",
+    "name": "WoodChunks",
+    "project_id": "pm-christmas",
+    "description": "3D model from christmas collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/christmas/WoodChunks.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.955Z",
+    "updated_at": "2026-02-09T18:22:06.955Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/christmas/WoodChunks_thumbnail.png",
+    "metadata": {
+      "number": "031",
+      "github_path": "projects/christmas/WoodChunks.glb",
+      "file_size": 399204,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Christmas"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Firewood"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Fuel"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Wood"
+        }
+      ]
+    }
+  },
+  {
+    "id": "christmas-032",
+    "name": "WoodColumn",
+    "project_id": "pm-christmas",
+    "description": "3D model from christmas collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/christmas/WoodColumn.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.955Z",
+    "updated_at": "2026-02-09T18:22:06.955Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/christmas/WoodColumn_thumbnail.png",
+    "metadata": {
+      "number": "032",
+      "github_path": "projects/christmas/WoodColumn.glb",
+      "file_size": 395288,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Christmas"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Column"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Support"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Wood"
+        }
+      ]
+    }
+  },
+  {
+    "id": "christmas-033",
+    "name": "WoodDetails",
+    "project_id": "pm-christmas",
+    "description": "3D model from christmas collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/christmas/WoodDetails.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.955Z",
+    "updated_at": "2026-02-09T18:22:06.955Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/christmas/WoodDetails_thumbnail.png",
+    "metadata": {
+      "number": "033",
+      "github_path": "projects/christmas/WoodDetails.glb",
+      "file_size": 440724,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Christmas"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Trim"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Wood"
+        }
+      ]
+    }
+  },
+  {
+    "id": "christmas-034",
+    "name": "WoodPanel01",
+    "project_id": "pm-christmas",
+    "description": "3D model from christmas collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/christmas/WoodPanel01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.955Z",
+    "updated_at": "2026-02-09T18:22:06.955Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/christmas/WoodPanel01_thumbnail.png",
+    "metadata": {
+      "number": "034",
+      "github_path": "projects/christmas/WoodPanel01.glb",
+      "file_size": 976676,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Christmas"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Panel"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Wall Covering"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Wood"
+        }
+      ]
+    }
+  },
+  {
+    "id": "christmas-035",
+    "name": "Wreath01",
+    "project_id": "pm-christmas",
+    "description": "3D model from christmas collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/christmas/Wreath01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.955Z",
+    "updated_at": "2026-02-09T18:22:06.955Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/christmas/Wreath01_thumbnail.png",
+    "metadata": {
+      "number": "035",
+      "github_path": "projects/christmas/Wreath01.glb",
+      "file_size": 396176,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Christmas"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Wreath"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Traditional"
+        }
+      ]
+    }
+  },
+  {
+    "id": "christmas-036",
+    "name": "Wreath02",
+    "project_id": "pm-christmas",
+    "description": "3D model from christmas collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/christmas/Wreath02.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.955Z",
+    "updated_at": "2026-02-09T18:22:06.955Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/christmas/Wreath02_thumbnail.png",
+    "metadata": {
+      "number": "036",
+      "github_path": "projects/christmas/Wreath02.glb",
+      "file_size": 395056,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Christmas"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Wreath"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Traditional"
+        }
+      ]
+    }
+  },
+  {
+    "id": "christmas-037",
+    "name": "Wreath03",
+    "project_id": "pm-christmas",
+    "description": "3D model from christmas collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/christmas/Wreath03.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.955Z",
+    "updated_at": "2026-02-09T18:22:06.955Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/christmas/Wreath03_thumbnail.png",
+    "metadata": {
+      "number": "037",
+      "github_path": "projects/christmas/Wreath03.glb",
+      "file_size": 395848,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Christmas"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Wreath"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Traditional"
+        }
+      ]
+    }
+  },
+  {
+    "id": "christmas-038",
+    "name": "Wreath04",
+    "project_id": "pm-christmas",
+    "description": "3D model from christmas collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/christmas/Wreath04.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.955Z",
+    "updated_at": "2026-02-09T18:22:06.955Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/christmas/Wreath04_thumbnail.png",
+    "metadata": {
+      "number": "038",
+      "github_path": "projects/christmas/Wreath04.glb",
+      "file_size": 394188,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Christmas"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Wreath"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Traditional"
+        }
+      ]
+    }
+  },
+  {
+    "id": "christmas-039",
+    "name": "Wreaths05",
+    "project_id": "pm-christmas",
+    "description": "3D model from christmas collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/christmas/Wreaths05.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.955Z",
+    "updated_at": "2026-02-09T18:22:06.955Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/christmas/Wreaths05_thumbnail.png",
+    "metadata": {
+      "number": "039",
+      "github_path": "projects/christmas/Wreaths05.glb",
+      "file_size": 513664,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Christmas"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Wreath"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Style",
+          "value": "Traditional"
+        }
+      ]
+    }
+  },
+  {
+    "id": "christmas-040",
+    "name": "XmasTree",
+    "project_id": "pm-christmas",
+    "description": "3D model from christmas collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/christmas/XmasTree.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:06.955Z",
+    "updated_at": "2026-02-09T18:22:06.955Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/christmas/XmasTree_thumbnail.png",
+    "metadata": {
+      "number": "040",
+      "github_path": "projects/christmas/XmasTree.glb",
+      "file_size": 617868,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Christmas"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Christmas Tree"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Centerpiece"
+        },
+        {
+          "trait_type": "Size",
+          "value": "Large"
+        }
+      ]
+    }
+  }
+]

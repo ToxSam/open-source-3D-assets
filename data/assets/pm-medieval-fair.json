@@ -1,0 +1,1402 @@
+[
+  {
+    "id": "medieval-fair-001",
+    "name": "Balloon_Interactible_Red",
+    "project_id": "pm-medieval-fair",
+    "description": "3D model from medieval-fair collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/medieval-fair/Balloon_Interactible_Red.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:09.135Z",
+    "updated_at": "2026-02-09T18:22:09.135Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/medieval-fair/Balloon_Interactible_Red_thumbnail.png",
+    "metadata": {
+      "number": "001",
+      "github_path": "projects/medieval-fair/Balloon_Interactible_Red.glb",
+      "file_size": 436968,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Medieval"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Interactive"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Balloon"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Fair"
+        },
+        {
+          "trait_type": "Color",
+          "value": "Red"
+        }
+      ]
+    }
+  },
+  {
+    "id": "medieval-fair-002",
+    "name": "Balloon_Interactible_Yellow",
+    "project_id": "pm-medieval-fair",
+    "description": "3D model from medieval-fair collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/medieval-fair/Balloon_Interactible_Yellow.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:09.135Z",
+    "updated_at": "2026-02-09T18:22:09.135Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/medieval-fair/Balloon_Interactible_Yellow_thumbnail.png",
+    "metadata": {
+      "number": "002",
+      "github_path": "projects/medieval-fair/Balloon_Interactible_Yellow.glb",
+      "file_size": 436972,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Medieval"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Interactive"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Balloon"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Fair"
+        },
+        {
+          "trait_type": "Color",
+          "value": "Yellow"
+        }
+      ]
+    }
+  },
+  {
+    "id": "medieval-fair-003",
+    "name": "Barrel",
+    "project_id": "pm-medieval-fair",
+    "description": "3D model from medieval-fair collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/medieval-fair/Barrel.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:09.135Z",
+    "updated_at": "2026-02-09T18:22:09.135Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/medieval-fair/Barrel_thumbnail.png",
+    "metadata": {
+      "number": "003",
+      "github_path": "projects/medieval-fair/Barrel.glb",
+      "file_size": 930884,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Medieval"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Container"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Barrel"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Storage"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Fair"
+        }
+      ]
+    }
+  },
+  {
+    "id": "medieval-fair-004",
+    "name": "Barrel_Beer_Mountain",
+    "project_id": "pm-medieval-fair",
+    "description": "3D model from medieval-fair collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/medieval-fair/Barrel_Beer_Mountain.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:09.135Z",
+    "updated_at": "2026-02-09T18:22:09.135Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/medieval-fair/Barrel_Beer_Mountain_thumbnail.png",
+    "metadata": {
+      "number": "004",
+      "github_path": "projects/medieval-fair/Barrel_Beer_Mountain.glb",
+      "file_size": 993440,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Medieval"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Barrel Stack"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Fair"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Beer"
+        }
+      ]
+    }
+  },
+  {
+    "id": "medieval-fair-005",
+    "name": "Beer",
+    "project_id": "pm-medieval-fair",
+    "description": "3D model from medieval-fair collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/medieval-fair/Beer.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:09.135Z",
+    "updated_at": "2026-02-09T18:22:09.135Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/medieval-fair/Beer_thumbnail.png",
+    "metadata": {
+      "number": "005",
+      "github_path": "projects/medieval-fair/Beer.glb",
+      "file_size": 246796,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Medieval"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Food & Drink"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Beverage"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Fair"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Mug"
+        }
+      ]
+    }
+  },
+  {
+    "id": "medieval-fair-006",
+    "name": "BoardCutout",
+    "project_id": "pm-medieval-fair",
+    "description": "3D model from medieval-fair collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/medieval-fair/BoardCutout.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:09.135Z",
+    "updated_at": "2026-02-09T18:22:09.135Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/medieval-fair/BoardCutout_thumbnail.png",
+    "metadata": {
+      "number": "006",
+      "github_path": "projects/medieval-fair/BoardCutout.glb",
+      "file_size": 934020,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Medieval"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Interactive"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Photo Board"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Entertainment"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Fair"
+        }
+      ]
+    }
+  },
+  {
+    "id": "medieval-fair-007",
+    "name": "Booth_Food01",
+    "project_id": "pm-medieval-fair",
+    "description": "3D model from medieval-fair collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/medieval-fair/Booth_Food01.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:09.135Z",
+    "updated_at": "2026-02-09T18:22:09.135Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/medieval-fair/Booth_Food01_thumbnail.png",
+    "metadata": {
+      "number": "007",
+      "github_path": "projects/medieval-fair/Booth_Food01.glb",
+      "file_size": 3979912,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Medieval"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Structure"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Booth"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Food Stall"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Fair"
+        }
+      ]
+    }
+  },
+  {
+    "id": "medieval-fair-008",
+    "name": "Booth_Food02",
+    "project_id": "pm-medieval-fair",
+    "description": "3D model from medieval-fair collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/medieval-fair/Booth_Food02.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:09.135Z",
+    "updated_at": "2026-02-09T18:22:09.135Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/medieval-fair/Booth_Food02_thumbnail.png",
+    "metadata": {
+      "number": "008",
+      "github_path": "projects/medieval-fair/Booth_Food02.glb",
+      "file_size": 3581820,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Medieval"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Structure"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Booth"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Food Stall"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Fair"
+        }
+      ]
+    }
+  },
+  {
+    "id": "medieval-fair-009",
+    "name": "Booth_Pretzelgame",
+    "project_id": "pm-medieval-fair",
+    "description": "3D model from medieval-fair collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/medieval-fair/Booth_Pretzelgame.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:09.135Z",
+    "updated_at": "2026-02-09T18:22:09.135Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/medieval-fair/Booth_Pretzelgame_thumbnail.png",
+    "metadata": {
+      "number": "009",
+      "github_path": "projects/medieval-fair/Booth_Pretzelgame.glb",
+      "file_size": 3313240,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Medieval"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Structure"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Booth"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Game Stall"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Fair"
+        }
+      ]
+    }
+  },
+  {
+    "id": "medieval-fair-010",
+    "name": "Booth_Wearables",
+    "project_id": "pm-medieval-fair",
+    "description": "3D model from medieval-fair collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/medieval-fair/Booth_Wearables.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:09.135Z",
+    "updated_at": "2026-02-09T18:22:09.135Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/medieval-fair/Booth_Wearables_thumbnail.png",
+    "metadata": {
+      "number": "010",
+      "github_path": "projects/medieval-fair/Booth_Wearables.glb",
+      "file_size": 3726556,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Medieval"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Structure"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Booth"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Shop"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Fair"
+        }
+      ]
+    }
+  },
+  {
+    "id": "medieval-fair-011",
+    "name": "Cart",
+    "project_id": "pm-medieval-fair",
+    "description": "3D model from medieval-fair collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/medieval-fair/Cart.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:09.135Z",
+    "updated_at": "2026-02-09T18:22:09.135Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/medieval-fair/Cart_thumbnail.png",
+    "metadata": {
+      "number": "011",
+      "github_path": "projects/medieval-fair/Cart.glb",
+      "file_size": 935564,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Medieval"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Vehicle"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Cart"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Transport"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Fair"
+        }
+      ]
+    }
+  },
+  {
+    "id": "medieval-fair-012",
+    "name": "CenterPlatform",
+    "project_id": "pm-medieval-fair",
+    "description": "3D model from medieval-fair collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/medieval-fair/CenterPlatform.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:09.135Z",
+    "updated_at": "2026-02-09T18:22:09.135Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/medieval-fair/CenterPlatform_thumbnail.png",
+    "metadata": {
+      "number": "012",
+      "github_path": "projects/medieval-fair/CenterPlatform.glb",
+      "file_size": 2603332,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Medieval"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Structure"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Platform"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Stage"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Fair"
+        }
+      ]
+    }
+  },
+  {
+    "id": "medieval-fair-013",
+    "name": "Coin_PolygonalMind",
+    "project_id": "pm-medieval-fair",
+    "description": "3D model from medieval-fair collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/medieval-fair/Coin_PolygonalMind.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:09.135Z",
+    "updated_at": "2026-02-09T18:22:09.135Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/medieval-fair/Coin_PolygonalMind_thumbnail.png",
+    "metadata": {
+      "number": "013",
+      "github_path": "projects/medieval-fair/Coin_PolygonalMind.glb",
+      "file_size": 146200,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Medieval"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Currency"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Coin"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Collectible"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Fair"
+        }
+      ]
+    }
+  },
+  {
+    "id": "medieval-fair-014",
+    "name": "EntranceBoard",
+    "project_id": "pm-medieval-fair",
+    "description": "3D model from medieval-fair collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/medieval-fair/EntranceBoard.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:09.135Z",
+    "updated_at": "2026-02-09T18:22:09.135Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/medieval-fair/EntranceBoard_thumbnail.png",
+    "metadata": {
+      "number": "014",
+      "github_path": "projects/medieval-fair/EntranceBoard.glb",
+      "file_size": 2447112,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Medieval"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Signage"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Sign Board"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Entrance"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Fair"
+        }
+      ]
+    }
+  },
+  {
+    "id": "medieval-fair-015",
+    "name": "FairSecondaryEntrance",
+    "project_id": "pm-medieval-fair",
+    "description": "3D model from medieval-fair collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/medieval-fair/FairSecondaryEntrance.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:09.135Z",
+    "updated_at": "2026-02-09T18:22:09.135Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/medieval-fair/FairSecondaryEntrance_thumbnail.png",
+    "metadata": {
+      "number": "015",
+      "github_path": "projects/medieval-fair/FairSecondaryEntrance.glb",
+      "file_size": 2192676,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Medieval"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Entrance"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Gateway"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Fair"
+        }
+      ]
+    }
+  },
+  {
+    "id": "medieval-fair-016",
+    "name": "Fair_Entry",
+    "project_id": "pm-medieval-fair",
+    "description": "3D model from medieval-fair collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/medieval-fair/Fair_Entry.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:09.135Z",
+    "updated_at": "2026-02-09T18:22:09.135Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/medieval-fair/Fair_Entry_thumbnail.png",
+    "metadata": {
+      "number": "016",
+      "github_path": "projects/medieval-fair/Fair_Entry.glb",
+      "file_size": 2639196,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Medieval"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Entrance"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Main Gate"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Fair"
+        }
+      ]
+    }
+  },
+  {
+    "id": "medieval-fair-017",
+    "name": "Fair_Flags_Line",
+    "project_id": "pm-medieval-fair",
+    "description": "3D model from medieval-fair collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/medieval-fair/Fair_Flags_Line.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:09.135Z",
+    "updated_at": "2026-02-09T18:22:09.135Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/medieval-fair/Fair_Flags_Line_thumbnail.png",
+    "metadata": {
+      "number": "017",
+      "github_path": "projects/medieval-fair/Fair_Flags_Line.glb",
+      "file_size": 2033676,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Medieval"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Decoration"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Flags"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Festive"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Fair"
+        }
+      ]
+    }
+  },
+  {
+    "id": "medieval-fair-018",
+    "name": "Floor",
+    "project_id": "pm-medieval-fair",
+    "description": "3D model from medieval-fair collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/medieval-fair/Floor.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:09.135Z",
+    "updated_at": "2026-02-09T18:22:09.135Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/medieval-fair/Floor_thumbnail.png",
+    "metadata": {
+      "number": "018",
+      "github_path": "projects/medieval-fair/Floor.glb",
+      "file_size": 624760,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Medieval"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Environment"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Floor"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Ground"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Fair"
+        }
+      ]
+    }
+  },
+  {
+    "id": "medieval-fair-019",
+    "name": "Lamp",
+    "project_id": "pm-medieval-fair",
+    "description": "3D model from medieval-fair collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/medieval-fair/Lamp.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:09.135Z",
+    "updated_at": "2026-02-09T18:22:09.135Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/medieval-fair/Lamp_thumbnail.png",
+    "metadata": {
+      "number": "019",
+      "github_path": "projects/medieval-fair/Lamp.glb",
+      "file_size": 612264,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Medieval"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Lighting"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Lamp"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Illumination"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Fair"
+        }
+      ]
+    }
+  },
+  {
+    "id": "medieval-fair-020",
+    "name": "OutdoorBathroom",
+    "project_id": "pm-medieval-fair",
+    "description": "3D model from medieval-fair collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/medieval-fair/OutdoorBathroom.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:09.135Z",
+    "updated_at": "2026-02-09T18:22:09.135Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/medieval-fair/OutdoorBathroom_thumbnail.png",
+    "metadata": {
+      "number": "020",
+      "github_path": "projects/medieval-fair/OutdoorBathroom.glb",
+      "file_size": 1812252,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Medieval"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Structure"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Bathroom"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Facility"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Fair"
+        }
+      ]
+    }
+  },
+  {
+    "id": "medieval-fair-021",
+    "name": "Pants",
+    "project_id": "pm-medieval-fair",
+    "description": "3D model from medieval-fair collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/medieval-fair/Pants.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:09.135Z",
+    "updated_at": "2026-02-09T18:22:09.135Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/medieval-fair/Pants_thumbnail.png",
+    "metadata": {
+      "number": "021",
+      "github_path": "projects/medieval-fair/Pants.glb",
+      "file_size": 347040,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Medieval"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Wearable"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Clothing"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Fair"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Pants"
+        }
+      ]
+    }
+  },
+  {
+    "id": "medieval-fair-022",
+    "name": "Path",
+    "project_id": "pm-medieval-fair",
+    "description": "3D model from medieval-fair collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/medieval-fair/Path.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:09.135Z",
+    "updated_at": "2026-02-09T18:22:09.135Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/medieval-fair/Path_thumbnail.png",
+    "metadata": {
+      "number": "022",
+      "github_path": "projects/medieval-fair/Path.glb",
+      "file_size": 365080,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Medieval"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Environment"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Path"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Walkway"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Fair"
+        }
+      ]
+    }
+  },
+  {
+    "id": "medieval-fair-023",
+    "name": "Pretzel",
+    "project_id": "pm-medieval-fair",
+    "description": "3D model from medieval-fair collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/medieval-fair/Pretzel.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:09.135Z",
+    "updated_at": "2026-02-09T18:22:09.135Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/medieval-fair/Pretzel_thumbnail.png",
+    "metadata": {
+      "number": "023",
+      "github_path": "projects/medieval-fair/Pretzel.glb",
+      "file_size": 270352,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Medieval"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Food & Drink"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Food"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Fair"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Snack"
+        }
+      ]
+    }
+  },
+  {
+    "id": "medieval-fair-024",
+    "name": "Roof",
+    "project_id": "pm-medieval-fair",
+    "description": "3D model from medieval-fair collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/medieval-fair/Roof.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:09.135Z",
+    "updated_at": "2026-02-09T18:22:09.135Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/medieval-fair/Roof_thumbnail.png",
+    "metadata": {
+      "number": "024",
+      "github_path": "projects/medieval-fair/Roof.glb",
+      "file_size": 1837776,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Medieval"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Architecture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Roof"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Fair"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Canopy"
+        }
+      ]
+    }
+  },
+  {
+    "id": "medieval-fair-025",
+    "name": "Sausage",
+    "project_id": "pm-medieval-fair",
+    "description": "3D model from medieval-fair collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/medieval-fair/Sausage.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:09.135Z",
+    "updated_at": "2026-02-09T18:22:09.135Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/medieval-fair/Sausage_thumbnail.png",
+    "metadata": {
+      "number": "025",
+      "github_path": "projects/medieval-fair/Sausage.glb",
+      "file_size": 249692,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Medieval"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Food & Drink"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Food"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Fair"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Meat"
+        }
+      ]
+    }
+  },
+  {
+    "id": "medieval-fair-026",
+    "name": "SignPost",
+    "project_id": "pm-medieval-fair",
+    "description": "3D model from medieval-fair collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/medieval-fair/SignPost.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:09.135Z",
+    "updated_at": "2026-02-09T18:22:09.135Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/medieval-fair/SignPost_thumbnail.png",
+    "metadata": {
+      "number": "026",
+      "github_path": "projects/medieval-fair/SignPost.glb",
+      "file_size": 1739728,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Medieval"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Signage"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Sign Post"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Directional"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Fair"
+        }
+      ]
+    }
+  },
+  {
+    "id": "medieval-fair-027",
+    "name": "Signbook",
+    "project_id": "pm-medieval-fair",
+    "description": "3D model from medieval-fair collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/medieval-fair/Signbook.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:09.135Z",
+    "updated_at": "2026-02-09T18:22:09.135Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/medieval-fair/Signbook_thumbnail.png",
+    "metadata": {
+      "number": "027",
+      "github_path": "projects/medieval-fair/Signbook.glb",
+      "file_size": 1932832,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Medieval"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Interactive"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Guestbook"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Sign"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Fair"
+        }
+      ]
+    }
+  },
+  {
+    "id": "medieval-fair-028",
+    "name": "SmallBarrel_Art",
+    "project_id": "pm-medieval-fair",
+    "description": "3D model from medieval-fair collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/medieval-fair/SmallBarrel_Art.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:09.135Z",
+    "updated_at": "2026-02-09T18:22:09.135Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/medieval-fair/SmallBarrel_Art_thumbnail.png",
+    "metadata": {
+      "number": "028",
+      "github_path": "projects/medieval-fair/SmallBarrel_Art.glb",
+      "file_size": 949964,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Medieval"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Container"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Barrel"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Fair"
+        },
+        {
+          "trait_type": "Size",
+          "value": "Small"
+        }
+      ]
+    }
+  },
+  {
+    "id": "medieval-fair-029",
+    "name": "Speaker",
+    "project_id": "pm-medieval-fair",
+    "description": "3D model from medieval-fair collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/medieval-fair/Speaker.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:09.135Z",
+    "updated_at": "2026-02-09T18:22:09.135Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/medieval-fair/Speaker_thumbnail.png",
+    "metadata": {
+      "number": "029",
+      "github_path": "projects/medieval-fair/Speaker.glb",
+      "file_size": 247412,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Medieval"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Audio"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Speaker"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Sound"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Fair"
+        }
+      ]
+    }
+  },
+  {
+    "id": "medieval-fair-030",
+    "name": "SpeakerPost",
+    "project_id": "pm-medieval-fair",
+    "description": "3D model from medieval-fair collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/medieval-fair/SpeakerPost.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:09.135Z",
+    "updated_at": "2026-02-09T18:22:09.135Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/medieval-fair/SpeakerPost_thumbnail.png",
+    "metadata": {
+      "number": "030",
+      "github_path": "projects/medieval-fair/SpeakerPost.glb",
+      "file_size": 1602740,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Medieval"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Structure"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Post"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Audio Support"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Fair"
+        }
+      ]
+    }
+  },
+  {
+    "id": "medieval-fair-031",
+    "name": "StageBackground",
+    "project_id": "pm-medieval-fair",
+    "description": "3D model from medieval-fair collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/medieval-fair/StageBackground.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:09.135Z",
+    "updated_at": "2026-02-09T18:22:09.135Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/medieval-fair/StageBackground_thumbnail.png",
+    "metadata": {
+      "number": "031",
+      "github_path": "projects/medieval-fair/StageBackground.glb",
+      "file_size": 3239952,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Medieval"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Structure"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Stage"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Fair"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Backdrop"
+        }
+      ]
+    }
+  },
+  {
+    "id": "medieval-fair-032",
+    "name": "Tabern",
+    "project_id": "pm-medieval-fair",
+    "description": "3D model from medieval-fair collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/medieval-fair/Tabern.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:09.135Z",
+    "updated_at": "2026-02-09T18:22:09.135Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/medieval-fair/Tabern_thumbnail.png",
+    "metadata": {
+      "number": "032",
+      "github_path": "projects/medieval-fair/Tabern.glb",
+      "file_size": 3872852,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Medieval"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Structure"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Building"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Tavern"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Fair"
+        }
+      ]
+    }
+  },
+  {
+    "id": "medieval-fair-033",
+    "name": "Table_Dessert",
+    "project_id": "pm-medieval-fair",
+    "description": "3D model from medieval-fair collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/medieval-fair/Table_Dessert.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:09.135Z",
+    "updated_at": "2026-02-09T18:22:09.135Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/medieval-fair/Table_Dessert_thumbnail.png",
+    "metadata": {
+      "number": "033",
+      "github_path": "projects/medieval-fair/Table_Dessert.glb",
+      "file_size": 1270372,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Medieval"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Furniture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Table"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Dining"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Fair"
+        }
+      ]
+    }
+  },
+  {
+    "id": "medieval-fair-034",
+    "name": "Table_Dinner",
+    "project_id": "pm-medieval-fair",
+    "description": "3D model from medieval-fair collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/medieval-fair/Table_Dinner.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:09.135Z",
+    "updated_at": "2026-02-09T18:22:09.135Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/medieval-fair/Table_Dinner_thumbnail.png",
+    "metadata": {
+      "number": "034",
+      "github_path": "projects/medieval-fair/Table_Dinner.glb",
+      "file_size": 947820,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Medieval"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Furniture"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Table"
+        },
+        {
+          "trait_type": "Function",
+          "value": "Dining"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Fair"
+        }
+      ]
+    }
+  },
+  {
+    "id": "medieval-fair-035",
+    "name": "WoodPlatform",
+    "project_id": "pm-medieval-fair",
+    "description": "3D model from medieval-fair collection",
+    "model_file_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/medieval-fair/WoodPlatform.glb",
+    "format": "GLB",
+    "is_public": true,
+    "is_draft": false,
+    "created_at": "2026-02-09T18:22:09.135Z",
+    "updated_at": "2026-02-09T18:22:09.135Z",
+    "thumbnail_url": "https://raw.githubusercontent.com/ToxSam/cc0-models-Polygonal-Mind/main/projects/medieval-fair/WoodPlatform_thumbnail.png",
+    "metadata": {
+      "number": "035",
+      "github_path": "projects/medieval-fair/WoodPlatform.glb",
+      "file_size": 1728920,
+      "attributes": [
+        {
+          "trait_type": "Theme",
+          "value": "Medieval"
+        },
+        {
+          "trait_type": "Category",
+          "value": "Structure"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Platform"
+        },
+        {
+          "trait_type": "Setting",
+          "value": "Fair"
+        },
+        {
+          "trait_type": "Material",
+          "value": "Wood"
+        }
+      ]
+    }
+  }
+]
