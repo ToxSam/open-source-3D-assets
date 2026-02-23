@@ -127,7 +127,7 @@ We'll review and add it to the registry!
 
 ## License
 
-- **This registry (JSON metadata)**: CC0 (public domain)
+- **This registry (JSON metadata)**: [CC0 1.0 Universal](LICENSE) (public domain)
 - **Individual assets**: Check each collection's license in `projects.json`
 
 ## Support
